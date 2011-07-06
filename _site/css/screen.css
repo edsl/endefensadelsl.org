@@ -1,0 +1,99 @@
+
+/* Reset */
+@import url('reset.css');
+/* Fuente Droid */
+@import url('droid.css');
+/* Oxymoron CSS framework*/
+@import url('oxymoron.css');
+
+body {
+    font-family: 'DroidSerifRegular';
+    width: 680px;
+}
+
+h1 {
+    font-size: 500%;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'DroidSerifBold';
+}
+
+h4 {
+    font-size: 150%;
+    margin: 40px auto 20px auto;
+}
+
+p {
+    line-height: 150%;
+    margin: 20px auto auto auto;
+}
+
+h1,
+p.about,
+p.credits,
+blockquote,
+ul,
+ol {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+dd {
+    margin-left: 15px;
+}
+
+dd,
+dt {
+    padding: 5px;
+}
+
+small {
+    font-size: 80%;
+    font-family: 'DroidSerifRegular';
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt,
+dd.date {
+    display: inline;
+}
+
+em,
+dd.date,
+span.title,
+span.cite
+{
+    font-style: italic;
+    font-family: 'DroidSerifItalic';
+}
+
+dl.edition {
+    min-height: 300px;
+}
+
+dd.cover {
+    float: left;
+}
+
+blockquote:after {
+    display: block;
+    content: url('/images/finger.png');
+    height: 49px;
+    margin-top: -29px;
+
+}
+
+blockquote p {
+    padding-left: 100px;
+}
+
+p.credits {
+    font-size: 60%;
+}
+
