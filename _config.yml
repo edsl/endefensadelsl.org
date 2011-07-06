@@ -1,0 +1,5 @@
+source: /home/fauno/endefensadelsl/web
+destination: /srv/http/endefensadelsl.org
+
+lsi: true
+

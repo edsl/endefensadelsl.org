@@ -1,0 +1,23 @@
+/* http://oppugn.us/posts/1287608776.html */
+body {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.oxymoron {
+    display:table;
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:10px;
+}
+
+.notarow {
+    display:table-row;
+}
+
+.notarow > * {
+    display:table-cell;
+    vertical-align: middle;
+}
+
