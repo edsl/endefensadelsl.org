@@ -1,11 +1,18 @@
 Project Harmony Considered Harmful - Bradley M. Kuhn ( Brad ) ( bkuhn )
+El proyecto Armonía es dañino - Bradley M. Kuhn
 
 Thursday 7 July 2011 by Bradley M. Kuhn
+Jueves 7 de Julio de 2011 por Bradley M. Kuhn
 
 Much advertising is designed to convince us to buy or use of something that
 we don't need. When I hear someone droning on about some new, wonderful
 thing, I have to worry that these folks are actually trying to market
 something to me.
+
+Mucha propaganda se diseña para convencernos de comprar o usar algo que no
+necesitamos. Cuando escucho a alguien zumbando sobre una cosa nueva
+y maravillosa, me preocupo pensando que esos tipos están tratando de venderme
+algo.
 
 Very soon, you're likely to see a marketing blitz for this thing called
 Project Harmony (which just released its 1.0 version of document templates).
@@ -14,11 +21,24 @@ named to market a “good feeling” about the project before even knowing what
 it is. (It's also got [9]serious [10]namespace [11]collision, [12]including
 with a project already in the software freedom community.
 
+Muy pronto, van a ver algo similar con una cosa llamada Proyecto Armonía
+[Project Harmony] (que ha lanzado su versión 1.0 en plantillas de documentos).
+Incluso el nombre es marketing: no es realmente descriptivo, sino que trata de
+venderte una "buena onda" sobre el proyecto aun sin saber de qué se trata.
+(Además es una seria colisión de nombres, incluyendo otro proyecto de software
+libre.)
+
 Project Harmony markets itself as fixing something that our community
 doesn't really consider broken. Project Harmony is a set of document
 templates, primarily promulgated and mostly drafted by corporate lawyers,
 that entice developers to give control of their software work over to
 companies.
+
+El Proyecto Armonía se vende como reparación de algo que nuestra comunidad no
+considera roto. El Proyecto Armonía es un juego de plantillas de documentos,
+principalmente promulgadas y diseñadas por abogados corporativos, que intentan
+seducir a los desarrolladores a entregar el control de su trabajo a las
+compañías.
 
 My analysis below is primarily about how these agreements are problematic
 for individual developers. An analysis of the agreements in light of
