@@ -46,6 +46,11 @@ companies or organizations using them between each other may have the same
 or different conclusions; I just haven't done that analysis in detail so I
 don't know what the outcome is.
 
+El siguiente análisis trata principalmente sobre cómo estos acuerdos son
+problemáticos para los desarrolladores individuales. Un análisis de los
+acuerdos a la luz de las compañías u organizaciones que los usen entre sí puede
+o no tener las mismas conclusiones, pero no puedo asegurarlo todavía.
+
 [ /BTW, I'm aware that I've failed to provide a TL;DR version of this
 article. I tried twice to write one and ultimately decided that I can't.
 Simply put, these issues are complex, and I had to draw on a decade of
@@ -57,7 +62,21 @@ in a pithy way. I nevertheless hope developers will take the time to read
 this before they sign a Project Harmony agreement, or — indeed — any CLA or
 ©AA./ ]
 
+[ A propósito, soy conciente que he fallado en proveer una versión corta
+rápidamente legible de este artículo. Intenté hacerlo dos veces y finalmente
+decidí que no puedo. Estos problemas son complejos y tenía que tomar una década
+de licenciamiento de software libre, políticas y conocimiento organizacional
+para articular completamente qué es lo que está mal con los acuerdos del
+Proyecto Armonía. También soy conciente que suena a "fue difícil de escribir,
+debería ser difícil de leer", pero no sé cómo resumir estos problemas
+gordianos. No obstante espero que los desarrolladores se tomen el tiempo de
+leer esto antes de firmar un acuerdo del Proyecto Armonía, o, de hecho,
+cualquier CLA o ©AA. ]
+
 Copyright Assignment That Lacks Real Assurances
+
+Cesión de copyright que carece de garantías reales
+--------------------------------------------------
 
 First of all, about half of Project Harmony is copyright assignment
 agreements ( ©AAs). Assigning copyright completely gives the work over to
@@ -69,17 +88,43 @@ don't have time to do it themselves. (Although developers can also designate
 an enforcement agent to do that on their behalf even if they don't assign
 copyright, so even that necessity is limited.)
 
+Antes que nada, casi la mitad del Proyecto Armonía se trata de acuerdos de
+asignación de copyright (©AA por sus siglas en inglés). La asignación de
+copyright cede completamente el trabajo a alguien más. Una vez que el ©AA está
+firmado, el trabajo deja de pertenecer el asignante. Es como si el trabajo en
+realidad hubiera sido hecho por el asignado. Existe algo de valor en la
+asignación de copyright, particularmente cuando los desarrolladores quieren
+asegurarse que la GPL u otra forma de copyleft es debidamente protegida en su
+trabajo pero no tienen el tiempo de hacerlo ellos mismos. (Aunque los
+desarrolladores también pueden designar un agente de reforzamiento que lo haga
+en su nombre sin tener que asignar el copyright, así que esa necesidad es
+limitada.)
+
 One must immensely trust an assignee organization. Personally, I've only
 ever assigned some of my copyrights to one organization in my life: the
 [13]Free Software Foundation, because FSF is the only organization I ever
 encountered that is institutionally committed to DTRT'ing with copyrights in
 a manner similar to my personal moral beliefs.
 
+Uno debe tener una confianza inmensa en la organización asignada.
+Personalmente, yo sólo he asignado algunos de mis copyrights a una sola
+organización en toda mi vida: la Free Software Foundation, porque la FSF es la
+única organización que he encontrado que está institucionalmente comprometida
+a hacer lo correcto con los copyrights de forma similar a mis creencias morales
+personales.
+
 First of all, [14]as I've written about before, FSF's ©AA make all sorts of
 promises back to the assignor. Second, FSF is institutionally committed to
 [15]the GPL and enforcing GPL in a way that advances FSF's non-profit
 advocacy mission for software freedom. All of this activity fits my moral
 principles, so I've been willing to sign FSF's ©AAs.
+
+En primer lugar, como he escrito antes, los ©AA de la FSF hacen toda suerte de
+promesas al asignante. En segundo, la FSF está institucionalmente comprometida
+con la GPL y en reforzar la GPL de forma de avanzar la militancia sin fines de
+lucro de la FSF por la libertad del software. Toda esta actividad está
+contenida en mis principios morales, por lo que no he tenido problema en firmar
+los ©AA de la FSF.
 
 Yet, I've nevertheless met /many/ developers who refuse to sign FSF's ©AAs.
 While many of such developers like the GPL, they don't necessarily agree
@@ -91,10 +136,25 @@ think[s] they are nasty and wrong personally, and [he]'d hate all the
 paperwork, and [he] thinks it would actually detract from the development
 model".
 
+Aún así, he conocido /muchos/ desarrolladores que se niegan a firmar los ©AA de
+la FSF. Mientras muchos de ellos aprueban la GPL, no necesariamente acuerdan
+con las posiciones morales de la FSF. En efecto, en muchos caso, estos
+desarrolladores se oponen completamente a asignar el copyright a nadie, sea la
+FSF o cualquier otro. Por ejemplo, Linus Torvalds, fundador de Linux, ha
+declarado repetidas veces que "nunca quis[o] hacer asignaciones de copyright,
+por varias razones: personalmente piens[a] que son sucias y erróneas, odiaría
+hacer todo el papeleo y piens[a] que actuaría como detractor del modelo de
+desarrollo".
+
 Obviously, my position is not as radical as Linus'; I do think ©AAs can
 sometimes be appropriate. But, I also believe that developers should never
 assign copyright to a company or to an organization whose moral philosophy
 doesn't fit well with their own.
+
+Obviamente, mi posición no es tan radical como la de Linus; pienso que los ©AA
+pueden ser apropiados en ciertas ocasiones. Pero también creo que los
+desarrolladores nunca deberían asignar su copyright a una compañía
+u organización cuya filosofía moral no cabe en la suya propia.
 
 FSF, for its part, spells out its moral position in its ©AA itself. [17]As
 I've mentioned elsewhere, and as [18]Groklaw recently covered in detail,
@@ -107,6 +167,18 @@ mandatory in any for-profit company's ©AA, but Harmony's drafters have
 refused to incorporate these assurances as a required part of Harmony's
 agreements. (Note that such assurances would still be required for the CLA
 options as well; see below for details why.)
+
+La FSF, por su parte, se expide sobre su posición moral en sus ©AA mismos. Como
+mencioné en otra parte, y como Groklaw recientemente cubrió en detalle, los ©AA
+de la FSF realizan varias promesas con validez legal a los desarrolladores que
+las firman. Mientras, los ©AA del Proyecto Armonía ponen unas pocas opciones
+que parecen vagamente aceptables (aunque tienen problemas propios que discuto
+más abajo), no las hacen obligatorias. Yo mismo he señalado en varias ocasiones
+a los que escribieron los borradores de Armonía que los términos de la FSF ha
+propuesto deberían ser obligatorios en cualquier ©AA de una compañía con fines
+de lucro, pero se han negado a incorporar estas garantías como un requisito de
+sus acuerdos. (Noten que tales garantías también deben incluirse en las
+opciones de los CLA; ver debajo para más detalles.)
 
 Regarding ©AAs, I'd like to note finally that FSF does *not* require ©AAs
 for all [20]GNU packages. This confusion is so common that I'd like to draw
@@ -121,7 +193,24 @@ Project Harmony's agreement will ever be as flexible on copyright assignment
 as FSF, nor will any of the possible Project Harmony options be acceptable
 to GNOME's existing policy.
 
+Por último me gustaría señalar que la FSF *no* requiere ©AAs para todos los
+paquetes de GNU. Esta confusión es tan común que me gustaría llamar la atención
+sobre ella, aunque sea un punto tangencial a este contexto. Los ©AA de la FSF
+son obligatorios, según mi conocimiento, si los paquetes GNU fueron (a)
+desarrollados por empleados de la FSF en sus primeras versiones o (b) los
+desarrolladores originales le /pidieron/ a la FSF que realice una asignación de
+copyright cuando su proyecto se unió a GNU. En todos los demás casos, la
+asignación a la FSF es opcional. Algunos proyectos GNU, como GNOME, tienen sus
+propias posiciones sobre los ©AAs que difieren radicalmente de las de la FSF.
+Dudo seriamente que las compañías que adopten los acuerdos del Proyecto Armonía
+lleguen a ser tan flexibles en cuanto a la asignación de copyright como lo es
+la FSF, o que ninguno de las opciones posibles que el Proyecto Armonía provea
+sean aceptables para la política actual de GNOME.
+
 Giving Away Rights to Give Companies Warm Fuzzies?
+
+¿Regalar tus derechos para que las compañías sientan mariposas en la panza?
+---------------------------------------------------------------------------
 
 Project Harmony, however, claims that the important part isn't its ©AA, but
 its Contributor License Agreement (CLA). To briefly consider the history of
@@ -132,6 +221,16 @@ generally sought the “warm fuzzies” of getting every contributor to formally
 assent to a complex legal document that asserts various assurances about the
 code and gives certain powers to the company.
 
+El Proyecto Armonía, sin embargo, clama que la parte importante no son los
+©AAs, sino los Acuerdos de Licencia del Contribuidor (CLA por sus siglas en
+inglés). Para considerar brevemente la historia de los CLAs de Software Libre,
+hay que notar que el CLA de Apache fue probablemente el primer CLA usado en la
+comunidad del Software Libre. La Apache Software Foundation siempre ha estado
+fuertemente influenciada por IBM y otras compañías, y tales compañías
+generalmente han tenido "mariposas en la panza" al lograr que cada contribuidor
+asienta a firmar un documento legal complejo que afirma varias garantías
+respecto al código y da ciertas poderes a la compañía.
+
 The main point of a CLA (and a somewhat valid one) is to ensure that the
 developers have verified their right to contribute the code under the
 specified copyright license. Both the Apache CLA and Project Harmony's CLA
@@ -141,6 +240,17 @@ CLA's, the developer makes a formal contract with the entity (usually a
 for-profit company) that the developer knows for sure that the contribution
 is licensed under the specified license. The developer then takes on all
 liability if that fact is in any way incorrect or in dispute!
+
+El punto principal de un CLA (y hasta cierto punto válido) es asegurar que los
+desarrolladores han verificado su derecho a contribuir código bajo la licencia
+de copyright del proyecto. Tanto el CLA de Apache como los CLA del Proyecto
+Armonía llegan a extremos de longitud y verborragia para requerir que los
+desarrolladores acuerden que saben que la contribución es suya. De hecho, si un
+desarrollador firma uno de estos CLAs, realiza un contrato formal con la
+entidad (usualmente una compañía con fines de lucro) en el que reconoce que la
+contribución se licencia bajo la licencia del proyecto. ¡Y entonces el
+desarrollador asume toda responsabilidad si ese hecho es incorrecto o se pone
+en disputa!
 
 Of course, shifting away all liability about the origins of the code is a
 great big “warm fuzzy” for the company's lawyers. Those lawyers know that
@@ -153,7 +263,22 @@ CLA. If this possible outcome doesn't /immediately/ worry you as an
 individual developer signing a Project Harmony CLA for your FLOSS
 contribution, it should.
 
+Por supuesto, mover toda la responsabilidad sobre los orígenes del código
+produce muchas "mariposas en la panza" a los abogados de la compañía. Esos
+abogados saben que ahora pueden fácilmente *demandar a un desarrollador
+individual* por rompimiento de contrato si el desarrollador se equivocó en el
+código. Si la compañía distribuye el código de un desarrollador y termina
+recibiendo una demanda por infracción por la que paga millones de dólares,
+pueden fácilmente darse vuelta y demandar al desarrollador. La compañía
+argumentará en la corte que el desarrollador rompió el contrato. Si este
+desenlace posible no te preocupa /inmediatamente/ en tanto desarrollador
+individual cuando firmás un CLA del Proyecto Armonía por tu contribución libre,
+debería.
+
 “Choice of Law” & Contractual Arrangement Muddies Copyright Claims
+
+La "Elección de Ley" y los Arreglos Contractuales embarran los reclamos de copyright
+------------------------------------------------------------------------------------
 
 [23]Apache's CLA doesn't have a choice of law clause, which is preferable in
 my opinion. Most lawyers just /love/ a “choice of law” clause for various
@@ -164,6 +289,15 @@ of the developer. In addition, lawyers often pick particular jurisdictions
 that are very favorable to their client and not as favorable to the other
 signers.
 
+El CLA de Apache no posee una cláusula de elección de ley, lo que es preferible
+en mi opinión. La mayoría de los abogados /aman/ una cláusula de "elección de
+ley" ("choise of law" en inglés) por varias razones. La más grande es que
+significa que las reglas que se aplican sobre el acuerdo son las más familiares
+a los abogados y la jurisdicción para las disputas será la jurisdicción local
+de la compañía, no la del desarrollador. Adicionalmente, los abogados a menudo
+eligen jurisdicciones particulares que son muy favorables a su cliente pero no
+lo son para los otros firmantes.
+
 Unfortunately, /all/ of Project Harmony's drafts include a “choice of law”
 clause1. I expect that the drafters will argue in response that the
 jurisdiction is a configuration variable. However, the problem is that the
@@ -171,6 +305,14 @@ jurisdiction is a configuration variable. However, the problem is that the
 the binding that an individual developer prefers. The term will likely be
 non-negotiable at that point, even though it was configurable in the
 template.
+
+Desafortunadamente, /todos/ los borradores del Proyecto Armonía incluyen una
+cláusula de "elección de ley". Espero que los que escriben los borradores
+argumentarán en respuesta que la jurisdicción es una variable de configuración.
+No obstante, el problema es que la /compañía/ es la que decide el valor de esa
+variable, que casi siempre será la que no prefiera el desarrollador individual.
+Probablemente el término no sea negociable en ese punto, aunque haya podido
+configurarse en la plantilla.
 
 Not only that, but imagine a much more likely scenario about the CLA: the
 company fails to use the outbound license they promised. For example,
@@ -182,6 +324,16 @@ law, which, by itself, would allow the developers to enforce under the laws
 in whatever jurisdiction suits them (assuming the infringement is happening
 in that jurisdiction, of course).
 
+Y no sólo eso, imagina un escenario mucho más probable para ese CLA: la
+compañía falla en usar la licencia que prometieron. Por ejemplo, supongan que
+prometieron a los desarrolladores que sería AGPL para siempre (¡aunque ninguna
+opción tal existe en el Proyecto Armonía, vean más abajo!), pero entonces la
+compañía lanza versiones propietarias. Los desarrolladores que firmaron el CLA
+todavía detentan copyright, por lo que pueden reforzar bajo la ley de copyright
+que, por sí misma, puede lograr que los desarrolladores refuercen la licencia
+bajo la ley en cualquier jurisdicción que les parezca (asumiendo que la
+infracción sucede en esa, por supuesto).
+
 However, by signing a CLA with a “choice of law” clause, the developers
 agreed to whatever jurisdiction is stated in that CLA. The CLA has now
 turned what would otherwise be a mundane copyright enforcement action
@@ -192,17 +344,41 @@ by reference, but the claim of copyright infringement due to violation of
 GPL is now muddied by the CLA contract that the developers signed, wherein
 the developers granted some rights and permission beyond GPL to the company.
 
+Sin embargo, al firmar un CLA con la clásula de "elección de ley", los
+desarrolladores acordaron mantenerse bajo la jurisdicción establecida en el
+CLA. El CLA convierte lo que de otra forma hubiera sido una demanda de
+infracción de copyright mundana operando solamente bajo la reglamentación de
+copyright local al desarrollador en una disputa contractual entre los
+desarrolladores y la compañía bajo las leyes de la jurisdicción elegida.
+Obviamente ese acuerdo incluiría la AGPL y/o GPL por referencia, pero el
+reclamo por infracción de copyright hecho por violación de la GPL está ahora
+embarrado por el contrato CLA que los desarrolladores firmaron, y donde
+cedieron algunos derechos y permisos a la compañía que van más allá de la GPL.
+
 Even worse, if the developer does bring action in a their own jurisdiction,
 their own jurisdiction is forced to interpret the laws of another place.
 This leads to highly variable and confusing results.
 
+Aún peor, si el desarrollador realiza la demanda en su propia jurisdicción, esa
+jurisdicción se ve forzada a interpretar las leyes de otro lugar. Esto lleva
+a resultados altamente variables y confusos.
+
 Problems for Individual Copyright Enforcement Against Third-Parties
+
+Problemas por el reforzamiento de copyright individual contra terceras partes
+-----------------------------------------------------------------------------
 
 Furthermore, even though individual developers still hold the copyrights,
 the Project Harmony CLAs grant many transferable rights and permissions to
 the CLA recipient (again, usually a company). Even /if/ the reasons for
 requiring that were noble, it introduces a bundle of extra permissions that
 can be passed along to other entities.
+
+Además, aún cuando los desarrolladores individuales aún retiene sus copyrights,
+los CLAs del Proyecto Armonía garantizan muchos derechos y permisos
+transferibles al receptor del CLA (otra vez, usualmente a una compañía). Aún
+/si/ las razones para requerirlos fuesen nobles, introducen un manojo de
+permisos extra que pueden ser pasados a otras entidades.
 
 Suddenly, what was once a simple copyright enforcement action for a
 developer discovering a copyleft violation becomes a question: "Did this
@@ -215,13 +391,34 @@ technology involved. Adding something like this will just cause trouble and
 delays, further taxing our already minimally funded community copyleft
 enforcement efforts.
 
+De repente, lo que una vez fuera una simple demanda de reforzamiento de
+copyright hecha por un desarrollador que descubre una violación del copyleft se
+convierte en una pregunta: "¿Recibió de alguna manera esa entidad violatoria
+permisos especiales de esta otra entidad colectora del CLA?" Los violadores van
+a moverse rápidamente a este tipo de defensa. Mientras la defensa pueda no
+tener mérito (por ejemplo, el receptor del CLA ni siquiera conoce al violador),
+introduce confusión. La mayoría de los procedimientos legales que involucran
+software ya son suficientemente confusos para las cortes debido a la compleja
+tecnología involucrada. Agregar algo como esto sólo causará problemas
+y demoras, agregando más peso a nuestros mínimamente financiados esfuerzos de
+reforzar la comunidad copyleft.
+
 Inbound=Outbound Is All You Need
+
+Entrante=Saliente es todo lo que necesitás
+------------------------------------------
 
 Meanwhile, the whole CLA question actually is but one fundamental
 consideration: Do we need this? Project Harmony's answer is clear: its
 proponents claim that there is mass confusion about CLAs and no
 standardization, and therefore Project Harmony must give a standard set of
 agreements that embody all the options that are typically used.
+
+Mientras tanto, la pregunta sobre el CLA es esta única consideración
+fundamental: ¿Necesitamos esto? La respuesta del Proyecto Armonía es clara: sus
+proponentes claman que existe una confusión masiva sobre los CLAs y ninguna
+estandarización, por lo que el Proyecto Armonía debe proveer un set estándar de
+acuerdos que encarnen todas las opciones usadas típicamente.
 
 Yet, Project Harmony has purposely refused to offer the simplest and most
 popular option of all, which my colleague Richard Fontana (a lawyer at Red
@@ -230,6 +427,14 @@ Hat [24]who also opposes Project Harmony) [25]last year [26]dubbed
 majority of FLOSS projects is simply this: each contributor agrees to
 license each contribution using the project's specified copyright license
 (or a license compatible with the project's license).
+
+Aun más, el Proyecto Armonía ha rechazado a propósito ofrecer la opción más
+simple y popular de todas, que mi colega Richard Fontana (un abogado de Red Hat
+que también se opone al Proyecto Armonía) ha llamado el año pasado
+"entrada=salida". Específicamente, el acuerdo por defecto en la abrumadora
+mayoría de los proyectos FLOSS es simplemente esta: cada contribuidor acuerda
+licenciar cada contribución bajo la licencia de copyright específica del
+proyecto (o una licencia compatible).
 
 No matter what way you dice Project Harmony, the other contractual problems
 described above make true inbound=outbound impossible because the CLA
