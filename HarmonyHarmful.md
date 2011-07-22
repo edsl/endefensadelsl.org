@@ -1,5 +1,7 @@
 Project Harmony Considered Harmful - Bradley M. Kuhn ( Brad ) ( bkuhn )
+
 Proyecto Armonía considerado dañino - Bradley M. Kuhn
+=====================================================
 
 Thursday 7 July 2011 by Bradley M. Kuhn
 Jueves 7 de Julio de 2011 por Bradley M. Kuhn
