@@ -77,8 +77,8 @@ cualquier CLA o ©AA. ]
 
 Copyright Assignment That Lacks Real Assurances
 
-Cesión de copyright que carece de garantías reales
---------------------------------------------------
+Una cesión de copyright que carece de garantías reales
+------------------------------------------------------
 
 First of all, about half of Project Harmony is copyright assignment
 agreements ( ©AAs). Assigning copyright completely gives the work over to
