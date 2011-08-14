@@ -376,7 +376,7 @@ the CLA recipient (again, usually a company). Even /if/ the reasons for
 requiring that were noble, it introduces a bundle of extra permissions that
 can be passed along to other entities.
 
-Además, aún cuando los desarrolladores individuales aún retiene sus copyrights,
+Además, aún cuando los desarrolladores individuales retienen sus copyrights,
 los CLAs del Proyecto Armonía garantizan muchos derechos y permisos
 transferibles al receptor del CLA (otra vez, usualmente a una compañía). Aún
 /si/ las razones para requerirlos fuesen nobles, introducen un manojo de
@@ -458,6 +458,28 @@ proprietary relicensing, and then later it was discovered that they had been
 privately doing so for years. As written, therefore, *every configuration of
 Project Harmony's § 2.3 is useless to prevent proprietarization*.
 
+No importa de qué lado mires al Proyecto Armonía, los otros problemas
+contractuales descritos arriba vuelven imposible un verdadero entrante=saliente
+porque el receptor del CLA nunca está legalmente obligado por la licencia del
+proyecto. Mientras tanto, y aún bajo su mejor configuración, el Proyecto
+Armonía no puede aproximarse adecuadamente a entrante=saliente.
+Específicamente, el Proyecto Armonía intenta limitar el licenciamiento de
+salida en su sección 2.3 (llamada "Licencia saliente"). Sin embargo, todas las
+versiones copyleft de esta plantilla incluyen una cláusula que dice: "Nosotros
+[los receptores del CLA] acordamos licenciar la Contribución [...] bajo los
+términos de las [...] licencias que Nosotros estemos utilizando a la Fecha de
+Envío del Material". Pero /no hay forma/ de que el contribuyente verifique con
+seguridad cuáles licencias usa en privado la entidad que recibe el CLA. Si esa
+entidad ya tiene un modelo de negocio de [relicenciamiento propietario][27]
+a la Fecha de Envío, entonces el contribuyente concede su permiso para tal
+relicenciamiento en esa contribución nueva, aún si el resto de la sección 2.3
+le promete copyleft. Esto no es hipotético: han habido muchos casos donde no
+está claro si la compañía estaba o no estaba involucrada en relicenciamiento
+propietario, para más tarde descubrir que lo habían estado haciendo en privado
+durante años. Tal como está escrita, por lo tanto, *cualquier configuración de
+la sección 2.3 del Proyecto Armonía es inútil para prevenir la apropiación
+propietaria*.
+
 Even if that bug were fixed, the closest Project Harmony gets to
 inbound=outbound is restricting the CLA version to “FSF's list of
 ‘recommended copyleft licenses’”. However, this category makes no
@@ -473,6 +495,22 @@ accommodate my licensing preferences to even approximate an AGPL version of
 inbound=outbound (even if I ignored the numerous problems already
 discussed).
 
+Aunque ese bug sea arreglado, lo más cercano que el Proyecto Armonía va a estar
+de entrante=saliente es restringiendo sus CLA a "la lista de la FSF de
+licencias copyleft recomendadas". Sin embargo, esta categoría no hace ninguna
+distinción entre la [AGPL][28] y la GPL, y en última instancia le permite a la
+FSF el poder de relicenciar (ya que la FSF [puede cambiar][29] su lista de
+copyleft recomendadas a voluntad). Si los contribuyentes son serios sobre la
+AGPL, entonces el Proyecto Armonía **no** puede asegurar que sus cambios
+permanezcan bajo esta licencia. Aún más, los contribuyentes _deben_ confiar en
+la FSF a perpetuidad, aún _más de lo que actualmente necesitan_ en las opciones
+"... o subsiguientes" de las licencias de la FSF en existencia. Estoy de
+acuerdo en confiar en la FSF en la mayoría de los casos. Sin embargo, ya que
+prefiero sólo AGPLv3 o subsiguientes para mi código, el Proyecto Armonía es
+completamente incapaz de acomodarse a mis preferencias y aproximarse a un
+entrante=saliente que sea AGPL (aún si ignoro los numerosos problemas ya
+discutidos).
+
 Meanwhile, the normal, mundane, and already widely used inbound=outbound
 practice is simple, effective, and doesn't mix in complicated contract
 disputes and control structures with the project's governance. In essence,
@@ -481,7 +519,18 @@ Constitution of the project, and doesn't mix in any other complications.
 Project Harmony seeks to give warm fuzzies to lawyers at the expense of
 offloading liability, annoyance, and extra hoop-jumping onto developers.
 
+Mientras que la normal, mundana y extendida práctica entrante=saliente es
+simple, efectiva y no mezcla sus complicadas disputas contractuales
+y estructures de control con la gobernanza del proyecto. En esencia, para la
+mayoría de los proyectos FLOSS, la licencia de copyright del proyecto sirve
+como su Constitución y no le mezcla ninguna otra complicación.  El Proyecto
+Armonía busca darle maripositas a los abogados a expensas de tirarles el fardo
+legal y molesto a los desarrolladores.
+
 Linux Hackers Ingeniously Trailblazed inbound=outbound
+
+Los Hackers de Linux han fijado ingeniosamente entrante=saliente
+----------------------------------------------------------------
 
 Almost exactly 10 years ago today, I recall distinctly attending the
 [30]USENIX 2001 Linux BoF session. At that session, [31]Ted Ts'o and I had a
@@ -492,6 +541,15 @@ explained, in his usual clear and bright manner, that such heavy-handed
 methods shouldn't be needed to give legal certainty to the GPL and that the
 Linux community wanted to find an alternative.
 
+Hace casi 10 años atrás, recuerdo haber asistido a un sesión del [USENIX 2001
+Linux BoF][30]. En esa sesión, [Ted T'so][31] y yo tuvimos un vivo debate; yo
+afirmé que el ©AA de la FSF aseguraba certeza legal sobre el código GNU, pero
+que Linux no poseía tal seguro. (Por cierto, incluso _yo_ estaba confundido en
+esos días y pensaba que todos los paquetes de GNU requerían un ©AA de la FSF.)
+Ted explicó, en la manera clara y brillante habitual, que tales métodos duros
+no eran necesarios para darle certeza legal a la GPL y que la comunidad de
+Linux quería encontrar una alternativa.
+
 I walked away skeptically shaking my head. I remember thinking: "Ted just
 doesn't get it". But I was wrong; he /did/ get it. In fact, many of the core
 Linux developers did. Three years to the month after that public
@@ -499,6 +557,14 @@ conversation with Ted, [32]the Developer's Certificate of Origin (DCO)
 became the official required way to handle the “CLA issue” for Linux and it
 [33]remains the policy of Linux today. (See item 12 in Linux's
 Documentation/SubmittingPatches file.)
+
+Me fui sacudiendo mi cabeza escépticamente. Recuerdo haber pensado: "Ted no
+entiende:. Pero estaba equivocado; él _sí_ entendía. De hecho, muchos de los
+desarrolladores clave de Linux lo hacían. Tres años después de esa conversación
+pública con Ted, el [Certificado de Origen del Desarrollador][32] (DCO por sus
+siglas en inglés) se convirtió en la forma oficial de manejar el "problema de
+los CLA" en Linux y sigue siendo [la política oficial][33] al día de hoy. (Ver
+el item 12 en el archivo Documentation/SubmittingPatches de Linux.)
 
 The DCO, in fact, is the only CLA any FLOSS project ever needs! It
 implements inbound=outbound in a simple and straightforward way, without
@@ -509,6 +575,15 @@ contribute and the license of the contribution. (Developers can even sign a
 gives a simple methodology (i.e., the Signed-off-by: tag) for developers to
 so attest.
 
+El DCO, en efecto, ¡es el único CLA que cualquier proyecto de FLOSS necesita!
+Implementa entrante=saliente en una forma simple y directa, sin darle poderes
+especiales a ninguna compañía o entidad en particular. Los desarrolladores
+mantienen su propio copyright y unilateralmente atestiguan su derecho
+a contribuir y la licencia de su contribución. (Además pueden firmar un ©AA con
+alguna otra entidad, como la FSF, si quieren.) El DCO también provee una
+metodología simple (es decir, la etiqueta Signed-off-by:) para realizar ese
+atestiguamiento.
+
 I admit that I once scoffed at the (what I then considered naïve) simplicity
 of the DCO when compared to FSF's ©AA. Yet, I've been since convinced that
 the Linux DCO clearly accomplishes the primary job and simultaneously fits
@@ -518,12 +593,31 @@ moral code and will enforce copyleft for them. However, for CLAs, the Linux
 DCO gets the important job done and tosses aside the pointless and
 pro-corporate stuff.
 
+Debo admitir que me he burlado de la simplicidad (que consideraba naïve) del
+DCO en comparación al ©AA de la FSF. Desde entonces me he convencido que el DCO
+de Linux cumple claramente con su trabajo principal a la vez que se ajusta a la
+forma de trabajo preferida por muchos desarrolladores. Los ©AA tienen su lugar,
+particularmente cuando los desarrolladores encuentran una organización
+confiable que se alinea con su código moral personal y se encargarán de
+defender el copyleft por ellos. No obstante, para los CLAs, el DCO de Linux
+cumple con este importante trabajo y deja de lado el costado pro-corporativo
+inútil. 
+
 Frankly, if I have to choose between making things easy for developers and
 making them easy for corporate lawyers, I'm going to chose the former every
 time: developers actually write the code; while, most of the time, company's
 legal departments just get in our way. The FLOSS community needs just enough
 CYA stuff to get by; the DCO shows what's actually /necessary/, as opposed
 to what corporate attorneys /wish/ they could get developers to do.
+
+Francamente, si tengo que elegir entre hacer las cosas fáciles para los
+desarrolladores o hacerlas fáciles para los abogados corporativos, voy a elegir
+entre los primeros en todos los casos: los desarrolladores escriben el código;
+mientras que la mayor parte del tiempo, los departamentos legales de una
+compañía sólo se mete en el medio. La comunidad de FLOSS necesita cubrirse el
+culo lo suficiente como para zafar; el DCO muestra lo que es realmente
+_necesario_, en oposición a lo que los abogados corporativos _desean_ que hagan
+sus desarrolladores.
 
 What about Relicensing?
 
@@ -608,6 +702,9 @@ repeating the mistake of the CC license suite that the Free Culture
 community has spent a decade (and counting) cleaning up.
 
 Conclusions
+
+Conclusiones
+------------
 
 Please note that IANAL and TINLA. I'm just a community- and
 individual-developer- focused software freedom policy wonk who has some
@@ -706,13 +803,6 @@ venue”: with “choice of law”. The wording has been cleared up to address
 this problem. Please comment or email me if you believe it's not adequately
 corrected.
 
-[]
-
-Posted on Thursday 7 July 2011 at 07:14 by Bradley M. Kuhn.
-
-Comment on this post in [85]this identi.ca conversation.
-
-← *Previous*: Identi.ca Weekly Summary
 
   ------------------------------------------------------------------------
 
@@ -720,116 +810,93 @@ Comment on this post in [85]this identi.ca conversation.
 licensed under a [87] Creative Commons Attribution-Share Alike 3.0 United
 States License .
 
-  ------------------------------------------------------------------------
-
-#include <std/disclaimer.h>
-use Standard::Disclaimer;
-from standard import disclaimer
-SELECT full_text FROM standard WHERE type = 'disclaimer';
-
-Both previously and presently, I have been employed by and/or done work for
-various organizations that also have views on Free, Libre, and Open Source
-Software. As should be blatantly obvious, this is my website, not theirs, so
-please do not assume views and opinions here belong to any such
-organization. Since I do co-own ebb.org with my wife, it may not be so
-obvious that these aren't her views and opinions, either.
-
-                                                                     — bkuhn
-
-  ------------------------------------------------------------------------
-
-ebb ® is a registered service mark of Bradley M. Kuhn. [88]Bradley M. Kuhn
-[89]<bkuhn@ebb.org>
-
-
  References:
-   1. http://ebb.org/bkuhn/rss.xml
-   2. http://ebb.org/bkuhn/blog/rss.xml
-   3. http://identi.ca/bkuhn/
-   4. http://identi.ca/api/statuses/user_timeline/bkuhn.rss
-   5. http://ebb.org/bkuhn/articles/rss.xml
-   6. http://github.com/bkuhn/jekyll
-   7. http://orgmode.org/
-   8. http://github.com/Chrononaut/happyblogger/tree/master
-   9. http://www.projectharmony.com/
-  10. http://www.projectharmonynyc.org/
-  11. http://www.harmony-project.org/
-  12. http://harmony.apache.org/
-  13. http://fsf.org
-  14. http://ebb.org/bkuhn/blog/2010/02/01/copyright-not-all-equal.html
-  15. http://www.gnu.org/licenses/gpl.html
-  16. http://groups.google.com/group/fa.linux.kernel/msg/b0587ac4dcb7a79b
-  17. http://ebb.org/bkuhn/blog/2010/02/01/copyright-not-all-equal.html
-  18. http://www.groklaw.net/articlebasic.php?story=20110524120303815
-  19. http://www.fsf.org/blogs/rms/assigning-copyright
-  20. http://www.gnu.org/help/evaluation.html
-  21. http://live.gnome.org/CopyrightAssignment
-  22. http://www.apache.org/licenses/icla.txt
-  23. http://www.apache.org/licenses/icla.txt
-  24. http://opensource.com/law/11/7/trouble-harmony-part-1
-  25. http://identi.ca/conversation/45589896
-  26. http://ref.fedorapeople.org/fontana-linuxcon.html
-  27. http://ebb.org/bkuhn/blog/2009/10/16/open-core-shareware.html
-  28. http://www.gnu.org/licenses/agpl.html
-  29. http://www.gnu.org/licenses/recommended-copylefts.html
-  30. http://www.usenix.org/event/usenix01/bofschedule.html
-  31. http://thunk.org/tytso
-  32. http://permalink.gmane.org/gmane.linux.kernel.commits.head/33254
-  33. http://www.kernel.org/doc/Documentation/SubmittingPatches
-  34. http://ebb.org/bkuhn/blog/2011/05/26/choose.html
-  35. http://www.gnu.org/licenses/gpl-1.0.txt
-  36. http://dev.perl.org/licenses/
-  37. http://ebb.org/bkuhn/blog/2011/06/26/identica-weekly.html
-  38. http://linuxoutlaws.com/podcast/ogg/204
-  39. http://www.gnu.org/philosophy/why-not-lgpl.html
-  40. http://www.gnu.org/licenses/gpl.html#section14
-  41. http://creativecommons.org/
-  42. http://en.wikipedia.org/wiki/Lawrence_Lessig
-  43. http://blog.ninapaley.com/2011/07/04/rantifesto/
-  44. http://en.wikipedia.org/wiki/Creative_Commons#Other_criticism_of_the_non-commercial_license
-  45. http://ebb.org/bkuhn/blog/2010/06/23/open-source.html#footnote-amoral-word-choice
-  46. http://www.linkedin.com/pub/dir/Amanda/Brock
-  47. http://identi.ca/notice/74444380
-  48. http://www.archive.org/download/gov.uscourts.nysd.327540/gov.uscourts.nysd.327540.3.0.pdf
-  49. http://sec.gov/Archives/edgar/data/1375365/000119312509084731/filename1.htm
-  50. http://identi.ca/conversation/74175630#notice-76902928
-  51. http://live.gnome.org/CopyrightAssignment/Guidelines
-  52. http://opensource.com/law/11/7/trouble-harmony-part-1
-  53. http://blogs.gnome.org/bolsh/2011/07/06/harmony-agreements-reach-1-0/
-  54. http://people.gnome.org/~michael/blog/copyright-assignment.html
-  55. http://blogs.gnome.org/bolsh/2009/04/08/copyright-assignment-and-other-barriers-to-entry/
-  56. http://ebb.org/bkuhn/blog/2009/10/16/open-core-shareware.html
-  57. http://www.fsf.org/blogs/rms/assigning-copyright/
-  58. http://www.fsf.org/blogs/licensing/project-harmony
-  59. http://identi.ca/conversation/60847947
-  60. http://identi.ca/conversation/60848873
-  61. http://identi.ca/conversation/61240820
-  62. http://identi.ca/conversation/68596018
-  63. http://identi.ca/conversation/68858735
-  64. http://identi.ca/conversation/68886640
-  65. http://identi.ca/conversation/68887235
-  66. http://identi.ca/conversation/69308469
-  67. http://identi.ca/conversation/70389379
-  68. http://identi.ca/conversation/70648339
-  69. http://identi.ca/conversation/71854529
-  70. http://identi.ca/conversation/72024908
-  71. http://identi.ca/conversation/73129548
-  72. http://identi.ca/conversation/73225057
-  73. http://identi.ca/conversation/74175630
-  74. http://identi.ca/conversation/74979814
-  75. http://identi.ca/tag/harmony
-  76. http://identi.ca/tag/cla
-  77. http://www.linuxuser.co.uk/news/the-issue-of-bringing-harmony-to-copyright-assignment/
-  78. http://opensource.com/life/11/4/balancing-transparency-and-privacy
-  79. http://live.gnome.org/CopyrightAssignment
-  80. http://live.gnome.org/CopyrightAssignment/Guidelines
-  81. http://opensource.com/law/10/6/project-harmony-looks-improve-contribution-agreements-0
-  82. http://lists.harmonyagreements.org/mailman/listinfo
-  83. http://harmonyagreements.org/agreements.html
-  84. http://ref.fedorapeople.org/fontana-linuxcon.html
-  85. http://identi.ca/conversation/75670941#notice-78261971
-  86. http://creativecommons.org/licenses/by-sa/3.0/us/
-  87. http://creativecommons.org/licenses/by-sa/3.0/us/
-  88. http://ebb.org/bkuhn/
-  89. mailto:bkuhn@ebb.org
-
+[1]:http://ebb.org/bkuhn/rss.xml
+[2]:http://ebb.org/bkuhn/blog/rss.xml
+[3]:http://identi.ca/bkuhn/
+[4]:http://identi.ca/api/statuses/user_timeline/bkuhn.rss
+[5]:http://ebb.org/bkuhn/articles/rss.xml
+[6]:http://github.com/bkuhn/jekyll
+[7]:http://orgmode.org/
+[8]:http://github.com/Chrononaut/happyblogger/tree/master
+[9]:http://www.projectharmony.com/
+[10]:http://www.projectharmonynyc.org/
+[11]:http://www.harmony-project.org/
+[12]:http://harmony.apache.org/
+[13]:http://fsf.org
+[14]:http://ebb.org/bkuhn/blog/2010/02/01/copyright-not-all-equal.html
+[15]:http://www.gnu.org/licenses/gpl.html
+[16]:http://groups.google.com/group/fa.linux.kernel/msg/b0587ac4dcb7a79b
+[17]:http://ebb.org/bkuhn/blog/2010/02/01/copyright-not-all-equal.html
+[18]:http://www.groklaw.net/articlebasic.php?story=20110524120303815
+[19]:http://www.fsf.org/blogs/rms/assigning-copyright
+[20]:http://www.gnu.org/help/evaluation.html
+[21]:http://live.gnome.org/CopyrightAssignment
+[22]:http://www.apache.org/licenses/icla.txt
+[23]:http://www.apache.org/licenses/icla.txt
+[24]:http://opensource.com/law/11/7/trouble-harmony-part-1
+[25]:http://identi.ca/conversation/45589896
+[26]:http://ref.fedorapeople.org/fontana-linuxcon.html
+[27]:http://ebb.org/bkuhn/blog/2009/10/16/open-core-shareware.html
+[28]:http://www.gnu.org/licenses/agpl.html
+[29]:http://www.gnu.org/licenses/recommended-copylefts.html
+[30]:http://www.usenix.org/event/usenix01/bofschedule.html
+[31]:http://thunk.org/tytso
+[32]:http://permalink.gmane.org/gmane.linux.kernel.commits.head/33254
+[33]:http://www.kernel.org/doc/Documentation/SubmittingPatches
+[34]:http://ebb.org/bkuhn/blog/2011/05/26/choose.html
+[35]:http://www.gnu.org/licenses/gpl-1.0.txt
+[36]:http://dev.perl.org/licenses/
+[37]:http://ebb.org/bkuhn/blog/2011/06/26/identica-weekly.html
+[38]:http://linuxoutlaws.com/podcast/ogg/204
+[39]:http://www.gnu.org/philosophy/why-not-lgpl.html
+[40]:http://www.gnu.org/licenses/gpl.html#section14
+[41]:http://creativecommons.org/
+[42]:http://en.wikipedia.org/wiki/Lawrence_Lessig
+[43]:http://blog.ninapaley.com/2011/07/04/rantifesto/
+[44]:http://en.wikipedia.org/wiki/Creative_Commons#Other_criticism_of_the_non-commercial_license
+[45]:http://ebb.org/bkuhn/blog/2010/06/23/open-source.html#footnote-amoral-word-choice
+[46]:http://www.linkedin.com/pub/dir/Amanda/Brock
+[47]:http://identi.ca/notice/74444380
+[48]:http://www.archive.org/download/gov.uscourts.nysd.327540/gov.uscourts.nysd.327540.3.0.pdf
+[49]:http://sec.gov/Archives/edgar/data/1375365/000119312509084731/filename1.htm
+[50]:http://identi.ca/conversation/74175630#notice-76902928
+[51]:http://live.gnome.org/CopyrightAssignment/Guidelines
+[52]:http://opensource.com/law/11/7/trouble-harmony-part-1
+[53]:http://blogs.gnome.org/bolsh/2011/07/06/harmony-agreements-reach-1-0/
+[54]:http://people.gnome.org/~michael/blog/copyright-assignment.html
+[55]:http://blogs.gnome.org/bolsh/2009/04/08/copyright-assignment-and-other-barriers-to-entry/
+[56]:http://ebb.org/bkuhn/blog/2009/10/16/open-core-shareware.html
+[57]:http://www.fsf.org/blogs/rms/assigning-copyright/
+[58]:http://www.fsf.org/blogs/licensing/project-harmony
+[59]:http://identi.ca/conversation/60847947
+[60]:http://identi.ca/conversation/60848873
+[61]:http://identi.ca/conversation/61240820
+[62]:http://identi.ca/conversation/68596018
+[63]:http://identi.ca/conversation/68858735
+[64]:http://identi.ca/conversation/68886640
+[65]:http://identi.ca/conversation/68887235
+[66]:http://identi.ca/conversation/69308469
+[67]:http://identi.ca/conversation/70389379
+[68]:http://identi.ca/conversation/70648339
+[69]:http://identi.ca/conversation/71854529
+[70]:http://identi.ca/conversation/72024908
+[71]:http://identi.ca/conversation/73129548
+[72]:http://identi.ca/conversation/73225057
+[73]:http://identi.ca/conversation/74175630
+[74]:http://identi.ca/conversation/74979814
+[75]:http://identi.ca/tag/harmony
+[76]:http://identi.ca/tag/cla
+[77]:http://www.linuxuser.co.uk/news/the-issue-of-bringing-harmony-to-copyright-assignment/
+[78]:http://opensource.com/life/11/4/balancing-transparency-and-privacy
+[79]:http://live.gnome.org/CopyrightAssignment
+[80]:http://live.gnome.org/CopyrightAssignment/Guidelines
+[81]:http://opensource.com/law/10/6/project-harmony-looks-improve-contribution-agreements-0
+[82]:http://lists.harmonyagreements.org/mailman/listinfo
+[83]:http://harmonyagreements.org/agreements.html
+[84]:http://ref.fedorapeople.org/fontana-linuxcon.html
+[85]:http://identi.ca/conversation/75670941#notice-78261971
+[86]:http://creativecommons.org/licenses/by-sa/3.0/us/
+[87]:http://creativecommons.org/licenses/by-sa/3.0/us/
+[88]:http://ebb.org/bkuhn/
+[89]:mailto:bkuhn@ebb.org
