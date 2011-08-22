@@ -24,11 +24,11 @@ it is. (It's also got [9]serious [10]namespace [11]collision, [12]including
 with a project already in the software freedom community.
 
 Muy pronto, van a ver algo similar con una cosa llamada Proyecto Armonía
-[Project Harmony] (que ha lanzado su versión 1.0 en plantillas de documentos).
+(Project Harmony) que ha lanzado su versión 1.0 en plantillas de documentos.
 Incluso el nombre es marketing: no es realmente descriptivo, sino que trata de
 venderte una "buena onda" sobre el proyecto aun sin saber de qué se trata.
-(Además es una seria colisión de nombres, incluyendo otro proyecto de software
-libre.)
+(Además es una [seria][9] [colisión][10] de [nombres][11], [incluyendo][12]
+otro proyecto de software libre.)
 
 Project Harmony markets itself as fixing something that our community
 doesn't really consider broken. Project Harmony is a set of document
@@ -110,10 +110,10 @@ a manner similar to my personal moral beliefs.
 
 Uno debe tener una confianza inmensa en la organización asignada.
 Personalmente, yo sólo he asignado algunos de mis copyrights a una sola
-organización en toda mi vida: la Free Software Foundation, porque la FSF es la
-única organización que he encontrado que está institucionalmente comprometida
-a hacer lo correcto con los copyrights de forma similar a mis creencias morales
-personales.
+organización en toda mi vida: la [Free Software Foundation][13], porque la FSF
+es la única organización que he encontrado que está institucionalmente
+comprometida a hacer lo correcto con los copyrights de forma similar a mis
+creencias morales personales.
 
 First of all, [14]as I've written about before, FSF's ©AA make all sorts of
 promises back to the assignor. Second, FSF is institutionally committed to
@@ -121,12 +121,12 @@ promises back to the assignor. Second, FSF is institutionally committed to
 advocacy mission for software freedom. All of this activity fits my moral
 principles, so I've been willing to sign FSF's ©AAs.
 
-En primer lugar, como he escrito antes, los ©AA de la FSF hacen toda suerte de
-promesas al asignante. En segundo, la FSF está institucionalmente comprometida
-con la GPL y en reforzar la GPL de forma de avanzar la militancia sin fines de
-lucro de la FSF por la libertad del software. Toda esta actividad está
-contenida en mis principios morales, por lo que no he tenido problema en firmar
-los ©AA de la FSF.
+En primer lugar, [como he escrito antes][14], los ©AA de la FSF hacen toda
+suerte de promesas al asignante. En segundo, la FSF está institucionalmente
+comprometida con [la GPL][15] y en reforzar la GPL de forma de avanzar la
+militancia sin fines de lucro de la FSF por la libertad del software. Toda esta
+actividad está contenida en mis principios morales, por lo que no he tenido
+problema en firmar los ©AA de la FSF.
 
 Yet, I've nevertheless met /many/ developers who refuse to sign FSF's ©AAs.
 While many of such developers like the GPL, they don't necessarily agree
@@ -138,11 +138,11 @@ think[s] they are nasty and wrong personally, and [he]'d hate all the
 paperwork, and [he] thinks it would actually detract from the development
 model".
 
-Aún así, he conocido /muchos/ desarrolladores que se niegan a firmar los ©AA de
+Aún así, he conocido _muchos_ desarrolladores que se niegan a firmar los ©AA de
 la FSF. Mientras muchos de ellos aprueban la GPL, no necesariamente acuerdan
 con las posiciones morales de la FSF. En efecto, en muchos caso, estos
 desarrolladores se oponen completamente a asignar el copyright a nadie, sea la
-FSF o cualquier otro. Por ejemplo, Linus Torvalds, fundador de Linux, ha
+FSF o cualquier otro. Por ejemplo, [Linus Torvalds][16], fundador de Linux, ha
 declarado repetidas veces que "nunca quis[o] hacer asignaciones de copyright,
 por varias razones: personalmente piens[a] que son sucias y erróneas, odiaría
 hacer todo el papeleo y piens[a] que actuaría como detractor del modelo de
@@ -171,16 +171,16 @@ agreements. (Note that such assurances would still be required for the CLA
 options as well; see below for details why.)
 
 La FSF, por su parte, se expide sobre su posición moral en sus ©AA mismos. Como
-mencioné en otra parte, y como Groklaw recientemente cubrió en detalle, los ©AA
-de la FSF realizan varias promesas con validez legal a los desarrolladores que
-las firman. Mientras, los ©AA del Proyecto Armonía ponen unas pocas opciones
-que parecen vagamente aceptables (aunque tienen problemas propios que discuto
-más abajo), no las hacen obligatorias. Yo mismo he señalado en varias ocasiones
-a los que escribieron los borradores de Armonía que los términos de la FSF ha
-propuesto deberían ser obligatorios en cualquier ©AA de una compañía con fines
-de lucro, pero se han negado a incorporar estas garantías como un requisito de
-sus acuerdos. (Noten que tales garantías también deben incluirse en las
-opciones de los CLA; ver debajo para más detalles.)
+[mencioné en otra parte][17], y como [Groklaw][18] recientemente cubrió en
+detalle, los ©AA de la FSF realizan varias promesas con validez legal a los
+desarrolladores que las firman. Mientras, los ©AA del Proyecto Armonía ponen
+unas pocas opciones que parecen vagamente aceptables (aunque tienen problemas
+propios que discuto más abajo), no las hacen obligatorias. Yo mismo he señalado
+en varias ocasiones a los que escribieron los borradores de Armonía que [los
+términos][19] de la FSF ha propuesto deberían ser obligatorios en cualquier ©AA
+de una compañía con fines de lucro, pero se han negado a incorporar estas
+garantías como un requisito de sus acuerdos. (Noten que tales garantías también
+deben incluirse en las opciones de los CLA; ver debajo para más detalles.)
 
 Regarding ©AAs, I'd like to note finally that FSF does *not* require ©AAs
 for all [20]GNU packages. This confusion is so common that I'd like to draw
@@ -195,19 +195,19 @@ Project Harmony's agreement will ever be as flexible on copyright assignment
 as FSF, nor will any of the possible Project Harmony options be acceptable
 to GNOME's existing policy.
 
-Por último me gustaría señalar que la FSF *no* requiere ©AAs para todos los
-paquetes de GNU. Esta confusión es tan común que me gustaría llamar la atención
-sobre ella, aunque sea un punto tangencial a este contexto. Los ©AA de la FSF
-son obligatorios, según mi conocimiento, si los paquetes GNU fueron (a)
+Por último me gustaría señalar que la FSF **no** requiere ©AAs para todos los
+[paquetes de GNU][20]. Esta confusión es tan común que me gustaría llamar la
+atención sobre ella, aunque sea un punto tangencial a este contexto. Los ©AA de
+la FSF son obligatorios, según mi conocimiento, si los paquetes GNU fueron (a)
 desarrollados por empleados de la FSF en sus primeras versiones o (b) los
-desarrolladores originales le /pidieron/ a la FSF que realice una asignación de
+desarrolladores originales le _pidieron_ a la FSF que realice una asignación de
 copyright cuando su proyecto se unió a GNU. En todos los demás casos, la
-asignación a la FSF es opcional. Algunos proyectos GNU, como GNOME, tienen sus
-propias posiciones sobre los ©AAs que difieren radicalmente de las de la FSF.
-Dudo seriamente que las compañías que adopten los acuerdos del Proyecto Armonía
-lleguen a ser tan flexibles en cuanto a la asignación de copyright como lo es
-la FSF, o que ninguno de las opciones posibles que el Proyecto Armonía provea
-sean aceptables para la política actual de GNOME.
+asignación a la FSF es opcional. Algunos proyectos GNU, como [GNOME][21],
+tienen sus propias posiciones sobre los ©AAs que difieren radicalmente de las
+de la FSF.  Dudo seriamente que las compañías que adopten los acuerdos del
+Proyecto Armonía lleguen a ser tan flexibles en cuanto a la asignación de
+copyright como lo es la FSF, o que ninguno de las opciones posibles que el
+Proyecto Armonía provea sean aceptables para la política actual de GNOME.
 
 Giving Away Rights to Give Companies Warm Fuzzies?
 
@@ -226,9 +226,9 @@ code and gives certain powers to the company.
 El Proyecto Armonía, sin embargo, clama que la parte importante no son los
 ©AAs, sino los Acuerdos de Licencia del Contribuidor (CLA por sus siglas en
 inglés). Para considerar brevemente la historia de los CLAs de Software Libre,
-hay que notar que el CLA de Apache fue probablemente el primer CLA usado en la
-comunidad del Software Libre. La Apache Software Foundation siempre ha estado
-fuertemente influenciada por IBM y otras compañías, y tales compañías
+hay que notar que [el CLA de Apache][22] fue probablemente el primer CLA usado
+en la comunidad del Software Libre. La Apache Software Foundation siempre ha
+estado fuertemente influenciada por IBM y otras compañías, y tales compañías
 generalmente han tenido "mariposas en la panza" al lograr que cada contribuidor
 asienta a firmar un documento legal complejo que afirma varias garantías
 respecto al código y da ciertas poderes a la compañía.
@@ -267,13 +267,13 @@ contribution, it should.
 
 Por supuesto, mover toda la responsabilidad sobre los orígenes del código
 produce muchas "mariposas en la panza" a los abogados de la compañía. Esos
-abogados saben que ahora pueden fácilmente *demandar a un desarrollador
-individual* por rompimiento de contrato si el desarrollador se equivocó en el
-código. Si la compañía distribuye el código de un desarrollador y termina
+abogados saben que ahora pueden fácilmente **demandar a un desarrollador
+individual** por incumplimiento de contrato si el desarrollador se equivocó en
+el código. Si la compañía distribuye el código de un desarrollador y termina
 recibiendo una demanda por infracción por la que paga millones de dólares,
 pueden fácilmente darse vuelta y demandar al desarrollador. La compañía
 argumentará en la corte que el desarrollador rompió el contrato. Si este
-desenlace posible no te preocupa /inmediatamente/ en tanto desarrollador
+desenlace posible no te preocupa _inmediatamente_ en tanto desarrollador
 individual cuando firmás un CLA del Proyecto Armonía por tu contribución libre,
 debería.
 
@@ -292,7 +292,7 @@ that are very favorable to their client and not as favorable to the other
 signers.
 
 El CLA de Apache no posee una cláusula de elección de ley, lo que es preferible
-en mi opinión. La mayoría de los abogados /aman/ una cláusula de "elección de
+en mi opinión. La mayoría de los abogados _aman_ una cláusula de "elección de
 ley" ("choise of law" en inglés) por varias razones. La más grande es que
 significa que las reglas que se aplican sobre el acuerdo son las más familiares
 a los abogados y la jurisdicción para las disputas será la jurisdicción local
@@ -308,10 +308,10 @@ the binding that an individual developer prefers. The term will likely be
 non-negotiable at that point, even though it was configurable in the
 template.
 
-Desafortunadamente, /todos/ los borradores del Proyecto Armonía incluyen una
+Desafortunadamente, _todos_ los borradores del Proyecto Armonía incluyen una
 cláusula de "elección de ley". Espero que los que escriben los borradores
 argumentarán en respuesta que la jurisdicción es una variable de configuración.
-No obstante, el problema es que la /compañía/ es la que decide el valor de esa
+No obstante, el problema es que la _compañía_ es la que decide el valor de esa
 variable, que casi siempre será la que no prefiera el desarrollador individual.
 Probablemente el término no sea negociable en ese punto, aunque haya podido
 configurarse en la plantilla.
@@ -379,7 +379,7 @@ can be passed along to other entities.
 Además, aún cuando los desarrolladores individuales retienen sus copyrights,
 los CLAs del Proyecto Armonía garantizan muchos derechos y permisos
 transferibles al receptor del CLA (otra vez, usualmente a una compañía). Aún
-/si/ las razones para requerirlos fuesen nobles, introducen un manojo de
+_si_ las razones para requerirlos fuesen nobles, introducen un manojo de
 permisos extra que pueden ser pasados a otras entidades.
 
 Suddenly, what was once a simple copyright enforcement action for a
@@ -432,8 +432,8 @@ license each contribution using the project's specified copyright license
 
 Aun más, el Proyecto Armonía ha rechazado a propósito ofrecer la opción más
 simple y popular de todas, que mi colega Richard Fontana (un abogado de Red Hat
-que también se opone al Proyecto Armonía) ha llamado el año pasado
-"entrada=salida". Específicamente, el acuerdo por defecto en la abrumadora
+que [también se opone][24] al Proyecto Armonía) [ha llamado][25] [el año pasado
+"entrada=salida"][26]. Específicamente, el acuerdo por defecto en la abrumadora
 mayoría de los proyectos FLOSS es simplemente esta: cada contribuidor acuerda
 licenciar cada contribución bajo la licencia de copyright específica del
 proyecto (o una licencia compatible).
@@ -476,9 +476,9 @@ relicenciamiento en esa contribución nueva, aún si el resto de la sección 2.3
 le promete copyleft. Esto no es hipotético: han habido muchos casos donde no
 está claro si la compañía estaba o no estaba involucrada en relicenciamiento
 propietario, para más tarde descubrir que lo habían estado haciendo en privado
-durante años. Tal como está escrita, por lo tanto, *cualquier configuración de
+durante años. Tal como está escrita, por lo tanto, **cualquier configuración de
 la sección 2.3 del Proyecto Armonía es inútil para prevenir la apropiación
-propietaria*.
+propietaria**.
 
 Even if that bug were fixed, the closest Project Harmony gets to
 inbound=outbound is restricting the CLA version to “FSF's list of
@@ -575,7 +575,7 @@ contribute and the license of the contribution. (Developers can even sign a
 gives a simple methodology (i.e., the Signed-off-by: tag) for developers to
 so attest.
 
-El DCO, en efecto, ¡es el único CLA que cualquier proyecto de FLOSS necesita!
+El DCO, en efecto, ¡es el único CLA que necesita cualquier proyecto FLOSS!
 Implementa entrante=saliente en una forma simple y directa, sin darle poderes
 especiales a ninguna compañía o entidad en particular. Los desarrolladores
 mantienen su propio copyright y unilateralmente atestiguan su derecho
@@ -621,6 +621,9 @@ sus desarrolladores.
 
 What about Relicensing?
 
+¿Qué pasa con el relicenciamiento?
+----------------------------------
+
 Admittedly, Linux's DCO does not allow for relicensing wholesale of the code
 by some single entity; it's indeed the reason a Linux switch to GPLv3 will
 be an arduous task of public processes to ensure permission to make the
@@ -632,6 +635,16 @@ inbound=outbound is /the/ way a FLOSS community implements their morality;
 Project Harmony seeks to remove community license decision-making from most
 projects.
 
+El DCO de Linux no permite que una sola entidad relicencie el código; esta es
+la razón por la que el cambio a GPLv3 en Linux es una ardua tarea para
+conseguir el permiso de todos. Sin embargo, hay que notar que la cultura
+linuxera _cree_ que la GPLv2 es el fundamento moral y el principio de su
+comunidad. No es un principio con el que concuerdo; la mayoría de mis lectores
+saben que mi [licencia preferida][34] es la AGPLv3 o superior. Pero este es el
+punto: entrante=saliente es _la_ forma en que una comunidad FLOSS implementa su
+moralidad; el Proyecto Armonía busca remover a la comunidad de las decisiones
+sobre el licenciamiento de casi todos los proyectos.
+
 Meanwhile, I'm all for the “-or-later” brand of relicensing permission; GPL,
 LGPL and AGPL have left this as an option for community choice since
 [35]GPLv1 was published in late 1980s. Projects declare themselves
@@ -642,7 +655,19 @@ post-hoc relicensing authority, the price for that's expensive: abandonment
 of community clarity regarding what terms define their software development
 culture.
 
+Estoy a favor de permitir el relicenciamiento "o superior"; la GPL, la LGPL
+y la AGPL han dejado la opción a la comunidad ya que la [GPLv1][35] fue
+publicada a finales de los '80. Los proyectos que se declaran "GPLv2
+o superior" o "LGPL o superior", o incluso ["GPLv1 o superior o Artística"][36]
+(como Perl 5) para identificar su cultura y permisos de relicenciamiento.
+Mientras que a veces sería bueno tener una autoridad en relicenciamiento, el
+precio es muy caro: el abandono de una claridad comunitaria con respecto a los
+términos en que se define su cultura de desarrollo.
+
 An Anti-Strong-Copyleft Bias?
+
+¿Una parcialidad anti copyleft fuerte?
+--------------------------------------
 
 Even worse, Project Harmony remains biased against some of the more
 fine-grained versions of copyleft culture. For example, [37]Allison Randal,
@@ -654,11 +679,29 @@ Thus, giving a for-profit company (or non-profit that doesn't necessarily
 share the developers' values) unilateral decision-making power to relicense
 GPL'd works under LGPL or other weak copyleft licenses is ludicrous.
 
+Lo que es aun peor, es que el Proyecto Armonía se mantiene parcial contra
+algunas de las más afinadas versiones de la cultura copyleft. Por ejemplo,
+[Allison Randal][37], quien está muy involucrada en el Proyecto Armonía,
+argumentó en el [episodio 204][38] de Linux Outlaws que "la mayoría de los
+desarrolladores que contribuyen bajo una licencia copyleft, estarían contentos
+de hacerlo bajo cualquier otra, sea AGPL, GPL o LGPL". Sin embargo existen
+varias [razones bien definidas][39] de por qué los desarrolladores eligirían la
+GPL antes que la LGPL. Por eso, entregarle a una compañía con fines de lucro (o
+una sin fines de lucro que no necesariamente comparta los valores de los
+desarrolladores) el poder unilateral de tomar decisiones de relicenciamiento
+y convertir un proyecto bajo GPL en LGPL o cualquier otra licencia de copyleft
+débil es ridículo.
+
 In its 1.0 release, Project Harmony attempted to add a “strong copyleft
 only” option. It doesn't actually work, of course, for the various reasons
 discussed in detail above. But even so, this solution is just one option
 among many, and is not required as a default when a project is otherwise
 copylefted.
+
+En su lanzamiento 1.0, el Proyecto Armonía intentó agregar una opción "de sólo
+copyleft fuerte". Por supuesto que no funciona, por las razones discutidas más
+arriba. Pero aun así, esta solución es sólo una de las muchas y no es requerida
+por defecto cuando un proyecto ya es copyleft.
 
 Finally, it's important to realize that the [40]GPLv3, AGPLv3, and LGPLv3
 already offer a “proxy option”; projects can name someone to decide the
@@ -670,13 +713,33 @@ specifying a proxy. There is no need for a CLA to accomplish that task in
 the GPL family of licenses, unless the goal is to erode stronger copylefts
 into weaker copylefts.
 
+Por último, es importante notar que las [GPLv3, AGPLv3 y LGPLv3][40] ya ofrecen
+una "opción de apoderado (proxy)"; los proyectos pueden nombrar a alguien para
+decidir cambiar a "o superior" más tarde. Por eso, para aquellos proyectos que
+estén usando cualquiera del grupo "sólo LGPLv3", "sólo AGPLv3", "sólo GPLv3",
+"GPLv2 o superior", "GPLv1 o superior" o "LGPLv2.1 o superior", sus
+desarrolladores _ya poseen_ mecanismos para moverse a versiones superiores de
+la licencia con facilidad al especificar un apoderado. No hay necesidad de un
+CLA para cumplir tal tarea en la familia de licencias GPL, a menos que el
+objetivo sea erosionar los copylefts fuertes para convertirlos en copylefts
+débiles.
+
 This is No Creative Commons, But Even If It Were, Is It Worth Emulation?
+
+Esto no es Creative Commons, pero si lo fuera, ¿vale la pena emularlo?
+----------------------------------------------------------------------
 
 Project Harmony's proponents love to compare the project to [41]Creative
 Commons, but the comparison isn't particularly apt. Furthermore, I'm not
 convinced the FLOSS community should emulate the CC license suite wholesale,
 as some of the aspects of the CC structure are problematic when imported
 back into FLOSS licensing.
+
+Los que proponen el Proyecto Armonía aman compararlo con [Creative
+Commons][41], pero la comparación no es particularmente apta. Aún más, no estoy
+convencido de la que la comunidad FLOSS deba emular al grupo de licencias de CC
+del todo, ya que algunos aspectos de la estructura de CC son problemáticos al
+migrarlos al licenciamiento FLOSS.
 
 First of all, [42]Larry Lessig (who is widely considered a visionary)
 started the CC licensing suite to bootstrap a Free Culture movement that
@@ -687,6 +750,17 @@ notably those that include the non-commercial (NC) or no-derivatives (ND)
 terms — are considered overly restrictive of freedom and are therefore
 [43]shunned by Free Culture activists and [44] software freedom advocates
 alike.
+
+En primer lugar, [Larry Lessig][42] (quien es ampliamente considerado como un
+visionario) inició el licenciamiento CC para capturar un movimiento por la
+Cultura Libre que se estaba moldeando a semejanza del movimiento del Software
+Libre (la cual pasó una década estudiando). Sin embargo, Lessig realizó varios
+compromisos morales en su intentó de construir un puente a la mentalidad
+"algunos derechos reservados". Así, muchas de las licencias CC -notablemente
+las que incluyen las cláusulas NoComercial (NC) o SinDerivadas (ND)- son
+consideradas demasiado restrictivas y son por lo tanto rechazadas tanto por
+[activistas de la Cultura Libre][43] como por [militantes del Software
+Libre][44].
 
 Over nearly decade, such advocates have slowly begun to convince copyright
 holders to avoid CC's NC and ND options, but CC's own continued promulgation
@@ -701,6 +775,20 @@ decision-making to the “magic of the marketplace”. Project Harmony is
 repeating the mistake of the CC license suite that the Free Culture
 community has spent a decade (and counting) cleaning up.
 
+Después de una década, esos militantes empezaron lentamente a convencer a los
+titulares de copyright de evitar las opciones NC y ND de CC, pero la
+promulgación continua de estas opciones por parte de CC deslegitiman esos
+intentos. Así, CC y el Proyecto Armonía cometen el mismo eror: actúan
+amoralmente en su intento de construir una estructura de licencias/acuerdos que
+trata de aunar entendimiento entre una comunidad FaiF (libre como en libertad,
+en inglés "Free as in Freedom") y aquellos que recién están comenzando
+a conocerla. Elegí la palabra amoral, como [usualmente hago][45], para denotar
+una situación donde existen importantes principios morales, pero sus actores
+principales buscan remover la moralidad de consideración con la excusa de dejar
+el poder de decisión "a la magia del mercado". El Proyecto Armonía repite el
+error de las licencias CC que la comunidad de la Cultura Libre ha pasado una
+década (y contando) de limpiar.
+
 Conclusions
 
 Conclusiones
@@ -713,6 +801,15 @@ give you a fine-grained legal analysis, because I'm frankly only an amateur
 when it comes to the law, but I /am/ an expert in software freedom project
 policy. In that vein — corporate attorney endorsements notwithstanding — my
 opinion is that Project Harmony should be abandoned entirely.
+
+Por favor noten que no soy un abogado y que esto no es un aviso legal. Sólo soy
+un desarrollador tanto individual como comunitario enfocado en políticas de
+software libre que tiene serias preocupaciones por la forma en que operan los
+acuerdos del Proyecto Armonía. No puedo proveer un análisis legal refinado,
+porque francamente soy un amateur cuando se trata de leyes, pero _soy_ un
+experto en políticas de libertad del software. En esa vena -sin tener en cuenta
+el apoyo de los abogados corporativos- mi opinión es que el Proyecto Armonía
+debe abandonarse por completo.
 
 In fact, the distinction between policy and legal expertise actually shows
 the root of the problem with Project Harmony. It's a system of documents
@@ -730,12 +827,36 @@ differ little from the drafts that were released in April 2011, and thus
 remain to this day primarily documents drafted in secrecy by corporate
 attorneys who have only a passing familiarity with software freedom culture.
 
+De hecho, la distinción entre política y experticia legal muestra la raíz del
+problema del Proyecto Armonía. Es un sistema de documentos diseñados por un
+comité compuesto principalmente por abogados corporativos, aun cuando se
+muestra como un consenso de desarrolladores FLOSS. En efecto, el Proyecto
+Armonía fue iniciado por [Amanda Brock][46], una abogada corporativa con fines
+de lucro de Canonical, Ltd, que aun trabaja en los borradores. Más tarde,
+[Canonical, Ltd.][47] contrató a Mark Radcliffe (un abogado que [ha
+defendido][48] [violadores de la GPL][49]) para escribir el borrador de las
+versiones alpha del documento, y aun continúa haciéndolo. Aún más, el proceso
+primario de escritura de esos borradores se hizo en secreto en reuniones
+cerradas dominadas por abogados corporativos hasta que los documentos
+estuvierons casi completos; el proceso no se hizo público a la comunidad hasta
+abril del 2011. La versión 1.0 de los documentos poco difiere de los borradores
+que se lanzaron en abril, y por lo tanto se mantienen como documentos que
+fueron principalmente redactados en secreto por abogados corporativos que sólo
+tienen una lejana familiaridad con el cultura del software libre.
+
 Meanwhile, I've [50]asked Project Harmony's advocates many times who is in
 charge of Project Harmony now, and no one can give me a straight answer. One
 is left to wonder who decides final draft approval and what process exists
 to prevent or permit text for the drafts. The process which once was in
 secrecy appears to be now in chaos because it was opened up too late for
 fundamental problems to be resolved.
+
+[He preguntado][50] muchas veces a los defensores del Proyecto Armonía quién
+está a cargo del mismo hoy, y nadie puede darme una respuesta directa. Uno se
+pregunta quién toma las decisiones finales y cuál es el proceso que existe para
+incluir o excluir texto en los borradores. El proceso que una vez fue secreto
+ahora parece ser caótico porque fue abierto mucho más tarde de lo necesario
+para resolver sus problemas fundamentales.
 
 A few developers are indeed actively involved in Project Harmony. But
 Project Harmony is not something that most developers requested; it was
@@ -744,6 +865,15 @@ adopt overreaching CLAs and ©AAs. To me, the whole Project Harmony process
 feels like a war of attrition to convince developers to accept something
 that they don't necessarily want with minimal dissent. In short, the need
 for Project Harmony has not been fully articulated to developers.
+
+Sólo unos pocos desarrolladores están involucrados en el proeycto. Pero el
+Proyecto Armonía no es algo que los desarrolladores hayan pedido; fue iniciado
+por compañías que _quisieran_ convencerlos de adoptar pasivamente estos
+extralimitados CLAs y ©AAs. Para mí, el proceso completo del Proyecto Armonía
+se siente como una guerra de desgaste para convencer a los desarrolladores de
+aceptar algo que no necesariamente quieren con un mínimo de disenso. En
+definitiva, la necesidad del Proyecto Armonía no se ha articulado para los
+ellos.
 
 Finally, I ask, what's really broken here? The industry has been steadily
 and widely adopting GNU and Linux for years. GNU, for its part, has FSF
@@ -756,34 +886,88 @@ otherwise forcing extra liabilities onto the developers and handing over
 important licensing decisions (including copyleft weakening ones) to a
 single (usually for-profit) entity.
 
+Por último, pregunto, ¿qué es lo que está realmente roto? La industria ha
+estado adoptando GNU y Linux durante años de manera continua. GNU, por su
+parte, tiene las asignaciones de la FSF para muchos de sus proyectos tempranos,
+pero los últimos proyectos ([GNOME][51] en particular) han sido absolutamente
+contrarios tanto al uso de ©AAs como de CLAs, o se han mostrado indiferentes
+y han usado entrante=saliente. Linux, por su lado, usa el DCO, que realiza el
+trabajo de manejar las partes más urgentes e importantes de un CLA sin ponerse
+en el camino de los desarrolladores y sin forzarles riesgos legales extra
+y entregarle las decisiones de licenciamiento (incluyendo al copyleft débil)
+a una única entidad (usualmente con fines de lucro).
+
 In short, Project Harmony is a design-flawed solution looking for a problem.
+
+En definitiva, el Proyecto Armonía es una solución mal diseñada buscando un
+problema.
 
 Further Reading
 
+Véase también (en inglés)
+-------------------------
+
   * [52]Richard Fontana's The Trouble With Harmony, Part I
+  * [El problema con Armonía, Parte I][52] de Richard Fontana
   * [53]Dave Neary's Harmony Agreements reach 1.0
+  * [Los acuerdos Armonía 1.0][53] de Dave Neary
   * [54]Michael Meeks' Some Thoughts on Copyright Assignment
+  * [Algunos pensamientos sobre la asignación de copyright][54] de Michael Meek
   * [55]Dave Neary's Copyright assignment and other barriers to entry
+  * [La asignación de copyright y otras barreras para ingresar][55] de Dave Neary
   * [56]My [Proprietary Relicensing] is the New Shareware
+  * [El relicenciamiento propietario es el nuevo shareware][56] por mí mismo
   * [57]RMS' When a company asks for your copyright
+  * [Cuando una compañía te pide tu copyright][57] de RMS
   * [58]Brett Smith's The FSF and Project Harmony
+  * [La FSF y el Proyecto Armonía][58] de Brett Smith
   * [59]There [60]are [61]many [62]different [63]threads [64]that [65]can
     [66]be [67]found [68]on [69]identi.ca [70]discussing [71]the [72]Project
     [73]Harmony [74]Agreements. The [75]hashtag “#Harmony” is often used on
     identi.ca. The [76]hashtag “#CLA” may also be of interest.
+  * [Hay][59] [varios][60] [hilos][61] [diferentes][62] [que][63] [pueden][64]
+[encontrarse][65] [en][66] [identi.ca][67] [donde][68] [se][69] [discuten][70]
+[los][71] [acuerdos][72] [del][72] [Proyecto][73] [Armonía][74]. El hashtag
+["#Harmony"][75] se usa a menudo. El hashtag ["#CLA"][76] también puede ser de
+interés.
   * [77]Jos Poortvliet's The issue of bringing harmony to copyright
     assignment
+  * [El problema de traer armonía a la asignación de copyright][77] de Jos Poortvliet
   * [78]Simon Phipps' Balancing transparency and privacy
+  * [Balanceando transparencia y privacidad][78] de Simon Phipp
   * [79]GNOME Policy on Copyright Assignment
+  * [Política de asignación de copyright de GNOME][79]
   * [80]GNOME Foundation Guidelines on Copyright Assignment
+  * [Los lineamientos de la Fundación GNOME sobre la asignación de copyright][80]
   * [81]Amanda Brock's Project Harmony looks to improve contribution
     agreements
+  * [El Proyecto Armonía busca mejorar los acuerdos de contribución][81] de Amanda Brock
   * [82]Project Harmony Agreements Mailing List Archives
+  * [Los archivos de la lista de correo del Proyecto Armonía][82]
   * [83]Harmony Agreement Drafts
+  * [Los borradores de los Acuerdos Armonía][83]
   * [84]Richard Fontana's slides from his Contribution Policies for Open
     Source Projects talk
+  * [Políticas de contribución de proyectos de código abierto][84] diapositivas de la charla de Richard Fontana.
 
   ------------------------------------------------------------------------
+
+Notas
+-----
+
+0- Los defensores del Proyecto Armonía reclamarán que su sección 5, "Renuncia
+consecuencial de daño", protege adecuadamente a los desarrolladores. Noto que
+deja afuera explícitamente a, por ejemplo, los daños estatutarios de la
+infracción de copyright. Además, no puede renunciarse a algunos tipos de daños
+(y es por eso que esa sección le grita al lector "EN LA MEDIDA EN QUE LA LEY LO
+PERMITA"). Noten mi discusión sobre las jurisdicciones en el texto principal de
+este artículo, y consideren el hecho que el receptor de un CLA obviamente
+seleccionará la jurisdicción donde se pueda renunciar a la menor cantidad de
+daños. Finalmente, noten que la parte "O NOSOTROS" de esa sección 5 está
+disponible opcionalmente, y seguramente los abogados corporativos la usarán, lo
+que significa que si ellos violan el acuerdo, básicamente no tenés forma de
+recibir alguna renuncia de daño de parte de ellos, aun si prometieron mantener
+el código bajo copyleft.
 
 0Project Harmony advocates will likely claim to their § 5, “Consequential
 Damage Waiver” protects developers adequately. I note that it explicitly
@@ -803,12 +987,21 @@ venue”: with “choice of law”. The wording has been cleared up to address
 this problem. Please comment or email me if you believe it's not adequately
 corrected.
 
+1- Versiones tempranas de este artículo mezclaron "elección de sede" con
+"elección de ley". El fraseo ha sido aclarado para solucionar este problema.
+Por favor envíenmen comentarios o correo si creen que no ha sido corregido
+adecuadamente.
+
 
   ------------------------------------------------------------------------
 
 [86] [Creative Commons License] This website and all documents on it are
 licensed under a [87] Creative Commons Attribution-Share Alike 3.0 United
 States License .
+
+[Creative Commons License][86] Esta traducción y el artículo original se
+liberan bajo Creative Commons Atribución CompartirDerivadasIgual 3.0 de Estados
+Unidos.
 
  References:
 [1]:http://ebb.org/bkuhn/rss.xml
