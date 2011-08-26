@@ -1,7 +1,10 @@
 Project Harmony Considered Harmful - Bradley M. Kuhn ( Brad ) ( bkuhn )
 
-Proyecto Armonía considerado dañino - Bradley M. Kuhn
-=====================================================
+Bradley M. Kuhn
+---------------
+
+Proyecto Armonía considerado dañino
+===================================
 
 Thursday 7 July 2011 by Bradley M. Kuhn
 Jueves 7 de Julio de 2011 por Bradley M. Kuhn
@@ -271,7 +274,7 @@ abogados saben que ahora pueden fácilmente **demandar a un desarrollador
 individual** por incumplimiento de contrato si el desarrollador se equivocó en
 el código. Si la compañía distribuye el código de un desarrollador y termina
 recibiendo una demanda por infracción por la que paga millones de dólares,
-pueden fácilmente darse vuelta y demandar al desarrollador. La compañía
+pueden fácilmente darse vuelta y demandar al desarrollador.[^0] La compañía
 argumentará en la corte que el desarrollador rompió el contrato. Si este
 desenlace posible no te preocupa _inmediatamente_ en tanto desarrollador
 individual cuando firmás un CLA del Proyecto Armonía por tu contribución libre,
@@ -309,7 +312,7 @@ non-negotiable at that point, even though it was configurable in the
 template.
 
 Desafortunadamente, _todos_ los borradores del Proyecto Armonía incluyen una
-cláusula de "elección de ley". Espero que los que escriben los borradores
+cláusula de "elección de ley".[^1] Espero que los que escriben los borradores
 argumentarán en respuesta que la jurisdicción es una variable de configuración.
 No obstante, el problema es que la _compañía_ es la que decide el valor de esa
 variable, que casi siempre será la que no prefiera el desarrollador individual.
@@ -955,7 +958,7 @@ interés.
 Notas
 -----
 
-0- Los defensores del Proyecto Armonía reclamarán que su sección 5, "Renuncia
+[^0]: Los defensores del Proyecto Armonía reclamarán que su sección 5, "Renuncia
 consecuencial de daño", protege adecuadamente a los desarrolladores. Noto que
 deja afuera explícitamente a, por ejemplo, los daños estatutarios de la
 infracción de copyright. Además, no puede renunciarse a algunos tipos de daños
@@ -982,28 +985,25 @@ will use it, which means that if they violate the agreement, there's
 basically no way for you to get any damages from them, even if they their
 promise to keep the code copylefted.
 
-1*Note:* Earlier versions of this blog post conflated slightly “choice of
+[^1]: *Note:* Earlier versions of this blog post conflated slightly “choice of
 venue”: with “choice of law”. The wording has been cleared up to address
 this problem. Please comment or email me if you believe it's not adequately
 corrected.
 
-1- Versiones tempranas de este artículo mezclaron "elección de sede" con
+[^1]: *Nota:* Versiones tempranas de este artículo mezclaron "elección de sede" con
 "elección de ley". El fraseo ha sido aclarado para solucionar este problema.
 Por favor envíenmen comentarios o correo si creen que no ha sido corregido
 adecuadamente.
 
 
-  ------------------------------------------------------------------------
-
 [86] [Creative Commons License] This website and all documents on it are
 licensed under a [87] Creative Commons Attribution-Share Alike 3.0 United
-States License .
+States License.
 
 [Creative Commons License][86] Esta traducción y el artículo original se
 liberan bajo Creative Commons Atribución CompartirDerivadasIgual 3.0 de Estados
 Unidos.
 
- References:
 [1]:http://ebb.org/bkuhn/rss.xml
 [2]:http://ebb.org/bkuhn/blog/rss.xml
 [3]:http://identi.ca/bkuhn/
