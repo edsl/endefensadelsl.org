@@ -93,6 +93,7 @@ blockquote p {
 img {
     float: left;
     margin: 10px 10px 50px 10px;
+    max-width: 400px;
 }
 
 sup {
