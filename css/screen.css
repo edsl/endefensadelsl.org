@@ -1,15 +1,15 @@
 
 /* Reset */
 @import url('reset.css');
-/* Fuente Droid */
-@import url('droid.css');
+@import url('fonts/stylesheet.css');
 /* Oxymoron CSS framework*/
 @import url('oxymoron.css');
 
 body {
-    font-family: 'DroidSerifRegular';
+    font-family: Liberation Serif, LiberationSerifRegular, serif;
     width: 680px;
 }
+
 
 h1 {
     font-size: 500%;
@@ -18,7 +18,8 @@ h1 {
 h2 {
     font-size: 200%;
     font-weight: bold;
-    font-family: 'DroidSerifBold';
+    font-family: Liberation Serif Bold, LiberationSerifBold, serif;
+    margin: 40px 0 15px 0;
 }
 
 h4 {
@@ -26,19 +27,37 @@ h4 {
     margin: 40px auto 20px auto;
 }
 
+a {
+    text-decoration: none;
+    color: #4083A9
+}
+
 p {
     line-height: 150%;
     margin: 20px auto auto auto;
 }
 
+em {
+    font-style: italic
+}
+
 h1,
-p.about,
-p.credits,
-blockquote,
-ul,
-ol {
+blockquote {
     margin-top: 50px;
     margin-left: 50px;
+}
+
+h3 {
+    margin: 20px 0 0 0;
+}
+
+dl a {
+    color: black;
+    text-decoration: none;
+}
+
+dl a:hover {
+    color: #333
 }
 
 dd {
@@ -47,38 +66,16 @@ dd {
 
 dd,
 dt {
-    padding: 5px;
+    font-style: italic;
 }
 
 small {
     font-size: 80%;
-    font-family: 'DroidSerifRegular';
 }
 
 dt {
     font-weight: bold;
-}
-
-dt,
-dd.date {
-    display: inline;
-}
-
-em,
-dd.date,
-span.title,
-span.cite
-{
-    font-style: italic;
-    font-family: 'DroidSerifItalic';
-}
-
-dl.edition {
-    min-height: 300px;
-}
-
-dd.cover {
-    float: left;
+    margin: 10px 0 0 0;
 }
 
 blockquote:after {
@@ -93,7 +90,22 @@ blockquote p {
     padding-left: 100px;
 }
 
-p.credits {
-    font-size: 60%;
+img {
+    float: left;
+    margin: 10px 10px 50px 10px;
+}
+
+sup {
+    font-size: 80%;
+    vertical-align: super;
+    margin-right: 4px;
+}
+
+h1 sup {
+    font-size: 40%;
+}
+
+ol {
+    list-style-type: decimal;
 }
 
