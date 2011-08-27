@@ -3,7 +3,7 @@ Project Harmony Considered Harmful - Bradley M. Kuhn ( Brad ) ( bkuhn )
 Bradley M. Kuhn
 ---------------
 
-Proyecto Armonía considerado dañino
+Proyecto Harmony considerado dañino
 ===================================
 
 Thursday 7 July 2011 by Bradley M. Kuhn
@@ -14,9 +14,9 @@ we don't need. When I hear someone droning on about some new, wonderful
 thing, I have to worry that these folks are actually trying to market
 something to me.
 
-Mucha propaganda se diseña para convencernos de comprar o usar algo que no
-necesitamos. Cuando escucho a alguien zumbando sobre una cosa nueva
-y maravillosa, me preocupo pensando que esos tipos están tratando de venderme
+Mucha publicidad se diseña para convencernos de comprar o usar algo que no
+necesitamos. Cuando escucho a alguien zumbando sobre alguna nueva,
+maravillosa cosa, me preocupo pensando que esos tipos están tratando de venderme
 algo.
 
 Very soon, you're likely to see a marketing blitz for this thing called
@@ -26,12 +26,12 @@ named to market a “good feeling” about the project before even knowing what
 it is. (It's also got [9]serious [10]namespace [11]collision, [12]including
 with a project already in the software freedom community.
 
-Muy pronto, van a ver algo similar con una cosa llamada Proyecto Armonía
-(Project Harmony) que ha lanzado su versión 1.0 en plantillas de documentos.
-Incluso el nombre es marketing: no es realmente descriptivo, sino que trata de
-venderte una "buena onda" sobre el proyecto aun sin saber de qué se trata.
-(Además es una [seria][9] [colisión][10] de [nombres][11], [incluyendo][12]
-otro proyecto de software libre.)
+Muy pronto, es probable que vean una campaña de marketing para una cosa llamada
+Proyecto Harmony (que recientemente ha lanzado la versión 1.0 de sus plantillas
+de documentos). Incluso el nombre es marketing: no es realmente
+descriptivo, sino que trata de venderte una "buena onda" sobre el proyecto
+aun sin saber de qué se trata. (Además tuvo una [seria][9] [colisión][10] de
+[nombres][11], [incluso][12] con otro proyecto de software libre.)
 
 Project Harmony markets itself as fixing something that our community
 doesn't really consider broken. Project Harmony is a set of document
@@ -39,11 +39,11 @@ templates, primarily promulgated and mostly drafted by corporate lawyers,
 that entice developers to give control of their software work over to
 companies.
 
-El Proyecto Armonía se vende como reparación de algo que nuestra comunidad no
-considera roto. El Proyecto Armonía es un juego de plantillas de documentos,
-principalmente promulgadas y diseñadas por abogados corporativos, que intentan
-seducir a los desarrolladores a entregar el control de su trabajo a las
-compañías.
+El Proyecto Harmony se vende a sí mismo como reparación de algo que nuestra
+comunidad realmente no considera roto. El Proyecto HarmonyArmonía es un
+juego de plantillas de documentos, principalmente promulgadas y diseñadas
+por abogados corporativos, que intentan seducir a los desarrolladores a
+entregar el control de su trabajo a las compañías.
 
 My analysis below is primarily about how these agreements are problematic
 for individual developers. An analysis of the agreements in light of
@@ -51,7 +51,7 @@ companies or organizations using them between each other may have the same
 or different conclusions; I just haven't done that analysis in detail so I
 don't know what the outcome is.
 
-El siguiente análisis trata principalmente sobre cómo estos acuerdos son
+Mi análisis a continuación trata principalmente sobre cómo estos acuerdos son
 problemáticos para los desarrolladores individuales. Un análisis de los
 acuerdos a la luz de las compañías u organizaciones que los usen entre sí puede
 o no tener las mismas conclusiones, pero no puedo asegurarlo todavía.
@@ -67,15 +67,15 @@ in a pithy way. I nevertheless hope developers will take the time to read
 this before they sign a Project Harmony agreement, or — indeed — any CLA or
 ©AA./ ]
 
-[ A propósito, soy conciente que he fallado en proveer una versión corta
-rápidamente legible de este artículo. Intenté hacerlo dos veces y finalmente
-decidí que no puedo. Estos problemas son complejos y tenía que tomar una década
+[ A propósito, soy conciente que he fallado en proveer una versión TL;DR
+de este artículo. Intenté hacerlo dos veces y finalmente decidí que no puedo.
+Estos problemas son complejos y tenía que tomar una década
 de licenciamiento de software libre, políticas y conocimiento organizacional
 para articular completamente qué es lo que está mal con los acuerdos del
-Proyecto Armonía. También soy conciente que suena a "fue difícil de escribir,
+Proyecto Harmony. Me doy cuenta de que suena a "fue difícil de escribir,
 debería ser difícil de leer", pero no sé cómo resumir estos problemas
 gordianos. No obstante espero que los desarrolladores se tomen el tiempo de
-leer esto antes de firmar un acuerdo del Proyecto Armonía, o, de hecho,
+leer esto antes de firmar un acuerdo del Proyecto Harmony, o, de hecho,
 cualquier CLA o ©AA. ]
 
 Copyright Assignment That Lacks Real Assurances
