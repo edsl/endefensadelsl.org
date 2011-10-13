@@ -175,7 +175,23 @@ This text is particularly addressed to politically motivated artists, hackers
 and activists, not to evangelize a fixed position, but to contribute to an
 ongoing critical dialogue.
 
+
+# El comunismo par-a-par contra el estado capitalista cliente-servidor
+
 Peer-to-Peer Communism vs. The Client-Server Capitalist State
+
+La sociedad se compone de relaciones sociales. Estas forman las estructuras que
+la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
+entonces describirse en términos de relaciones sociales. Los militantes por el
+comunismo han descrito comunidades entre iguales; las redes de par-a-par
+implementan estas relaciones en su arquitectura. Del mismo modo, el capitalismo
+depende del privilegio y el control, características que en las redes
+informáticas sólo pueden ser ingeniados \[?\] centralizadamente como
+aplicaciones cliente-servidor. Los sistemas económicos dan forma a las redes
+que crean, y a la vez que las redes se integran cada vez más a la vida diaria,
+comienzan a formarla también. Resulta esencial producir una comprensión crítica
+de la economía política para poder comprender las tendencias emergentes en
+topologías de red y sus implicaciones sociales.
 
 Society is composed of social relations. These form the structures that
 constitute it. Computer networks, like economic systems, then may be described
@@ -188,6 +204,19 @@ and as networks become more integral to every day life, are in turn shaped by
 them. It is then essential to produce a critical understanding of political
 economy in order to comprehend emerging trends in network topology and their
 social implications.
+
+La historia de internet ilustra cómo se ha dado este proceso. La internet
+comenzó como una red que encarnaba las relaciones de un comunismo de pares; sin
+embargo, ha sido reconfigurada por el capitalismo en una topología
+cliente-servidor ineficiente y no libre. La existencia de redes de pares que
+permiten a los productores colaborar a escala global marcó el comienzo de
+nuevas formas de producción. Tal producción de pares ha estado hasta ahora
+contenida en creaciones intangibles e inmateriales, aunque tiene el potencial
+para extenderse a la producción material y convertirse en una amenaza para la
+existencia del capitalismo. Para que esto suceda, una alternativa al
+capitalismo de riesgo debe proveer los medios para adquirir y colocar
+eficientemente la propiedad colectiva requerida para construir redes libres
+y sociedades libres.
 
 The history of the internet illustrates how this process has unfolded. The
 internet started as a network that embodied the relations of peer-to-peer
@@ -202,13 +231,23 @@ capitalism needs to provide a means of acquiring and efficiently allocating the
 collectively owned material wealth required to build free networks and free
 societies.
 
+Necesitamos un comunismo de riesgo, una forma de lucha contra la continua
+expansión del capitalismo basado en la propiedad, un modelo para la
+autoorganización de los trabajadores inspirado por la topología de red
+par-a-par y los comunes pastoriles históricos.
+
 We need venture communism, a form of struggle against the continued expansion
 of property-based capitalism, a model for worker self-organization inspired by
 the topology of peer-to-peer networks and the historical pastoral commons.
 
 The Conditions of the Working Class on the Internet
 
+## Las condiciones de la clase trabajadora en la Internet
+
 The only way to change society is to produce and share differently.
+
+La única manera de cambiar la sociedad es producir y compartir de forma
+diferente.
 
 Capitalism has its means of self-reproduction: venture capitalism. Through
 their access to the wealth that results from the continuous capture of surplus
@@ -219,12 +258,30 @@ stolen, dead value of the past captures the unborn value of the future. Neither
 the innovators, nor any of the future workers in the organizations and
 industries they create, are able to retain the value of the contribution.
 
+El capitalismo tiene sus formas propias de auto-reproducción: el capitalismo de
+riesgo. A través del acceso a la riqueza que resulta de la captura continua de
+plusvalía, los capitalistas ofrecen a las nuevas generaciones de innovadores la
+chance de convertirse en _partners junior_ de su club, haciéndoles vender el
+futuro valor productivo de lo que crearon a cambio de la riqueza presente que
+necesitan para empezar. El valor robado, muerto, de las capturas pasadas en el
+valor no-nato del futuro. Ni los innovadores, ni ninguno de los trabajadores
+futuros en las organizaciones e industrias que creen, son capaces de retener el
+valor de su contribución.
+
 This ‘unretained’ value forms the wealth that goes on to capture the next wave
 of innovation. This captured wealth is applied by its private owners towards
 political control, to impose the interests of property owners on society at the
 expense of the interests of workers. For innovation to be born and allowed to
 develop in, and for, the common wealth, we need venture communism. We must
 develop ways to create and to reproduce commons-based productive relationships.
+
+Este valor 'no retenido' forma la riqueza que se utiliza para capturar la
+siguiente ola de innovación. Esta riqueza capturada es aplicada por sus dueños
+privados en el control político, para imponer los intereses de los dueños de la
+propiedad a la sociedad a expensas de los intereses de los trabajadores. Para
+que la innovación nazca y se desarrolle y para el bien común, necesitamos un
+comunismo de riesgo. Debemos desarrollar formas de crear y reproducir
+relaciones de producción basadas en los comunes.
 
 Whether the products of labor are captured by commons-based producers or by
 capitalist appropriators will determine the kind of society we will have, one
@@ -578,6 +635,8 @@ control all relationships.
 
 Trapped in the World Wide Web
 
+## Atrapados en el World Wide Web
+
 The revolutionary possibilities of the early internet lay particularly in the
 capacity for direct interaction between users. As such, the internet promised
 to be a platform where freedom of speech and association was built into the
@@ -923,6 +982,8 @@ know it, but also the chance to remake society in its P2P image.
 
 Peer Production and the Poverty of Networks
 
+## Producción de pares y la Pobreza de las Redes
+
 A freer internet cannot exist within the present system of capitalist
 financing. Arguments for the clear technical superiority of distributed
 technologies over centralized ones have not been the deciding factors in the
@@ -1090,6 +1151,8 @@ communism is such a way.
 
 Venture Communism
 
+## Comunismo de riesgo
+
 Venture communism provides a structure for independent producers to share
 a common stock of productive assets, allowing forms of production formerly
 associated exclusively with the creation of immaterial value, such as free
@@ -1219,6 +1282,10 @@ for change that is far greater than the modest goals of venture communism.
 
 Workers of the world unite! You have nothing to lose but your chains. You have
 a world to win.
+
+
+% LA PRIMERA PARTE DE LA TRADUCCION TERMINA ACA
+
 
 The Manifesto of the Telekommunisten Network
 
