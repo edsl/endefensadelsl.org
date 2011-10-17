@@ -296,6 +296,20 @@ succeed, the space, instruments and resources needed must be made available as
 a common stock, and employed in production by a dispersed community of peers,
 producing and sharing as equals.
 
+La forma en que el producto del trabajo sea apropiado, por productores basados
+en los comunes o por apropiadores capitalistas, determinará el tipo de sociedad
+que tendremos, una basada en la cooperación y el compartir, o una basada en la
+fuerza y la explotación. La lucha del comunismo de riesgo contra la
+estratificación de clase no podría ser más vital. Nuestra sociedad no sólo se
+enfrenta las viejas aflicciones de la pobreza y la injusticia, también se
+vuelve claro que los niveles de producción requeridos para sostener la
+acumulación de una pequeña élite nos lleva constantemente a la guerra,
+e inevitablemente hacia la catástrofe ambiental. Fracasar en lograr una
+sociedad más igualitaria tiene consecuencias más graves de las que nos podemos
+permitir. Para triunfar, los espacios, instrumentos y recursos necesarios deben
+estar disponibilizados como un capital común y ser empleados en la producción
+por una comunidad dispersa de pares, produciendo y compartiendo como iguales.
+
 Politics is not a battle of ideas; it is a battle of capacities. Ideas are
 powerful, and their development and implementation can certainly have
 a political impact; however, the development and implementation of ideas is
@@ -307,12 +321,31 @@ their base, economic capacities. Change then requires the application of enough
 wealth to overcome the wealth of those who resist such a change. Such wealth
 arises only from production.
 
+La política no es una batalla de ideas; es una batalla de capacidades. Las
+ideas son poderosas, y su desarrollo e implementación ciertamente puede tener
+un impacto político; sin embargo, el desarrollo e implementación de las ideas
+no está determinado por su valor intrínseco, sino por el poder relativo de
+aquellos que se benefician de la idea contra aquellos a los que amenaza. La
+capacidad de cambiar un orden social requiere los medios de superar a las
+capacitades competidoras por, entre otras cosas, la comunicación y el lobby.
+Estas capacidades son, en su base, capacidades económicas. El cambio requiere
+entonces la aplicación de riqueza suficiente para superar la de aquellos que
+resisten ese cambio. Tal riqueza sólo surge de la producción.
+
 New ways of producing and sharing, then, are a precondition of any change in
 the social order. These new methods of production and sharing require the
 creation of new kinds of relationships, new productive relations, to constitute
 a new economic structure that is able to give rise to a new kind of society. No
 social order, no matter how entrenched and ruthlessly imposed, can resist
 transformation when new ways of producing and sharing emerge.
+
+Las nuevas formas de producir y compartir, entonces, son la precondición de
+cualquier cambio en el orden social. Estos nuevos métodos de producir
+y compartir requieren la creación de nuevas formas de relaciones, nuevas
+relaciones de producción, para constituir una nueva estructura económica capaz
+de hacer surgir un nuevo tipo de sociedad. Ningún orden social, sin importar
+cuan fuerte y despiadadamente impuesto, puede resistir su transformación cuando
+emergen nuevas formas de producir y compartir.
 
 To reiterate, society is composed of social relationships, relationships that
 include relations of production. These relations of production constitute the
@@ -326,6 +359,19 @@ labor of others can impose laws and social institutions according to their
 interests. Those who are not able to retain control of the product of their own
 labor are not able to resist.
 
+Para reiterar, la sociedad está compuesta de relaciones sociales, relaciones
+que incluyen relaciones de producción. Estas relaciones de producción
+constituyen la estructura económica de la sociedad, que hacen surgir
+estructuras legales y políticas que luego la definen. Las relaciones entre
+compradores y vendedores, inquilinos y dueños, empleador y empleador, aquellos
+que nacen en la riqueza y el privilegio y aquellos que nacen en la precariedad
+y la lucha, todos son producto de estas relaciones de producción. Estas
+relaciones determinan cómo se producen y se comparten las cosas en la sociedad.
+Aquellos que son capaces de controlar la circulación del producto del trabajo
+de otros pueden imponer leyes e instituciones sociales que protegen sus
+intereses. Aquellos que no son capaces de retener el control del producto de su
+trabajo no son capaces de resistirlas.
+
 Capitalism depends on the appropriation of value for its subsistence and
 growth. The disingenuous rhetoric of the ‘free market economy’ is a smoke
 screen to justify a system of privilege and exploitation, perhaps better called
@@ -338,6 +384,18 @@ like labor, would never be able to earn any more than the cost of the
 production of provision. There could be no class that is exempt from working,
 as there would be no income to sustain such a class.
 
+El capitalismo depende de la apropiación de valor para subsistir y crecer. La
+falsa retórica de la "economía de libre mercado" es una pantalla de humo para
+justificar un sistema de privilegio y explotación, la tal vez mejor llamada
+"economía de casino". Ciertamente existen algunos conspicuos ganadores, pero
+las chances siempre están a favor de la casa. Cualquier intento organizado de
+vencer las chances será excluido, tal vez violentamente. En una economía libre
+genuina, la competencia entre productores reduciría el precio de todo al nivel
+más bajo. Si la mercancía se comercializa en "mercado" verdaderamente perfecto,
+entonces la tierra y el capital, como el trabajo, jamás serían capaces de ganar
+más que el costo de producción. No habría clase alguna exenta de trabajar,
+porque no habría ingreso capaz de sostenerla.
+
 For a capitalist class to exist, the market must be rigged, and indeed, all
 markets are. Capitalism must increase the price of capital by withholding it
 from labor. In reality, the ‘free market’ is an imposition by property owners
@@ -349,6 +407,19 @@ the capitalists. Capitalism, then, could not exist in a free market. The whole
 idea of the ‘free market’ is part of the mythology of capitalism. It is not
 possible within capitalism and just as unlikely to exist without it.
 
+Para que exista una clase capitalista, el mercado debe ser manipulado, y en
+efecto, todos los mercados lo son. El capitalismo debe incrementar el precio
+del capital reteniéndolo del trabajo. En realidad, el "libre mercado" es una
+imposición de los dueños de la propiedad a los trabajadores, mientras retienen
+sus propios privilegios. El capital necesita mantener el precio del trabajo lo
+suficientemente bajo para prevenir que los trabajadores, como clase, sean
+capaces de retener lo suficiente de sus salarios para adquirir propiedad. Si
+los trabajadores adquirieran propiedad podrían dejar de vender su trabajo a los
+capitalistas. El capitalismo, entonces, no puede existir en un mercado libre.
+La idea de un "libre mercado" es parte de la mitología del capitalismo. No es
+posible dentro del capitalismo así como poco probable que exista sin ella
+\[?\].
+
 If ‘freed’ from the coercion of profit-seeking capitalists, producers would
 produce for social value, not for profits, as they do in their private and
 family lives, and as they do in non-capitalist communities. This is not to say
@@ -356,6 +427,15 @@ that a free society would not have competition, or that its members would not
 seek to benefit from their own labor. Indeed, the division of labor required in
 a complex society makes exchange and reciprocity necessary. However, the
 metaphor of ‘the market’ as it is currently used would no longer hold.
+
+"Liberados" de la coerción de los capitalistas en busca de lucro, los
+productores podrían producir por el valor social, no por el lucro, como lo
+hacen en sus vidas privadas y familiares, y como lo hacen en comunidades no
+capitalistas. Esto no quiere decir que en una sociedad libre no exista la
+competencia, o que sus miembros no buscarán beneficiarse de su trabajo. De
+hecho, la división del trabajo requerida en una sociedad compleja hace
+necesarios el intercambio y la reciprocidad. No obstante, la metáfora de "el
+mercado" tal como es usada en la actualidad no va a sostenerse.
 
 The ‘market economy’ is, by definition, a surveillance economy, where
 contributions to production and consumption must be measured in minute detail.
@@ -366,6 +446,17 @@ maximize profit from ownership, so often the driving force behind irrational
 and destructive forms of production, would give way to a much stronger motive
 for production: doing work that has direct benefits for our lives and our
     society, production that fulfills real world needs and desires.
+
+La "economía de mercado" es, por definición, una economía de la vigilancia,
+donde las contribuciones a la producción y el consumo deben medirse en detalle.
+Es una economía de contadores y guardias de seguridad. La contabilidad del
+valor de cambio en pequeños y reductoras listas de transacciones valoradas
+individualmente debe superarse por formas de intercambio más fluidas
+y generalizadas. El motivo por el que se maximiza el beneficio de la propiedad,
+que es tan a menudo la fuerza motriz detrás de formas de producción
+irracionales y destructivas, dará paso a un motivo de producir mucho más
+fuerte: realizar trabajo con beneficio directo sobre nuestras videas y nuestra
+sociedad, una producción que cumpla necesidades y deseos del mundo real.
 
 Capitalist apologists will insist that these motives are one and the same, that
 profit is simply the financial reward for producing what the community needs,
@@ -378,12 +469,32 @@ practices, that do not contribute to the fulfillment of community needs. When
 workers are able to form their own capital, and thereby retain the entire
 product of their labor, the motivations to pursue such practices fade.
 
+Los apólogos del capitalismo insistirán que esos motivos son uno y el mismo,
+que el beneficio es simplemente la recompensa monetaria de producir lo que la
+comunidad necesita, pero esta relación es por lo menos tenua. Mientras que el
+abultado precio de los bienes de baja ocurrencia dirige las actividades
+productivas hacia áreas particulares, la extracción de ganancias de esta
+producción por parte de los dueños de la propiedad hace muy poco por nuestras
+necesidades sociales. Cuando la ganancia es el motivo, el precio puede
+aumentarse o los costos reducirse a través de prácticas de negocio predatorias,
+explotadoras y anticompetitivas, que no contribuyen al cumplimiento de las
+necesidades comunitarias. Cuando los trabajadores son capaces de formar su
+propio capital, las motivaciones para perseguir esas prácticas se desvanecen.
+
 Without the need to account for and measure our consumption and production to
 appease the imposers of capitalist control, workers in a free society may not
 bother producing exclusively to maximize profit within a ‘market economy’.
 Instead, they may decide to focus their efforts on producing what they want and
 what their community needs, and are motivated to share the products of their
 labor out of mutual respect. This type of economy does not resemble a ‘market’.
+
+Sin la necesidad de contabilizar y medir nuestros consumo y producción para
+apaciguar a los que imponen el control capitalista, los trabajadores en una
+sociedad libre no se molestarían en producir exclusivamente para maximizar la
+ganancia dentro de una "economía de mercado". En su lugar, podrían decidir
+enfocar sus esfuerzos en producir lo que quieren y lo que su comunidad
+necesita, y están motivados a compartir los productos de su labor sólo por
+respeto mutuo. Este tipo de economía no se parece a un "mercado".
 
 The ‘market’ has become such a pervasive metaphor for ‘free exchange’ that the
 whole of society is frequently, and uncritically described in terms of
@@ -399,6 +510,21 @@ according their mutual desires within the context of a common platform, not
 centrally controlled by any of them, but composed of their own voluntary
 interconnections.
 
+El "mercado" se ha convertido en una metáfora tan penetrante del "intercambio
+libre" que la sociedad entera es frecuente y acríticamente descrita en términos
+un mercado físico. Un mercado físico no es un espacio libre. El control de la
+ubicación física del mercado ha sido siempre el dominio de las jerarquías y la
+autoridad, y la proximidad al mercado físico es el ejemplo de manual del
+ingreso no ganado, referido por los economistas como la "renta económica". El
+puesto en el mercado es la manifestación física de la división entre productor
+y consumidor. Ninguna de estas parece ser una característica esencial de una
+sociedad libre. En lugar de un "libre mercado" idealizado e imposible, una
+economía de los trabajadores se conceptualizaría mejor como una "economía de
+red", donde los participantes independientes intercambian de acuerdo a sus
+deseos mutuos dentro del contexto de una plataforma común, no controlada
+centralizadamente por ninguno de ellos, pero compuesta de sus interrelaciones
+voluntarias.
+
 Capitalism depends on the state to impose control within the network economy,
 particularly to control relations through authorized channels, and thereby
 capture value that would otherwise be retained by its producers. Points of
@@ -407,6 +533,15 @@ economy’ is then the imposition of the ‘unfree’ terms of a physical market
 onto society broadly. The distinction between producer and consumer must be
 enforced so that circulation can be controlled. Hierarchy and authority must
 have privileged access.
+
+El capitalismo depende del Estado para imponer control dentro de la economía de
+red, particularmente para controlar las relaciones a través de canales
+autorizados, y por lo tanto capturar el valor que de otra forma sería retenido
+por los productores. La "economía de mercado" es entonces la imposición de los
+términos "no libres" del mercado físico a la sociedad en su conjunto. La
+distinción entre productor y consumidor debe aplicarse para que la circulación
+puede ser controlada. Sólo la jerarquía y la autoridad deben tener acceso
+privilegiado.
 
 The absurd and reductionist idea that we are to conceive of society itself as
 a marketplace is born from the imagination of capitalism, a paradise for the
@@ -419,6 +554,18 @@ within the state’s boundaries. Once the network expands beyond the state it ha
 the potential to become a threat to the state itself, by undermining the
 territorially-based capture of value.
 
+La idea absurda y reduccionista de que debemos concebir a la sociedad misma
+como un mercado nace de la imaginación del capitalismo, un paraíso para los
+extorsionistas y corredores de apuestas. Los medios para imponer las relaciones
+del mercado a la sociedad entera son provistos por el Estado. El rol
+tradicional del Estado como mediador entre clases en nombre de la clase
+dominante depende de su soberanía territorial. La habilidad del Estado para
+imponer control sobre la economía de red depende del hecho de que los
+participantes actúan principalmente dentro de los límites del Estado. Una vez
+que la red se expanda más allá del Estado tendrá el potencial para convertirse
+en una amenaza para el Estado mismo, al deteriorar la captura de valor basada
+en el territorio.
+
 The state’s ability to grant title and privilege is based on its ability to
 enforce such advantages through its monopoly on the legitimate use of violence.
 Communications based on global peer networks have a chance to resist and evade
@@ -426,6 +573,14 @@ the violence contained within such hierarchies. Social relations among
 transnational, trans-local communities operate within an extra-territorial
 space, one where the operations of title and privilege could give way to
 relations of mutual interest and negotiation.
+
+La habilidad del Estado para garantizar títulos y privilegios se basa en su
+habilidad para asegurar tales ventajas a través del monopolio legitimado de la
+violencia. Las comunicaciones basadas en redes globales de pares tienen una
+chance para resistir y evadir la violencia contenida en tales jerarquías. Las
+relaciones sociales entre comunidades transnacionales, translocales, operan
+dentro de un espacio extraterritorial, uno donde las operaciones de título
+y privilegio pueden dar lugar a relaciones de interés mutuo y negociación.
 
 Modes of production employing structures similar to peer-to-peer networks have
 relations reminiscent of the historic pastoral commons, long gone commonly held
@@ -435,6 +590,16 @@ located in a single space, but rather spans the planet, offering our society
 hope for a way out from the class stratification of capitalism by undermining
 its logic of control and extraction. Examples of such a potential mode of
 production can be readily found.
+
+Los modos de producción que emplean estructuras similares a las redes de
+par-a-par poseen relaciones reminiscentes a las de los comunes pastoriles
+históricos, tierras tenidas en común usadas para mantener el ganado y regulado
+por derechos antiguos, pero predando las leyes y formas de gobierno modernas.
+Los comunes modernos, sin embargo, no se encuentran en un sólo lugar, sino que
+abarcan todo el planeta, ofreciendo esperanza a nuestra sociedad, un camino de
+salida a la estratificación de clase del capitalismo al deteriorar su lógica de
+control y extracción. Ejemplos de tal modo de producción en potencia pueden
+encontrarse a montones.
 
 Peer networks, such as the internet, and all the material and immaterial inputs
 that keep them running, serve as a common stock that is used independently by
@@ -449,6 +614,21 @@ whose incomes depend on controlling reproduction. Mass transportation and
 international migration have created distributed communities who maintain
 ongoing interpersonal and often informal economic relationships across national
 borders.
+
+Las redes de pares, como la Internet, y toda la entrada material e inmaterial
+que la mantiene corriendo, sirven como un capital común que puede ser usado
+independientemente por mucha gente. El Software Libre, cuya producción
+y distribución depende frecuentemente de redes de pares, es un capital común
+disponible para todos. El Software Libre es producido por productores diversos
+y distribuidos que contribuyen a él porque ganan mayor valor al usar el
+software para su propia producción que el valor de sus contribuciones
+individuales al software. Los populares ataques a las royalties y cuotas
+(rentas) capturadas por la industría discográfica y fílmica por parte de los
+usuarios de tecnologías de compartición de archivos nos muestran las
+dificultades que enfrentan aquellos cuyos ingresos dependen del control de la
+reproducción. El transporte masivo y la migración internacional han creado
+comunidades distribuidas que mantienen relaciones interpersonales y a menudo
+informalmente económicas a través de los li
 
 All of these are examples of new productive relationships that transcend
 current property-based relations and point to a potential way forward.
