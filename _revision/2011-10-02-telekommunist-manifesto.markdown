@@ -1162,9 +1162,7 @@ know it, but also the chance to remake society in its P2P image.
 
 Peer Production and the Poverty of Networks
 
-## Producción de pares y la Pobreza de las Redes
-
-La Producción entre Iguales y la Pobreza de las Redes
+## La Producción entre Pares y la Pobreza de las Redes
 
 A freer internet cannot exist within the present system of capitalist
 financing. Arguments for the clear technical superiority of distributed
@@ -1178,7 +1176,20 @@ understood; the numerically small class of capitalists are the beneficiaries of
 an unfair distribution of productive assets that allows them to capture the
 wealth produced by the masses of property-less workers.
 
-Una Internet mas libre no puede existir dentro del actual sistema de financiamiento capitalista. Argumentos en pro de la clara superioridad técnica de las tecnologías distribuídas sobre las centralizadas, no han sido factores decisivos en el desarrollo, en última instancia, de nuestra infraestructura de comunicación global, que se ha consolidado como una infraestructura restrictiva y regulada. El factor determinante es, como siempre, el hecho de que aquellos cuyos intereses estan asegurados por la restricción de la libertad, tienen más riqueza a su disposición para presionar implacablemente hacia sus fines, que la riqueza disponible para resistirse a ellos.  Las razones económicas de lo anterior son bien entendidas; la clase numéricamente pequeña de capitalistas son los beneficiarios de la injusta distribución de los activos productivos que les permiten capturar la riqueza producida por las masas de trabajadores sin propiedad.
+Una Internet mas libre no puede existir dentro del actual sistema de
+financiamiento capitalista. Argumentos en pro de la clara superioridad
+técnica de las tecnologías distribuídas sobre las centralizadas, no
+han sido factores decisivos en el desarrollo, en última instancia, de
+nuestra infraestructura de comunicación global, que se ha consolidado
+como una infraestructura restrictiva y regulada. El factor
+determinante es, como siempre, el hecho de que aquellos cuyos
+intereses estan asegurados por la restricción de la libertad, tienen
+más riqueza a su disposición para presionar implacablemente hacia sus
+fines, que la riqueza disponible para resistirse a ellos.  Las razones
+económicas de lo anterior son bien entendidas; la clase numéricamente
+pequeña de capitalistas son los beneficiarios de la injusta
+distribución de los activos productivos que les permiten capturar la
+riqueza producida por las masas de trabajadores sin propiedad.
 
 If we want to have a say in the way communication networks are operated, or if
 we want to make any social reforms whatsoever, we must start by preventing
@@ -1193,7 +1204,20 @@ sabotage or simply ignore them. Rather, it is our new ways of working together
 and sharing across national boundaries that have the potential to threaten the
 capitalist order and bring about a new society.
 
-Si queremos tener voz en la forma en como las redes de comunicaciones son operadas, o si queremos hacer cualquier reforma social, debemos comenzar por no permitir que los dueños de la propiedad conviertan nuestra productividad en riqueza acumulada. La riqueza utilizada para imponer restricciones a nuestras libertades es la riqueza que nos han quitado. Sin nosotros no tendrían fuente de riqueza.  Ni siquiera toda la riqueza acumulada durante siglos de explotación no puede salvar a la elite económica si no fueran capaces de continuar capturando la riqueza actual. El valor del futuro es mucho mayor que el del pasado. Nuestras ideas sobre topología de redes finalmente no son amenaza para el capitalismo, que siempre las puede co-optar, sabotear o simplemente ignorarlas.  Más bien, son nuestras nuevas formas de trabajar y compartir a través de fronteras nacionales las que tienen el potencial de amenazar el orden capitalista y abrir paso a una nueva sociedad.
+Si queremos tener voz en la forma en como las redes de comunicaciones
+son operadas, o si queremos hacer cualquier reforma social, debemos
+comenzar por no permitir que los dueños de la propiedad conviertan
+nuestra productividad en riqueza acumulada. La riqueza utilizada para
+imponer restricciones a nuestras libertades es la riqueza que nos han
+quitado. Sin nosotros no tendrían fuente de riqueza.  Ni siquiera toda
+la riqueza acumulada durante siglos de explotación no puede salvar a
+la elite económica si no fueran capaces de continuar capturando la
+riqueza actual. El valor del futuro es mucho mayor que el del pasado.
+Nuestras ideas sobre topología de redes finalmente no son amenaza para
+el capitalismo, que siempre las puede co-optar, sabotear o simplemente
+ignorarlas.  Más bien, son nuestras nuevas formas de trabajar y
+compartir a través de fronteras nacionales las que tienen el potencial
+de amenazar el orden capitalista y abrir paso a una nueva sociedad.
 
 Often discussions of the productive relations in free software projects and
 other collaborative projects such as Wikipedia attempt to bottle up
@@ -1215,7 +1239,29 @@ meaning that producers do not receive direct remuneration for what they have
 produced since their products are available for free. For example, users of
 free software are not required to compensate the original developers.
 
-Las frecuentes discusiones sobre las relaciones productivas, en los proyectos de software libre y otros proyectos colaborativos como Wikipedia, intentan embotellar la producción basada en lo comun y atraparla dentro de la esfera de la producción inmaterial e intangible, restringiendola a un dominio en el que no puede afectar la distribución de la riqueza, y por lo tanto desempenar un papel en el conflicto de clases. Yochay Benkler, profesor de Estudios Legales Empresariales en la Escuela de Leyes de Harvard, acuñó el término "produccion entre iguales" para describir la forma en que el software, los articulos de Wikipedia y otros trabajos similares son producidos. Limitando su análisis a la llamada 'economía de la información en red', la novedad de la producción entre iguales como es entendida por Benkler y muchos otros es que la propiedad en el patrimonio común es 'propiedad no rival', que puede ser consumida permitiendo a otros consumirla al mismo tiempo. Esta propiedad no rival puede incluir la transmision de radio y video en Internet, o cualquier otro recurso transferible o accesible por red, como el software libre.  Tal propiedad no tiene virtualmente nigún costo de reproducción. Otra característica distintiva del concepto limitado de produccion entre iguales de Benkler es que los productores no reciben remuneración directa por lo que han producido, ya que sus productos estan disponibles sin nigún costo.  Por ejemplo, a los usuarios de software libre no se les requiere compensar a los desarrolladores originales.
+Las discusiones frecuentes sobre las relaciones productivas en los
+proyectos de software libre y otros proyectos colaborativos como
+Wikipedia, intentan embotellar la producción basada en lo comun y
+atraparla dentro de la esfera de la producción inmaterial e
+intangible, restringiendola a un dominio en el que no puede afectar la
+distribución de la riqueza, y por lo tanto desempenar un papel en el
+conflicto de clases. Yochay Benkler, profesor de Estudios Legales
+Empresariales en la Escuela de Leyes de Harvard, acuñó el término
+"produccion entre iguales" para describir la forma en que el software,
+los articulos de Wikipedia y otros trabajos similares son producidos.
+Limitando su análisis a la llamada 'economía de la información en
+red', la novedad de la producción entre iguales como es entendida por
+Benkler y muchos otros es que la propiedad en el patrimonio común es
+'propiedad no rival', que puede ser consumida permitiendo a otros
+consumirla al mismo tiempo. Esta propiedad no rival puede incluir la
+transmision de radio y video en Internet, o cualquier otro recurso
+transferible o accesible por red, como el software libre.  Tal
+propiedad no tiene virtualmente nigún costo de reproducción. Otra
+característica distintiva del concepto limitado de produccion entre
+iguales de Benkler es que los productores no reciben remuneración
+directa por lo que han producido, ya que sus productos estan
+disponibles sin nigún costo.  Por ejemplo, a los usuarios de software
+libre no se les requiere compensar a los desarrolladores originales.
 
 There is no denying that Benkler’s wealthy network has a lot to offer. The
 value of this information commons to its users is fantastic, as evidenced by
@@ -1230,7 +1276,20 @@ obtain one from anybody that has one. But if what they produce has no
 exchange-value, how can the peer producers be able to acquire the material
 needs for their own subsistence?
 
-Nadie niega que la red de riqueza de Benkler tiene mucho que ofrecer. El valor de este banco comun de información para sus usuarios es fantástico, como ha sido evidenciado por los millones que, por ejemplo, usan software libre, Wikipedia, comunicaciones en línea y redes sociales. Sin embargo, si la prodicción por pares basada en el bien común es limitada exclusivamente a un acervo común hecho de propiedad digital, virtualmente sin ningún costo de reproducción, como puede el valor de uso ser traducido en valor de cambio ? Donde está el dinero para pagar la producción de esas cosas valiosas ? Algo que no tiene costos de reproducción no puede tener valor de cambio en el contexto del libre cambio. Cualquiera que quiera una copia puede obtenerla de cualquiera que tenga una. Pero si lo que producen no tiene valor de cambio, como pueden los demás productores ser capaces de adquirir los bienes materiales necesarios para su subsistencia ?
+Nadie niega que la red de riqueza de Benkler tiene mucho que ofrecer.
+El valor de este banco comun de información para sus usuarios es
+fantástico, como ha sido evidenciado por los millones que, por
+ejemplo, usan software libre, Wikipedia, comunicaciones en línea y
+redes sociales. Sin embargo, si la prodicción por pares basada en el
+bien común es limitada exclusivamente a un acervo común hecho de
+propiedad digital, virtualmente sin ningún costo de reproducción, como
+puede el valor de uso ser traducido en valor de cambio ? Donde está el
+dinero para pagar la producción de esas cosas valiosas ? Algo que no
+tiene costos de reproducción no puede tener valor de cambio en el
+contexto del libre cambio. Cualquiera que quiera una copia puede
+obtenerla de cualquiera que tenga una. Pero si lo que producen no
+tiene valor de cambio, como pueden los demás productores ser capaces
+de adquirir los bienes materiales necesarios para su subsistencia ?
 
 The wealthy network exists within the context of a poor planet. The causes of
 poverty are not a lack of culture or information, but the direct exploitation
@@ -1246,7 +1305,22 @@ of the information commons. Whatever exchange value may be derived from the
 information commons, will always be captured by the owners of real property,
 which lies outside the commons.
 
-La red de riqueza existe dentro del contexto de un planeta pobre. Las causas de la pobreza no son la falta de cultura o información, sino la explotación directa de la clase productora por la clases dueñas de la propiedad.  La fuente de pobreza no son los costos de reproducción sino la renta económica extraída, la plusvalía apropiada a través de forzar a los productores a aceptar, como su salario, menos que el producto de su trabajo, y negándoles el acceso independiente a los medios de producción. Siempre y cuando la producción basada en el bien común sea aplicada únicamente al patrimonio común de la información, mientras el modo de producción capitalista siga dominando la producción material de la riqueza, los dueños de la propiedad material continuarán apropiandose de la riqueza marginal creada como resultado de la productividad del patrimonio común de la información. Cualquiera sea el intercambio de valor que se derive de la información común, este sera siempre capturado por los dueños de la propiedad real, que se encuentra fuera del bien común.
+La red de riqueza existe dentro del contexto de un planeta pobre. Las
+causas de la pobreza no son la falta de cultura o información, sino la
+explotación directa de la clase productora por la clases dueñas de la
+propiedad.  La fuente de pobreza no son los costos de reproducción
+sino la renta económica extraída, la plusvalía apropiada a través de
+forzar a los productores a aceptar, como su salario, menos que el
+producto de su trabajo, y negándoles el acceso independiente a los
+medios de producción. Siempre y cuando la producción basada en el bien
+común sea aplicada únicamente al patrimonio común de la información,
+mientras el modo de producción capitalista siga dominando la
+producción material de la riqueza, los dueños de la propiedad material
+continuarán apropiandose de la riqueza marginal creada como resultado
+de la productividad del patrimonio común de la información. Cualquiera
+sea el intercambio de valor que se derive de la información común,
+este sera siempre capturado por los dueños de la propiedad real, que
+se encuentra fuera del bien común.
 
 For peer production to have any effect on general material wealth it has to
 operate within the context of an overall system of goods and services, where
@@ -1257,7 +1331,17 @@ creating a trap, ensuring the value created in the peer economy is appropriated
 by property privilege. We have found Benkler standing on his head, and we will
 need to redefine peer production to put his head above his feet again.
 
-Para que la producción entre pares tenga algún efecto en la riqueza material general, tiene que operar dentro del contexto de todo el sistema de bienes y servicios, donde tanto los medios de producción físicos como los virtuales están disponibles en el acervo común de la producción entre iguales.  Al establecer una producción entre iguales únicamente en el contexto del patrimonio común de la informacion, Blenkler esta creando una trampa, asegurándose de que el valor creado en la economía entre pares sea apropiado por el privilegio de la propiedad.  Encontramos a Benkler parado de cabeza, y necesitamos redefinir la produccion entre iguales para colocar su cabeza sobre sus pies de nuevo.
+Para que la producción entre pares tenga algún efecto en la riqueza
+material general, tiene que operar dentro del contexto de todo el
+sistema de bienes y servicios, donde tanto los medios de producción
+físicos como los virtuales están disponibles en el acervo común de la
+producción entre iguales.  Al establecer una producción entre iguales
+únicamente en el contexto del patrimonio común de la informacion,
+Blenkler esta creando una trampa, asegurándose de que el valor creado
+en la economía entre pares sea apropiado por el privilegio de la
+propiedad.  Encontramos a Benkler parado de cabeza, y necesitamos
+redefinir la produccion entre iguales para colocar su cabeza sobre sus
+pies de nuevo.
 
 It is not the production in immaterial, non-reciprocal production that is
 immaterial. Computers and networks, and developers and their places of work and
@@ -1273,7 +1357,22 @@ include the subsistence costs of its labor contributors, to, at a minimum,
 ‘enable the laborers, one with another, to subsist and to perpetuate their
 race’, in the words of Ricardo.xxiii
 
-La producción no es la inmaterial, es la producción no recíproca la que es inmaterial. Computadores, redes, desarrolladores, sus lugares de residencia y trabajo son muy materiales y requieren mantenimiento material. Lo que es inmaterial es la distribución. La información digital, sea código fuente o trabajo cultural, se puede multiplicar y enviar por las redes globales en fracciones de segundos, y aún su producción sigue siendo un asunto bastante material.  Si la produccion entre iguales puede producir sólo bienes inmateriales como el software, y si los productores no obtienen nada a cambio por esa producción, entonces esa forma de 'produccion' no tiene derecho a ser llamada producción en lo absoluto. Primero que todo cualquier modo de producción debe dar cuenta de sus insumos materiales o esta se desvanecerá. En estos insumos se deben incluir los costos de subsistencia de quienes contribuyeron con su trabajo, para, al menos, 'permitir a los trabajadores, uno con otro, subsistir y perpetuar su raza', en las palabras de Ricardo XXIII.
+La producción no es la inmaterial, es la producción no recíproca la
+que es inmaterial. Computadores, redes, desarrolladores, sus lugares
+de residencia y trabajo son muy materiales y requieren mantenimiento
+material. Lo que es inmaterial es la distribución. La información
+digital, sea código fuente o trabajo cultural, se puede multiplicar y
+enviar por las redes globales en fracciones de segundos, y aún su
+producción sigue siendo un asunto bastante material.  Si la produccion
+entre iguales puede producir sólo bienes inmateriales como el
+software, y si los productores no obtienen nada a cambio por esa
+producción, entonces esa forma de 'produccion' no tiene derecho a ser
+llamada producción en lo absoluto. Primero que todo cualquier modo de
+producción debe dar cuenta de sus insumos materiales o esta se
+desvanecerá. En estos insumos se deben incluir los costos de
+subsistencia de quienes contribuyeron con su trabajo, para, al menos,
+'permitir a los trabajadores, uno con otro, subsistir y perpetuar su
+raza', en las palabras de Ricardo XXIII.
 
 
 Immaterial, non-reciprocal production cannot do so, since to produce free
@@ -1285,7 +1384,15 @@ production than a charity soup kitchen or socialized medicine. It is simply
 a super-structural phenomenon that has another mode of production as its base,
 capitalism.
 
-La producción inmaterial, no-recíproca no puede hacerlo, pues para producir software libre, cultura libre o sopa libre, los productores deben obtener su subsistencia de alguna otra fuente, y por lo tanto la producción inmaterial y no recíproca no es una forma de producción en lo absoluto, sólo un caso especial de distribución dentro de otro modo de producción.  La producción inmaterial y no recíproca no es más una forma de producción que una cocina de caridad o la medicina socializada.  Es simplemente un fenómeno super-estructural que tiene otro modo de producción como base, el capitalismo.
+La producción inmaterial, no-recíproca no puede hacerlo, pues para
+producir software libre, cultura libre o sopa libre, los productores
+deben obtener su subsistencia de alguna otra fuente, y por lo tanto la
+producción inmaterial y no recíproca no es una forma de producción en
+lo absoluto, sólo un caso especial de distribución dentro de otro modo
+de producción.  La producción inmaterial y no recíproca no es más una
+forma de producción que una cocina de caridad o la medicina
+socializada.  Es simplemente un fenómeno super-estructural que tiene
+otro modo de producción como base, el capitalismo.
 
 Rather than placing emphasis on the immaterial distribution of what is produced
 by current examples of peer production, we may note instead that such
@@ -1303,7 +1410,25 @@ derived. This definition also more closely describes the production of free
 software, Wikipedia, and other works commonly offered as being examples of peer
 production.
 
-En vez de poner énfasis en la distribucion inmaterial de lo que es producido por los ejemplos actuales de la produccion entre iguales, debemos notar que esa producción está caracterizada por productores independientes que emplean un acervo común de activos productivos. Esta mirada sobre la producción entre iguales no está limitada categóricamente a lo inmaterial.  Al entenderse de esta forma, el concepto de producción entre iguales donde una red de pares aplican su labor a un acervo común de beneficio individual y mutuo, ciertamente resuena a las viejas propuestas de modos socialistas de producción, donde una comunidad de trabajadores sin clase ('pares') producen colaborativamente dentro de una sociedad sin propiedad ('basada en el bien comun').  A diferencia de la definición inmaterial y no recíproca, ésta formulación puede dar cuenta de los insumos materiales, la especialización del trabajo y los medios para la formación de capital, y tambien se relaciona cercanamente a la topología de las redes entre iguales (p2p) de la cual el termino se deriva.  Esta definición también describe más fielmente la producción de software libre, Wikipedia y otros trabajos ofrecidos como ejemplos de producción por iguales.
+En vez de poner énfasis en la distribucion inmaterial de lo que es
+producido por los ejemplos actuales de la produccion entre iguales,
+debemos notar que esa producción está caracterizada por productores
+independientes que emplean un acervo común de activos productivos.
+Esta mirada sobre la producción entre iguales no está limitada
+categóricamente a lo inmaterial.  Al entenderse de esta forma, el
+concepto de producción entre iguales donde una red de pares aplican su
+labor a un acervo común de beneficio individual y mutuo, ciertamente
+resuena a las viejas propuestas de modos socialistas de producción,
+donde una comunidad de trabajadores sin clase ('pares') producen
+colaborativamente dentro de una sociedad sin propiedad ('basada en el
+bien comun').  A diferencia de la definición inmaterial y no
+recíproca, ésta formulación puede dar cuenta de los insumos
+materiales, la especialización del trabajo y los medios para la
+formación de capital, y tambien se relaciona cercanamente a la
+topología de las redes entre iguales (p2p) de la cual el termino se
+deriva.  Esta definición también describe más fielmente la producción
+de software libre, Wikipedia y otros trabajos ofrecidos como ejemplos
+de producción por iguales.
 
 Furthermore, this formulation is also better rooted in history, as it describes
 historical examples of commons-based production, such as the pastoral commons.
@@ -1320,7 +1445,23 @@ commons to include material as well as immaterial goods, then producers who
 employ these assets in their production can retain a greater portion of their
 product.
 
-Mas aún, esta formulación esta mejor arraigada en la historia, como lo describen ejemplos históricos de producción basada en el bien común, como el discurso del bien común.  Como las distribución de los activos producidos se encuentra en la raíz de la inequidad de la riqueza y el poder, ésta perpetúa los sistemas explotadores, un modo de producción en donde los activos productivos son mantenidos en lo común es claramente potencialmente revolucionario.  Sin embargo, si esta forma de producción es contenida en lo inmaterial, si puede ser categorizada como inmaterial por definición, entonces sus productores no pueden capturar nada del valor que crean. Entonces no vale nada, es precisamente la razon por la cual Ivy League, profesores de leyes y otras elites prefieren mantener esta limitación. Sin embargo, si podemos implementar formas de compartir independientemente un acervo común de bienes inmateriales y por lo tanto expandir su alcance para incluir bienes materiales como inmateriales, entonces los productores que emplean estos activos en su producción pueden retener la mayor parte de su producto.
+Mas aún, esta formulación esta mejor arraigada en la historia, como lo
+describen ejemplos históricos de producción basada en el bien común,
+como las tiarras comunales mediavales [1].  Como las distribución de los activos
+producidos se encuentra en la raíz de la inequidad de la riqueza y el
+poder, ésta perpetúa los sistemas explotadores, un modo de producción
+en donde los activos productivos son mantenidos en lo común es
+claramente potencialmente revolucionario.  Sin embargo, si esta forma
+de producción es contenida en lo inmaterial, si puede ser categorizada
+como inmaterial por definición, entonces sus productores no pueden
+capturar nada del valor que crean. Entonces no vale nada, es
+precisamente la razon por la cual Ivy League, profesores de leyes y
+otras elites prefieren mantener esta limitación. Sin embargo, si
+podemos implementar formas de compartir independientemente un acervo
+común de bienes inmateriales y por lo tanto expandir su alcance para
+incluir bienes materiales como inmateriales, entonces los productores
+que emplean estos activos en su producción pueden retener la mayor
+parte de su producto.
 
 Peer production is distinct from other modes of production. Workers
 independently employing a common stock of productive assets is a different
@@ -1339,7 +1480,25 @@ consisting of a techno-administrative elite that has proven in historical
 examples to have the capacity to be just as parasitic and stifling to workers
 as a capitalist class.
 
-La producción entre iguales es distinta de otros modos de producción. Trabajadores que emplean independientemente un acervo común de activos productivos es un modo diferente, distinto de los enfoques capitalista y colectivista. El modo de producción capitalista es explotador por naturaleza; su lógica fundamental es capturar la plusvalía del trabajo al negar el acceso independiente a los medios de producción. Sin embargo, los modos de producción colectivista pueden ser explotadores también. Por ejemplo en la producción cooperativa, en la que los productores poseen conjuntamente los medios productivos, la distribución de éstos tiende a ser injusta entre los diferentes cooperativistas, permitiendo a unos explotar a los otros.  Formas colectivistas de gran escala, como los estados socialistas o grandes cooperativas diversificadas, se puede decir que eliminan el tipo de explotación que puede ocurrir entre las cooperativas. Sin embargo la creciente coordinación necesaria para administrar estas grandes organizaciones da origen a una clase coordinadora, una nueva clase consistente en una élite tecno-administrativa que históricamente ha probado tener la capacidad de ser tan parasitaria y severa con los trabajadores como la clase capitalista.
+La producción entre iguales es distinta de otros modos de producción.
+Trabajadores que emplean independientemente un acervo común de activos
+productivos es un modo diferente, distinto de los enfoques capitalista
+y colectivista. El modo de producción capitalista es explotador por
+naturaleza; su lógica fundamental es capturar la plusvalía del trabajo
+al negar el acceso independiente a los medios de producción. Sin
+embargo, los modos de producción colectivista pueden ser explotadores
+también. Por ejemplo en la producción cooperativa, en la que los
+productores poseen conjuntamente los medios productivos, la
+distribución de éstos tiende a ser injusta entre los diferentes
+cooperativistas, permitiendo a unos explotar a los otros.  Formas
+colectivistas de gran escala, como los estados socialistas o grandes
+cooperativas diversificadas, se puede decir que eliminan el tipo de
+explotación que puede ocurrir entre las cooperativas. Sin embargo la
+creciente coordinación necesaria para administrar estas grandes
+organizaciones da origen a una clase coordinadora, una nueva clase
+consistente en una élite tecno-administrativa que históricamente ha
+probado tener la capacidad de ser tan parasitaria y severa con los
+trabajadores como la clase capitalista.
 
 A community of peer producers can grow without developing layers of
 coordination because they are self-organizing and produce independently, and as
@@ -1354,7 +1513,23 @@ into the common stock is a system for allocating material assets among the
 independent peers, which imposes only a minimal coordination burden. Venture
 communism is such a way.
 
-Una comunidad de productores iguales puede creceer sin desarrollar capas de coordinación porque es auto-organizada y produce independientemente, como tal no necesita de capas administrativas además de las requeridas para proveer un acervo común de activos productivos. De éste modo, la coordinación esta limitada a la asignación del patrimonio común entre quienes deseen emplearlo. Entonces no es sorpresa que este tipo de producción haya aparecido y se haya desarrollado donde el patrimonio común es propiedad inmaterial, como el software libre, porque los bajos costos de reproducción eliminan el problema de la asignación.  Por lo tanto lo que se necesita para que la producción entre iguales pueda incorporar bienes materiales en el patrimonio común, es un sistema de asignación de activos materiales entre pares independientes, que impone solamente una mínima carga de coordinación.  El comunismo de riesgo es esta forma.
+Una comunidad de productores iguales puede creceer sin desarrollar
+capas de coordinación porque es auto-organizada y produce
+independientemente, como tal no necesita de capas administrativas
+además de las requeridas para proveer un acervo común de activos
+productivos. De éste modo, la coordinación esta limitada a la
+asignación del patrimonio común entre quienes deseen emplearlo.
+Entonces no es sorpresa que este tipo de producción haya aparecido y
+se haya desarrollado donde el patrimonio común es propiedad
+inmaterial, como el software libre, porque los bajos costos de
+reproducción eliminan el problema de la asignación.  Por lo tanto lo
+que se necesita para que la producción entre iguales pueda incorporar
+bienes materiales en el patrimonio común, es un sistema de asignación
+de activos materiales entre pares independientes, que impone solamente
+una mínima carga de coordinación.  El comunismo de riesgo es esta
+forma.
+
+[1] Aqui el autor se refiere a las tierras comunales para ganado y agricultura, que son recurrentes en varios grupos sociales rurales que basan su economia en la agricutura y el pastoreo. (N de T).  
 
 Venture Communism
 
