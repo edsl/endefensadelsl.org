@@ -628,7 +628,7 @@ usuarios de tecnologías de compartición de archivos nos muestran las
 dificultades que enfrentan aquellos cuyos ingresos dependen del control de la
 reproducción. El transporte masivo y la migración internacional han creado
 comunidades distribuidas que mantienen relaciones interpersonales y a menudo
-informalmente económicas a través de los li
+informalmente económicas a través de los límites nacionales.
 
 All of these are examples of new productive relationships that transcend
 current property-based relations and point to a potential way forward.
@@ -642,6 +642,19 @@ controls in an attempt to prevent our resistance to, and evasion of, such
 confinement, we can place our revolutionary hopes in the possibility that the
 scale of change is simply so large that they can never fully succeed.
 
+Todos estos son ejemplos de nuevas relaciones productivas que trascienden las
+actuales relaciones basadas en la propiedad y apuntan a un progreso potencial.
+El desarrollo de las telecomunicaciones, notablemente la emergencia de redes de
+pares como la Internet, así como el transporte y migración internacional, crean
+amplias posibilidades revolucionarias mientras las comunidades dispersas se
+vuelven capaces de interactuar instantáneamente a escala global. Nuestras
+vidas y relaciones ya no necesitan confinarse a naciones estado vinculadas a un
+territorio. Aunque los elementos coercitivos en la jerarquía política y
+corporativa imponen aun más controles draconianos en un intento por prevenir
+nuestra resistencia a, o la evasión de, tal confinamiento, podemos colocar
+nuestras esperanzas revolucionarias en la posibilidad de que la escala del
+cambio es simplemente tan amplia que nunca podrán triunfar del todo.
+
 As bold as the emergence of peer-to-peer technologies, free software and
 international communities have been, the obstacles to social change are
 daunting. We must overcome the great accumulation of wealth the capitalist
@@ -651,8 +664,20 @@ actively expand the scope of our commons, so that our independent communities
 of peers can be materially sustained and can resist the encroachments of
 capitalism.
 
+Así como la emergencia de las tecnologías par-a-par, el software libre y las
+comunidades internacionales ha sido [bold], los obstáculos para el cambio
+social son [daunting]. Debemos superar la gran acumulación de riqueza de la que
+la elite capitalista dispone. Esta riqueza les da la habilidad de configurar la
+sociedad de acuerdo a sus intereses. Para poder cambiar la sociedad debemos
+expandir activamente el alcance de nuestros comunes, para que nuestras
+comunidades independientes de pares puedan sostenerse materialmente y resistir
+los avances del capitalismo.
+
 Whatever portion of our productivity we allow to be taken from us will return
 in the form of our own oppression.
+
+Cualquier porción de nuestra productividad que permitamos que nos saquen
+retornará en la forma de nuestra propia opresión.
 
 Chief among the state’s interventions into the network economy is its
 enforcement of property. Property is by its nature antagonistic to freedom.
@@ -663,6 +688,16 @@ is sovereign, there can be no freedom within its domain. The owners of scarce
 property can deny life by denying access to property, then make the living work
 like slaves for no pay beyond their reproduction costs.
 
+La cabeza de la intervención estatal en la economía de red es el refuerzo de la
+propiedad. La propiedad es por su naturaleza antagónica de la libertad. La
+propiedad es la habilidad de controlar bienes productivos a distancia, la
+habilidad de 'adueñarse' de algo que es puesto en uso productivo por otra
+persona. La propiedad hace posible la subyugación de individuos y comunidades.
+Donde la propiedad es soberana, no puede haber libertad alguna bajo su dominio.
+Los dueños de la propiedad escasa pueden denegar la vida al denegar el acceso a
+la propiedad, para entonces esclavizar el trabajo vivo sin pagarles más que el
+costo de su reproducción.
+
 In economic terminology, the income that owners receive, by appropriating the
 products of workers, is called rent. British classical political economist
 David Ricardo first described economic rent in the early 19th century. Put
@@ -670,6 +705,15 @@ simply, economic rent is the income the owner of a productive asset can earn
 just from ownership itself. The owner earns rental income not by doing anything
 or making any sort of contribution, but just by owning.iii In the terms of John
 Stuart Mill, the rent collector earns money even as he sleeps.iv
+
+En la terminología económica, el ingreso que los dueños reciben, al apropiarse
+del producto de los trabajadores, se llama renta. El economista política
+clásico británico David Ricardo fue el primero en describir la renta económica
+a principios del siglo XIX. Dicho simplemente, la renta económica es el ingreso
+que el dueño de un bien productivo puede ganar sólo por ser su dueño. El dueño
+gana un ingreso en renta no por hacer algo o alguna forma de contribución, sólo
+por ser su dueño.[^3] En los términos de Stuart Mill, el recolector de renta
+gana dinero aun mientras duerme.[^4]
 
 Take for example two identical buildings, one in a major economic center, and
 one in a minor city. Both are built of identical materials, both require an
@@ -681,6 +725,18 @@ equal amounts of work and expense undertaken to maintain them. This difference
 is economic rent, and not rent in terms of the price you pay for housing. Rent
 is not collected for any contribution to production, but because of legal
 privilege, such as a title to a valuable location.
+
+Tomen por ejemplo dos edificios idénticos, uno en un centro económico de
+importancia y otro en una ciudad menor. Ambos fueron construidos con materiales
+idénticos, ambos requieren la misma cantidad de trabajo para su mantenimiento y
+no hay diferencia en términos de costos que los dueños deben sobrellevar para
+poner estos edificios en el mercado, como lugares comerciales o de paso \[?\].
+El edificio en la ciudad mayor ganará, sin embargo, más ingresos que el
+edificio de la ciudad menor, sin tomar en cuenta la cantidad igual de trabajo y
+gastos necesitarios para mantenerlos. Esta diferencia es la renta económica, y
+no renta en términos del precio que pagás por el alquiler de tu casa. La renta
+no se recolecta por ninguna contribución a la producción, sino por privilegios
+legales, como el título de posesión de una ubicación.
 
 This does not mean that the owner does not contribute to the value of the
 property, such as through maintenance, only that the value of whatever
@@ -695,12 +751,32 @@ if it directly increases the value of the property. Rent, in economic terms, is
     produce to those who allow us to access such means, or else we could not
     live.
 
+Esto no significa que el dueño no contribuye al valor de la propiedad, como en
+su mantenimiento, sino que el valor de cualquier contribución que hagan no se
+calcula como renta, por ejemplo, como interés si incrementa directamente el
+valor de la propiedad. La renta, en términos económicos, es el ingreso ganado
+por permitir a otros usar la propiedad; en última instancia, este ingreso se
+deriva de la porción que el terrateniente reclama de lo que producen los
+[tenants] como propio. Esto no se refiere directamente a los terratenientes, la
+renta y la propiedad en el sentido edilicio. Mientras nuestra habilidad para
+proveernos subsistencia material requiera acceso a la propiedad que hace a
+nuestros 'medios de producción', debemos acordar transferir una porción de lo
+que producimos a aquellos que nos permiten el acceso a tales medios, o de lo
+contrario no podemos vivir.
+
 The portion of a producer’s productive output that can be demanded for the
 right to exist is the entire total of their productive output, minus the
 producer’s subsistence costs. This is the conclusion reached by David Ricardo
 in his 1817 On Principles of Political Economy and Taxation,v and this is the
 basic bargaining position faced by all of us who are born into a world entirely
 owned by others.
+
+La porción de la salida productiva de un productor que puede demandarse por el
+derecho a existir es el total de la salida productiva menos los costos de
+subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
+en su Sobre los principios de la economía política y los impuestos,[^5]\[?\] y
+esta es la base de negociación que nos encontramos todos aquellos que nacimos
+en un mundo enteramente apropiado por otros.
 
 In his ‘Essay on Profits’, Ricardo argues: ‘The interest of the landlord is
 always opposed to the interest of every other class in the community’.vi This
@@ -709,6 +785,14 @@ between upper and lower classes, but rather on a relationship with the factors
 of production, land, labor or capital. This Ricardian model provides a logical
 basis for the idea that the classes, landlord, worker and capitalist, have
 diametrically opposed interests.
+
+En su 'Ensayo sobre los beneficios'\[?\], Ricardo argumenta: 'El interés del
+terraniente siempre se opone al interés de cualquiera otra clase de la
+comunidad'.[^6] Este análisis no se basa en la [milieu] social, como la
+distinción general entre las clases altas y bajas, sino en la relación con los
+factores de la producción, tierra, trabajo o capital. Este modelo ricardiano
+provee una base lógica para la idea de que las clases, terrateniente,
+trabajador y capitalista, tienen intereses diametralmente opuestos. 
 
 Upper class and lower class may imply an unfair society, but this distinction
 does not necessarily imply conflicting interests, and thus does not offer an
@@ -722,6 +806,19 @@ workers are opposed to the interests of both landlords and capitalists. From
 their work, the critique of ‘capitalism’, a term coined to draw an analogy with
 Feudalism, begins.
 
+Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
+distinción no necesariamente implica intereses en conflicto y por lo tanto no
+ofrece una comprensión de la fuente de la estratificación de clase.
+Representativo de la clase capitalista emergente, Ricardo no intentaba que su
+crítica de la renta sobre la tierra se extendiera al ingreso ganado por los
+capitalistas. Los comentaristas críticos como William Thompson y Thomas
+Hodgsking, los más reconocidos 'socialistas ricardianos', hicieron exactamente
+eso, argumentando que el lucro obtenido por los capitalistas es tan explotativa
+\[?\] y no merecida como la renta de los terratenientes, y que los intereses de
+los trabajadores se oponen a los intereses tanto de los terratenientes y de los
+capitalistas. De su trabajo se desprende la crítica del 'capitalismo', un
+término acuñado como analogía del feudalismo.
+
 Socialism, and all other movements of the ‘left’, start with this class
 conflict as their point of departure. The belief that producers themselves
 should own the means of production was already common among socialists of the
@@ -731,6 +828,16 @@ based on a relation with the means of production, such as capitalist, landlord
 and worker, rather than categories such as rich and poor, noble, clergy or
 peasant, provided a solid intellectual foundation that allowed a more
 scientific socialism to emerge from its utopian roots.
+
+El socialismo y todos los demás movimientos de 'la izquierda', comienzan en
+este conflicto de clase. La creencia de que los medios de producción deben ser
+propiedad de los productores ya era común entre los socialistas de la época,
+notablemente entre los que apoyaban al reformista social Robert Owen y el
+movimiento cooperativista a principios del 1800. Esta comprensión de clase,
+basada en la relación con los medios de producción, como capitalistas,
+terratenientes y trabajadores, antes que categorías como rico y pobre, noble,
+clero y [peasant], proveyó una sólida base intelectual que permitió el
+surgimiento de un socialismo más científico de sus raíces utópicas.
 
 Rent allows owners of scarce property to drive property-less workers to
 subsistence. As Ricardo explains, ‘the natural price of labor is that price
@@ -747,6 +854,22 @@ make a living and struggle to live according to the acceptable standards of
 their community. These ‘acceptable standards’ are established in terms of the
 canons of taste and decency established by a predatory economic elite.
 
+La renta permite a los dueños de la propiedad escasa llevar a los trabajadores
+desposeídos al nivel de subsistencia. Como lo explica Ricardo, 'el precio
+natural del trabajo es aquel que es necesario para permitir a los trabajadores,
+uno tras otro, subsistir y perpetuar su raza'.[^7] A veces se proclama que esto
+puede ser refutado por la diferencia entre el teórico precio 'natural' y el
+precio del trabajo en el mercado real, pero tal argumento es simplemente una
+equivocación. explica Ricardo, porque el precio del mercado fluctúa. La
+subsistencia no puede tomarse como el mínimo indispensable que requiere la
+supervivencia y la reproducción. Aun en tiempos de Ricardo, muchos trabajadores
+no estaban en posición de morirse si ganaban un centavo menos. Antes bien los
+trabajadores, por su propia definición, son incapaces de ganar lo suficiente
+para hacer algo más que vivir y luchar por vivir de acuerdo a los estándares
+aceptables de su comunidad. Estos 'estándares aceptables' se establecen en
+términos canónicos de gusto y decencia establecidos por una elite económica
+depredadora.
+
 Thorstein Veblen, a Norwegian-American economist and sociologist whose work
 lays the foundation for the institutional economics movement, argues that, in
 a class society, all but the very richest are compelled to dispose of
@@ -756,6 +879,17 @@ standards of respectability, in what he calls ‘conspicuous consumption’ and
 social exclusion and further reduced prospects of upward mobility.viii ‘Failure
 to consume in due quantity and quality becomes a mark of inferiority and
 demerit’, Veblen argues in his 1899 The Theory of the Leisure Class.ix
+
+Thorstein Veblen, un economista y sociólogo noruego-estadounidense cuyo trabajo
+dispone las bases del movimiento institucionalista económico, argumenta que, en
+una sociedad de clases, todos excepto los más rico se ven compelidos a disponer
+prácticamente de su ganancia completa para vivir de acuerdo a los estándares
+comunitarios de respetabilidad, en lo que él llama 'consumo conspicuo' y
+'derroche conspicuo'. No participar en el consumo conspicuo significa
+enfrentarse a la exclusión social y aun más reducir los prospectos de movilidad
+ascendente.[^8] 'Fracasar en consumir en cantidad y calidad debida se convierte
+en una marca de inferioridad y desmerecimiento', argumenta Veblen en su La
+teoría de clase de lujo, de 1889. [^9] \[?\]
 
 Workers have more than cultural forces working against their ability to form
 capital from whatever earnings they retain beyond subsistence. So long as
@@ -776,6 +910,27 @@ to a change in the general level of real wealth; rather in most cases, workers
 who received a wage increase had not increased their share of wealth, but wound
 up paying higher prices.xi
 
+Los trabajadores tienen algo más que fuerzas culturales trabajando contra su
+habilidad de formar capital a través de los ingresos que retuvieran de la
+subsistencia. Mientras los trabajadores carezcan de propiedad, cualquier
+aumento salarial que ganen será barrido por la inflación de los precios, muy a
+menudo como resultado del crecimiento de la competencia monetaria por
+ubicaciones y el incremento de la renta sobre la tierra. Esto no es ningún
+secreto para los negociadores capitalistas y sus colaboradores en el sector
+público. Reducir los salarios reales por la inflación como alternativa a la
+reducción salarial funciona por la 'ilusión del dinero'. Como escribe John
+Maynard Keynes, tal vez el economista más importante de su tiempo y el fundador
+de la 'macroeconomía' moderna, en su libro de 1936 La teoría general del
+empleo, el interés y el dinero, 'a veces se dice que sería ilógico que el
+trabajo resista una reducción del salario monetario pero no lo haga frente a
+una reducción del salario real [...] la experiencia demuestra que de hecho es
+de esta manera como se comporta el trabajo'. [^10] Daniel Bell pone en claro
+este proceso en su paper 'La subversión de la negociación colectiva'. Bell
+muestra que estos casos no llevan a un cambio en el nivel general de la riqueza
+real; en la mayoría de los casos, los trabajadores que recibieron un aumento
+salarial no incrementaron su parte de la riqueza, sino que terminaron pagando
+precios más altos. [^11]
+
 Property is not a natural phenomenon; property is created by law. The ability
 to extract rent is dependent on one’s ability to control a scarce resource even
 though it is in use by someone else. In other words, property entitles the
@@ -783,6 +938,14 @@ property owner to force the other person to share the product of their labor.
 Property, then, is control at a distance. In this way, rent is only possible so
 long as it is supported by force, which is happily provided by the state to the
 owners of property.
+
+La propiedad no es un fenómeno natural; la propiedad es creada por la ley. La
+habilidad para extraer renta depende de la habilidad propia para controlar un
+recursos escaso aun si es utilizado por alguien más. En otras palabras, la
+propiedad le da la capacidad al propietario de forzar a esa otra persona a
+compartir el producto de su trabajo. La propiedad, entonces, es el control a
+distancia. De esta manera, la renta sólo es posible mientras sea soportada por
+la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
 
 Without a means to force those who put property to productive use to share the
 product of their labor with the absent and idle property owner, the property
@@ -797,6 +960,20 @@ class. Individual success stories do not change the class system. As Canadian
 political philosopher Gerald Cohen, proponent of Analytical Marxism, quipped,
 ‘I want to rise with my class, not above my class!’xiii
 
+Sin los medios para forzar a aquellos que ponen la propiedad en uso productivo
+a compartir el producto de su trabajo con el dueño ausente y [idle], ese
+propietario no podría ganarse la vida, sin contar acumular más propiedad. Como
+diría el revolucionario marxista alemán Ernest Mandel en su 'El materialismo
+histórico y el Estado capitalista', 'sin la violencia del estado capitalista,
+no hay capitalismo seguro'.[^12] El propósito de la propiedad es asegurar que
+la clase desapropiada exista para producir riqueza disfrutada por la clase
+propietaria. La institución de la propiedad no beneficia a los trabajadores.
+Esto no es lo mismo que decir que los trabajadores individuales no puedan
+convertirse en propietarios, sino que al hacerlo dejan de pertenecer a su
+clase. Las historias de éxito individual no cambian el sistema de clases. Como
+dijo el filósofo político canadiense Gerald Cohen, proponente del marxismo
+analítico, 'quiero elevarme con mi clase, ¡no sobre ella!' [^13]
+
 The current global situation confirms that workers, as a class, are not able to
 accumulate property. A study by the World Institute for Development Economics
 Research at United Nations University reports that the richest 1% of adults
@@ -805,6 +982,16 @@ adults accounted for 85% of the world total. The bottom half of the world adult
 population owned barely 1% of global wealth. Extensive statistics, many
 indicating growing world disparity, are included in the report.xiv
 
+La situación global actual confirma que los trabajadores, como clase, no son
+capaces de acumular propiedad. Un estudio hecho en la Universidad de las
+Naciones Unidas por el Instituto Mundial de Investigación sobre la Economía del
+Desarrollo reporta que el 1% de los adultos más ricos poseía el 40% de los
+bienes globales en el año 2000, y que el 10% más rico de los adultos
+contabilizada el 85% del total mundial. La mitad inferior de la población
+adulta poseía apenas el 1% de la riqueza global. En el reporte se incluyen
+estadísticas extensivas, muchas de las cuales indican una disparidad mundial
+creciente. [^14]
+
 The condition of the working class in society is largely one of powerlessness
 and poverty; the condition of the working class on the internet is no
 different. The requirements of control and privilege required by capitalism are
@@ -812,6 +999,14 @@ being imposed on the internet, changing the topology of the network from one
 where peer-to-peer communism is embedded in its architecture, to one where
 client server applications have become central, and increasingly mediate and
 control all relationships.
+
+La condición de la clase trabajadora en la sociedad es por lejos de carencia de
+poder y pobreza; la condición de la clase trabajadora en Internet no es
+diferente. Los requisitos de control y privilegio requeridos por el capitalismo
+están siendo impuestos en la Internet, cambiando la topología de la red de una
+donde el comunismo par-a-par está embebida [hay una palabra mejor] en su
+arquitectura, a una donde las aplicaciones cliente-servidor se han vuelto
+centrales y cada vez median y controlan todos las relaciones.
 
 Trapped in the World Wide Web
 
