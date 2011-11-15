@@ -1020,6 +1020,15 @@ internet is changing, and the topology of the network is being remade in such
 a way that not only serves the interests of capitalism, but also enables
 monitoring and control of its users on a scale never dreamed of before.
 
+Las posibilidades revolucionarias de la Internet temprana descansaban
+particularmente sobre la capacidad de interactuar directamente entre usuarios.
+Así, la Internet prometía ser la plataforma donde la libertad de expresión y de
+asociación estaba construida en la arquitectura misma. Sin embargo, sin que
+muchos usuarios lo notasen, la arquitectura de Internet está cambiando, y la
+topología de la red está siendo reconstruida de forma tal que no sólo sirve a
+los intereses del capitalismo, sino que también habilita el monitoreo y
+control de sus usuarios en una escala jamás soñada.
+
 The internet took the corporate world by surprise, emerging as it did from
 publicly funded universities, military research, and civil society. It was
 promoted by a cottage industry of small independent internet service providers,
@@ -1031,6 +1040,19 @@ different from the internet is that they were centralized systems that users
 connect to directly, while the internet is a peer-to-peer (P2P) network where
 every device with a public internet address can communicate directly to any
 other device.
+
+Internet tomó el mundo corporativo por sorpresa, al emerger de universidades
+públicas, investigación milirar y la sociedad civil. Fue promovida por un
+grupúsculo industrial de proveedores de internet pequeños e independientes, que
+eran capaces de ganar un peso al proveer acceso a la red construida y
+financiada por el Estado. Mientras tanto, el mundo corporativo pujaba por una
+idea muy diferente sobre la supercarretera de la información, produciendo
+'servicios online' monolíticos y centralizados como CompuServe, Prodigy y AOL.
+Lo que hizo a estos servicios corporativos diferentes de Internet fue que eran
+servicios centralizados a los que los usuarios se conectaban directamente,
+mientras que la Internet es una red de pares (P2P) donde cada dispositivo podía
+comunicarse directamente con cualquier otro con sólo poseer una dirección
+pública de Internet.
 
 While both users of CompuServe and the internet had access to similar
 applications, such as email, discussion groups, chat groups and file sharing,
@@ -1044,6 +1066,19 @@ However, capitalist investors were unable to see how such an unrestricted
 system would allow them to earn profits. The internet seemed anathema to the
 capitalist imagination.
 
+Mientras los usuarios tanto de CompuServe como de Internet tenían acceso a
+aplicaciones similares, como el correo electrónico, grupos de discusión, grupos
+de conversación y compartición de archivos, los usuarios de CompuServe
+dependían completamente del acceso a este, mientras que los usuarios de
+Internet podían tener acceso a esta a través de cualquier proveedor de servicio
+e incluso podían tener sus propios servidores. Las plataformas como el correo
+electrónico y el IRC se basaban en una estructura distribuida a la que nadie
+controlaba y de la que nadie era dueño. Esta estructura era aceptada por sus
+adoptantes tempranos más entusiastas, como las instituciones públicas y las
+organizaciones no gubernamentales. No obstante, los inversores capitalistas
+fueron incapaces de ver cómo un sistema irrestricto les permitiría percibir
+ganancias. La Internet parecía el anatema de la imaginación capitalista.
+
 The original dotcom boom, then, was characterized by a rush to own
 infrastructure, to consolidate independent internet service providers and take
 control of the network. Money was near-randomly thrown around as investors
@@ -1054,6 +1089,19 @@ in the driver’s seat. If you had an internet account in 1996 it was likely
 provided by a small local company. Ten years later, while some of the smaller
 companies had survived, most people were getting their internet access from
 gigantic telecommunications corporations, which persists even stronger today.
+
+El boom original de las puntocom, entonces, se caracterizó como un apuro por
+poseer infraestructura, consolidar a los proveedores de Internet independientes
+y tomar el control de la red. El dinero fue tirado al azar por los inversores
+mientras luchaban por comprender cómo podría ser utilizado este medio. En
+última instancia, la misión de estos inversores fue largamente exitosa. Su
+misión fue destruir a los proveedores de servicio independientes y poner
+grandes y bien financiadas corporaciones en el asiento del conductor. Si tenías
+una cuenta de Internet en 1996 lo más probable es que haya sido con una empresa
+local pequeña. Diez años después, mientras algunas de esas compañías
+sobrevivieron, la mayoría de las personas tenían acceso a Internet a través de
+corporaciones de telecomunicaciones gigantescas, que persisten fuertemente aun
+hoy.
 
 The internet is more than the Web, a term inaccurately used as a synonym for
 the entire network and all of the applications that run on it. The World Wide
@@ -1067,6 +1115,17 @@ control of the browser, the client software used to access the website.
 A website has more in common with CompuServe than a peer-to-peer system. The
 publisher has full control of the content and options available to users.
 
+La Internet es más que la Web, término inexacto usado como un sinónimo de la
+red entera y de todas las aplicaciones que corren en ella. La WWW es una
+tecnología que corre sobre la red de pares que es la Internet; sin embargo, no
+es como las tecnologías clásicas de Internet como el correo, IRC, Usenet, etc.
+La Web no es distribuida ni es P2P; es una tecnología cliente-servidor. El
+editor de un sitio web corre los servidores y tiene control exclusivo sobre el
+contenido y las aplicaciones que el sitio provee, incluyendo el control de
+quién debe o no debe tener acceso al sitio. Un sitio web tiene más en común con
+CompuServe que un sistema de pares. El editor tiene control absoluto sobre el
+contenido y las opciones disponibles a los usuarios.
+
 The Web started innocently enough as a platform for publishing text online;
 however, it rapidly became the focal point for organizations looking to
 commercialize the internet. From modest beginnings, as companies began to put
@@ -1079,17 +1138,40 @@ operated by large corporations the primary online social platforms. The
 internet itself would soon disappear behind the Web, and users would never
 again leave their browser.
 
+La Web comenzó inocentemente como una plataforma para publicar texto en línea;
+no obstante, se convirtió rápidamente en el punto focal de las organizaciones
+que buscaban comercializar la Internet. Desde sus modestos inicios, cuando las
+compañías ponían volantes en lína, la Web comercial despegó junto con el
+desarrollo del e-Commerce. En este punto, la Web todavía no había tomado la
+compartición en línea. La gente usaba la Web para, por ejemplo, navegar una
+librería, pero continuó empleando las tecnologías distribuidas para comunicarse
+con otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
+riesgo, se colocó de forma tal que los sitios web operados por grandes
+corporaciones se convirtieron en las plataformas sociales 
+
 Web 2.0 emerged as a venture capitalist’s paradise, where investors pocket the
 value produced by unpaid users, ride on the technical innovations of the free
 software movement, and kill off the decentralizing potential of peer-to-peer
 technology.
 
+La Web 2.0 emergió como el paraíso del capitalismo de riesgo, donde los
+inversores podían embolsillar el valor producido por los usuarios no pagados,
+montándose en las innovaciones técnicas del movimiento del software libre y
+matar al mismo tiempo el potencial decentralizador de la tecnología de pares.
+
 Wikipedia says that:
+
+Wikipedia dice que:
 
 Web 2.0, a phrase coined by O’Reilly Media in 2004, refers to a supposed second
 generation of internet-based services, such as social networking sites, wikis,
 communication tools, and folksonomies, that emphasize online collaboration and
 sharing among users.xv
+
+Web 2.0, un término acuñado por O'Reilly Media en el 2004, se refiere a la
+supuesta segunda generación de servicios basados en Internet, como los sitios
+de redes socials, wikis, herramientas de comunicación y folksonomías que
+enfatizan la colaboración en línea y la compartición entre usuarios.[^15]
 
 The use of the word ‘supposed’ is noteworthy. As the largest collaboratively
 authored work in history, Wikipedia should know. Unlike most of the members of
@@ -1099,6 +1181,15 @@ license. It is telling that this Wikipedia entry goes on to say ‘[Web 2.0] has
 become a popular (though ill-defined and often criticized) buzzword among
 certain technical and marketing communities’.
 
+El uso de la palabra 'supuesta' es digna de notarse. Debería saberlo el más
+amplio trabajo colectivamente editado de la historia: Wikipedia. Al contrario
+de la mayoría de los miembros de la generación 2.0, Wikipedia es controlada por
+una fundación sin fines de lucro, obtiene ingresos sólo por donación y lanza su
+contenido bajo una licencia copyleft. Es al ver esto que el artículo en la
+Wikipedia continúa: '\[La Web 2.0\] se ha vuelto (aunque mal definida y a menudo
+criticada) palabra clave \[buzzword\] entre ciertas comunidades técnicas y de
+marketing'.
+
 The free software community has tended to be suspicious, if not outright
 dismissive, of the Web 2.0 moniker. Tim Berners-Lee, the creator of World Wide
 Web, dismissed the term saying that, ‘Web 2.0 is of course a piece of jargon,
@@ -1107,12 +1198,29 @@ standards which have been produced by all these people working on Web 1.0’.xvi
 In reality, then, there is neither a Web 1.0 nor a Web 2.0. There is only an
 ongoing development of online applications that cannot be cleanly divided.
 
+La comunidad del software libre ha tendido a sospechar, si no a desdeñar del
+todo, a la moda 2.0. Tim Berners-Lee, el creador de la World Wide Web, desechó
+el término diciendo que 'la Web 2.0 es por supuesto una pieza de argot, nadie
+sabe realmente qué significa'. Continua diciendo que 'significa usar los
+estándares que fueron producidos por todas estas personas que traban en la Web
+1.0'.[^16] En realidad, entonces, no hay ni una Web 1.0 ni una 2.0. Hay solo un
+desarrollo continuo de aplicaciones en línea que no puede distinguirse
+claramente.
+
 In trying to define what Web 2.0 is, it is safe to say that most of the
 important developments have been aimed at enabling the community to create,
 modify, and share content in a way that was previously only available to
 centralized organizations that bought expensive software packages, paid staff
 to handle the technical aspects of the site, and paid staff to create content
 which generally was published only on that organization’s site.
+
+Al tratar de definir a la Web 2.0, es seguro decir que la mayoría de los
+desarrollos importantes estuvieron orientados a habilitar a la comundiad a
+crear, modificar y compartir contenido de una forma que había estado disponible
+anteriormente a organizaciones centralizadas que compraban paquetes de software
+costosos, pagaban un staff para manejar los aspectos técnicos del sitio y
+pagaba un staff para crear el contenido que generalmente era publicado solo en
+el sitio de esa organización.
 
 A Web 2.0 company, then, fundamentally changes the production of internet
 content. Web applications and services have become cheaper and easier to
@@ -1129,6 +1237,23 @@ Web 2.0 are blogs and wikis. These allow the user to create and publish content
 directly from their browser without any real knowledge of markup language, file
 transfer or syndication protocols, and all without the need to purchase any
 software.
+
+Una compañía de la Web 2.0 cambia fundamentalmente la producción del contenido
+en Internet. Las aplicaciones web y los servicios se han vuelto más baratos y
+rápidos de implementar, y al permitir a los usuarios finales acceder a estas
+aplicaciones, una compañía podía [outsource] efectivamente la creación y la
+organización de su contenido a los usuarios finales mismos. En lugar del modelo
+tradicional de un proveedor de contenidos editando su propio contenido y de un
+usuario final consumiéndolo, el nuevo modelo permite al sitio de la compañía a
+actuar como el portal centralizado de usuarios que son a la vez consumidores y
+creadores. Para el usuario, el acceso a estas aplicacion lo empodera a crear y
+publicar contenido que previamente les hubiera requerido comprar como software
+de escritorio y poseer una mayor serie de habilidades tecnológicas. Por
+ejemplo, dos de los medios primarios de producción de contenidos de texto en la
+Web 2.0 son los blogs y los wikis. Estos permiten al usuario crear y publicar
+contenido directamente desde su navegador sin un conocimiento real de lenguajes
+de marcado, transferencia de archivos o herramientas de sindicación, y todo de
+una forma que le requiere comprar software.
 
 The use of web applications to replace desktop software is even more
 significant for the user when it comes to content that is not merely textual.
@@ -1148,17 +1273,47 @@ for compensation or ownership of that work. In development, the amateur
     contributes to open source software whereas the professional gets paid for
     their proprietary work.xviii
 
+El uso de las aplicaciones web para reemplazar el software de escritorio es
+mucho más significativo para el usuario cuando se trata del contenido que no es
+meramente textual. No sólo las páginas web pueden ser creadas y editadas en el
+navegador sin tener que comprar software de edición HTML, las fotografías
+pueden ser cargadas y manipuladas en línea sin costosas aplicaciones de
+escritorio para manipulación de imágenes. Un corto de video hecho en una cámara
+de consumidor puede enviarse a un sitio de videos, subida, codificada y
+embebida en una página HTML, publicada, etiquetada y sindicalizada a través de
+la web sin dejar el navegador. En el artículo de Paul Graham sobre la Web 2.0
+se diferencian los roles de la comunidad/usuario más específicamente. Esto
+incluye al profesional, el amateur y el usuario (más precisamente, al usuario
+final). Los roles del profesional y el usuario eran, siguiendo a Graham, bien
+entendidos en la Web 1.0, pero el amateur no tenía un lugar bien definido.[^17]
+Como Graham describe en 'Qué pueden aprender los negocios del Código Abierto',
+el amateur ama trabajar, sin preocuparse por compensión o reconocimiento alguno
+por su trabajo. En el desarrollo, el amateur contribuye al software de código
+abierto mientras que el profesional es pagado por su trabajo propietario.[^18]
+
 Graham’s characterization of the ‘amateur’ has an odd similarity to If I Ran
 The Circus by children's author Dr. Seuss, where young Morris McGurk says of
 the staff of his imaginary Circus McGurkus:
 
+La caracterización que hace Graham del 'amateur' tiene una extraña semejanza a
+Si tuviera un circo del Dr. Seuss, donde el joven Morris McGurk dice al staff
+del imaginario Circo McGurkus:
+
 My workers love work.
+
+> Mis obreros aman trabajar.
 
 They say, “Work us! Please work us!
 
+> Dicen, '¡Trabájanos! ¡Por favor hazlo!
+
 We'll work and we'll work up so many surprises
 
+> Trabajaremos y trabajaremos tantas sorpresas
+
 You'd never see half if you had forty eyeses!”xix
+
+> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [^19]
 
 And while the term ‘Web 2.0’ may mean nothing to Tim Berners-Lee, who views
 recent innovations as no more than the continued development of the Web, for
@@ -1172,12 +1327,31 @@ associated with the Web 2.0 banner was possible and in some cases readily
 available before, but the hype surrounding this usage has certainly affected
 the growth of Web 2.0 internet sites.
 
+Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
+quien ve a las innovaciones recientes como nada más que un desarrollo
+continuado de la Web, para los capitalistas de riesgo, que como Morris McGurk
+sueñan con trabajadores incansables produciendo contenidos infinitos sin
+demandar un salario, suena estupendo. Y en efecto, de YouTube a Flickr a
+Wikipedia, verdaderamente 'no verías la mitad si tuvieras cuarentas ojos'. Tim
+Berners-Lee tiene razón. No hay nada, desde un punto de vista técnico o del
+usuario en la Web 2.0 que no tenga sus raíces en, y no como un desarrollo
+natural, la generación temprana de la Web. La tecnología asociada a la Web 2.0
+era posible y en algunos casos estaba previamente disponible, pero el hype
+alrededor de este uso ha ciertamente afectado el crecimiento de los sitios 2.0.
+
 The internet has always been about sharing between users. Indeed Usenet, the
 distributed messaging system, has been operating since 1979. Since then, Usenet
 has been hosting discussions, ‘amateur’ journalism, and photo and file sharing.
 Like the internet, it is a distributed system not owned or controlled by
 anyone. It is this quality, a lack of central ownership and control, which
 differentiates services such as Usenet from Web 2.0.
+
+La Internet se ha tratado siempre acerca de compartir entre usuarios. En efecto
+Usenet, el sistema de mensajería distribuida, ha estado operando desde 1979.
+Desde entonces, Usenet ha estado soportando discusiones, periodismo 'amateur'
+y compartición de fotos y archivos. Como la Internet, es un sistema distribuido
+no apropiado ni controlado por nadie. Es esta cualidad, la falta de control y
+apropiación central, la que diferencia servicios como Usenet de la Web 2.0.
 
 If Web 2.0 means anything at all, its meaning lies in the rationale of venture
 capital. Web 2.0 represents the return of investment in internet start-ups.
@@ -1189,6 +1363,17 @@ ventures failed. Building infrastructure and financing real capitalization was
 no longer what investors were looking for. Capturing value created by others,
 however, proved to be a more attractive proposition.
 
+Si Web 2.0 significa algo, este significado descansa sobre la racionalidad del
+capital de riesgo. La Web 2.0 representa el regreso a la inversión en
+emprendimientos de Internet. Despúes del [bust] puntocom (el fin real de la Web
+1.0), aquellos que buscaban invertir dólares necesitaban una nueva razón para
+invertir en emprendimientos en línea. 'Constrúyelo y ellos vendrán', la actitud
+dominante del boom puntocom de los '90, junto con el delirio de la 'nueva
+economía' ya no eran atractivos despúes de que tantos emprendimientos fallaran.
+Construir infraestructura y financiar la capitalización real ya no era lo que
+los inversores buscaban. Capturar el valor creado por otros, sin embargo, probó
+ser una propuesta más atractiva. 
+
 Web 2.0 is Internet Investment Boom 2.0. Web 2.0 is a business model of private
 capture of community-created value. No one denies that the technology of sites
 like YouTube, for instance, is trivial. This is more than evidenced by the
@@ -1198,6 +1383,17 @@ site; rather, it is created by the people who upload videos to the site. Yet,
 when YouTube was bought for over a billion dollars worth of Google stock, how
 much of this stock was acquired by those that made all these videos? Zero.
 Zilch. Nada. A great deal, then, if you are an owner of a Web 2.0 company.
+
+La Web 2.0 es el Boom de la Inversión en Internet 2.0. La Web 2.0 es un modelo
+de negocio de apropiación privada de valor creado colectivamente. Nadie niega
+que la tecnología de sitios como YouTube, por ejemplo, es trivial. Esto está
+más que evidenciado por el gran número de servicios idénticos tales como Daily
+Motion de compartición de videos. El valor real de YouTube no es creado por los
+desarrolladores del sitio; sino que es creado por la gente que carga videos en
+el sitio. Aun así, cuando YouTube fue comprado por mil millones de dólares de
+stocks de Google, ¿cuántos de esos stocks fueron adquiridos por los que
+hicieron esos videos? Cero. Zilch. Nothing. Un gran negocio, entonces, si sos
+el dueño de una compañía de la Web 2.0.
 
 The value produced by users of Web 2.0 services such as YouTube is captured by
 capitalist investors. In some cases, the actual content they contribute
@@ -1210,6 +1406,20 @@ infrastructure is widely available for cheap, the content is free and the cost
 of software, at least software that is not freely available, is negligible.
 Basically, through providing some bandwidth and disk space, it is possible to
 become a successful Web 2.0 site if you can market yourself effectively.
+
+El valor producido por los usuarios de servicios de la Web 2.0 como YouYube es
+capturado por los capitalistas de riesgo. En algunos casos, el contenido que
+contribuyen se convierte en última instancia en propiedad de los propietarios
+del sitio. La apropiación privada del valor creado comunitariamente es la
+traición a la promesa de la tecnología de compartición y la co-operación libre.
+Al contrario de la era de las puntocom, donde los inversores a menudo
+financiaban con altos costos la adquisición de capitales, el desarrollo de
+software y la creación de contenido, un inversor en la Web 2.0 financia el
+marketing, la generación de hype y buzz. La infraestructura está ampliamente
+disponible a bajo costo, el contenido es gratis y el costo del software, al
+menos el software que no está disponible libremente, es diminuto. Básicamente,
+al proveer algo de ancho de banda y espacio en disco, es posible convertirse en
+un sitio 2.0 exitoso si podés hacerte una propaganda efectiva.
 
 The principal success of a Web 2.0 company, then, comes from its relationship
 to the community. More specifically, success comes from a company’s capacity to
@@ -1225,6 +1435,21 @@ marketplace for those goods. Amazon, selling the same products as many other
 sites, succeeded by allowing the community to participate in the ‘flow’ around
 their products.
 
+El principal triunfo de una compañía de la Web 2.0, entonces, viene de su
+relación con la comunidad. Más específicamente, el éxito viene de la capacidad
+de la compañía para 'aprovechar la inteligencia colectiva', como dice Tim
+O'Reilly. [^20] Desde esta perspectiva, las compañías de la Web 1.0 eran
+demasiado monolíticas y unilaterales en su acercamiento al contenido. Las
+historias de éxito en la transición de la Web 1.0 a 2.0 se basaron en su
+habilidad para mantenerse monolíticas en la marca del contenido, o, mejor aun,
+en su apropiación del contenido, al mismo tiempo que abrían la creación de ese
+contenido a la comunidad. Yahoo!, por ejemplo, creó un portal con contenido de
+la comunidad mientras se mantenía como la ubicación centralizada para
+encontrarlo. eBay permite que la comunidad venda sus bienes al tiempo que es
+dueño del mercado para esos bienes. Amazon, aun vendiendo los mismos productos
+que otros sitios, tuvo éxito al permitir que la comunidad participe en el
+'flujo' alrededor de sus productos.
+
 Because the capitalists who invest in Web 2.0 start-ups do not often fund early
 capitalization, their behavior is markedly parasitic. Web 2.0 capitalists
 frequently arrive late when value creation already has good momentum, swoop in
@@ -1232,6 +1457,15 @@ to take ownership, and use their financial power to promote the service, often
 within the context of a hegemonic network of major, well-financed partners.
 This means that companies not acquired by venture capital end up starved of
 cash and squeezed out of the club.
+
+Debido a que los capitalstas que invierten en emprendimientos de la Web 2.0
+usualmente no financian la capitalización temprana, su comportamiento es
+marcadamente parasitario. Los capitalistas de la Web 2.0 arriban frecuentemente
+tarde cuando la creación de valor está en su mejor momento, se cuelan para
+apropiarse del espacio y usan su poder financiero para promover el servicio, a
+menudo en el contexto de una red hegemónica de partners mayores y bien
+financiados. Esto significa que las compañías que no son adquiridas por el
+capital de riesgo terminan muriendo por falta de dinero y fuera del club.
 
 In all these cases, the value of the internet site is created not by the paid
 staff of the company who run it, but by the users who use it. With the emphasis
@@ -1243,6 +1477,18 @@ photos. Ownership often isn’t an issue for the community, and is a small price
 to pay for the use of these wonderful applications. Since most users do not
 have access to alternative means to produce and publish their own content, they
 are attracted to sites like Facebook and Flickr.
+
+En todos estos casos, el valor de un sitio de Internet no es creado por el
+staff pago de la compañía que lo posee, sino por los usuarios que lo utilizan.
+Con el énfasis puesto en el contenido creado por la comunidad y la
+compartición, es muy fácil pasar por alto preguntas acerca de la propiedad del
+contenido y la habilidad para monetizar su valor. Estas preguntas son rara vez
+hechas por el usuario. Son parte de la letra de los Términos de Servicio de
+Facebook, o en el 'flickr.com' en la URL de sus fotos. La propiedad rara vez es
+un problema para la comunidad, y es un pequeño precio que paga por el uso de
+esas aplicaciones maravillosas. Ya que la mayoría de los usuarios no tienen
+acceso a medios alternativos para producir y publicar su propio contenido, son
+atraídos a sitios como Facebook y Flickr.
 
 It should be added that many open source projects can be cited as the key
 innovations in the development of Web 2.0: free software like Linux, Apache,
@@ -1256,6 +1502,19 @@ contribution within the context of a proprietary system where the proprietor
 owns the content is a characteristic of a successful Web 2.0 company. Allowing
 the community to own what it creates, though, is not.
 
+Debe agregarse que muchos proyectos de código abierto pueden citarse como las
+innovaciones clave para el desarrollo de la Web 2.0: software libre como Linux,
+Apache, PHP, Ruby, Python, etc. son la columna vertebral de la Web 2.0 y de la
+Web en sí misma. Pero exista una falla fundamental en todos estos proyectos en
+términos de lo que O'Reilly refiere como las 'competencias principales' de las
+compañías de la Web 2.0, es decir el control sobre fuentes de datos únicas,
+difíciles de recrear, enriquecidas por el uso de la gente y el aprovechamiento
+de la inteligencia colectiva que atraen. [^21] Permitir a la comunidad
+contribuir abiertamente y utilizar esa contribución en el contexto de un
+sistema propietario donde el propietario se adueña del contenido es
+característico del éxito de una compañía de la Web 2.0. Permitir a la comunidad
+ser dueño de lo que crea, sin embargo, no lo es.
+
 Thus, to be successful and create profits for investors, a Web 2.0 company
 needs to create mechanisms for sharing and collaboration that are centrally
 controlled. The lack of central control possessed by Usenet and other
@@ -1265,6 +1524,16 @@ Thus, because Web 2.0 is funded by the same-old capitalism, Usenet is mostly
 forgotten. While YouTube is worth a billion dollars, PeerCast, an innovative
 P2P live video streaming network that has been in existence for several years
 longer than YouTube, is virtually unknown.
+
+Así, para ser exitoso y crear ganancias para los inversores, una compañía de la
+Web 2.0 necesita crear mecanismos para compartir y colaborar controlados
+centralizadamente. La falta de control central que poseen Usenet y otras
+tecnologías controladas por pares es, en el contexto de la Web 2.0, una falla
+fundamental. Solo benefician a sus usuarios, no a los inversores ausentes,
+porque no son 'propiedad'. Así, porque la Web 2.0 está financiada por el viejo
+capitalismo, Usenet es olvidada. Mientras YouTube vale mil millones de dólares,
+PeerCast, una innovadora red de streaming de video P2P que existe desde hace
+varios años más que YouTube, es virtualmente desconocida.
 
 From a technological standpoint, distributed and peer-to-peer technologies are
 far more efficient than Web 2.0 systems. Making better use of network resources
@@ -1286,6 +1555,28 @@ and public pressure groups and enforce limitations on the kinds of content they
 allow. Also, the lack of large central cross-referencing databases of user
 information has a strong advantage in terms of privacy.
 
+Desde un punto de vista tecnológico, las tecnologías distribuidas y de pares
+son muchísimo más eficientes que los sistemas de la Web 2.0. Hacer un mejor uso
+de los recursos de la red al utilizar las computadoras y las conexiones de red
+de los usuarios, el P2P evita los cuellos de botella creados por los sistemas
+centralizados. Además permite que el contenido sea publicado con menor
+infraestructura, a menudo no más de una computadora y una conexión a Internet
+de consumidor final. Los sistemas P2P no requieren los centros de datos masivos
+de YouTube. Los sistemas distribuidos también tienden a ser más longevos.
+Usenet ha sido subsumida de alguna forma por Google, que es dueño del archivo
+de Usenet más grande y del más usado cliente web, Google Groups. Sin embargo,
+gracias a la naturaleza distribuída de Usenet, otros medios de acceso continuan
+existiendo en paralelo y mientras su rol como una plataforma online ha perdido
+prominencia, muchos grupos de noticias permanecen en actividad. Por ejemplo, la
+Iglesia de los SubGenios, alt.slack, continua teniendo importancia como un foro
+social para la popular religión de mentira. La falta de una infraestructura
+central también conlleva una falta de control central, significando la ausencia
+de censura, a menudo un problema de la propiedad privada de las 'comunidades',
+que frecuentemente ceden a los grupos de presión públicos y privados y
+aplican limitaciones el tipo de contenido que permiten. Además, la falta de
+grandes bases de datos cruzadas con información de los usuarios es una ventaja
+muy fuerte en términos de privacidad.
+
 From this perspective, it can be said that Web 2.0 is capitalism’s pre-emptive
 attack against peer-to-peer systems. However, despite the many disadvantages in
 comparison to P2P, Web 2.0 is more attractive to investors and thus has more
@@ -1301,6 +1592,23 @@ dependent on connecting to centralized services that control your ability to
 communicate. Web 2.0 is the ruin of free, peer-to-peer systems and the return
 of monolithic online services.
 
+Desde esta perspectiva, puede decirse que la Web 2.0 es el ataque preventivo
+del capitalismo a los sistemas de pares. No obstante, a pesar de las muchas
+desventajas en comparación al P2P, la Web 2.0 es más atractiva a los inversores
+y por lo tanto tiene más dinero para financiar y promover soluciones
+centralizadas. El resultado final es que la inversión capitalista ha fluido
+hacia las soluciones centralizadas, volviéndolas fáciles y baratas o gratuitas
+para que los productores no-técnicos de información las adoptasen. Esta
+facilidad de acceso, comparada a la técnicamente desafiante y al costoso
+compromiso de apropiarse de los propios medios de producción, ha creado un
+proletariado 'sin tierra' listo para proveer de trabajo alienado en la creación
+de contenido a los nuevos terratenientes informáticos de la Web 2.0. La misión
+de la Web 2.0 es destruir el aspecto P2P de la Internet y hacerte junto con tu
+computadora y tu conexión a Internet, dependiente de la conexión a servicios
+centralizados que controlan tu habilidad para comunicarte. La Web 2.0 es la
+ruina de los sistemas de pares libres y el regreso de los servicios en línea
+monolíticos.
+
 A telling detail here is that most home or office internet connections in the
 90s, such as modem and ISDN connections, were symmetric, equal in their ability
 to send and receive data. By design, these connections enable you to be equally
@@ -1309,6 +1617,16 @@ cable-modem connections are asymmetric, allowing you to download information
 quickly but upload slowly. Moreover, many user agreements for internet services
 forbid the user to run servers on a consumer account, and may cut off your
 service if you do.
+
+Para agregar un detalle a esta historia, la mayoría de las conexiones hogareñas
+o de oficina durante los '90, como las conexiones por módem o ISDN, eran
+simétrica, iguales en su habilidad para enviar y recibir datos. Por diseño,
+estas conexiones te permitían ser al mismo tiempo un productor y un consumidor
+de información. Por otro lado, las conexiones DSL y de cable-módem modernas son
+asimétricas, permitiéndote descargar rápidamente información pero subirla
+lentamente. Y sobre esto, muchos acuerdos de usuario de los servicios de
+Internet prohíben al usuario correr servidores en sus cuentas de consumidor y
+podrían cortar el servicio si no se cumple el acuerdo.
 
 Capitalism, rooted in the idea of earning income by way of idle share
 ownership, requires centralized control. Without such centralized control,
@@ -1321,6 +1639,10 @@ of production, any real hope for a genuine, community enriching, next
 generation of internet-based services is not rooted in the creation of more
 privately owned, centralized resources, but rather in creating co-operative,
 P2P and commons-based systems owned by everybody and nobody.
+
+El capitalismo, enraizado en la idea de que la ganancia es percibida a través 
+
+HEAD
 
 To reiterate, although small and obscure by today’s standards, with its focus
 on peer-to-peer applications such as Usenet and email, the early internet was
