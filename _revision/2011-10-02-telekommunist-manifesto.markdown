@@ -1640,9 +1640,17 @@ generation of internet-based services is not rooted in the creation of more
 privately owned, centralized resources, but rather in creating co-operative,
 P2P and commons-based systems owned by everybody and nobody.
 
-El capitalismo, enraizado en la idea de que la ganancia es percibida a través 
-
-HEAD
+El capitalismo, enraizado en la idea de que la ganancia es percibida a través
+de la propiedad ociosa, requiere del control centralizado. Sin tal forma de
+control, los productores no tienen razón para compartir su ganancia con
+accionistas ajenos. Mientras el financiamiento del desarrollo de Internet
+provenga de este tipo de recursos, la red solo podrá volverse más restringida y
+centralizada. Mientras los comunes informacionales tienen el potencial de jugar
+un rol importante en movilizar a la sociedad hacia modos de producción más
+inclusivos, cualquier esperanza real por servicios basados en Internet
+genuinos, enriquecedores de la comunidad, no está enraizada en la creación de
+más recursos centralizados y privados, sino en la creación de sistemas
+cooperativos, P2P y basados en los comunes, apropiados por todos y por ninguno.
 
 To reiterate, although small and obscure by today’s standards, with its focus
 on peer-to-peer applications such as Usenet and email, the early internet was
@@ -1652,6 +1660,15 @@ information commons, translating public wealth into private profit. Thus Web
 2.0 should not be thought of as a second generation of either the technical or
 social development of the internet, but rather as the second wave of capitalist
 enclosure of the information commons.
+
+Para reiterar, aunque pequeña y oscura para los estándares actuales, con su
+foco puesto en aplicaciones de pares como Usenet y el correo electrónico, la
+Internet temprana era un recurso común, compartido. La comercialización de
+Internet y la emergencia del financiamiento capitalista permitieron el
+cercamiento de estos comunes informacionales, convirtiendo la riqueza pública
+en beneficio privado. Por lo tanto la Web 2.0 no debe pensarse como una segunda
+generación del desarrollo técnico ni social de la Internet, sino como la segund
+ola de cercamiento capitalista sobre los comunes informacionales.
 
 The third wave of enclosure of the information commons is already coming into
 view. Cloud computing, provided by large corporations such as Google and
@@ -1665,6 +1682,18 @@ and the future looks a lot like CompuServe: monolithic, centralized, mediated,
 controllable and exploitable, and naturally, operated by a few large
 corporations.
 
+La tercera ola de estos cercamientos está recién apareciendo. La computación en
+la nube, provista por grandes corporaciones como Google y Amazon, donde los
+clientes no son propietarios de la infraestructura física que utilizan,
+profundiza la centralización de la infraestructura de la Internet.
+Adicionalmente, legislaciones como el 'Paquete de Reformas de
+Telecomunicaciones'[^22] presentadas al Parlamento Europeo, buscan posibilitar
+que los proveedores de servicios (grandes conglomerados de telecomunicaciones)
+puedan decidir cuáles sitios web sus usuarios pueden acceder. El capital nos
+está mostrando su visión del futuro de Internet, y el futuro es muy parecido a
+CompuServe: monolítico, centralizado, mediado, controlable y explotable, y
+naturalmente, operado por unas pocas corporaciones.
+
 Almost all of the most used internet resources could be replaced by
 peer-to-peer alternatives. Google could be replaced by a P2P search system,
 where every browser and every web server is an active node in the search
@@ -1676,6 +1705,18 @@ as the source of this wealth is venture capital, the great peer-to-peer
 potential of the internet will remain unrealized. If we cannot find
 alternatives to capitalist financing, we will not only lose the internet as we
 know it, but also the chance to remake society in its P2P image.
+
+Casi todos los servicios de Internet más utilizados pueden ser reemplazados por
+alternativas de pares. Google puede reemplazarse por un sistema de búsquedas
+P2P, donde cada navegador y cada servidor web son nodos activos en el proceso
+de búsqueda; Flickr y YouTube pueden reemplazarse por PeerCast, BitTorrent y
+eDonkey, que permiten a los usuarios utilizar sus propias computadoras y
+conexiones a Internet para compartir videos y fotografías colaborativamente.
+Sin embargo, desarrollar recursos de Internet requiere aplicación de riquezas,
+y mientras la fuente de estas sea el capital de riesgo, el gran potencial de
+pares de la Internet no se realizará. Si no podemos encontrar alternativas al
+financiamiento capitalista, no solo perderemos la Internet como la conocemos,
+sino también la oportunidad de rehacer la sociedad a la imagen del P2P.
 
 Peer Production and the Poverty of Networks
 
