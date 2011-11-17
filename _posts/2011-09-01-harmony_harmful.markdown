@@ -1,3 +1,8 @@
+---
+layout: post
+title: Proyecto Harmony considerado dañino
+author: Bradley M. Kuhn
+---
 Bradley M. Kuhn
 ---------------
 
