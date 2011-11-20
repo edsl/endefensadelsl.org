@@ -534,8 +534,8 @@ clásico británico David Ricardo fue el primero en describir la renta económic
 a principios del siglo XIX. Dicho simplemente, la renta económica es el ingreso
 que el dueño de un bien productivo puede ganar sólo por ser su dueño. El dueño
 gana un ingreso en renta no por hacer algo o alguna forma de contribución, sólo
-por ser su dueño.[^3] En los términos de Stuart Mill, el recolector de renta
-gana dinero aun mientras duerme.[^4]
+por ser su dueño.[^ricardo_1821] En los términos de Stuart Mill, el recolector de renta
+gana dinero aun mientras duerme.[^mill_sf]
 
 Take for example two identical buildings, one in a major economic center, and
 one in a minor city. Both are built of identical materials, both require an
@@ -596,7 +596,7 @@ owned by others.
 La porción de la salida productiva de un productor que puede demandarse por el
 derecho a existir es el total de la salida productiva menos los costos de
 subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
-en su Sobre los principios de la economía política y los impuestos,[^5]\[?\] y
+en su Sobre los principios de la economía política y los impuestos,[^ricardo_sf]\[?\] y
 esta es la base de negociación que nos encontramos todos aquellos que nacimos
 en un mundo enteramente apropiado por otros.
 
@@ -610,7 +610,7 @@ diametrically opposed interests.
 
 En su 'Ensayo sobre los beneficios'\[?\], Ricardo argumenta: 'El interés del
 terraniente siempre se opone al interés de cualquiera otra clase de la
-comunidad'.[^6] Este análisis no se basa en la [milieu] social, como la
+comunidad'.[^ricardo_1825] Este análisis no se basa en la [milieu] social, como la
 distinción general entre las clases altas y bajas, sino en la relación con los
 factores de la producción, tierra, trabajo o capital. Este modelo ricardiano
 provee una base lógica para la idea de que las clases, terrateniente,
@@ -679,7 +679,7 @@ canons of taste and decency established by a predatory economic elite.
 La renta permite a los dueños de la propiedad escasa llevar a los trabajadores
 desposeídos al nivel de subsistencia. Como lo explica Ricardo, 'el precio
 natural del trabajo es aquel que es necesario para permitir a los trabajadores,
-uno tras otro, subsistir y perpetuar su raza'.[^7] A veces se proclama que esto
+uno tras otro, subsistir y perpetuar su raza'.[^ricardo_sf] A veces se proclama que esto
 puede ser refutado por la diferencia entre el teórico precio 'natural' y el
 precio del trabajo en el mercado real, pero tal argumento es simplemente una
 equivocación. explica Ricardo, porque el precio del mercado fluctúa. La
@@ -709,9 +709,9 @@ prácticamente de su ganancia completa para vivir de acuerdo a los estándares
 comunitarios de respetabilidad, en lo que él llama 'consumo conspicuo' y
 'derroche conspicuo'. No participar en el consumo conspicuo significa
 enfrentarse a la exclusión social y aun más reducir los prospectos de movilidad
-ascendente.[^8] 'Fracasar en consumir en cantidad y calidad debida se convierte
+ascendente.[^thorstein_2010] 'Fracasar en consumir en cantidad y calidad debida se convierte
 en una marca de inferioridad y desmerecimiento', argumenta Veblen en su La
-teoría de clase de lujo, de 1889. [^9] \[?\]
+teoría de clase de lujo, de 1889. [^thorstein_2010] \[?\]
 
 Workers have more than cultural forces working against their ability to form
 capital from whatever earnings they retain beyond subsistence. So long as
@@ -746,12 +746,12 @@ de la 'macroeconomía' moderna, en su libro de 1936 La teoría general del
 empleo, el interés y el dinero, 'a veces se dice que sería ilógico que el
 trabajo resista una reducción del salario monetario pero no lo haga frente a
 una reducción del salario real [...] la experiencia demuestra que de hecho es
-de esta manera como se comporta el trabajo'. [^10] Daniel Bell pone en claro
+de esta manera como se comporta el trabajo'. [^keynes_sf] Daniel Bell pone en claro
 este proceso en su paper 'La subversión de la negociación colectiva'. Bell
 muestra que estos casos no llevan a un cambio en el nivel general de la riqueza
 real; en la mayoría de los casos, los trabajadores que recibieron un aumento
 salarial no incrementaron su parte de la riqueza, sino que terminaron pagando
-precios más altos. [^11]
+precios más altos. [^bell_1960]
 
 Property is not a natural phenomenon; property is created by law. The ability
 to extract rent is dependent on one’s ability to control a scarce resource even
@@ -787,14 +787,14 @@ a compartir el producto de su trabajo con el dueño ausente y [idle], ese
 propietario no podría ganarse la vida, sin contar acumular más propiedad. Como
 diría el revolucionario marxista alemán Ernest Mandel en su 'El materialismo
 histórico y el Estado capitalista', 'sin la violencia del estado capitalista,
-no hay capitalismo seguro'.[^12] El propósito de la propiedad es asegurar que
+no hay capitalismo seguro'.[^mandel_sf] El propósito de la propiedad es asegurar que
 la clase desapropiada exista para producir riqueza disfrutada por la clase
 propietaria. La institución de la propiedad no beneficia a los trabajadores.
 Esto no es lo mismo que decir que los trabajadores individuales no puedan
 convertirse en propietarios, sino que al hacerlo dejan de pertenecer a su
 clase. Las historias de éxito individual no cambian el sistema de clases. Como
 dijo el filósofo político canadiense Gerald Cohen, proponente del marxismo
-analítico, 'quiero elevarme con mi clase, ¡no sobre ella!' [^13]
+analítico, 'quiero elevarme con mi clase, ¡no sobre ella!' [^cohen_1988] [^cohen_2009]
 
 The current global situation confirms that workers, as a class, are not able to
 accumulate property. A study by the World Institute for Development Economics
@@ -812,7 +812,7 @@ bienes globales en el año 2000, y que el 10% más rico de los adultos
 contabilizada el 85% del total mundial. La mitad inferior de la población
 adulta poseía apenas el 1% de la riqueza global. En el reporte se incluyen
 estadísticas extensivas, muchas de las cuales indican una disparidad mundial
-creciente. [^14]
+creciente. [^un_2007]
 
 The condition of the working class in society is largely one of powerlessness
 and poverty; the condition of the working class on the internet is no
@@ -993,7 +993,7 @@ sharing among users.xv
 Web 2.0, un término acuñado por O'Reilly Media en el 2004, se refiere a la
 supuesta segunda generación de servicios basados en Internet, como los sitios
 de redes socials, wikis, herramientas de comunicación y folksonomías que
-enfatizan la colaboración en línea y la compartición entre usuarios.[^15]
+enfatizan la colaboración en línea y la compartición entre usuarios.[^wikipedia_web20]
 
 The use of the word ‘supposed’ is noteworthy. As the largest collaboratively
 authored work in history, Wikipedia should know. Unlike most of the members of
@@ -1025,7 +1025,7 @@ todo, a la moda 2.0. Tim Berners-Lee, el creador de la World Wide Web, desechó
 el término diciendo que 'la Web 2.0 es por supuesto una pieza de argot, nadie
 sabe realmente qué significa'. Continua diciendo que 'significa usar los
 estándares que fueron producidos por todas estas personas que traban en la Web
-1.0'.[^16] En realidad, entonces, no hay ni una Web 1.0 ni una 2.0. Hay solo un
+1.0'.[^developer_2006] En realidad, entonces, no hay ni una Web 1.0 ni una 2.0. Hay solo un
 desarrollo continuo de aplicaciones en línea que no puede distinguirse
 claramente.
 
@@ -1107,11 +1107,11 @@ la web sin dejar el navegador. En el artículo de Paul Graham sobre la Web 2.0
 se diferencian los roles de la comunidad/usuario más específicamente. Esto
 incluye al profesional, el amateur y el usuario (más precisamente, al usuario
 final). Los roles del profesional y el usuario eran, siguiendo a Graham, bien
-entendidos en la Web 1.0, pero el amateur no tenía un lugar bien definido.[^17]
+entendidos en la Web 1.0, pero el amateur no tenía un lugar bien definido.[^graham_2005]
 Como Graham describe en 'Qué pueden aprender los negocios del Código Abierto',
 el amateur ama trabajar, sin preocuparse por compensión o reconocimiento alguno
 por su trabajo. En el desarrollo, el amateur contribuye al software de código
-abierto mientras que el profesional es pagado por su trabajo propietario.[^18]
+abierto mientras que el profesional es pagado por su trabajo propietario.[^graham_2005a]
 
 Graham’s characterization of the ‘amateur’ has an odd similarity to If I Ran
 The Circus by children's author Dr. Seuss, where young Morris McGurk says of
@@ -1135,7 +1135,7 @@ We'll work and we'll work up so many surprises
 
 You'd never see half if you had forty eyeses!”xix
 
-> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [^19]
+> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [^seuss_1956]
 
 And while the term ‘Web 2.0’ may mean nothing to Tim Berners-Lee, who views
 recent innovations as no more than the continued development of the Web, for
@@ -1260,7 +1260,7 @@ their products.
 El principal triunfo de una compañía de la Web 2.0, entonces, viene de su
 relación con la comunidad. Más específicamente, el éxito viene de la capacidad
 de la compañía para 'aprovechar la inteligencia colectiva', como dice Tim
-O'Reilly. [^20] Desde esta perspectiva, las compañías de la Web 1.0 eran
+O'Reilly. [^oreilly_2007] Desde esta perspectiva, las compañías de la Web 1.0 eran
 demasiado monolíticas y unilaterales en su acercamiento al contenido. Las
 historias de éxito en la transición de la Web 1.0 a 2.0 se basaron en su
 habilidad para mantenerse monolíticas en la marca del contenido, o, mejor aun,
@@ -1331,7 +1331,7 @@ Web en sí misma. Pero exista una falla fundamental en todos estos proyectos en
 términos de lo que O'Reilly refiere como las 'competencias principales' de las
 compañías de la Web 2.0, es decir el control sobre fuentes de datos únicas,
 difíciles de recrear, enriquecidas por el uso de la gente y el aprovechamiento
-de la inteligencia colectiva que atraen. [^21] Permitir a la comunidad
+de la inteligencia colectiva que atraen. [^oreilly_2007] Permitir a la comunidad
 contribuir abiertamente y utilizar esa contribución en el contexto de un
 sistema propietario donde el propietario se adueña del contenido es
 característico del éxito de una compañía de la Web 2.0. Permitir a la comunidad
@@ -1644,7 +1644,7 @@ de producción en lo absoluto. En primer término, cualquier modo de producción
 debe dar cuenta de sus insumos materiales o se desvanecerá. Estos insumos
 deben incluir los costos de subsistencia de quienes contribuyeron con su
 trabajo, para, como mínimo, 'permitir a los trabajadores, uno con otro, subsistir
-y perpetuar su raza', en palabras de Ricardo.[^23]
+y perpetuar su raza', en palabras de Ricardo.[^ricardo_sf]
 
 La producción inmaterial no reciprocitaria no puede hacerlo, ya que para
 producir software libre, cultura libre o sopa libre, los productores deben
@@ -1871,118 +1871,13 @@ construcción de una sociedad sin clases, una sociedad de iguales.
 Tienen un mundo por ganar.
 
 
+## Notas 
 
-References
+[^22]: El ‘Paquete de Reformas de Telecomunicadoras’ fue presentado por la
+Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre de 2007.
+Apunta a cambiar las Reglas de las Telecomunicadoras europeas de 2002. Su
+objetivo es unificar el mercado de telecomunicaciones europeo para los 27
+miembros. Para más información ver:
+http://europa.eu/rapid/pressReleasesAction.do?reference=IP/07/1677&format=HTML&aged=0&language=EN&guiLanguage=en.
 
-[^1]: Bell, Daniel. ‘The Subversion of Collective Bargaining’. Commentary. March,
-1960.
-
-[^2]: Charter for Innovation, Creativity and Access to Knowledge 2.0.1. Charter for
-Innovation, Creativity and Access to Knowledge ‘Introduction’.
-http://fcforum.net/charter\_extended.
-
-[^3]: DaBlade, ‘Richard Stallman Interview’. P2Pnet News. February 6, 2006.
-http://www.p2pnet.net/story/7840.
-
-[^4]: developerWorks. ‘developerWorks Interviews: Tim Berners-Lee’. developerWorks 22
-August 2006. http://www.ibm.com/developerworks/podcast/dwi/cmint082206txt.html.
-
-[^5]: Graham, Paul. ‘What Business Can Learn From Open Source’. PaulGraham.com.
-August 2005. http://www.paulgraham.com/opensource.html.
-
-[^6]: Graham, Paul. ‘Web 2.0’. PaulGraham.com. November 2005.
-http://www.paulgraham.com/web20.html.
-
-[^7]: Industrial Workers of the World. ‘Preamble to the IWW Constitution’. Industrial
-Workers of the World: A Union for All Workers.
-http://www.iww.org/culture/official/preamble.shtml.
-
-[^8]: Keynes, John Maynard. ‘Chapter 2: The Postulates of the Classical Economics’.
-The General Theory of Employment, Interest and Money. Marxists Internet
-Archive.
-http://www.marxists.org/reference/subject/economics/keynes/generaltheory/ch02.htm.
-Originally published, Cambridge: Macmillan Cambridge University Press, 1936.
-
-[^9]: Khayati, Mustapha. ‘Captive Words: Preface to a Situationist Dictionary’.
-Translated by Ken Knabb, International Situationiste 10 (1966). Situationist
-International Online, http://www.cddc.vt.edu/sionline/index.html.
-
-[^10]: Kretschmer, Martin. ‘Music Artists’ Earnings and Digitisation: A Review of
-Empirical Data from Britain and Germany’. Bournemouth University Eprints.
-http://eprints.bournemouth.ac.uk/3704/1/Birkbeck\_06\_04\_final.pdf.
-
-[^11]: Kretschmer, Martin. ‘Empirical Evidence on Copyright Earnings’. September,
-2006. DIME. http://www.dime-eu.org/files/active/0/Kretschmer.pdf.
-
-[^12]: Landauer, Gustav. Revolution and Other Writings: A Poltiical Reader. Edited and
-translated by Gabriel Kuhn. Oakland: PM Press, 2010.
-
-[^13]: Lessig, Lawrence. Presentation at Wizards of OS 4: Information Freedom Rules
-International Conference, Berlin, Germany September 14-16, 2006.
-
-[^14]: Macmillan, Fiona. New Directions in Copyright Law. Cheltenham, UK: Edward Elgar
-Publishing, 2007.
-
-[^15]: Mandel, Ernest. ‘Historical Materialism and the Capitalist State’. Translated
-by Juriaan Bendian. Scribd.com.
-http://www.scribd.com/doc/20878564/MandelErnestHistorical-Materialism-and-the-Capitalist-State.
-Originally published in German in Marxismus und Anthropologie, Bochum 1980.
-
-[^16]: Marx, Karl. ‘Preface’. A Contribution to the Critique of Political Economy.
-Marxists Internet Archive.
-http://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm.
-Originally written, 1859.
-
-[^17]: Marx, Karl and Frederick Engels. Manifesto of the Communist Party.
-http://www.marxists.org/archive/marx/works/1848/communist-manifesto/.
-Originally published in German, 1848.
-
-[^18]: Mill, John Stuart. Principles of Political Economy with some of their
-Application to Social Philosophy. Library of Economics and Liberty.
-http://www.econlib.org/library/Mill/mlP.html. Originally published, 1848.
-
-[^19]: Miller, Ernest. ‘Woody Guthrie on Copyright’. Copyfight July 27, 2004.
-http://copyfight.corante.com/archives/2004/07/27/woody\_guthrie\_on\_copyright.php.
-
-[^20]: O’Reilly, Tim ‘What is Web 2.0: Design Patterns and Business Models for the
-Next Generation of Software’ March 2007. Munich Personal RePEc Archive, MPRA
-Paper no. 4578 (posted 7 November 2007).
-http://mpra.ub.unimuenchen.de/4578/1/MPRA\_paper\_4578.pdf.
-
-[^21]: Proudhon, P.J. ‘What is Property? An Inquiry into the Principle of Right and of
-Government’. Project Gutenberg Ebook no. 360.
-http://www.gutenberg.org/ebooks/360. Originally published, 1890.
-
-[^22]: Ricardo, David. ‘An Essay on Profits’. London: John Murray,1815. McMaster
-University, Faculty of Social Science website,
-http://socserv.mcmaster.ca/~econ/ugcm/3ll3/ricardo/profits.txt.
-
-[^23]: Ricardo, David. On Principles of Political Economy and Taxation. Library of
-Economics and Liberty, http://www.econlib.org/library/Ricardo/ricPCover.html.
-Originally published, London: John Murray, 1821.
-
-[^24]: Seuss, Dr. Seuss. If I Ran the Circus. Random House, 1956.
-
-[^25]: Smiers, Joost and Marieke van Schijndel. No Copyright and No Cultural
-Conglomerates Too: An Essay. Amsterdam: Institute of Network Cultures, 2009.
-http://networkcultures.org/wpmu/theoryondemand/titles/no04-imagine-there-are-is-no-copyright-and-no-cultural-conglomorates-too/.
-
-[^26]: Stallman, Richard. ‘Copyleft: Pragmatic Idealism’. GNU Operating System.
-http://www.gnu.org/philosophy/pragmatic.html.
-
-[^27]: Thorstein, Veblen. ‘Chapter 4: Conspicuous Consumption’. The Theory of the
-Leisure Class. Bremen, Germany: Europaeischer Hochschulverlag GmbH & Co KG,
-2010. Originally published, 1899.
-
-[^28]: Tucker, Benjamin. ‘State Socialism and Anarchism: How far they agree, and
-wherein they differ’. The Anarchist Library.
-http://flag.blackened.net/daver/anarchism/tucker/tucker2.html. Originally
-published in Benjamin Tucker, Individual Liberty (New York: Vanguard Press,
-1926).
-
-[^29]: United Nations University-World Institute for Development Economics Research.
-‘Richest 2% Own Half the World’s Wealth’. update.unu.edu 44 (December
-2006-February 2007). http://update.unu.edu/issue44\_22.htm.
-
-[^30]: ‘Web 2.0’. Wikipedia.org. http://en.wikipedia.org/wiki/Web_2.0.
 
