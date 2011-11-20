@@ -176,36 +176,22 @@ and activists, not to evangelize a fixed position, but to contribute to an
 ongoing critical dialogue.
 
 
-# El comunismo par-a-par contra el estado capitalista cliente-servidor
-
-Peer-to-Peer Communism vs. The Client-Server Capitalist State
+# El comunismo de pares contra el estado capitalista cliente-servidor
 
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
-entonces describirse en términos de relaciones sociales. Los militantes por el
-comunismo han descrito comunidades entre iguales; las redes de par-a-par
+entonces describirse en términos de relaciones sociales. Los militantes
+comunistas han descrito comunidades entre iguales; las redes de pares
 implementan estas relaciones en su arquitectura. Del mismo modo, el capitalismo
 depende del privilegio y el control, características que en las redes
-informáticas sólo pueden ser ingeniados \[?\] centralizadamente como
-aplicaciones cliente-servidor. Los sistemas económicos dan forma a las redes
-que crean, y a la vez que las redes se integran cada vez más a la vida diaria,
-comienzan a formarla también. Resulta esencial producir una comprensión crítica
-de la economía política para poder comprender las tendencias emergentes en
-topologías de red y sus implicaciones sociales.
+informáticas sólo pueden ser diseñadas centralizadamente como aplicaciones
+cliente-servidor. Los sistemas económicos dan forma a las redes que crean, y a
+la vez que las redes se integran cada vez más a la vida diaria, comienzan a
+formarla también. Resulta esencial producir una comprensión crítica de la
+economía política para poder comprender las tendencias emergentes en topologías
+de red y sus implicaciones sociales.
 
-Society is composed of social relations. These form the structures that
-constitute it. Computer networks, like economic systems, then may be described
-in terms of social relations. Advocates of communism have long described
-communities of equals; peer-to-peer networks implement such relations in their
-architecture. Conversely, capitalism depends on privilege and control, features
-that, in computer networks, can only be engineered into centralized,
-client-server applications. Economic systems shape the networks they create,
-and as networks become more integral to every day life, are in turn shaped by
-them. It is then essential to produce a critical understanding of political
-economy in order to comprehend emerging trends in network topology and their
-social implications.
-
-La historia de internet ilustra cómo se ha dado este proceso. La internet
+La historia de Internet ilustra cómo se ha dado este proceso. La Internet
 comenzó como una red que encarnaba las relaciones de un comunismo de pares; sin
 embargo, ha sido reconfigurada por el capitalismo en una topología
 cliente-servidor ineficiente y no libre. La existencia de redes de pares que
@@ -215,50 +201,21 @@ contenida en creaciones intangibles e inmateriales, aunque tiene el potencial
 para extenderse a la producción material y convertirse en una amenaza para la
 existencia del capitalismo. Para que esto suceda, una alternativa al
 capitalismo de riesgo debe proveer los medios para adquirir y colocar
-eficientemente la propiedad colectiva requerida para construir redes libres
-y sociedades libres.
-
-The history of the internet illustrates how this process has unfolded. The
-internet started as a network that embodied the relations of peer-to-peer
-communism; however, it has been re-shaped by capitalist finance into an
-inefficient and un-free client-server topology. The existence of peer-to-peer
-networks that allow producers to collaborate on a global scale has ushered in
-new forms of production. Such peer production has thus far been largely
-contained to non-tangible, immaterial creation, yet has the potential to be
-extended to material production and become a threat to the existence of
-capitalism. In order for this to take place, an alternative to venture
-capitalism needs to provide a means of acquiring and efficiently allocating the
-collectively owned material wealth required to build free networks and free
-societies.
+eficientemente la riqueza colectiva requerida para construir redes libres y
+sociedades libres.
 
 Necesitamos un comunismo de riesgo, una forma de lucha contra la continua
 expansión del capitalismo basado en la propiedad, un modelo para la
 autoorganización de los trabajadores inspirado por la topología de red
-par-a-par y los comunes pastoriles históricos.
+de pares y los comunes pastoriles históricos.
 
-We need venture communism, a form of struggle against the continued expansion
-of property-based capitalism, a model for worker self-organization inspired by
-the topology of peer-to-peer networks and the historical pastoral commons.
-
-The Conditions of the Working Class on the Internet
 
 ## Las condiciones de la clase trabajadora en la Internet
-
-The only way to change society is to produce and share differently.
 
 La única manera de cambiar la sociedad es producir y compartir de forma
 diferente.
 
-Capitalism has its means of self-reproduction: venture capitalism. Through
-their access to the wealth that results from the continuous capture of surplus
-value, capitalists offer each new generation of innovators a chance to become
-a junior partner in their club by selling the future productive value of what
-they create in exchange for the present wealth they need to get started. The
-stolen, dead value of the past captures the unborn value of the future. Neither
-the innovators, nor any of the future workers in the organizations and
-industries they create, are able to retain the value of the contribution.
-
-El capitalismo tiene sus formas propias de auto-reproducción: el capitalismo de
+El capitalismo tiene sus formas propias de reproducción: el capitalismo de
 riesgo. A través del acceso a la riqueza que resulta de la captura continua de
 plusvalía, los capitalistas ofrecen a las nuevas generaciones de innovadores la
 chance de convertirse en _partners junior_ de su club, haciéndoles vender el
@@ -268,33 +225,13 @@ valor no-nato del futuro. Ni los innovadores, ni ninguno de los trabajadores
 futuros en las organizaciones e industrias que creen, son capaces de retener el
 valor de su contribución.
 
-This ‘unretained’ value forms the wealth that goes on to capture the next wave
-of innovation. This captured wealth is applied by its private owners towards
-political control, to impose the interests of property owners on society at the
-expense of the interests of workers. For innovation to be born and allowed to
-develop in, and for, the common wealth, we need venture communism. We must
-develop ways to create and to reproduce commons-based productive relationships.
-
 Este valor 'no retenido' forma la riqueza que se utiliza para capturar la
 siguiente ola de innovación. Esta riqueza capturada es aplicada por sus dueños
-privados en el control político, para imponer los intereses de los dueños de la
+privados al control político, para imponer los intereses de los dueños de la
 propiedad a la sociedad a expensas de los intereses de los trabajadores. Para
 que la innovación nazca y se desarrolle y para el bien común, necesitamos un
 comunismo de riesgo. Debemos desarrollar formas de crear y reproducir
 relaciones de producción basadas en los comunes.
-
-Whether the products of labor are captured by commons-based producers or by
-capitalist appropriators will determine the kind of society we will have, one
-based on co-operation and sharing, or one based on force and exploitation. The
-venture communist struggle against class stratification could not be more
-vital. Not only does our society face the age-old afflictions of poverty and
-injustice, but it is becoming clear that the production levels required to
-sustain the accumulation of an elite few drive us repeatedly into war, and
-inevitably towards environmental catastrophe. Failure to achieve a more
-equitable society has consequences far graver than we can afford to bear. To
-succeed, the space, instruments and resources needed must be made available as
-a common stock, and employed in production by a dispersed community of peers,
-producing and sharing as equals.
 
 La forma en que el producto del trabajo sea apropiado, por productores basados
 en los comunes o por apropiadores capitalistas, determinará el tipo de sociedad
@@ -310,34 +247,16 @@ permitir. Para triunfar, los espacios, instrumentos y recursos necesarios deben
 estar disponibilizados como un capital común y ser empleados en la producción
 por una comunidad dispersa de pares, produciendo y compartiendo como iguales.
 
-Politics is not a battle of ideas; it is a battle of capacities. Ideas are
-powerful, and their development and implementation can certainly have
-a political impact; however, the development and implementation of ideas is
-determined not by their intrinsic value, but by the relative power of those who
-benefit from the idea versus those who are threatened. The capacity to change
-a social order requires the wherewithal to overcome competing capacities for,
-amongst other things, communication and lobbying. These capacities are, at
-their base, economic capacities. Change then requires the application of enough
-wealth to overcome the wealth of those who resist such a change. Such wealth
-arises only from production.
-
 La política no es una batalla de ideas; es una batalla de capacidades. Las
 ideas son poderosas, y su desarrollo e implementación ciertamente puede tener
 un impacto político; sin embargo, el desarrollo e implementación de las ideas
 no está determinado por su valor intrínseco, sino por el poder relativo de
 aquellos que se benefician de la idea contra aquellos a los que amenaza. La
 capacidad de cambiar un orden social requiere los medios de superar a las
-capacitades competidoras por, entre otras cosas, la comunicación y el lobby.
+capacidades competidoras por, entre otras cosas, la comunicación y el lobby.
 Estas capacidades son, en su base, capacidades económicas. El cambio requiere
 entonces la aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
-
-New ways of producing and sharing, then, are a precondition of any change in
-the social order. These new methods of production and sharing require the
-creation of new kinds of relationships, new productive relations, to constitute
-a new economic structure that is able to give rise to a new kind of society. No
-social order, no matter how entrenched and ruthlessly imposed, can resist
-transformation when new ways of producing and sharing emerge.
 
 Las nuevas formas de producir y compartir, entonces, son la precondición de
 cualquier cambio en el orden social. Estos nuevos métodos de producir
@@ -347,23 +266,11 @@ de hacer surgir un nuevo tipo de sociedad. Ningún orden social, sin importar
 cuan fuerte y despiadadamente impuesto, puede resistir su transformación cuando
 emergen nuevas formas de producir y compartir.
 
-To reiterate, society is composed of social relationships, relationships that
-include relations of production. These relations of production constitute the
-economic structure of society, which give rise to the legal and political
-structures that further define it. Relations between buyer and seller, tenant
-and landlord, employee and employer, those born to wealth and privilege and
-those born to precarity and struggle, are all outcomes of these relations of
-production. These relations determine how things are produced and shared in
-society. Those who are able to control the circulation of the product of the
-labor of others can impose laws and social institutions according to their
-interests. Those who are not able to retain control of the product of their own
-labor are not able to resist.
-
 Para reiterar, la sociedad está compuesta de relaciones sociales, relaciones
 que incluyen relaciones de producción. Estas relaciones de producción
 constituyen la estructura económica de la sociedad, que hacen surgir
 estructuras legales y políticas que luego la definen. Las relaciones entre
-compradores y vendedores, inquilinos y dueños, empleador y empleador, aquellos
+compradores y vendedores, inquilinos y dueños, empleado y empleador, aquellos
 que nacen en la riqueza y el privilegio y aquellos que nacen en la precariedad
 y la lucha, todos son producto de estas relaciones de producción. Estas
 relaciones determinan cómo se producen y se comparten las cosas en la sociedad.
@@ -372,18 +279,6 @@ de otros pueden imponer leyes e instituciones sociales que protegen sus
 intereses. Aquellos que no son capaces de retener el control del producto de su
 trabajo no son capaces de resistirlas.
 
-Capitalism depends on the appropriation of value for its subsistence and
-growth. The disingenuous rhetoric of the ‘free market economy’ is a smoke
-screen to justify a system of privilege and exploitation, perhaps better called
-the ‘casino economy’. There are certainly some conspicuous winners, but the
-odds always favor the house. Any organized attempt to beat the odds will be
-excluded, perhaps violently. In a genuinely free economy, competition among
-producers would reduce the price of everything to the lowest level. If
-commodities were traded in a truly perfect ‘market’, then land and capital,
-like labor, would never be able to earn any more than the cost of the
-production of provision. There could be no class that is exempt from working,
-as there would be no income to sustain such a class.
-
 El capitalismo depende de la apropiación de valor para subsistir y crecer. La
 falsa retórica de la "economía de libre mercado" es una pantalla de humo para
 justificar un sistema de privilegio y explotación, la tal vez mejor llamada
@@ -391,21 +286,10 @@ justificar un sistema de privilegio y explotación, la tal vez mejor llamada
 las chances siempre están a favor de la casa. Cualquier intento organizado de
 vencer las chances será excluido, tal vez violentamente. En una economía libre
 genuina, la competencia entre productores reduciría el precio de todo al nivel
-más bajo. Si la mercancía se comercializa en "mercado" verdaderamente perfecto,
-entonces la tierra y el capital, como el trabajo, jamás serían capaces de ganar
-más que el costo de producción. No habría clase alguna exenta de trabajar,
-porque no habría ingreso capaz de sostenerla.
-
-For a capitalist class to exist, the market must be rigged, and indeed, all
-markets are. Capitalism must increase the price of capital by withholding it
-from labor. In reality, the ‘free market’ is an imposition by property owners
-on to workers, while retaining their own privileges. Capital needs to make the
-price of labor low enough to prevent workers, as a class, from being able to
-retain enough of their own earnings to acquire their own property. If workers
-could acquire their own property, they could also stop selling their labor to
-the capitalists. Capitalism, then, could not exist in a free market. The whole
-idea of the ‘free market’ is part of the mythology of capitalism. It is not
-possible within capitalism and just as unlikely to exist without it.
+más bajo. Si la mercancía se comercializa en un "mercado" verdaderamente
+perfecto, entonces la tierra y el capital, como el trabajo, jamás serían
+capaces de ganar más que el costo de producción. No habría clase alguna exenta
+de trabajar, porque no habría ingreso capaz de sostenerla.
 
 Para que exista una clase capitalista, el mercado debe ser manipulado, y en
 efecto, todos los mercados lo son. El capitalismo debe incrementar el precio
@@ -417,16 +301,7 @@ capaces de retener lo suficiente de sus salarios para adquirir propiedad. Si
 los trabajadores adquirieran propiedad podrían dejar de vender su trabajo a los
 capitalistas. El capitalismo, entonces, no puede existir en un mercado libre.
 La idea de un "libre mercado" es parte de la mitología del capitalismo. No es
-posible dentro del capitalismo así como poco probable que exista sin ella
-\[?\].
-
-If ‘freed’ from the coercion of profit-seeking capitalists, producers would
-produce for social value, not for profits, as they do in their private and
-family lives, and as they do in non-capitalist communities. This is not to say
-that a free society would not have competition, or that its members would not
-seek to benefit from their own labor. Indeed, the division of labor required in
-a complex society makes exchange and reciprocity necessary. However, the
-metaphor of ‘the market’ as it is currently used would no longer hold.
+posible dentro del capitalismo así como poco probable que exista sin ella.
 
 "Liberados" de la coerción de los capitalistas en busca de lucro, los
 productores podrían producir por el valor social, no por el lucro, como lo
@@ -435,39 +310,18 @@ capitalistas. Esto no quiere decir que en una sociedad libre no exista la
 competencia, o que sus miembros no buscarán beneficiarse de su trabajo. De
 hecho, la división del trabajo requerida en una sociedad compleja hace
 necesarios el intercambio y la reciprocidad. No obstante, la metáfora de "el
-mercado" tal como es usada en la actualidad no va a sostenerse.
-
-The ‘market economy’ is, by definition, a surveillance economy, where
-contributions to production and consumption must be measured in minute detail.
-It is an economy of accountants and security guards. The accounting of value
-exchange in tiny and reductive lists of individually priced transactions must
-be superseded by more fluid and generalized forms of exchange. The motive to
-maximize profit from ownership, so often the driving force behind irrational
-and destructive forms of production, would give way to a much stronger motive
-for production: doing work that has direct benefits for our lives and our
-    society, production that fulfills real world needs and desires.
+mercado" tal como es usada en la actualidad no se sostenendría.
 
 La "economía de mercado" es, por definición, una economía de la vigilancia,
 donde las contribuciones a la producción y el consumo deben medirse en detalle.
 Es una economía de contadores y guardias de seguridad. La contabilidad del
-valor de cambio en pequeños y reductoras listas de transacciones valoradas
+valor de cambio en pequeñas y reductoras listas de transacciones valoradas
 individualmente debe superarse por formas de intercambio más fluidas
 y generalizadas. El motivo por el que se maximiza el beneficio de la propiedad,
 que es tan a menudo la fuerza motriz detrás de formas de producción
 irracionales y destructivas, dará paso a un motivo de producir mucho más
-fuerte: realizar trabajo con beneficio directo sobre nuestras videas y nuestra
+fuerte: realizar trabajo con beneficio directo sobre nuestras vidas y nuestra
 sociedad, una producción que cumpla necesidades y deseos del mundo real.
-
-Capitalist apologists will insist that these motives are one and the same, that
-profit is simply the financial reward for producing what the community needs,
-but this relationship is tenuous at best. While the increased price of goods in
-short supply does direct productive activities towards particular areas, the
-extraction of profit from this production by property owners does little to
-address social needs. When profit is the motive, price can be increased or
-costs reduced through predatory, exploitative and anti-competitive business
-practices, that do not contribute to the fulfillment of community needs. When
-workers are able to form their own capital, and thereby retain the entire
-product of their labor, the motivations to pursue such practices fade.
 
 Los apólogos del capitalismo insistirán que esos motivos son uno y el mismo,
 que el beneficio es simplemente la recompensa monetaria de producir lo que la
@@ -481,13 +335,6 @@ explotadoras y anticompetitivas, que no contribuyen al cumplimiento de las
 necesidades comunitarias. Cuando los trabajadores son capaces de formar su
 propio capital, las motivaciones para perseguir esas prácticas se desvanecen.
 
-Without the need to account for and measure our consumption and production to
-appease the imposers of capitalist control, workers in a free society may not
-bother producing exclusively to maximize profit within a ‘market economy’.
-Instead, they may decide to focus their efforts on producing what they want and
-what their community needs, and are motivated to share the products of their
-labor out of mutual respect. This type of economy does not resemble a ‘market’.
-
 Sin la necesidad de contabilizar y medir nuestros consumo y producción para
 apaciguar a los que imponen el control capitalista, los trabajadores en una
 sociedad libre no se molestarían en producir exclusivamente para maximizar la
@@ -496,23 +343,9 @@ enfocar sus esfuerzos en producir lo que quieren y lo que su comunidad
 necesita, y están motivados a compartir los productos de su labor sólo por
 respeto mutuo. Este tipo de economía no se parece a un "mercado".
 
-The ‘market’ has become such a pervasive metaphor for ‘free exchange’ that the
-whole of society is frequently, and uncritically described in terms of
-a physical marketplace. A physical marketplace is not a free space. Control of
-the physical location of the market has always been the domain of hierarchy and
-authority, and proximity to the physical market is the textbook example of
-unearned income, referred to by economists as ‘economic rent’. The market stall
-is a physical manifestation of the division between producer and consumer. None
-of these appear to be essential characteristics of a free society. Instead of
-an idealized and impossible ‘free market’, a workers’ economy would be better
-conceptualized as a ‘network economy’, where independent participants exchange
-according their mutual desires within the context of a common platform, not
-centrally controlled by any of them, but composed of their own voluntary
-interconnections.
-
 El "mercado" se ha convertido en una metáfora tan penetrante del "intercambio
 libre" que la sociedad entera es frecuente y acríticamente descrita en términos
-un mercado físico. Un mercado físico no es un espacio libre. El control de la
+de un mercado físico. Un mercado físico no es un espacio libre. El control de la
 ubicación física del mercado ha sido siempre el dominio de las jerarquías y la
 autoridad, y la proximidad al mercado físico es el ejemplo de manual del
 ingreso no ganado, referido por los economistas como la "renta económica". El
@@ -525,15 +358,6 @@ deseos mutuos dentro del contexto de una plataforma común, no controlada
 centralizadamente por ninguno de ellos, pero compuesta de sus interrelaciones
 voluntarias.
 
-Capitalism depends on the state to impose control within the network economy,
-particularly to control relations through authorized channels, and thereby
-capture value that would otherwise be retained by its producers. Points of
-control are introduced into the natural mesh of social relations. The ‘market
-economy’ is then the imposition of the ‘unfree’ terms of a physical marketplace
-onto society broadly. The distinction between producer and consumer must be
-enforced so that circulation can be controlled. Hierarchy and authority must
-have privileged access.
-
 El capitalismo depende del Estado para imponer control dentro de la economía de
 red, particularmente para controlar las relaciones a través de canales
 autorizados, y por lo tanto capturar el valor que de otra forma sería retenido
@@ -542,17 +366,6 @@ términos "no libres" del mercado físico a la sociedad en su conjunto. La
 distinción entre productor y consumidor debe aplicarse para que la circulación
 puede ser controlada. Sólo la jerarquía y la autoridad deben tener acceso
 privilegiado.
-
-The absurd and reductionist idea that we are to conceive of society itself as
-a marketplace is born from the imagination of capitalism, a paradise for the
-extortionist and the bookmaker. The means of imposing the relations of the
-marketplace on all of society is provided by the state. The state’s traditional
-role of mediating between the classes on behalf of the ruling class depends on
-its territorial sovereignty. The state's ability to impose control on the
-network economy depends on the fact that the participants mostly interact
-within the state’s boundaries. Once the network expands beyond the state it has
-the potential to become a threat to the state itself, by undermining the
-territorially-based capture of value.
 
 La idea absurda y reduccionista de que debemos concebir a la sociedad misma
 como un mercado nace de la imaginación del capitalismo, un paraíso para los
@@ -566,14 +379,6 @@ que la red se expanda más allá del Estado tendrá el potencial para convertirs
 en una amenaza para el Estado mismo, al deteriorar la captura de valor basada
 en el territorio.
 
-The state’s ability to grant title and privilege is based on its ability to
-enforce such advantages through its monopoly on the legitimate use of violence.
-Communications based on global peer networks have a chance to resist and evade
-the violence contained within such hierarchies. Social relations among
-transnational, trans-local communities operate within an extra-territorial
-space, one where the operations of title and privilege could give way to
-relations of mutual interest and negotiation.
-
 La habilidad del Estado para garantizar títulos y privilegios se basa en su
 habilidad para asegurar tales ventajas a través del monopolio legitimado de la
 violencia. Las comunicaciones basadas en redes globales de pares tienen una
@@ -582,38 +387,15 @@ relaciones sociales entre comunidades transnacionales, translocales, operan
 dentro de un espacio extraterritorial, uno donde las operaciones de título
 y privilegio pueden dar lugar a relaciones de interés mutuo y negociación.
 
-Modes of production employing structures similar to peer-to-peer networks have
-relations reminiscent of the historic pastoral commons, long gone commonly held
-lands used for the maintenance of livestock and regulated by ancient rights
-predating modern laws and governments. The modern commons, however, is not
-located in a single space, but rather spans the planet, offering our society
-hope for a way out from the class stratification of capitalism by undermining
-its logic of control and extraction. Examples of such a potential mode of
-production can be readily found.
-
-Los modos de producción que emplean estructuras similares a las redes de
-par-a-par poseen relaciones reminiscentes a las de los comunes pastoriles
-históricos, tierras tenidas en común usadas para mantener el ganado y regulado
-por derechos antiguos, pero predando las leyes y formas de gobierno modernas.
-Los comunes modernos, sin embargo, no se encuentran en un sólo lugar, sino que
-abarcan todo el planeta, ofreciendo esperanza a nuestra sociedad, un camino de
-salida a la estratificación de clase del capitalismo al deteriorar su lógica de
-control y extracción. Ejemplos de tal modo de producción en potencia pueden
-encontrarse a montones.
-
-Peer networks, such as the internet, and all the material and immaterial inputs
-that keep them running, serve as a common stock that is used independently by
-many people. Free software, whose production and distribution frequently
-depends on peer networks, is a common stock available to all. Free software is
-produced by diverse and distributed producers who contribute to it because they
-gain greater value in using the software in their own production, than the
-value of their individual contributions to the software. Popular attacks on the
-royalties and fees (rents) captured by the recording and movie industries by
-users of file sharing technologies show us the difficulties faced by those
-whose incomes depend on controlling reproduction. Mass transportation and
-international migration have created distributed communities who maintain
-ongoing interpersonal and often informal economic relationships across national
-borders.
+Los modos de producción que emplean estructuras similares a las redes de pares
+poseen relaciones reminiscentes a las de los comunes pastoriles históricos,
+tierras tenidas en común usadas para mantener el ganado y regulado por derechos
+antiguos, ahora predando las leyes y formas de gobierno modernas. Los comunes
+modernos, sin embargo, no se encuentran en un sólo lugar, sino que abarcan todo
+el planeta, ofreciendo esperanza a nuestra sociedad, un camino de salida a la
+estratificación de clase del capitalismo al deteriorar su lógica de control y
+extracción. Ejemplos de tal modo de producción en potencia pueden encontrarse a
+montones.
 
 Las redes de pares, como la Internet, y toda la entrada material e inmaterial
 que la mantiene corriendo, sirven como un capital común que puede ser usado
@@ -630,18 +412,6 @@ reproducción. El transporte masivo y la migración internacional han creado
 comunidades distribuidas que mantienen relaciones interpersonales y a menudo
 informalmente económicas a través de los límites nacionales.
 
-All of these are examples of new productive relationships that transcend
-current property-based relations and point to a potential way forward.
-Developments in telecommunications, notably the emergence of peer networks such
-as the internet, along with international transportation and migration, create
-broad revolutionary possibilities as dispersed communities become able to
-interact instantly on a global scale. Our lives and relationships no longer
-need to be confined to territorially bounded nation states. Though coercive
-elements in the political and corporate hierarchy impose ever more draconian
-controls in an attempt to prevent our resistance to, and evasion of, such
-confinement, we can place our revolutionary hopes in the possibility that the
-scale of change is simply so large that they can never fully succeed.
-
 Todos estos son ejemplos de nuevas relaciones productivas que trascienden las
 actuales relaciones basadas en la propiedad y apuntan a un progreso potencial.
 El desarrollo de las telecomunicaciones, notablemente la emergencia de redes de
@@ -655,38 +425,17 @@ nuestra resistencia a, o la evasión de, tal confinamiento, podemos colocar
 nuestras esperanzas revolucionarias en la posibilidad de que la escala del
 cambio es simplemente tan amplia que nunca podrán triunfar del todo.
 
-As bold as the emergence of peer-to-peer technologies, free software and
-international communities have been, the obstacles to social change are
-daunting. We must overcome the great accumulation of wealth the capitalist
-elite have at their disposal. This wealth gives them the ability to shape
-society according to their interests. In order to change society we must
-actively expand the scope of our commons, so that our independent communities
-of peers can be materially sustained and can resist the encroachments of
-capitalism.
-
-Así como la emergencia de las tecnologías par-a-par, el software libre y las
-comunidades internacionales ha sido [bold], los obstáculos para el cambio
-social son [daunting]. Debemos superar la gran acumulación de riqueza de la que
-la elite capitalista dispone. Esta riqueza les da la habilidad de configurar la
-sociedad de acuerdo a sus intereses. Para poder cambiar la sociedad debemos
-expandir activamente el alcance de nuestros comunes, para que nuestras
-comunidades independientes de pares puedan sostenerse materialmente y resistir
-los avances del capitalismo.
-
-Whatever portion of our productivity we allow to be taken from us will return
-in the form of our own oppression.
+En proporción a la audaz emergencia de las tecnologías de pares, el software
+libre y las comunidades internacionales, los obstáculos para el cambio social
+son increiblemente grandes. Debemos superar la gran acumulación de riqueza de
+la que la elite capitalista dispone. Esta riqueza les da la habilidad de
+configurar la sociedad de acuerdo a sus intereses. Para poder cambiar la
+sociedad debemos expandir activamente el alcance de nuestros comunes, para que
+nuestras comunidades independientes de pares puedan sostenerse materialmente y
+resistir los avances del capitalismo.
 
 Cualquier porción de nuestra productividad que permitamos que nos saquen
 retornará en la forma de nuestra propia opresión.
-
-Chief among the state’s interventions into the network economy is its
-enforcement of property. Property is by its nature antagonistic to freedom.
-Property is the ability to control productive assets at a distance, the ability
-to ‘own’ something that is put to productive use by another person. Property
-makes possible the subjugation of individuals and communities. Where property
-is sovereign, there can be no freedom within its domain. The owners of scarce
-property can deny life by denying access to property, then make the living work
-like slaves for no pay beyond their reproduction costs.
 
 La cabeza de la intervención estatal en la economía de red es el refuerzo de la
 propiedad. La propiedad es por su naturaleza antagónica de la libertad. La
@@ -698,16 +447,8 @@ Los dueños de la propiedad escasa pueden denegar la vida al denegar el acceso a
 la propiedad, para entonces esclavizar el trabajo vivo sin pagarles más que el
 costo de su reproducción.
 
-In economic terminology, the income that owners receive, by appropriating the
-products of workers, is called rent. British classical political economist
-David Ricardo first described economic rent in the early 19th century. Put
-simply, economic rent is the income the owner of a productive asset can earn
-just from ownership itself. The owner earns rental income not by doing anything
-or making any sort of contribution, but just by owning.iii In the terms of John
-Stuart Mill, the rent collector earns money even as he sleeps.iv
-
 En la terminología económica, el ingreso que los dueños reciben, al apropiarse
-del producto de los trabajadores, se llama renta. El economista política
+del producto de los trabajadores, se llama renta. El economista político
 clásico británico David Ricardo fue el primero en describir la renta económica
 a principios del siglo XIX. Dicho simplemente, la renta económica es el ingreso
 que el dueño de un bien productivo puede ganar sólo por ser su dueño. El dueño
@@ -715,96 +456,45 @@ gana un ingreso en renta no por hacer algo o alguna forma de contribución, sól
 por ser su dueño.[^3] En los términos de Stuart Mill, el recolector de renta
 gana dinero aun mientras duerme.[^4]
 
-Take for example two identical buildings, one in a major economic center, and
-one in a minor city. Both are built of identical materials, both require an
-identical amount of work to maintain, and there is no difference in terms of
-the costs that must be undertaken by the owners to bring these buildings to
-market as dwellings or commercial spaces. The building in the major city will,
-however, earn more income than the one in the minor city, not withstanding the
-equal amounts of work and expense undertaken to maintain them. This difference
-is economic rent, and not rent in terms of the price you pay for housing. Rent
-is not collected for any contribution to production, but because of legal
-privilege, such as a title to a valuable location.
-
 Tomen por ejemplo dos edificios idénticos, uno en un centro económico de
 importancia y otro en una ciudad menor. Ambos fueron construidos con materiales
 idénticos, ambos requieren la misma cantidad de trabajo para su mantenimiento y
 no hay diferencia en términos de costos que los dueños deben sobrellevar para
-poner estos edificios en el mercado, como lugares comerciales o de paso \[?\].
+poner estos edificios en el mercado, como lugares comerciales o de vivienda.
 El edificio en la ciudad mayor ganará, sin embargo, más ingresos que el
 edificio de la ciudad menor, sin tomar en cuenta la cantidad igual de trabajo y
 gastos necesitarios para mantenerlos. Esta diferencia es la renta económica, y
 no renta en términos del precio que pagás por el alquiler de tu casa. La renta
 no se recolecta por ninguna contribución a la producción, sino por privilegios
-legales, como el título de posesión de una ubicación.
-
-This does not mean that the owner does not contribute to the value of the
-property, such as through maintenance, only that the value of whatever
-contribution they make is not calculated as rent, but for example, as interest
-if it directly increases the value of the property. Rent, in economic terms, is
-    the income earned for allowing others to use property; ultimately, this
-    income is derived from the landlord claiming a portion of what the tenants
-    produce as their own. This is not strictly about landlords, rent and
-    property in a housing or building sense. As our ability to provide for our
-    material subsistence requires access to the property that makes up our
-    ‘means of production’, we must agree to transfer a portion of what we
-    produce to those who allow us to access such means, or else we could not
-    live.
+legales, como el título de posesión de una ubicación de valor.
 
 Esto no significa que el dueño no contribuye al valor de la propiedad, como en
 su mantenimiento, sino que el valor de cualquier contribución que hagan no se
-calcula como renta, por ejemplo, como interés si incrementa directamente el
+calcula como renta, pero por ejemplo, como interés si incrementa directamente el
 valor de la propiedad. La renta, en términos económicos, es el ingreso ganado
 por permitir a otros usar la propiedad; en última instancia, este ingreso se
 deriva de la porción que el terrateniente reclama de lo que producen los
-[tenants] como propio. Esto no se refiere directamente a los terratenientes, la
+inquilinos como propio. Esto no se refiere directamente a los terratenientes, la
 renta y la propiedad en el sentido edilicio. Mientras nuestra habilidad para
 proveernos subsistencia material requiera acceso a la propiedad que hace a
 nuestros 'medios de producción', debemos acordar transferir una porción de lo
 que producimos a aquellos que nos permiten el acceso a tales medios, o de lo
 contrario no podemos vivir.
 
-The portion of a producer’s productive output that can be demanded for the
-right to exist is the entire total of their productive output, minus the
-producer’s subsistence costs. This is the conclusion reached by David Ricardo
-in his 1817 On Principles of Political Economy and Taxation,v and this is the
-basic bargaining position faced by all of us who are born into a world entirely
-owned by others.
-
 La porción de la salida productiva de un productor que puede demandarse por el
 derecho a existir es el total de la salida productiva menos los costos de
 subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
-en su Sobre los principios de la economía política y los impuestos,[^5]\[?\] y
-esta es la base de negociación que nos encontramos todos aquellos que nacimos
-en un mundo enteramente apropiado por otros.
+en su _Sobre los principios de la economía política y los impuestos_ de
+1817,[^5] y esta es la base de negociación que nos encontramos todos aquellos
+que nacimos en un mundo enteramente apropiado por otros.
 
-In his ‘Essay on Profits’, Ricardo argues: ‘The interest of the landlord is
-always opposed to the interest of every other class in the community’.vi This
-analysis was not based on the social milieu, such as a general distinction
-between upper and lower classes, but rather on a relationship with the factors
-of production, land, labor or capital. This Ricardian model provides a logical
-basis for the idea that the classes, landlord, worker and capitalist, have
-diametrically opposed interests.
-
-En su 'Ensayo sobre los beneficios'\[?\], Ricardo argumenta: 'El interés del
+En su 'Ensayo sobre los beneficios', Ricardo argumenta: 'El interés del
 terraniente siempre se opone al interés de cualquiera otra clase de la
-comunidad'.[^6] Este análisis no se basa en la [milieu] social, como la
+comunidad'.[^6] Este análisis no se basa en los medios sociales, como la
 distinción general entre las clases altas y bajas, sino en la relación con los
 factores de la producción, tierra, trabajo o capital. Este modelo ricardiano
 provee una base lógica para la idea de que las clases, terrateniente,
 trabajador y capitalista, tienen intereses diametralmente opuestos. 
-
-Upper class and lower class may imply an unfair society, but this distinction
-does not necessarily imply conflicting interests, and thus does not offer an
-understanding of the source of class stratification. As representative of the
-emergent capitalist class, Ricardo did not intend his critique of land rent to
-be extended to the income earned by capitalists. Critical commentators like
-William Thompson and Thomas Hodgskin, the best known of the ‘Ricardian
-Socialists’ did just that, arguing that profits earned by capitalists are just
-as exploitive and unearned as the rents of landlords, and that the interests of
-workers are opposed to the interests of both landlords and capitalists. From
-their work, the critique of ‘capitalism’, a term coined to draw an analogy with
-Feudalism, begins.
 
 Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
 distinción no necesariamente implica intereses en conflicto y por lo tanto no
@@ -813,21 +503,11 @@ Representativo de la clase capitalista emergente, Ricardo no intentaba que su
 crítica de la renta sobre la tierra se extendiera al ingreso ganado por los
 capitalistas. Los comentaristas críticos como William Thompson y Thomas
 Hodgsking, los más reconocidos 'socialistas ricardianos', hicieron exactamente
-eso, argumentando que el lucro obtenido por los capitalistas es tan explotativa
-\[?\] y no merecida como la renta de los terratenientes, y que los intereses de
-los trabajadores se oponen a los intereses tanto de los terratenientes y de los
+eso, argumentando que el lucro obtenido por los capitalistas es tan explotadora
+e inmerecida como la renta de los terratenientes, y que los intereses de los
+trabajadores se oponen a los intereses tanto de los terratenientes como de los
 capitalistas. De su trabajo se desprende la crítica del 'capitalismo', un
 término acuñado como analogía del feudalismo.
-
-Socialism, and all other movements of the ‘left’, start with this class
-conflict as their point of departure. The belief that producers themselves
-should own the means of production was already common among socialists of the
-time, notably among the supporters of social reformer Robert Owen and the
-co-operative movement during the early 1800s. This understanding of class,
-based on a relation with the means of production, such as capitalist, landlord
-and worker, rather than categories such as rich and poor, noble, clergy or
-peasant, provided a solid intellectual foundation that allowed a more
-scientific socialism to emerge from its utopian roots.
 
 El socialismo y todos los demás movimientos de 'la izquierda', comienzan en
 este conflicto de clase. La creencia de que los medios de producción deben ser
@@ -836,23 +516,8 @@ notablemente entre los que apoyaban al reformista social Robert Owen y el
 movimiento cooperativista a principios del 1800. Esta comprensión de clase,
 basada en la relación con los medios de producción, como capitalistas,
 terratenientes y trabajadores, antes que categorías como rico y pobre, noble,
-clero y [peasant], proveyó una sólida base intelectual que permitió el
-surgimiento de un socialismo más científico de sus raíces utópicas.
-
-Rent allows owners of scarce property to drive property-less workers to
-subsistence. As Ricardo explains, ‘the natural price of labor is that price
-which is necessary to enable the laborers, one with another, to subsist and to
-perpetuate their race’.vii It is often claimed that this can be refuted because
-of the difference between the theoretical ‘natural’ price and the actual market
-price of labor, but such an argument is simply an equivocation, explains
-Ricardo, because market price fluctuates. Subsistence should not be taken to
-mean the bare minimum required to actually survive and reproduce. Even in
-Ricardo’s time, most workers were generally not in the position that if they
-earned one penny less they would immediately fall over and die. Rather workers,
-by their very definition, are unable to earn enough to do anything more than
-make a living and struggle to live according to the acceptable standards of
-their community. These ‘acceptable standards’ are established in terms of the
-canons of taste and decency established by a predatory economic elite.
+clero y campesino, proveyó una sólida base intelectual que permitió el
+surgimiento de un socialismo más científico desde esas raíces utópicas.
 
 La renta permite a los dueños de la propiedad escasa llevar a los trabajadores
 desposeídos al nivel de subsistencia. Como lo explica Ricardo, 'el precio
@@ -860,7 +525,7 @@ natural del trabajo es aquel que es necesario para permitir a los trabajadores,
 uno tras otro, subsistir y perpetuar su raza'.[^7] A veces se proclama que esto
 puede ser refutado por la diferencia entre el teórico precio 'natural' y el
 precio del trabajo en el mercado real, pero tal argumento es simplemente una
-equivocación. explica Ricardo, porque el precio del mercado fluctúa. La
+equivocación, explica Ricardo, porque el precio del mercado fluctúa. La
 subsistencia no puede tomarse como el mínimo indispensable que requiere la
 supervivencia y la reproducción. Aun en tiempos de Ricardo, muchos trabajadores
 no estaban en posición de morirse si ganaban un centavo menos. Antes bien los
@@ -870,45 +535,16 @@ aceptables de su comunidad. Estos 'estándares aceptables' se establecen en
 términos canónicos de gusto y decencia establecidos por una elite económica
 depredadora.
 
-Thorstein Veblen, a Norwegian-American economist and sociologist whose work
-lays the foundation for the institutional economics movement, argues that, in
-a class society, all but the very richest are compelled to dispose of
-practically their entire income in order to live according to community
-standards of respectability, in what he calls ‘conspicuous consumption’ and
-‘conspicuous waste’. To not participate in conspicuous consumption is to face
-social exclusion and further reduced prospects of upward mobility.viii ‘Failure
-to consume in due quantity and quality becomes a mark of inferiority and
-demerit’, Veblen argues in his 1899 The Theory of the Leisure Class.ix
-
 Thorstein Veblen, un economista y sociólogo noruego-estadounidense cuyo trabajo
 dispone las bases del movimiento institucionalista económico, argumenta que, en
-una sociedad de clases, todos excepto los más rico se ven compelidos a disponer
+una sociedad de clases, todos excepto los más ricos se ven compelidos a disponer
 prácticamente de su ganancia completa para vivir de acuerdo a los estándares
 comunitarios de respetabilidad, en lo que él llama 'consumo conspicuo' y
 'derroche conspicuo'. No participar en el consumo conspicuo significa
 enfrentarse a la exclusión social y aun más reducir los prospectos de movilidad
 ascendente.[^8] 'Fracasar en consumir en cantidad y calidad debida se convierte
-en una marca de inferioridad y desmerecimiento', argumenta Veblen en su La
-teoría de clase de lujo, de 1889. [^9] \[?\]
-
-Workers have more than cultural forces working against their ability to form
-capital from whatever earnings they retain beyond subsistence. So long as
-workers do not have property, whatever wage increases they gain are swept away
-by price inflation, most often as the result of increased money competition for
-locations and the increase of land rents. This is no secret to capitalist
-negotiators and their public sector collaborators. Reducing real wages by
-inflation as an alternative to reducing money wages works because of the ‘money
-illusion’. As John Maynard Keynes, perhaps the most important economist of his
-day and the founder of modern ‘macroeconomics’ writes in his 1936 book The
-General Theory of Employment, Interest, and Money, ‘it is sometimes said it
-would illogical for labor to resist a reduction of money-wages but not to
-resist a reduction of real wages […] experience shows that this is how labor in
-fact behaves’.x Daniel Bell makes this process clear in his paper ‘The
-Subversion of Collective Bargaining’, where he examines several cases of wage
-increases won by collective bargaining. Bell shows that these cases do not lead
-to a change in the general level of real wealth; rather in most cases, workers
-who received a wage increase had not increased their share of wealth, but wound
-up paying higher prices.xi
+en una marca de inferioridad y desmerecimiento', argumenta Veblen en _La
+teoría de clase ociosa_, de 1889. [^9]
 
 Los trabajadores tienen algo más que fuerzas culturales trabajando contra su
 habilidad de formar capital a través de los ingresos que retuvieran de la
@@ -920,8 +556,8 @@ secreto para los negociadores capitalistas y sus colaboradores en el sector
 público. Reducir los salarios reales por la inflación como alternativa a la
 reducción salarial funciona por la 'ilusión del dinero'. Como escribe John
 Maynard Keynes, tal vez el economista más importante de su tiempo y el fundador
-de la 'macroeconomía' moderna, en su libro de 1936 La teoría general del
-empleo, el interés y el dinero, 'a veces se dice que sería ilógico que el
+de la 'macroeconomía' moderna, en su libro de 1936 _La teoría general del
+empleo, el interés y el dinero_, 'a veces se dice que sería ilógico que el
 trabajo resista una reducción del salario monetario pero no lo haga frente a
 una reducción del salario real [...] la experiencia demuestra que de hecho es
 de esta manera como se comporta el trabajo'. [^10] Daniel Bell pone en claro
@@ -931,14 +567,6 @@ real; en la mayoría de los casos, los trabajadores que recibieron un aumento
 salarial no incrementaron su parte de la riqueza, sino que terminaron pagando
 precios más altos. [^11]
 
-Property is not a natural phenomenon; property is created by law. The ability
-to extract rent is dependent on one’s ability to control a scarce resource even
-though it is in use by someone else. In other words, property entitles the
-property owner to force the other person to share the product of their labor.
-Property, then, is control at a distance. In this way, rent is only possible so
-long as it is supported by force, which is happily provided by the state to the
-owners of property.
-
 La propiedad no es un fenómeno natural; la propiedad es creada por la ley. La
 habilidad para extraer renta depende de la habilidad propia para controlar un
 recursos escaso aun si es utilizado por alguien más. En otras palabras, la
@@ -947,21 +575,8 @@ compartir el producto de su trabajo. La propiedad, entonces, es el control a
 distancia. De esta manera, la renta sólo es posible mientras sea soportada por
 la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
 
-Without a means to force those who put property to productive use to share the
-product of their labor with the absent and idle property owner, the property
-owner could not earn a living, let alone accumulate more property. As German
-revolutionary Marxist Ernest Mandel claims in ‘Historical Materialism and the
-Capitalist State’, ‘without capitalist state violence, there is no secure
-capitalism’.xii The purpose of property is to ensure that a property-less class
-exists to produce the wealth enjoyed by a propertied class. The institution of
-property does not benefit workers. This is not to say that individual workers
-cannot become property owners, but rather that to do so means to escape their
-class. Individual success stories do not change the class system. As Canadian
-political philosopher Gerald Cohen, proponent of Analytical Marxism, quipped,
-‘I want to rise with my class, not above my class!’xiii
-
 Sin los medios para forzar a aquellos que ponen la propiedad en uso productivo
-a compartir el producto de su trabajo con el dueño ausente y [idle], ese
+a compartir el producto de su trabajo con el dueño ausente y ocioso, ese
 propietario no podría ganarse la vida, sin contar acumular más propiedad. Como
 diría el revolucionario marxista alemán Ernest Mandel en su 'El materialismo
 histórico y el Estado capitalista', 'sin la violencia del estado capitalista,
@@ -974,14 +589,6 @@ clase. Las historias de éxito individual no cambian el sistema de clases. Como
 dijo el filósofo político canadiense Gerald Cohen, proponente del marxismo
 analítico, 'quiero elevarme con mi clase, ¡no sobre ella!' [^13]
 
-The current global situation confirms that workers, as a class, are not able to
-accumulate property. A study by the World Institute for Development Economics
-Research at United Nations University reports that the richest 1% of adults
-alone owned 40% of global assets in the year 2000, and that the richest 10% of
-adults accounted for 85% of the world total. The bottom half of the world adult
-population owned barely 1% of global wealth. Extensive statistics, many
-indicating growing world disparity, are included in the report.xiv
-
 La situación global actual confirma que los trabajadores, como clase, no son
 capaces de acumular propiedad. Un estudio hecho en la Universidad de las
 Naciones Unidas por el Instituto Mundial de Investigación sobre la Economía del
@@ -992,33 +599,16 @@ adulta poseía apenas el 1% de la riqueza global. En el reporte se incluyen
 estadísticas extensivas, muchas de las cuales indican una disparidad mundial
 creciente. [^14]
 
-The condition of the working class in society is largely one of powerlessness
-and poverty; the condition of the working class on the internet is no
-different. The requirements of control and privilege required by capitalism are
-being imposed on the internet, changing the topology of the network from one
-where peer-to-peer communism is embedded in its architecture, to one where
-client server applications have become central, and increasingly mediate and
-control all relationships.
-
 La condición de la clase trabajadora en la sociedad es por lejos de carencia de
 poder y pobreza; la condición de la clase trabajadora en Internet no es
 diferente. Los requisitos de control y privilegio requeridos por el capitalismo
 están siendo impuestos en la Internet, cambiando la topología de la red de una
-donde el comunismo par-a-par está embebida [hay una palabra mejor] en su
-arquitectura, a una donde las aplicaciones cliente-servidor se han vuelto
-centrales y cada vez median y controlan todos las relaciones.
+donde el comunismo de pares está embebido en su arquitectura, a otra donde las
+aplicaciones cliente-servidor se han vuelto centrales y cada vez más median y
+controlan todos las relaciones.
 
-Trapped in the World Wide Web
 
 ## Atrapados en el World Wide Web
-
-The revolutionary possibilities of the early internet lay particularly in the
-capacity for direct interaction between users. As such, the internet promised
-to be a platform where freedom of speech and association was built into the
-architecture. However, without most users noticing, the architecture of the
-internet is changing, and the topology of the network is being remade in such
-a way that not only serves the interests of capitalism, but also enables
-monitoring and control of its users on a scale never dreamed of before.
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -1029,20 +619,8 @@ topología de la red está siendo reconstruida de forma tal que no sólo sirve a
 los intereses del capitalismo, sino que también habilita el monitoreo y
 control de sus usuarios en una escala jamás soñada.
 
-The internet took the corporate world by surprise, emerging as it did from
-publicly funded universities, military research, and civil society. It was
-promoted by a cottage industry of small independent internet service providers,
-who were able to squeeze a buck from providing access to the state-built and
-financed network. Meanwhile, the corporate world was pushing a different idea
-of the information superhighway, producing monolithic, centralized ‘online
-services’ like CompuServe, Prodigy and AOL. What made these corporate services
-different from the internet is that they were centralized systems that users
-connect to directly, while the internet is a peer-to-peer (P2P) network where
-every device with a public internet address can communicate directly to any
-other device.
-
 Internet tomó el mundo corporativo por sorpresa, al emerger de universidades
-públicas, investigación milirar y la sociedad civil. Fue promovida por un
+públicas, investigación militar y la sociedad civil. Fue promovida por un
 grupúsculo industrial de proveedores de internet pequeños e independientes, que
 eran capaces de ganar un peso al proveer acceso a la red construida y
 financiada por el Estado. Mientras tanto, el mundo corporativo pujaba por una
@@ -1053,18 +631,6 @@ servicios centralizados a los que los usuarios se conectaban directamente,
 mientras que la Internet es una red de pares (P2P) donde cada dispositivo podía
 comunicarse directamente con cualquier otro con sólo poseer una dirección
 pública de Internet.
-
-While both users of CompuServe and the internet had access to similar
-applications, such as email, discussion groups, chat groups and file sharing,
-users of CompuServe were completely dependent on CompuServe for access, while
-users of the internet could gain access through any service provider, and could
-even chose to run their own servers. Platforms such as internet email, and
-internet relay chat were based on a distributed structure that no one owned or
-controlled. This structure was accepted by the most enthusiastic early adopters
-of the internet, such as public institutions and non-government organizations.
-However, capitalist investors were unable to see how such an unrestricted
-system would allow them to earn profits. The internet seemed anathema to the
-capitalist imagination.
 
 Mientras los usuarios tanto de CompuServe como de Internet tenían acceso a
 aplicaciones similares, como el correo electrónico, grupos de discusión, grupos
@@ -1079,17 +645,6 @@ organizaciones no gubernamentales. No obstante, los inversores capitalistas
 fueron incapaces de ver cómo un sistema irrestricto les permitiría percibir
 ganancias. La Internet parecía el anatema de la imaginación capitalista.
 
-The original dotcom boom, then, was characterized by a rush to own
-infrastructure, to consolidate independent internet service providers and take
-control of the network. Money was near-randomly thrown around as investors
-struggled to understand what this medium would be used for. Ultimately, the
-mission of these investors was largely successful. Their mission was to destroy
-the independent service provider and put large, well-financed corporations back
-in the driver’s seat. If you had an internet account in 1996 it was likely
-provided by a small local company. Ten years later, while some of the smaller
-companies had survived, most people were getting their internet access from
-gigantic telecommunications corporations, which persists even stronger today.
-
 El boom original de las puntocom, entonces, se caracterizó como un apuro por
 poseer infraestructura, consolidar a los proveedores de Internet independientes
 y tomar el control de la red. El dinero fue tirado al azar por los inversores
@@ -1103,18 +658,6 @@ sobrevivieron, la mayoría de las personas tenían acceso a Internet a través d
 corporaciones de telecomunicaciones gigantescas, que persisten fuertemente aun
 hoy.
 
-The internet is more than the Web, a term inaccurately used as a synonym for
-the entire network and all of the applications that run on it. The World Wide
-Web is a technology that runs on top of the peer-to-peer network that is the
-internet; however, it is unlike the classic internet technologies like email,
-IRC, Usenet etc. The Web is neither distributed, nor is it peer-to-peer; it is
-a client-server technology. The publisher of a website runs the servers and has
-exclusive control over the content and applications their website provides,
-including control of who should or should not have access to it. The users have
-control of the browser, the client software used to access the website.
-A website has more in common with CompuServe than a peer-to-peer system. The
-publisher has full control of the content and options available to users.
-
 La Internet es más que la Web, término inexacto usado como un sinónimo de la
 red entera y de todas las aplicaciones que corren en ella. La WWW es una
 tecnología que corre sobre la red de pares que es la Internet; sin embargo, no
@@ -1126,18 +669,6 @@ quién debe o no debe tener acceso al sitio. Un sitio web tiene más en común c
 CompuServe que un sistema de pares. El editor tiene control absoluto sobre el
 contenido y las opciones disponibles a los usuarios.
 
-The Web started innocently enough as a platform for publishing text online;
-however, it rapidly became the focal point for organizations looking to
-commercialize the internet. From modest beginnings, as companies began to put
-brochures online, the commercial Web took off with the development of
-e-Commerce. At this point, the Web had not yet taken over online sharing.
-People used the Web to, for instance, browse a bookstore, but continued to
-employ distributed technologies to communicate with other users. However, soon
-enough the Web, funded by venture capital, would move in to make websites
-operated by large corporations the primary online social platforms. The
-internet itself would soon disappear behind the Web, and users would never
-again leave their browser.
-
 La Web comenzó inocentemente como una plataforma para publicar texto en línea;
 no obstante, se convirtió rápidamente en el punto focal de las organizaciones
 que buscaban comercializar la Internet. Desde sus modestos inicios, cuando las
@@ -1147,19 +678,14 @@ compartición en línea. La gente usaba la Web para, por ejemplo, navegar una
 librería, pero continuó empleando las tecnologías distribuidas para comunicarse
 con otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
 riesgo, se colocó de forma tal que los sitios web operados por grandes
-corporaciones se convirtieron en las plataformas sociales 
-
-Web 2.0 emerged as a venture capitalist’s paradise, where investors pocket the
-value produced by unpaid users, ride on the technical innovations of the free
-software movement, and kill off the decentralizing potential of peer-to-peer
-technology.
+corporaciones se convirtieron en las plataformas sociales primarias. La
+Internet misma desaparecería detrás de la Web y los usuarios no volverían a
+abandonar sus navegadores.
 
 La Web 2.0 emergió como el paraíso del capitalismo de riesgo, donde los
-inversores podían embolsillar el valor producido por los usuarios no pagados,
+inversores podían embolsar el valor producido por los usuarios impagos,
 montándose en las innovaciones técnicas del movimiento del software libre y
 matar al mismo tiempo el potencial decentralizador de la tecnología de pares.
-
-Wikipedia says that:
 
 Wikipedia dice que:
 
@@ -1168,10 +694,10 @@ generation of internet-based services, such as social networking sites, wikis,
 communication tools, and folksonomies, that emphasize online collaboration and
 sharing among users.xv
 
-Web 2.0, un término acuñado por O'Reilly Media en el 2004, se refiere a la
-supuesta segunda generación de servicios basados en Internet, como los sitios
-de redes socials, wikis, herramientas de comunicación y folksonomías que
-enfatizan la colaboración en línea y la compartición entre usuarios.[^15]
+> Web 2.0, un término acuñado por O'Reilly Media en el 2004, se refiere a la
+> supuesta segunda generación de servicios basados en Internet, como los sitios
+> de redes sociales, wikis, herramientas de comunicación y folksonomías que
+> enfatizan la colaboración en línea y la compartición entre usuarios.[^15]
 
 The use of the word ‘supposed’ is noteworthy. As the largest collaboratively
 authored work in history, Wikipedia should know. Unlike most of the members of
