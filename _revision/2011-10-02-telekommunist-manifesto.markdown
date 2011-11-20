@@ -1,182 +1,4 @@
-# The Telekommunist Manifesto
-## Dmytri Kleiner
-
-Network Notebooks 03
-
-Publisher: Institute of Network Cultures, Amsterdam
-
-The Telekommunist Manifesto is composed of texts that have been extended and
-reworked by Dmytri Kleiner, from texts by Joanne Richardson, Brian Wyrick and
-Dmytri Kleiner, 2004–2008.
-
-A pdf of this publication can be freely downloaded at:
-
-http://www.networkcultures.org/networknotebooks
-
-This publication is licensed under the Peer Production License (2010).
-
-Commercial use encouraged for Independent and Collective/Commons-based users.
-
-Amsterdam, October 2010.
-
-ISBN/EAN 978-90-816021-2-9
-
-===========================
-
-Table of Contents
-
-Foreword
-
-Introduction
-
-Peer-to-Peer Communism vs. The Client-Server Capitalist State
-
-The Conditions of the Working Class on the Internet
-
-Trapped in the World Wide Web
-
-Peer Production and the Poverty of Networks
-
-Venture Communism
-
-Manifesto of The Telekommunisten Network
-
-A Contribution to The Critique of Free Culture 
-
-Copyright is a System of Censorship and Exploitation
-
-The Creative Anti-Commons
-
-Free Software: Copyright Eats Itself
-
-Free Culture Requires a Free Society: Copyfarleft
-
-Venture Communism and Copyfarleft
-
-Peer Production License: A Model for Copyfarleft
-
-References
-
-Foreword
-
-I coined the term ‘Venture Communism’ in 2001 to promote the ideal of workers’
-self-organization of production as a way of addressing class conflict.
-Telekommunisten is a collective based in Berlin, Germany, where I have lived
-since 2003. I first encountered the term ‘Telekommunisten’ (which became the
-name of the collective) in 2005, while visiting the apartment of a friend. He
-and his roommate had given the name ‘Telekommunisten’ to the local area network
-used in their apartment to share internet access.
-
-Telekommunisten had been used as a derogatory term for Germany’s former state
-telephone company, Deutsch Telekomm, which is now a private transnational
-corporation whose ‘T-Mobile’ brand is known worldwide. The usage of communist
-here is intended to cast the telephone company as a monolithic, authoritarian,
-and bureaucratic behemoth. This is a completely different understanding to the
-positive use of the term as an engagement in class conflict towards the goal of
-a free society without economic classes, where people produce and share as
-equals, a society with no property and no state, that produces not for profit,
-but for social value. In this way, we are not simply a collective of
-worker-agitators toiling in the sphere of telecommunications. Telekommunisten
-promotes the notion of a distributed communism: a communism at a distance,
-a Tele-communism. A venture commune is not bound to one physical location where
-it can be isolated and confined. Similar in topology to a peer-to-peer network,
-Telekommunisten intends to be decentralized, with only minimal coordination
-required amongst its international community of producer-owners.
-
-My background is in the hacker and art communities, where I have been active
-since the early 90s. My views have been developed and expressed in online and
-offline correspondence in the course of my involvement in software development,
-activism and cultural production. Although I have written a few essays over the
-years, those who know my work generally know me personally through encounters
-in electronic and physical social spaces. The present work is a ‘Manifesto’,
-not in the sense that it outlines a complete theoretical system, a dogmatic set
-of beliefs or the platform of a political movement, but in the spirit of the
-meaning of manifesto as a beginning or introduction. Matteo Pasquinelli, who
-pushed me to undertake this ‘Manifesto’, felt that my role as a background
-voice in our community was too underground and declared it was ‘time to come
-out’ with a published text. He connected me with Geert Lovink, who suggested
-the structure and approach of the text and offered to serve as editor and,
-through the Institute of Network Cultures, as its publisher.
-
-The Telekommunist Manifesto is largely a cut-up, a reworking of texts I’ve
-produced and co-produced over the last few years. It incorporates significant
-passages from ‘Copyright, Copyleft and the Creative Anti-Commons’ produced in
-co-operation with Joanne Richardson and originally published under ‘Anna
-Nimmus’ on the subsol website. Much of the text regarding the commercialization
-of the internet is taken from ‘Infoenclosure 2.0’, co-written with Brian Wyrick
-and originally published in Mute Magazine. Credit is also due to Mute Magazine
-editors Josephine Berry Slater and Anthony Iles, for their work on ‘Infoenclure
-2.0’ and ‘Copyjustright, Copyfarfleft’, much of which is reused here.
-
-Introduction
-
-In the preface to A Contribution to the Critique of Political Economy, Marx
-argues that, ‘at a certain stage of development, the material productive forces
-of society come in conflict with the existing relations of production’.i What
-is possible in the information age is in direct conflict with what is
-permissible. Publishers, film producers and the telecommunication industry
-conspire with lawmakers to bottle up and sabotage free networks, to forbid
-information from circulating outside of their control. The corporations in the
-recording industry attempt to forcibly maintain their position as mediators
-between artists and fans, as fans and artists merge closer together and explore
-new ways of interacting.
-
-Competing software makers, like arms manufacturers, play both sides in this
-conflict: providing the tools to impose control, and the tools to evade it. The
-non-hierarchical relations made possible by a peer network, such as the
-internet, are contradictory with capitalism’s need for enclosure and control.
-It’s a battle to the death; either the internet as we know it must go, or
-capitalism as we know it must go. Will capital throw us back into the network
-dark ages of CompuServe, mobile telephones and cable tv rather than allow peer
-communications to bring about a new society? Yes, if they can. Marx concludes,
-‘no social order ever perishes before all the productive forces for which there
-is room in it have developed; and new, higher relations of production never
-appear before the material conditions of their existence have matured in the
-womb of the old society itself’.ii
-
-The Telekommunist Manifesto is an exploration of class conflict and property,
-born from a realization of the primacy of economic capacity in social
-struggles. Emphasis is placed on the distribution of productive assets and
-their output. The interpretation here is always tethered to an understanding
-that wealth and power are intrinsically linked, and only through the former can
-the latter be achieved. As a collective of intellectual workers, the work of
-Telekommunisten is very much rooted in the free software and free culture
-communities. However, a central premise of this Manifesto is that engaging in
-software development and the production of immaterial cultural works is not
-enough. The communization of immaterial property alone cannot change the
-distribution of material productive assets, and therefore cannot eliminate
-exploitation; only the self-organization of production by workers can.
-
-This publication is intended as a summary of the positions that motivate the
-Telekommunisten project, based on an exploration of class conflict in the age
-of international telecommunications, global migration, and the emergence of the
-information economy. The goal of this text is to introduce the political
-motivations of Telekommunisten, including a sketch of the basic theoretical
-framework in which it is rooted. Through two interrelated sections,
-‘Peer-to-Peer Communism vs. The Client-Server Capitalist State’ and ‘A
-Contribution to the Critique of Free Culture’, the Manifesto covers the
-political economy of network topologies and cultural production respectively.
-‘Peer-to-Peer Communism vs. The Client-Server Capitalist State’ focuses on the
-commercialization of the internet and the emergence of networked distributed
-production. It proposes a new form of organization as a vehicle for class
-struggle: venture communism. The section ends with the famous program laid out
-by Marx and Engels in their Communist Manifesto, adapted into a Manifesto for
-a networked society.
-
-Building on the previous section, in ‘A Contribution to the Critique of Free
-Culture’, the Manifesto continues with the history and misperceptions of
-copyright, the free software movement, anticopyright/ copyleft dissent, and the
-political economy of free software and free culture. The challenge of extending
-the achievements of free software into free culture is addressed by connecting
-it to the traditional program of the socialist left, resulting in copyfarleft
-and offering the Peer Production License as a model.
-
-This text is particularly addressed to politically motivated artists, hackers
-and activists, not to evangelize a fixed position, but to contribute to an
-ongoing critical dialogue.
-
-
-# El comunismo par-a-par contra el estado capitalista cliente-servidor
+# El comunismo de pares contra el estado capitalista cliente-servidor
 
 Peer-to-Peer Communism vs. The Client-Server Capitalist State
 
@@ -1913,254 +1735,254 @@ carga de coordinación. El comunismo de riesgo es esta forma.
 
 ## Comunismo de riesgo
 
-Venture communism provides a structure for independent producers to share
-a common stock of productive assets, allowing forms of production formerly
-associated exclusively with the creation of immaterial value, such as free
-software, to be extended to the material sphere. Part of the apparatus that
-allowed the free software community to grow and spread was the creation of
-copyleft, a type of license that allows for the re-use of the software it
-covers, so long as the derived works are also licensed under compatible terms.
-By releasing software under such licenses, the work becomes a collective stock
-for all free software developers.
-
 El comunismo de riesgo provee una estructura para que productores
 independientes compartan un patrimonio común de activos productivos,
-permitiendo formas de producción previamente asociadas c
+permitiendo formas de producción previamente asociadas con la creación de valor
+inmaterial, como el software libre, extendido a la esfera material. Parte del
+aparato que permitió a la comunidad del software libre crecer y expandirse fue
+la creación del copyleft, un tipo de licencia que permite la re-utilización del
+software que cubre, mientras las obras derivadas también se licencien bajo los
+mismos términos. Al publicar el software bajo tales licencias, la obra se
+convierte en patrimonio colectivo de todos los desarrolladores de software
+libre.
 
-The core innovation of copyleft was to turn the copyright system against
-itself. The chief vehicle of asserting control under copyright is the license
-a work is released under, which establishes the terms under which others are
-permitted to use the copyrighted material. Copyleft effectively hijacks the
-existing apparatus that enforces privilege over intellectual assets, using the
-authority granted by the copyright license to guarantee access for all, and
-require that this freedom is passed on. This is consistent with copyright laws,
-and dependent on them, because without copyright and the institutions that
-protect it, there could be no copyleft.
+La innovación principal del copyleft fue el de volver el sistema de copyright
+contra sí mismo. El vehículo para establecer control bajo copyright es la
+licencia bajo la cual se publica una obra, que establece los términos bajo los
+cuales se permite a otros usar el material con copyright. El copyleft secuestra
+efectivamente el aparato existente que refuerza el privilegio sobre los activos
+intelectuales, usando la autoridad concedida por la licencia de copyright para
+garantizar el acceso a todos, y requerir que esta libertad se mantenga. Esto es
+consistente con las leyes de copyright, y depende de ellas, porque sin
+copyright y las instituciones que lo protegen, no podría haber copyleft.
 
-Venture communism requires that this same freedom be extended to material
-productive assets. The chief vehicle for asserting control over productive
-assets is the firm. Venture communism is therefore based on a corporate form:
-the venture commune. Employing a venture commune to share material property
-hijacks the existing apparatus that enforces privilege, to instead protect
-a common stock of productive assets that is available for use by independent
-producers.
+El comunismo de riesgo requiere que esta misma libertad se extienda a los
+activos productivos materiales. El vehículo para establecer control sobre los
+activos productivos es la compañía. El comunismo de riesgo se basa entonces en
+una forma corporativa: la comuna de riesgo. Emplear una comuna de riesgo para
+compartir propiedad material secuestra el aparato existente que refuerza el
+privilegio, para proteger un patrimonio común de activos productivos disponible
+para el uso de productores independientes.
 
-Legally, a venture commune is a firm, much like the venture capital funds of
-the capitalist class. However, the venture commune has distinct properties that
-transform it into an effective vehicle for revolutionary workers’ struggle. The
-venture commune holds ownership of all productive assets that make up the
-common stock employed by a diverse and geographically distributed network of
-collective and independent peer producers. The venture commune does not
-coordinate production; a community of peer producers produce according to their
-own needs and desires. The role of the commune is only to manage the common
-stock, making property, such as the housing and tools they require, available
-to the peer producers.
+Legalmente, la comuna de riesgo es una compañía, muy similar a los fondos del
+capitalismo de riesgo de la clase capitalista. No obstante, la comuna de riesgo
+posee propiedades distintas que la transforman en un vehículo efectivo para la
+lucha revolucionaria de los trabajadores. La comuna de riesgo posee todos los
+activos productivos que hacen al patrimonio común empleado por una red diversa
+y distribuida geográficamente de pares productores colectivos e independientes.
+La comuna de riesgo no coordina la producción; una comunidad de pares
+productores produce de acuerdo a sus propias necesidades y deseos. El rol de la
+comuna es el de administrar el patrimonio común, haciendo que la propiedad,
+como el alojamiento y las herramientas requeridas, estén disponibles para los
+pares productores.
 
-The venture commune is the federation of workers' collectives and individual
-workers, and is itself owned by each of them, with each member having only one
-share. In the case that workers are working in a collective or co-operative,
-ownership is held individually, by the separate people that make up the
-collective or co-operative. Ownership in a venture commune can only be acquired
-by contributions of labor, not property. Only by working is a share in the
-commune earned, not by contributing land, capital or even money; only labor.
-Property is always held in common by all the members of the commune, with the
-venture commune equally owned by all its members. Thus, each member may never
-accumulate a disproportionate share of the proceeds of property. Property can
-never be concentrated in fewer and fewer hands.
+La comuna de riesgo es la federación de colectivos de trabajadores y de
+trabajadores individuales, y es en sí misma propiedad de cada uno de ellos,
+donde cada miembro posee sólo una parte. En el caso de los trabajadores que
+trabajen en un colectivo o cooperativa, la propiedad se posee individualmente,
+por cada persona que forma ese colectivo o cooperativa. La propiedad en una
+comuna de riesgo sólo puede ser adquirida por contribuciones de trabajo, no de
+propiedad. Sólo el trabajo es una parte de la comuna que se gana, no por la
+contribución de tierra, capital o dinero; sólo de trabajo. La propiedad sólo se
+posee en común por todos los miembros de la comuna, y la comuna de riesgo es
+poseída en partes iguales por todos sus miembros. Así, cada miembro no podría
+nunca acumular una parte desproporcionada de la propiedad. La propiedad no
+puede concentrarse en pocas manos.
 
-The function of the venture commune is to acquire material assets that members
-need for living and working, such as equipment and tools, and allocate them to
-its members. The commune acquires this property when requested to do so by
-a member of the commune. The members interested in having this property offer
-a rental agreement to the commune, giving the terms they wish to have for
-possession of this property. The commune issues a series of bonds to raise the
-funds required to acquire the property, which then becomes collateral for the
-bondholders. The rental agreement is offered as a guarantee that the funds will
-be available to redeem the bonds.
+La función de la comuna de riesgo es adquirir los activos materiales que sus
+miembros necesitan para vivir y trabajar, como el equipamiento y las
+herramientas, y asignarlas a esos miembros. La comuna adquiere propiedad cuando
+uno de los miembros lo requiere. Los miembros interesados en utilizar esa
+propiedad ofrecen un acuerdo de renta a la comuna, dando los términos que
+deseen para tomar posesión.  La comuna levanta una serie de bonos para juntar
+los fondos necesarios para la adquisición, que entonces se vuelve colateral
+a los bonistas. El acuerdo de renta se ofrece como una garantía de que los
+fondos estarán disponibles para amortizar los bonos.
 
-Should this guarantee not be met, the property can be liquidated with the
-proceeds going to the bondholders. This series of bonds are sold in a public
-auction setting. If the bond sale clears, the commune acquires the property,
-and the rental agreement is executed transferring possession to the renter. The
-property returns to the commune whenever those renting it no longer require it,
-or are unable to meet the agreed terms, at which point the commune offers it
-once again at auction to its members, who bid on new rental terms. If there is
-no more demand for the asset it is liquidated. After the bonds that were issued
-to acquire an asset are fully redeemed, it becomes fully owned by the commune.
+Si esta garantía no se cumple, la propiedad podrá liquidarse a favor de los
+bonistas. Esta serie de bonos se venden en una subasta pública. Si la venta se
+realiza, la comuna adquiere la propiedad, y el acuerdo de renta se ejecuta
+transfiriendo la posesión al arrendador. La propiedad retorna a la comuna en
+cuanto los arrendadores dejen de necesitarla o son incapaces de cumplir con los
+términos del acuerdo, momento en el que la comuna lo ofrece otra vez en subasta
+a sus miembros, que ofertan por términos nuevos. Si no existiera demanda por el
+activo, este se liquida. Después de que los bonos se amortizan, se vuelve
+propiedad completa de la comuna.
 
-The remaining rental income the property earns is from then on divided up
-equally among all members of the commune and paid out to them. Proceeds from
-liquidated property are likewise divided. Because all the rent collected from
-property rental is divided up evenly among the members of the commune, those
-members who pay rent for property that is equal to the amount they would
-receive in return essentially get to use an equal share of the collectively
-owned property for free. What they pay in rent for the property is equal to the
-rent they receive back as a member of the commune. Members renting more than
-their per-capita share of the collective property will pay more, and presumably
-be choosing to pay because they are employing the property as a productive
-asset, and thus earning enough to pay.
+El ingreso restante de la renta que la propiedad gana se divide en partes
+iguales entre todos los miembros de la comuna y se les paga. Las ganancias de
+la liquidación de la propiedad se dividen del mismo modo. Dado que la renta
+recolectada por la renta de la propiedad se divide igualmente entre los
+miembros de la comuna, aquellos miembros que pagan renta por una propiedad
+igual al monto que recibirían, esencialmente usan una parte igual de la
+propiedad colectiva gratis. Lo que pagan en renta por la propiedad es igual
+a la rentea que reciben como miembros de la comuna. Los miembros que alquilan
+por sobre su parte per-cápita de la propiedad colectiva pagarán más,
+y presumiblemente elegirán pagar porque están empleando la propiedad como un
+activo productivo, y por lo tanto ganando lo suficiente para pagar.
 
-Conversely, members using less than their per-capita share receive more in
-payment than they pay in rent, thus being rewarded for not hoarding property.
-The main activities of the venture commune, managing bonds and rental
-agreements, do not impose a high level of coordination and, just like the
-computer networks that manage the allocation of immaterial goods, are
-activities that are well suited for computerized automation. Many venture
-communes could exist, and as they become interrelated, merge together forming
-larger, and more stable and sustainable communities of commons-based producers.
+Del mismo modo, los miembros que utilicen menos de su parte per-cápita reciben
+más en pago de lo que pagan en renta, es decir se les premia por no atesorar
+propiedad. Las actividades principales de la comuna de riesgo, administrar
+bonos y acuerdos de renta, no imponen un gran nivel de coordinación y, como las
+redes informáticas que administrar la asignación de bienes inmateriales, son
+actividades muy bien dispuestas para la automatización computarizada. Podrían
+existir muchas comunas de riesgo y comunidades más estables y sostenibles de
+productores con base en los comunes.
 
-Any change that can produce a more equitable society is dependent on a prior
-change in the mode of production that increases the share of wealth retained by
-the worker. The change in the mode of production must come first. This change
-cannot be achieved politically, not by vote, or by lobby, or by advocacy, or by
-revolutionary violence, not as long as the owners of property have more wealth
-to apply to prevent any change by funding their own candidates, their own
-lobbyists, their own advocates, and ultimately, developing a greater capacity
-for counter-revolutionary violence. Society cannot be changed by a strike, not
-    as long as owners of property have more accumulated wealth to sustain
-    themselves during production interruptions. Not even collective bargaining
-    can work, for so long as the owners of property own the product, they set
-    the price of the product and thus any gains in wages are lost to rising
-    prices.
+Cualquier cambio que pueda producir una sociedad más equitativa depende de un
+cambio en el modo de producción que incremente la parte de la riqueza retenida
+por los trabajadores. El cambio en el modo de producción debe ocurrir primero.
+Este cambio no puede alcanzarse políticamente, por voto, lobby, militancia
+o violencia revolucionaria, no mientras los dueños de la propiedad tengan más
+riqueza para aplicar en la prevención del cambio financiando a sus propios
+candidatos, lobbistas, militantes y en última instancia, desarrollando una
+mayor capacidad para la violencia contrarrevolucionaria. La sociedad no puede
+ser cambiada por una huelga, no mientras los dueños de la propiedad tengan más
+riqueza acumulada para sostenerse durante las interrupciones de la producción.
+Ni siquiera la negociación colectiva funcionaría, mientras los dueños de la
+propiedad se apropien del producto, establezcan su precio y por lo tanto
+cualquier ganancia en salarios se pierdan en el aumento de precios.
 
-Venture communism should not be understood as a proposal for a new kind of
-society. It is an organizational form with which to engage in social struggle.
-Venture communes are not intended to replace labor unions, political parties,
-NGOs and other potential vehicles of class conflict, but to compliment them, to
-tilt the economic balance of power in favor of the representatives of workers'
-class interest. Without venture communism, these other organized forms are
-always forced to work against opposition with much deeper pockets, and are thus
-doomed to endless co-option, failure and retreat. The only way is to stop
-applying our labor to property owned by non-producers and instead form a common
-stock of productive assets.
+El comunismo de riesgo no debe entenderse como una propuesta para una nueva
+forma de sociedad. Es una forma organizacional para la lucha social. Las
+comunas de riesgo no intentan reemplazar los sindicatos, los partidos
+políticos, ONGs y otros vehículos potenciales para el conflicto de clase, sino
+complementarlos, para inclinar la balanza económica en favor de los
+representantes de los intereses de clase de los trabajadores. Sin el comunismo
+de riesgo, estas otras formas organizadas estarán siempre forzadas a trabajar
+en oposición a bolsillos mucho más profundos y por lo tanto condenadas
+a cooptación, fracaso y retroceso infinitos. La única forma es detener la
+aplicación de nuestro trabajo a la propiedad privada de los no-productores y en
+reemplazarla por un patrimonio común de activos productivos.
 
-Venture communism is taking control of our own productive process, retaining
-the entire product of our labor, forming our own capital, and expanding until
-we have collectively accumulated enough wealth to achieve a greater social
-influence than those that defend exploitation. This new economic balance allows
-for change that is far greater than the modest goals of venture communism.
-    A truly free society would have no need for copyleft, or venture communism;
-    these are only practices around which workers can unite towards the
-    realization of their historic role of building a classless society,
-    a society of equals.
+El comunismo de riesgo significa tomar el control de nuestro propio proceso
+productivo, reteniendo el producto completo de nuestro trabajo, formando
+nuestro propio capital y expandiéndonos hasta que hayamos acumulado
+colectivamente la riqueza suficiente para alcanzar una mayor influencia social
+de la que poseen aquellos que defienden la explotación. Este nuevo balance
+económico permite un cambio que es mucho más grande que los modestos objetivos
+del comunismo de riesgo. Una sociedad verdaderamente libre no tendrá necesidad
+del copyleft o del comunismo de riesgo; estas son solo prácticas con las que
+los trabajadores pueden unirse hacia la realización de su rol histórico en la
+construcción de una sociedad sin clases, una sociedad de iguales.
 
-Workers of the world unite! You have nothing to lose but your chains. You have
-a world to win.
+¡Trabajadores del mundo uníos! No tienen nada que perder salvo sus cadenas.
+Tienen un mundo por ganar.
 
 
 
 References
 
-Bell, Daniel. ‘The Subversion of Collective Bargaining’. Commentary. March,
+[^1]: Bell, Daniel. ‘The Subversion of Collective Bargaining’. Commentary. March,
 1960.
 
-‘Charter for Innovation, Creativity and Access to Knowledge 2.0.1. Charter for
+[^2]: Charter for Innovation, Creativity and Access to Knowledge 2.0.1. Charter for
 Innovation, Creativity and Access to Knowledge ‘Introduction’.
-http://fcforum.net/charter_extended.
+http://fcforum.net/charter\_extended.
 
-DaBlade, ‘Richard Stallman Interview’. P2Pnet News. February 6, 2006.
+[^3]: DaBlade, ‘Richard Stallman Interview’. P2Pnet News. February 6, 2006.
 http://www.p2pnet.net/story/7840.
 
-developerWorks. ‘developerWorks Interviews: Tim Berners-Lee’. developerWorks 22
+[^4]: developerWorks. ‘developerWorks Interviews: Tim Berners-Lee’. developerWorks 22
 August 2006. http://www.ibm.com/developerworks/podcast/dwi/cmint082206txt.html.
 
-Graham, Paul. ‘What Business Can Learn From Open Source’. PaulGraham.com.
+[^5]: Graham, Paul. ‘What Business Can Learn From Open Source’. PaulGraham.com.
 August 2005. http://www.paulgraham.com/opensource.html.
 
-Graham, Paul. ‘Web 2.0’. PaulGraham.com. November 2005.
+[^6]: Graham, Paul. ‘Web 2.0’. PaulGraham.com. November 2005.
 http://www.paulgraham.com/web20.html.
 
-Industrial Workers of the World. ‘Preamble to the IWW Constitution’. Industrial
+[^7]: Industrial Workers of the World. ‘Preamble to the IWW Constitution’. Industrial
 Workers of the World: A Union for All Workers.
 http://www.iww.org/culture/official/preamble.shtml.
 
-Keynes, John Maynard. ‘Chapter 2: The Postulates of the Classical Economics’.
+[^8]: Keynes, John Maynard. ‘Chapter 2: The Postulates of the Classical Economics’.
 The General Theory of Employment, Interest and Money. Marxists Internet
 Archive.
 http://www.marxists.org/reference/subject/economics/keynes/generaltheory/ch02.htm.
 Originally published, Cambridge: Macmillan Cambridge University Press, 1936.
 
-Khayati, Mustapha. ‘Captive Words: Preface to a Situationist Dictionary’.
+[^9]: Khayati, Mustapha. ‘Captive Words: Preface to a Situationist Dictionary’.
 Translated by Ken Knabb, International Situationiste 10 (1966). Situationist
 International Online, http://www.cddc.vt.edu/sionline/index.html.
 
-Kretschmer, Martin. ‘Music Artists’ Earnings and Digitisation: A Review of
+[^10]: Kretschmer, Martin. ‘Music Artists’ Earnings and Digitisation: A Review of
 Empirical Data from Britain and Germany’. Bournemouth University Eprints.
-http://eprints.bournemouth.ac.uk/3704/1/Birkbeck_06_04_final.pdf.
+http://eprints.bournemouth.ac.uk/3704/1/Birkbeck\_06\_04\_final.pdf.
 
-Kretschmer, Martin. ‘Empirical Evidence on Copyright Earnings’. September,
+[^11]: Kretschmer, Martin. ‘Empirical Evidence on Copyright Earnings’. September,
 2006. DIME. http://www.dime-eu.org/files/active/0/Kretschmer.pdf.
 
-Landauer, Gustav. Revolution and Other Writings: A Poltiical Reader. Edited and
+[^12]: Landauer, Gustav. Revolution and Other Writings: A Poltiical Reader. Edited and
 translated by Gabriel Kuhn. Oakland: PM Press, 2010.
 
-Lessig, Lawrence. Presentation at Wizards of OS 4: Information Freedom Rules
+[^13]: Lessig, Lawrence. Presentation at Wizards of OS 4: Information Freedom Rules
 International Conference, Berlin, Germany September 14-16, 2006.
 
-Macmillan, Fiona. New Directions in Copyright Law. Cheltenham, UK: Edward Elgar
+[^14]: Macmillan, Fiona. New Directions in Copyright Law. Cheltenham, UK: Edward Elgar
 Publishing, 2007.
 
-Mandel, Ernest. ‘Historical Materialism and the Capitalist State’. Translated
+[^15]: Mandel, Ernest. ‘Historical Materialism and the Capitalist State’. Translated
 by Juriaan Bendian. Scribd.com.
 http://www.scribd.com/doc/20878564/MandelErnestHistorical-Materialism-and-the-Capitalist-State.
 Originally published in German in Marxismus und Anthropologie, Bochum 1980.
 
-Marx, Karl. ‘Preface’. A Contribution to the Critique of Political Economy.
+[^16]: Marx, Karl. ‘Preface’. A Contribution to the Critique of Political Economy.
 Marxists Internet Archive.
 http://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm.
 Originally written, 1859.
 
-Marx, Karl and Frederick Engels. Manifesto of the Communist Party.
+[^17]: Marx, Karl and Frederick Engels. Manifesto of the Communist Party.
 http://www.marxists.org/archive/marx/works/1848/communist-manifesto/.
 Originally published in German, 1848.
 
-Mill, John Stuart. Principles of Political Economy with some of their
+[^18]: Mill, John Stuart. Principles of Political Economy with some of their
 Application to Social Philosophy. Library of Economics and Liberty.
 http://www.econlib.org/library/Mill/mlP.html. Originally published, 1848.
 
-Miller, Ernest. ‘Woody Guthrie on Copyright’. Copyfight July 27, 2004.
-http://copyfight.corante.com/archives/2004/07/27/woody_guthrie_on_copyright.php.
+[^19]: Miller, Ernest. ‘Woody Guthrie on Copyright’. Copyfight July 27, 2004.
+http://copyfight.corante.com/archives/2004/07/27/woody\_guthrie\_on\_copyright.php.
 
-O’Reilly, Tim ‘What is Web 2.0: Design Patterns and Business Models for the
+[^20]: O’Reilly, Tim ‘What is Web 2.0: Design Patterns and Business Models for the
 Next Generation of Software’ March 2007. Munich Personal RePEc Archive, MPRA
 Paper no. 4578 (posted 7 November 2007).
-http://mpra.ub.unimuenchen.de/4578/1/MPRA_paper_4578.pdf.
+http://mpra.ub.unimuenchen.de/4578/1/MPRA\_paper\_4578.pdf.
 
-Proudhon, P.J. ‘What is Property? An Inquiry into the Principle of Right and of
+[^21]: Proudhon, P.J. ‘What is Property? An Inquiry into the Principle of Right and of
 Government’. Project Gutenberg Ebook no. 360.
 http://www.gutenberg.org/ebooks/360. Originally published, 1890.
 
-Ricardo, David. ‘An Essay on Profits’. London: John Murray,1815. McMaster
+[^22]: Ricardo, David. ‘An Essay on Profits’. London: John Murray,1815. McMaster
 University, Faculty of Social Science website,
 http://socserv.mcmaster.ca/~econ/ugcm/3ll3/ricardo/profits.txt.
 
-Ricardo, David. On Principles of Political Economy and Taxation. Library of
+[^23]: Ricardo, David. On Principles of Political Economy and Taxation. Library of
 Economics and Liberty, http://www.econlib.org/library/Ricardo/ricPCover.html.
 Originally published, London: John Murray, 1821.
 
-Seuss, Dr. Seuss. If I Ran the Circus. Random House, 1956.
+[^24]: Seuss, Dr. Seuss. If I Ran the Circus. Random House, 1956.
 
-Smiers, Joost and Marieke van Schijndel. No Copyright and No Cultural
+[^25]: Smiers, Joost and Marieke van Schijndel. No Copyright and No Cultural
 Conglomerates Too: An Essay. Amsterdam: Institute of Network Cultures, 2009.
 http://networkcultures.org/wpmu/theoryondemand/titles/no04-imagine-there-are-is-no-copyright-and-no-cultural-conglomorates-too/.
 
-Stallman, Richard. ‘Copyleft: Pragmatic Idealism’. GNU Operating System.
+[^26]: Stallman, Richard. ‘Copyleft: Pragmatic Idealism’. GNU Operating System.
 http://www.gnu.org/philosophy/pragmatic.html.
 
-Thorstein, Veblen. ‘Chapter 4: Conspicuous Consumption’. The Theory of the
+[^27]: Thorstein, Veblen. ‘Chapter 4: Conspicuous Consumption’. The Theory of the
 Leisure Class. Bremen, Germany: Europaeischer Hochschulverlag GmbH & Co KG,
 2010. Originally published, 1899.
 
-Tucker, Benjamin. ‘State Socialism and Anarchism: How far they agree, and
+[^28]: Tucker, Benjamin. ‘State Socialism and Anarchism: How far they agree, and
 wherein they differ’. The Anarchist Library.
 http://flag.blackened.net/daver/anarchism/tucker/tucker2.html. Originally
 published in Benjamin Tucker, Individual Liberty (New York: Vanguard Press,
 1926).
 
-United Nations University-World Institute for Development Economics Research.
+[^29]: United Nations University-World Institute for Development Economics Research.
 ‘Richest 2% Own Half the World’s Wealth’. update.unu.edu 44 (December
-2006-February 2007). http://update.unu.edu/issue44_22.htm.
+2006-February 2007). http://update.unu.edu/issue44\_22.htm.
 
-‘Web 2.0’. Wikipedia.org. http://en.wikipedia.org/wiki/Web_2.0.
+[^30]: ‘Web 2.0’. Wikipedia.org. http://en.wikipedia.org/wiki/Web_2.0.
 
-Notes
