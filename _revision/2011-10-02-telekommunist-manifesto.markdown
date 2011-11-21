@@ -1,7 +1,5 @@
 # El comunismo de pares contra el estado capitalista cliente-servidor
 
-Peer-to-Peer Communism vs. The Client-Server Capitalist State
-
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
 entonces describirse en términos de relaciones sociales. Los militantes por el
@@ -830,7 +828,7 @@ donde el comunismo par-a-par está embebida [hay una palabra mejor] en su
 arquitectura, a una donde las aplicaciones cliente-servidor se han vuelto
 centrales y cada vez median y controlan todos las relaciones.
 
-## Atrapados en la tela
+## Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
