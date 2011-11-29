@@ -1111,13 +1111,6 @@ estándares que fueron producidos por todas estas personas que traban en la Web
 1.0'.[^16] En realidad, entonces, no hay ni una Web 1.0 ni una 2.0. Hay solo un
 desarrollo continuo de aplicaciones en línea que no puede dividirse claramente.
 
-In trying to define what Web 2.0 is, it is safe to say that most of the
-important developments have been aimed at enabling the community to create,
-modify, and share content in a way that was previously only available to
-centralized organizations that bought expensive software packages, paid staff
-to handle the technical aspects of the site, and paid staff to create content
-which generally was published only on that organization’s site.
-
 Al tratar de definir a la Web 2.0, es seguro decir que la mayoría de los
 desarrollos importantes estuvieron orientados a habilitar a la comundiad a
 crear, modificar y compartir contenido de una forma que antes sólo había estado
