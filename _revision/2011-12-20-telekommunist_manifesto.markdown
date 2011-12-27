@@ -134,8 +134,8 @@ en el espíritu del manifiesto como principio o introducción. Matteo
 Pasquinelli, que me empujó a escribirlo, sintió que mi rol como una voz
 underground de nuestra comunidad era demasiado underground y declaró que era
 "tiempo de salir" con un texto publicado. Me conectó con Geert Lovink, que
-sugirió la estructura y el acercamiento del texto y se ofreció como editor y, a
-través del Institute of Network Cultures, como su \[publisher\].
+sugirió la estructura y el acercamiento del texto y se ofreció como redactor y,
+a través del Institute of Network Cultures, editor.
 
 The Telekommunist Manifesto is largely a cut-up, a reworking of texts I’ve
 produced and co-produced over the last few years. It incorporates significant
@@ -175,7 +175,7 @@ En el prefacion a la Contribución a la Crítica de la Economía Política, Marx
 argumenta que, 'en un punto del estado de desarrollo, las fuerzas productivas
 de la sociedad entran en conflicto con las relaciones de producción
 existentes'.[^1] Lo que es posible en la era de la información entra en
-conflicto directo con lo que es permisible. \[publishers\], productores
+conflicto directo con lo que es permisible. Editores, productores
 cinematográficos y la industria de las telecomunicaciones conspiran con los
 legisladores para embotellar y sabotear a las redes libres, para impedir que la
 información circule fuera de su control. Las corporaciones de la industria
@@ -460,8 +460,11 @@ Esto incluye a muchos que adhieren a una oposición completa al copyright en la
 forma del anticopyright. El advenimiento de la cultura digital y la popularidad
 de la compartición de archivos han traído ciertas formas de tal disenso al
 mainstream, aunque muchas veces sin el contexto de la lucha de clases y
-\[burdened\] por la falsa concepción común de que el copyright fue creado para
-proteger 
+cargados por la falsa concepción común de que el copyright fue creado para
+proteger a los productores culturales. Esta falsa concepción se encuentra en
+proyectos como Creative Commons, que profesa promover la creación de una
+cultura común, pero de hecho se autolimita en un modelo más flexibles de
+propiedad privada.
 
 As software production joined cultural production in the sphere of creating
 reproducible digital material, new forms of dissent and organization have
@@ -520,12 +523,12 @@ absolutist monarchies to control knowledge and censor dissent.
 
 La existencia de los 'derechos de copia' predan las nociones dieciochescas del
 derecho del autor a la propiedad. [^26] Desde el siglo XVI al XVII las
-licencias reales dieron derechos exclusivos a ciertos \[publishers\] para
+licencias reales dieron derechos exclusivos a ciertos editores para
 imprimir textos particulares. En 1557, un monopolio exclusivo sobre la
-imprensión fue dado a través del \[Royal Charter\] al gremio londinense de los
+imprensión fue dado a través del _Royal Charter_ al gremio londinense de los
 imprenteros, a la _Stationers' Company_, porque aseguraba el control de la
 Corona sobre los libros que se publicaban o se censuraban. Los primeros
-copyrights fueron los derechos de los \[publishers\] a imprimir copias,
+copyrights fueron los derechos de los editores a imprimir copias,
 emergiendo de las necesidades ideológicas de las monarquías absolutistas de
 controlar el conocimiento y censurar el disenso.
 
@@ -569,9 +572,9 @@ liberal y la ideología de la propiedad privada. Para Locke, la propiedad era
 una extensión de la propiedad sobre uno mismo. Al ser dueño de uno mismo, uno
 es dueño de lo que produce. El derecho a la propiedad es creado por el trabajo.
 El Parlamento inglés tomó una posición consistente con esto y el Estatuto de
-Ana, \[enacted\] por el Parlamento en 1709, se probó como un duro embate a la
+Ana, promulgado por el Parlamento en 1709, se probó como un duro embate a la
 Stationers' Company. El Estatuto declaraba que los autores, no los
-\[publishers\], eran los dueños de sus obras y limitaban el término del
+editores, eran los dueños de sus obras y limitaban el término del
 copyright a catorce años para los libros nuevos y veintiuno para los
 copyright existentes. El Estatuto, subtitulado 'Un Acta para la Promoción del
 Aprendizaje, a través de la Asignación de Copias de Libros Impresos a los
@@ -596,15 +599,15 @@ different than any other sale of labor. The exploitation of the author was
 embedded in the intellectual property regime from its inception.
 
 Los jugadores principales, en lo que la prensa saludó como la gran causa de la
-propiedad literaria, no eran los autores. Los \[publishers\] se demandaron
+propiedad literaria, no eran los autores. Los editores se demandaron
 entre sí en las cortes, invocando los derechos del autor como un pretexto en su
 batalla por el poder económico. La noción del autor como un originador, con un
 derecho natural a sus propias ideas, pudo haber sido inventada por artistas y
-filósofos, pero fueron los \[publishers\] los que se beneficiaron. Las leyes no
+filósofos, pero fueron los editores los que se beneficiaron. Las leyes no
 son hechas por poetas sino por estados, y los estados existen para reforzar el
 privilegio económico, adoptando cualquier marco filosófico legitimador que
 encuentren conveniente. El Estatuto de Ana codificó la forma capitalista de la
-relación autor-\[publisher\]. Los autores tenían derecho a poseer el producto
+relación autor-editor. Los autores tenían derecho a poseer el producto
 de su trabajo en teoría, pero ya que lo que creaban eran ideas inmateriales y
 carecían de medios tecnológicos para producir libros, tenían que vender sus
 derechos a terceros con el capital suficiente para explotarlos. En esencia, no
@@ -662,7 +665,7 @@ reproduction costs of your work.
 
 En cualquier sistema de propiedad, los músicos no pueden retener la propiedad
 sobre el producto de su trabajo al igual que los trabajadores de cualquier
-\[sweatshop\] textil. El sistema del control privado de los medios de
+fábrica textil. El sistema del control privado de los medios de
 publicación, distribución, promoción y producción de medios asegura que los
 artistas y todos los demás trabajadores creativos no puedan ganar más que lo
 necesaria para su subsistencia. Seas un bioquímico, un músico, un ingeniero de
@@ -732,15 +735,14 @@ Pero si la propiedad física puede ser robada, ¿pueden robarse la inteligencia 
 las ideas? Si tu tierra es robada, ya no podés usarla, a excepción de las
 condiciones que ponga el nuevo propietario. Si la propiedad de una idea es
 análoga a la propiedad material, debe estar sujeta a las mismas condiciones del
-intercambio económico, \[forfeiture and seizure\]. Y si es \[seized\], entonces
+intercambio económico, decomisación y embargación. Y si es embargado, entonces
 deja de ser la propiedad de su dueño. Pero si tu idea es usada por otros, no
 has perdido la habilidad para usarla, ¿entonces que es lo que fue robado en
 realidad? La noción tradicional de la propiedad, como algo que puede ser
 poseído excluyendo a otros es irreconciliable con algo tan intangible como una
 idea. Al contrario de un objeto material, que puede existir en un único lugar
 en un tiempo determinado, las ideas son infinitas y no excluyentes. Un poema no
-es el poema de un poeta, a pesar de su existencia en la memoria de miles de
-otros \[?\].
+es el poema de un poeta, a pesar de su existencia en la memoria de otros miles.
 
 Every expression is an extension of a previous perception. Ideas are not
 original, they are built upon layers of knowledge accumulated throughout
@@ -760,11 +762,11 @@ historia. De estas capas comunes los artistas crean obras que incluyen sus
 propias especificidades e innovaciones. Todas las obras creativas asemejan
 ideas, palabras e imágenes de la historia y de su contexto contemporáneo. Antes
 del siglo XVIII, los poetas citaban a sus ancestros y fuentes de inspiración
-sin reconocimiento formal y los guionistas tomaban libremente los \[plots\] y
+sin reconocimiento formal y los guionistas tomaban libremente los argumentos y
 diálogos de fuentes anteriores sin atribución. Homero basó la 'Ilíada' y la
 'Odisea' en tradiciones orales con siglos de antigüedad. La 'Eneida' de
 Virgilio está basada fuertemente en Homero. Shakespeare tomó muchos de sus
-\[plots\] narrativos y diálogos de Holinshed.
+argumentos narrativos y diálogos de Holinshed.
 
 This is not to say that the concept of plagiarism didn’t exist before the 18th
 century, but its definition shifted radically. The term plagiarist (literally,
@@ -830,8 +832,8 @@ yet artists continue to be flattered by their association with the myth of the
 creative genius, turning a blind eye to how it is used to justify their
 exploitation and expand the privilege of the property-owning elite. 
 
-La base de esta desposesión \[?\] es la ficción legal de que el autor es el
-soberano individual que crea obras originales de la \[wellspring\] de su
+La base de esta desposesión es la ficción legal de que el autor es el
+soberano individual que crea obras originales del manantial de su
 imaginación y por lo tanto tiene un derecho natural a su propiedad. Foucault
 desenmascaró la autoría como un principio funcional que impide la libre
 circulación, manipulación, composición, decomposición y recomposición del
@@ -881,7 +883,7 @@ de Artes Utrecht, se cuenta entre aquellos que insisten en la abolición del
 copyright. Argumenta que el copyright centraliza la propiedad de los medios al
 entregarle a los grandes conglomerados de medios una ventaja anticompetitiva
 que daña la posición de los artistas. Los artistas ganan más en un campo de
-juego consistente de un gran número de \[publishers\] compitiendo por sus
+juego consistente de un gran número de editores compitiendo por sus
 servicios, que de la exclusividad del copyright.[^30] El profesor Smiers tiene
 un punto válido en la ineficiencia de mercado del copyright. El copyright
 debería ser abolido. No obstante, no hay razón para creer que lo será.
@@ -921,7 +923,7 @@ La propiedad privada de las ideas durante los últimos dos siglos no ha logrado
 erradicar la memoria de una cultura común o el reconocimiento de que el
 conocimiento florece cuando las ideas, palabras, sonidos e imágenes son libres
 para el uso de todos. Desde el mismo nacimiento del autor propietario,
-diferentes individuos y grupos han \[challenged\] el régimen de propiedad
+diferentes individuos y grupos han desafiado el régimen de propiedad
 intelectual y el 'derecho' que daba a algunos individuos privados a 'poseer'
 obras creativas mientras previene a otros a usarlas y re-interpretarlas.
 
@@ -956,13 +958,13 @@ nombre del progreso, donde el mito de la creatividad individual impedía de
 hecho el progreso a través de la privatización de la cultura. La respuesta
 natural era re-apropiarse de la cultura como una esfera de producción colectiva
 sin reconocer cercamientos individuales de autoría. La frase de Lautreamont se
-volvió una piedra de toque \[?\] de las vanguardias del siglo XX. Dadá rechazó
-la originalidad y retrató toda la producción artística como reciclaje y
+volvió una piedra de toque de las vanguardias del siglo XX. Dadá rechazó la
+originalidad y retrató toda la producción artística como reciclaje y
 re-montaje, desde los ready-mades de Duchamp a la regla de Tzara para hacer
 poemas con recortes de diario, a los fotomontajes de Höch, Hausmann y
-Heartfield. Dadá también \[challenged\] la idea del artista como un genio
-solitario y del arte como una esfera separada, trabajando colectivamente para
-producir no sólo objetos y textos artísticos, sino también \[media hoaxes\],
+Heartfield. Dadá también desafió la idea del artista como un genio solitario y
+del arte como una esfera separada, trabajando colectivamente para producir no
+sólo objetos y textos artísticos, sino también hoaxes mediáticos,
 intervenciones en encuentros políticos y manifestaciones callejeras. Su asalto
 a los valores artísticos fue una revuelta contra los fundamentos capitalistas
 que los habían creado.
@@ -988,9 +990,9 @@ even without mentioning the source.
 Las ideas del dadaísmo fueron desarrolladas sistemáticamente en una teoría por
 la Internacional Situacionista (IS). La IS reconoció que la práctica del
 _detournement_, poner obras, películas, publicidades y cómics existentes en un
-\[detour\] y recodificar sus significados predominantes, era una referencia a
-las prácticas dadaístas, pero con una diferencia. Vieron a Dadá como una
-crítica negativa de las imágenes dominantes (una que dependía del
+desvío (detour) y recodificar sus significados predominantes, era una
+referencia a las prácticas dadaístas, pero con una diferencia. Vieron a Dadá
+como una crítica negativa de las imágenes dominantes (una que dependía del
 fácil reconocimiento de la imagen negada) y definieron el detournement como una
 reutilización positiva de fragmentos existentes, simplemente como elementos en
 la producción una nueva obra. El detournement no era primariamente un
@@ -1071,7 +1073,7 @@ su propiedad, sus copyright. Resulta claro que las tecnologías de redes
 digitales resultan un serio problema para las industrias discográficas y
 fílmicas. El disenso sobre las restricciones del copyright ha tenido una rica
 historia entre los artistas de vanguardia, productores de zines, músicos
-radicales y \[fringe\] contracultural. Al día de hoy, la lucha contra la
+radicales y la marginalidad contracultural. Al día de hoy, la lucha contra la
 propiedad intelectual es liderada por abogados, profesores y miembros del
 gobierno. No sólo el estrato social al que pertenecen los líderes es muy
 diferente, sino también el marco para la lucha contra la propiedad intelectual
@@ -1124,10 +1126,10 @@ culture and destroying the vibrancy and diversity of creative production. It is
 promoting the narrow interests of a few privileged ‘producers’ at the expense
 of everybody else.
 
-En su \[keynote\] en Wizards of OS4 en Berlín, Lessig celebraba la cultura de
+En su conferencia en Wizards of OS4 en Berlín, Lessig celebraba la cultura de
 lectoescritura, compartición libre y autoría colaborativa que ha sido la norma
 en gran parte de la historia. Durante el último siglo, explicaba Lessig, esta
-cultura ha sido domesticada \[?\] por la legislación de propiedad intelectual y
+cultura ha sido frustrada por la legislación de propiedad intelectual y
 convertida en una cultura de sólo lectura, dominada por un régimen de control
 del productor.[^32] Lessig lamenta que las travesías recientes de la
 legislación del copyright hayan censurado el trabajo de artistas del remix como
@@ -1138,7 +1140,7 @@ Negativland fueron antes de ellos. En estos casos, los deseos de los artistas,
 vistos como meros consumidores por la ley, fueron subordinados al control de
 los productores -los Beatles y Gloria Gaynor respectivamente- y sus
 representantes legales. El problema es que el control del productor está
-creando una cultura de sólo lectura y destruyendo la \[vibrancy\] y diversidad
+creando una cultura de sólo lectura y destruyendo la vitalidad y diversidad
 de la producción creativa. Es la promoción de los intereses estrechos de unos
 pocos 'productores' privilegiados a expensas de todos los demás.
 
@@ -1156,7 +1158,7 @@ control del productor e insiste en la libertad de los consumidores. Lo 'libre'
 de la cultura libre refiere a la libertad natural de los consumidores a usar un
 stock cultural común y no a la libertad reforzada por el Estado de los
 productores para controlar el uso de 'sus' obras. En principio, la noción de un
-común cultural abuele \[?\] la distinción entre productores y consumidores,
+común cultural abuele la distinción entre productores y consumidores,
 viéndolos como actores iguales en un proceso continuo.
 
 Today, within the context of the Creative Commons (CC) project more
@@ -1193,7 +1195,7 @@ comercial. Se asume que, como un autor-productor, todo lo que hagas y digas es
 de tu propiedad. El derecho del consumidor nunca es mencionado, tampoco la
 distinción entre productores y consumidores se disputa. Creative Commons
 legitimiza, antes que niega, el control del productor y refuerza, antes que
-abuele \[?\], la distinción entre productor y consumidor. Expande el marco
+abuele, la distinción entre productor y consumidor. Expande el marco
 legal para que los productores nieguen a los consumidores la posibilidad de
 crear valor de uso o valor de cambio del stock común.
 
@@ -1213,7 +1215,7 @@ level of restrictions for publishing their work contradicts the real conditions
 of commons-based production. Lessig has no basis to use DJ Danger Mouse and
 Javier Patro as examples to promote the cause of Creative Commons.
 
-El problema de crear '\[deeds\] comunes' para obras que no están realmente en
+El problema de crear 'acciones comunes' para obras que no están realmente en
 el stock común es típico del abordaje copy-just-right (derecho justo de copia)
 tipificado por Creative Commons. Si los Beatles o Gloria Gaynor hubieren
 publicado sus obras en el marco de Creative Commons, todavía hubiera sido su
@@ -1272,7 +1274,7 @@ en la práctica, las referencias a la propiedad que hace Creative Commons son
 genuinas, no irónicas. Las licencias de Creative Commons permiten restricciones
 arbitrarias a la libertad de los usuarios basadas en las preferencias o gustos
 particulares del autor. En este sentido, Creative Commons es una versión más
-elaborada del copyright. No \[challenge\] el régimen del copyright
+elaborada del copyright. No desafían el régimen del copyright
 íntegramente, ni preserva su coraza legal para poner la práctica del copyright
 sobre su cabeza, como hace el copyleft.
 
@@ -1323,7 +1325,7 @@ advance. The real effect of Creative Commons is to narrow political
 contestation within the sphere of the already permissible.
 
 Lo que empezó como un movimiento por la abolición de la propiedad intelectual
-se ha convertido en un movimiento para \[customize\] las licencias de los
+se ha convertido en un movimiento para personalizar las licencias de los
 propietarios. Casi sin notarlo, lo que fue un movimiento de radicales, hackers
 y piratas es ahora el dominio de reformistas, revisionistas y apologistas del
 capitalismo. Cuando el capital es amenazado, coopta a la oposición. Hemos visto
@@ -1476,8 +1478,8 @@ La Licencia Pública General (GPL) fue la primer licencia copyleft bajo la cual
 una gran cantidad de software libre fue lanzado. Su inventor Richard Stallman
 dice que en la era de la copia digital, el rol del copyright ha sido revertido
 completamente. Aún cuando comenzara como una medida legal para permitir a los
-autores a restringir a los \[publishers\] a favor del público general, el
-copyright se ha convertido en el arma de los \[publishers\] para mantener su
+autores a restringir a los editores a favor del público general, el
+copyright se ha convertido en el arma de los editores para mantener su
 monopolio imponiendo restricciones al público general que ahora posee los
 medios para producir sus propias copias. El objetivo del copyleft en general, y
 de las licencias como la GPL específicamente, es revertir esta reversión.
@@ -1602,8 +1604,8 @@ from selling copies they’ve modified with their own labor, and it also does no
 prevent redistribution by a commercial company that charges a fee, as long as
 the same license is passed down and the source code remains transparent. 
 
-La GPL y el copyleft son frecuentemente invocados como ejemplos del \[bias\]
-anticomercial del movimiento del Software Libre. Pero no hay tal \[bias\]. Las
+La GPL y el copyleft son frecuentemente invocados como ejemplos de la tendencia
+anticomercial del movimiento del Software Libre. Pero no hay tal tendencia. Las
 cuatro libertades requeridas por la GPL significa que cualquier restricción
 adicional, como una cláusula no comercial, convertirían a la obra en no-libre
 aún si cumple con algunas de las libertades. Mantener el software 'libre' no
@@ -1623,7 +1625,7 @@ source code secret and extracting a profit often coincide in practice. As long
 as the four conditions are met, commercial redistribution of free software is
 non-proprietary.
 
-Esta versión de la libertad no abuele \[?\] el intercambio, como han proclamado
+Esta versión de la libertad no abuele el intercambio, como han proclamado
 algunos entusiastas del software libre, ni es incompatible con una economía
 capitalista basada en el robo de la plusvalía. La contradicción inherente en
 estos comunes se debe a un entendimiento de lo propietario como sinónimo de
@@ -1701,8 +1703,8 @@ copyleft has no direct impact on the distribution of wealth and power.
 Pero el software libre no fue concebido como una mera forma de reducir
 los costos corporativos de producción de software. Richard Stallman escribe la
 sitio de web de su organización: 'Mi trabajo por el software libre es motivado
-por un objetivo idealista: \[spreading\] libertad y cooperación. Quiero
-\[encourage\] el software libre a \[spread\] para reemplazar el software
+por un objetivo idealista: propagar libertad y cooperación. Quiero
+fomentar el software libre a propagar para reemplazar el software
 propietario que proscribe la cooperación y mejorar nuestra sociedad.'[^37] Sin
 embargo, ya que el software libre no puede capturar directamente el valor de
 cambio, sus productores todavía deben vender su trabajo para lograr su
@@ -1776,7 +1778,7 @@ Apple como Juniper hacen software propietario no para venderlo, sino para
 añadirlo a su hardware costoso. Este punto se enfatiza en los esfuerzos de
 ambas compañías para evitar que los usuarios adquieran su software para
 utilizarlo en hardware más barato. Por ejemplo, deben considerarse los ejemplos
-de Apple para \[thwart\] el proyecto Hackintosh, que ofrece instrucciones para
+de Apple para frustrar el proyecto Hackintosh, que ofrece instrucciones para
 utilizar los sistemas operativos Mac en hardware no soportado, así como tomar
 acciones legales contra las compañías que venden hardware que no es de Apple
 cargado con copias legalmente adquiridas de OS X.[^38]
@@ -1949,9 +1951,9 @@ profits by controlling the distribution of consumer goods.
 El arte no es, en la mayoria de los casos, una necesidad común de la producción
 como lo es el software. Entonces, su demanda es una demanda de consumo, no de
 capital. Existen ciertamente casos en los que las obras artísticas pueden
-considerarse necesidades productivas, como los efectos de sonido, el \[clip art
-\], \[music clips\] y así, y la tradición de los artistas de basarse en la obra
-de sus predecesores se ha discutido largamente más arriba; sin embargo, cuando
+considerarse necesidades productivas, como los efectos de sonido, el clipart,
+clips musicales y así, y la tradición de los artistas de basarse en la obra de sus
+predecesores se ha discutido largamente más arriba; sin embargo, cuando
 discutimos la economía de las obras de contenido, como los poemas, novelas,
 películas o música, así como el software de entretenimiento como los juegos, no
 estamos hablando de bienes de producción, sino de bienes de consumo. Las
@@ -2022,7 +2024,7 @@ la explotación parasitaria de trabajadores culturales. Justifican esta
 restricción y su divergencia de la versión del copyleft de la Licencia Pública
 General, en base a la lucha contra la explotación y la lucha por la
 remuneración justa del trabajo como una piedra de toque histórica de la
-izquierda. Otros proveedores de contenido y \[publishers\] de libros, Verso por
+izquierda. Otros proveedores de contenido y editores de libros, Verso por
 ejemplo, han expandido esta restricción reclamando que la copia, modificación y
 redistribución no sólo debe ser no lucrativa, sino también en el espíritu del
 original, sin explicar qué es lo que este 'espíritu' significa.
@@ -2042,7 +2044,7 @@ commitment to equality.
 Indymedia de Rumania ha revisado su definición de copyleft para aclarar el
 significado de 'en el espíritu del original' luego de tener problemas con el
 sitio web neo-fascistas Altermedia Rumania, cuyas 'jodas' fueron desde
-\[hijacking\] el dominio indymedia.ro copiando textos de Indymedia mintiendo
+secuestrar el dominio indymedia.ro copiando textos de Indymedia mintiendo
 sobre nombres y fuentes. Las restricciones de Indymedia Rumania incluyen la no
 modificación del nombre original y la fuente porque se opone el deseo de
 transparencia, ni reproducir el material lucrativamente porque abusa el
@@ -2132,7 +2134,7 @@ the socialist left: the creation of a worker-controlled economy.
 
 Mientras que los términos no comerciales podrían proveer una forma de integrar
 a los artistas que producen cultura libre a la de otra forma propietaria
-industria del entretenimiento, no la \[challenge\] ni abordan la explotación
+industria del entretenimiento, no la desafían ni abordan la explotación
 imbuida en ella. Los términos no comerciales resultan muy problemáticos par
 aquellos en la izquierda socialista que militan por la producción
 autoorganizada de los trabajadores, ya que estos términos también restringen la
@@ -2234,9 +2236,9 @@ empleado en el contexto de la naciente economía de los trabajadores que incluye
 varias forams de producción, tanto cultural como material (arte tanto como
 comida, etc.). En ausencia de tal ambiente, el copyleft y sus variedades poseen
 poca ventaja para la mayoríá de los artistas, para quienes el prospecto de
-ganancia financiera a través del licenciamiento comercial es \[negligible\].
+ganancia financiera a través del licenciamiento comercial es despreciable.
 Para estos artistas, el anticopyright mantiene una fuerte atracción. El
-anticopyright es un gesto radical que rechaza \[compromises\] pragmáticos y
+anticopyright es un gesto radical que rechaza transigencias pragmáticas y
 busca aboler la propiedad intelectual entera. El anticopyright afirma una
 libertad absoluta y no reconoce límites para su deseo.
 
