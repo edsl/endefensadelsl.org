@@ -3,128 +3,47 @@ The Telekommunist Manifesto
 
 Dmitry Kleiner
 
-Technical information:
-The Telekommunist Manifesto
-Dmytri Kleiner
-Network Notebooks 03
-Publisher: Institute of Network Cultures, Amsterdam
+El Manifiesto Telecomunista se compone de textos extendidos y re-trabajados por
+Dmytri Kleiner, a partir de trabajos de Joanne Richardson, Brian Wyrick y
+Dmytri Kleiner, 2004-2008.
 
-The Telekommunist Manifesto is composed of texts that have been extended and
-reworked by Dmytri Kleiner, from texts by Joanne Richardson, Brian Wyrick and
-Dmytri Kleiner, 2004–2008.
+Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
+Se promueve el uso comercial hecho por colectivos e independientes que trabajen
+en los comunes.
 
-A pdf of this publication can be freely downloaded at:
-http://www.networkcultures.org/networknotebooks
-
-This publication is licensed under the Peer Production License (2010).
-Commercial use encouraged for Independent and Collective/Commons-based users.
-
-Amsterdam, October 2010.
-ISBN/EAN 978-90-816021-2-9 
-
-Table of Contents
-
-Foreword
-
-* Introduction
-
-* Peer-to-Peer Communism vs. The Client-Server Capitalist State 
-  * The Conditions of the Working Class on the Internet
-  * Trapped in the World Wide Web
-
-* Peer Production and the Poverty of Networks
-
-* Venture Communism
-
-* Manifesto of The Telekommunisten Network
-
-* A Contribution to The Critique of Free Culture 
-
-	Copyright is a System of Censorship and Exploitation 
-
-	The Creative Anti-Commons
-
-	Free Software: Copyright Eats Itself
-
-	Free Culture Requires a Free Society: Copyfarleft
-
-Venture Communism and Copyfarleft
-
-Peer Production License: A Model for Copyfarleft
-
-References
 
 ## Prefacio
 
-I coined the term ‘Venture Communism’ in 2001 to promote the ideal of workers’
-self-organization of production as a way of addressing class conflict.
-Telekommunisten is a collective based in Berlin, Germany, where I have lived
-since 2003. I first encountered the term ‘Telekommunisten’ (which became the
-name of the collective) in 2005, while visiting the apartment of a friend. He
-and his roommate had given the name ‘Telekommunisten’ to the local area network
-used in their apartment to share internet access. 
-
-Acuñé el término "Comunismo de Riesgo" en el 2011 para promover el ideal de la
+_Acuñé el término "Comunismo de Riesgo" en el 2011 para promover el ideal de la
 autoorganización productiva de los trabajadores como forma de resolver el
 conflicto de clase. Telekommunisten \[telecomunista\] es un colectivo con base
 en Berlín, Alemania, donde vivo desde el 2003. Me encontré con el término
 "Telekommunisten" (que se convertiría en el nombre del colectivo) en el 2005,
 cuando visitaba el departamento de un amigo. Él y su compañero habían nombrado
 "telecomunista" a la red de área local que usaban en su departamento para
-compartir acceso a Internet.
+compartir acceso a Internet._
 
-Telekommunisten had been used as a derogatory term for Germany’s former state
-telephone company, Deutsch Telekomm, which is now a private transnational
-corporation whose ‘T-Mobile’ brand is known worldwide. The usage of communist
-here is intended to cast the telephone company as a monolithic, authoritarian,
-and bureaucratic behemoth. This is a completely different understanding to the
-positive use of the term as an engagement in class conflict towards the goal of
-a free society without economic classes, where people produce and share as
-equals, a society with no property and no state, that produces not for profit,
-but for social value. In this way, we are not simply a collective of
-worker-agitators toiling in the sphere of telecommunications. Telekommunisten
-promotes the notion of a distributed communism: a communism at a distance, a
-Tele-communism. A venture commune is not bound to one physical location where
-it can be isolated and confined. Similar in topology to a peer-to-peer network,
-Telekommunisten intends to be decentralized, with only minimal coordination
-required amongst its international community of producer-owners.
-
-Telecomunista había sido usado como un término derogatorio para la antigua
-telefónica estatal de Alemania, Deutsch Telekomm, que ahora es una corporación
-privada transnacional cuya marca "T-Mobile" es conocida en todo el mundo. La
-utilización del comunismo aquí se refiere a la telefónica como un monstruo
-monolítico, autoritario y burocrático. Este es un punto de vista totalmente
-diferente al uso positivo del término para referirse al compromiso con el
-conflicto de clases con el objetivo de una sociedad libre sin clases
+Telecomunista había sido usado como un nombre despectivo para la antigua
+telefónica estatal de Alemania, _Deutsch Telekomm_, que ahora es una
+corporación transnacional privada cuya marca "T-Mobile" es conocida en todo el
+mundo. La utilización del comunismo aquí se refiere a la telefónica como un
+monstruo monolítico, autoritario y burocrático. Este es un punto de vista
+totalmente diferente al uso positivo del término para referirse al compromiso
+con el conflicto de clases con el objetivo de una sociedad libre sin clases
 económicas, donde la gente produce y comparte como iguales, una sociedad sin
 propiedad ni Estado, que produce no para lucrar, sino por su valor social. De
 esta manera, no somos simplemente un colectivo de agitadores en la esfera de
 las telecomunicaciones. Telekommunisten promueve la noción de un comunismo
 distribuido: un comunismo a la distancia, un tele-comunismo. Una comuna de
-riesgo no está atada a una ubicación física donde pueder ser isolada y
+riesgo no está atada a una ubicación física donde pueda ser aislada y
 confinada. Con una topología similar a una red de pares, Telekommunisten
 intenta ser decentralizada, con sólo una mínima coordinación requerida entre su
-comunidad internacional de productores-dueños.
+comunidad internacional de productores-propietarios.
 
-My background is in the hacker and art communities, where I have been active
-since the early 90s. My views have been developed and expressed in online and
-offline correspondence in the course of my involvement in software development,
-activism and cultural production. Although I have written a few essays over the
-years, those who know my work generally know me personally through encounters
-in electronic and physical social spaces. The present work is a ‘Manifesto’,
-not in the sense that it outlines a complete theoretical system, a dogmatic set
-of beliefs or the platform of a political movement, but in the spirit of the
-meaning of manifesto as a beginning or introduction. Matteo Pasquinelli, who
-pushed me to undertake this ‘Manifesto’, felt that my role as a background
-voice in our community was too underground and declared it was ‘time to come
-out’ with a published text. He connected me with Geert Lovink, who suggested
-the structure and approach of the text and offered to serve as editor and,
-through the Institute of Network Cultures, as its publisher.
-
-Mi experiencia está en las comunidades hacker y artísticas, donde he estado
+Hice mi experiencia en las comunidades hacker y artística, donde he estado
 activo desde principios de los '90. Mis puntos de vista han sido desarrollados
 y expresados en correspondencia online y offline en el curso de mi
-involucramiento en el desarrollo de software, activismo y producción cultural.
+involucramiento en el desarrollo de software, el activismo y la producción cultural.
 Aunque he escrito unos pocos ensayos durante estos años, aquellos que conocen
 mi obra me conocen también personalmente a través de encuentros en espacios
 sociales tanto electrónicos como físicos. El presente trabajo es un
@@ -134,44 +53,24 @@ en el espíritu del manifiesto como principio o introducción. Matteo
 Pasquinelli, que me empujó a escribirlo, sintió que mi rol como una voz
 underground de nuestra comunidad era demasiado underground y declaró que era
 "tiempo de salir" con un texto publicado. Me conectó con Geert Lovink, que
-sugirió la estructura y el acercamiento del texto y se ofreció como redactor y,
-a través del Institute of Network Cultures, editor.
+sugirió la estructura y el abordaje del texto y se ofreció como redactor y,
+a través del Institute of Network Cultures, como editor.
 
-The Telekommunist Manifesto is largely a cut-up, a reworking of texts I’ve
-produced and co-produced over the last few years. It incorporates significant
-passages from ‘Copyright, Copyleft and the Creative Anti-Commons’ produced in
-co-operation with Joanne Richardson and originally published under ‘Anna
-Nimmus’ on the subsol website. Much of the text regarding the commercialization
-of the internet is taken from ‘Infoenclosure 2.0’, co-written with Brian Wyrick
-and originally published in Mute Magazine. Credit is also due to Mute Magazine
-editors Josephine Berry Slater and Anthony Iles, for their work on ‘Infoenclure
-2.0’ and ‘Copyjustright, Copyfarfleft’, much of which is reused here.
+El Manifiesto Telecomunista es en gran medida un cut-up, un collage de textos
+que produje y co-produje durante los últimos años. Incorpora pasajes
+significativos de 'Copyright, Copyleft y los Anti Comunes Creativos' producido
+en cooperación con Joanne Richardson y publicado originalmente en 'Anna Nimmus'
+en el sitio web homónimo. Muchas partes del texto concerniente a la
+comercialización de Internet fueron tomadas de 'Infocercamiento 2.0',
+co-escrito con Brian Wyrick y publicado originalmente en Mute Magazine. También
+hay que dar crédito a los editores de Mute Magazine Josephine Berry Slater y
+Anthony Iles, por su trabajo en 'Infocercamiento 2.0' y 'Copyjustright,
+Copyfarleft', que también han sido usados aquí.
 
-El Manifiesto Telecomunista es un cut-up, un collage de textos que produje y
-co-produje durante los últimos años. Incorpora pasajes significativos de
-'Copyright, Copyleft y los Anti Comunes Creativos' producido en cooperación con
-Joanne Richardson y publicado originalmente en 'Anna Nimmus' en el sitio web de
-subsol. Muchas partes del texto concerniente a la comercialización de Internet
-fue tomado de 'Infocercamiento 2.0', co-escrito con Brian Wyrick y publicado
-originalmente en Mute Magazine. También hay que dar crédito a los editores de
-Mute Magazine Josephine Berry Slater y Anthony Iles, por su trabajo en
-'Infocercamiento 2.0' y 'Copyjustright, Copyfarleft', que también ha sido usado
-aquí.
 
 ## Introducción
 
-In the preface to A Contribution to the Critique of Political Economy, Marx
-argues that, ‘at a certain stage of development, the material productive forces
-of society come in conflict with the existing relations of production’.i What
-is possible in the information age is in direct conflict with what is
-permissible. Publishers, film producers and the telecommunication industry
-conspire with lawmakers to bottle up and sabotage free networks, to forbid
-information from circulating outside of their control. The corporations in the
-recording industry attempt to forcibly maintain their position as mediators
-between artists and fans, as fans and artists merge closer together and explore
-new ways of interacting. 
-
-En el prefacion a la Contribución a la Crítica de la Economía Política, Marx
+En el prefacio a Contribución a la Crítica de la Economía Política, Marx
 argumenta que, 'en un punto del estado de desarrollo, las fuerzas productivas
 de la sociedad entran en conflicto con las relaciones de producción
 existentes'.[^1] Lo que es posible en la era de la información entra en
@@ -179,54 +78,29 @@ conflicto directo con lo que es permisible. Editores, productores
 cinematográficos y la industria de las telecomunicaciones conspiran con los
 legisladores para embotellar y sabotear a las redes libres, para impedir que la
 información circule fuera de su control. Las corporaciones de la industria
-discográfica intentan forzar su posición como mediadores entre artistas y fans,
-mientras los fans y los artistas se acercan entre sí y exploran nuevas formas
-de interactuar.
+discográfica intentan forzar su posición como mediadores entre artistas y
+admiradores, mientras los admiradores y los artistas se acercan entre sí y
+exploran nuevas formas de interactuar.
 
-Competing software makers, like arms manufacturers, play both sides in this
-conflict: providing the tools to impose control, and the tools to evade it. The
-non-hierarchical relations made possible by a peer network, such as the
-internet, are contradictory with capitalism’s need for enclosure and control.
-It’s a battle to the death; either the internet as we know it must go, or
-capitalism as we know it must go. Will capital throw us back into the network
-dark ages of CompuServe, mobile telephones and cable tv rather than allow peer
-communications to bring about a new society? Yes, if they can. Marx concludes,
-‘no social order ever perishes before all the productive forces for which there
-is room in it have developed; and new, higher relations of production never
-appear before the material conditions of their existence have matured in the
-womb of the old society itself’.ii
-
-Los productores de software en competencia, como los manufacturadoras de armas,
-juegan a dos puntos en este conflicto: proveyendo las herramientas para imponer
-el control a la vez que las herramientas para evadirlo. Las relaciones no
-jerárquicas posibilitadas por las redes de pares, como la Internet, contradicen
-la necesidad capitalista de cercamiento y control. Es una batalla a muerte; o
-la Internet como la conocemos deberá desaparecer o el capitalismo lo hará. ¿Nos
-arrojará el capitalismo hacia la edad media de la red que eran CompuServe, los
-teléfonos móviles y la TV por cable antes de permitir que las comunicaciones
-entre pares nos lleven a una nueva sociedad? Sí, si pueden. Marx concluye que
-'ningún orden social perece antes que todas las fuerzas productivas que entren
-en él se hayan desarrollado; y nuevas y más altas relaciones de producción
-nunca aparecen antes que las condiciones materiales de su existencia hayan
-madurado en el útero mismo de la antigua sociedad'.[^2]
-
-The Telekommunist Manifesto is an exploration of class conflict and property,
-born from a realization of the primacy of economic capacity in social
-struggles. Emphasis is placed on the distribution of productive assets and
-their output. The interpretation here is always tethered to an understanding
-that wealth and power are intrinsically linked, and only through the former can
-the latter be achieved. As a collective of intellectual workers, the work of
-Telekommunisten is very much rooted in the free software and free culture
-communities. However, a central premise of this Manifesto is that engaging in
-software development and the production of immaterial cultural works is not
-enough. The communization of immaterial property alone cannot change the
-distribution of material productive assets, and therefore cannot eliminate
-exploitation; only the self-organization of production by workers can.
+Los productores de software compitentes, como las manufacturadoras de armas,
+juegan a dos puntas en este conflicto: proveyendo las herramientas para imponer
+el control a la vez que proveen las herramientas para evadirlo. Las relaciones
+no jerárquicas posibilitadas por las redes de pares, como la Internet,
+contradicen la necesidad capitalista de cercamiento y control. Es una batalla a
+muerte; o la Internet como la conocemos deberá desaparecer o el capitalismo lo
+hará. ¿Nos arrojará el capitalismo hacia la edad media de la red, a CompuServe,
+los teléfonos móviles y la TV por cable antes de permitir que las
+comunicaciones entre pares nos lleven a una nueva sociedad? Sí, si pueden. Marx
+concluye que 'ningún orden social perece antes que todas las fuerzas
+productivas que entren en su interior se hayan desarrollado; y nuevas y más
+altas relaciones de producción nunca aparecen antes que las condiciones
+materiales de su existencia hayan madurado en el útero mismo de la antigua
+sociedad'.[^2]
 
 El Manifiesto Telecomunista es una exploración del conflicto de clases y la
-propiedad, nacido de la realización de la primacía de la capacidad económica en
+propiedad, nacido de la comprensión de la primacía de la capacidad económica en
 las luchas sociales. El énfasis está puesto en la distribución de activos
-productivos y su producto. La interpretación de esto siempre está orientada al
+productivos y su producto. La interpretación siempre estará orientada al
 entendimiento de que la riqueza y el poder están intrínsecamente enlazados y
 sólo mediante el primero puede alcanzarse el segundo. En tanto colectivo de
 trabajadores intelectuales, el trabajo de Telekommunisten está profundamente
@@ -238,29 +112,13 @@ distribución de activos productivos materiales y por lo tanto no puede eliminar
 la explotación; sólo la auto-organización de la producción hecha por los
 trabajadores puede hacerlo. 
 
-This publication is intended as a summary of the positions that motivate the
-Telekommunisten project, based on an exploration of class conflict in the age
-of international telecommunications, global migration, and the emergence of the
-information economy. The goal of this text is to introduce the political
-motivations of Telekommunisten, including a sketch of the basic theoretical
-framework in which it is rooted. Through two interrelated sections,
-‘Peer-to-Peer Communism vs. The Client-Server Capitalist State’ and ‘A
-Contribution to the Critique of Free Culture’, the Manifesto covers the
-political economy of network topologies and cultural production respectively.
-‘Peer-to-Peer Communism vs. The Client-Server Capitalist State’ focuses on the
-commercialization of the internet and the emergence of networked distributed
-production. It proposes a new form of organization as a vehicle for class
-struggle: venture communism. The section ends with the famous program laid out
-by Marx and Engels in their Communist Manifesto, adapted into a Manifesto for a
-networked society. 
-
-Esta publicación se pretende un resumen de las posiciones que motivan a
+Esta publicación intenta ser un resumen de las posiciones que motivan a
 Telekommunisten como proyecto, basado en la exploración del conflicto de clase
-en el era de las telecomunicaciones internacionales, la migración global y la
+en la era de las telecomunicaciones internacionales, la migración global y la
 emergencia de la economía de la información. El objetivo de este texto es
-introducir las motivaciones políticas de Telekommunisten, incluyendo un
-croquis del marco teorético básico en el que se enraiza. A través de dos
-secciones interrelacionadas, 'El comunismo de pares contra el capitalismo
+introducir las motivaciones políticas de Telekommunisten, incluyendo un croquis
+del marco teorético básico en el que se enraiza. A través de dos secciones
+interrelacionadas, 'El comunismo de pares contra el capitalismo
 cliente-servidor' y 'Contribución a la Crítica de la Cultura Libre', el
 manifiesto cubre la economía política de las topologías de red y la producción
 cultural, respectivamente. 'El comunismo de pares...' se enfoca en la
@@ -269,14 +127,6 @@ red. Propone una nueva forma de organización como vehículo de la lucha de
 clases: el comunismo de riesgo. La sección termina con el famoso programa
 delineado por Marx y Engels en su Manifiesto Comunista, adaptado en un
 manifiesto por una sociedad en red.
-
-Building on the previous section, in ‘A Contribution to the Critique of Free
-Culture’, the Manifesto continues with the history and misperceptions of
-copyright, the free software movement, anticopyright/ copyleft dissent, and the
-political economy of free software and free culture. The challenge of extending
-the achievements of free software into free culture is addressed by connecting
-it to the traditional program of the socialist left, resulting in copyfarleft
-and offering the Peer Production License as a model.
 
 Construyendo sobre la sección previa, en 'Contribución a la Crítica de la
 Cultura Libre', el manifiesto continúa con la historia y las falsas
@@ -287,175 +137,134 @@ conectándolo con el programa tradicional del socialismo de izquierda,
 resultando en el copyfarleft (ultraizquierda de copia) y ofreciendo la Licencia
 de Producción de Pares como un modelo.
 
-This text is particularly addressed to politically motivated artists, hackers
-and activists, not to evangelize a fixed position, but to contribute to an
-ongoing critical dialogue.
-
 Este texto está particularmente orientado a artistas, hackers y activistas con
 motivaciones políticas, no para evangelizarlos a una posición fija, sino para
-contribuir a un diálogo crítico en proceso.
+contribuir a un continuo diálogo crítico.
+
 
 ## Peer-to-Peer Communism vs. The Client-Server Capitalist State 
 
 _Ya publicado_
 
+
 ## El manifiesto de la red telecomunista
 
-Forked from text extracted from Section 2 of The Manifesto of the Communist
-Party. Marx/Engels 1848.xxiv
-
-Derivado de la Sección 2 del Manifiesto del Partido Comunista. Marx y Engels,
+_Derivado de la Sección 2 del Manifiesto del Partido Comunista. Marx y Engels,
 1948. [^24]
 
-The first step in the revolution by the working class is to raise the
-proletariat to the position of ruling class to develop a network of enterprises
-where people produce for social value and share as equals, and to build and
-expand the economic size of these enterprises to raise the organized
-proletariat to the position of being the dominant economic class. Only when
-workers control their own production can we win the battle of democracy.
+Revisado utilizando el texto del Manifiesto Comunista en castellano. [^100]_
 
-El primer paso en la revolución de la clase trabajadora es elevar al
-proletariado a la posición de la clase dominante para desarrollar una red de
-empresas donde la gente produzca por el valor social y comparta como iguales, y
-construir y expandir el tamaño económico de estas empresas para elevar al
-proletariado organizado a la posición de la ser la clase económicamente
-dominante. Sólo cuando los trabajadores controlan su propia producción podremos
-ganar la batalla por la democracia.
+Ya dejamos dicho que el primer paso de la revolución obrera será <s>la
+exaltación del proletariado al Poder,</s> **el desarrollo de una red de
+empresas donde el pueblo produzca por el valor social mismo y lo comparta entre
+iguales y la construcción y expansión económica de estas para elevar al
+proletariado como la clase económicamente dominante. Sólo cuando los
+trabajadores controlen su propia producción será alcanzada** la conquista de la
+democracia .
 
-The proletariat will use its political supremacy expanding economic power to
-wrest, by degree, all capital from the bourgeoisie, to centralise decentralise
-all instruments of production in the hands of the State, i.e., of the
-proletariat organised as the ruling class; into a common stock directly in the
-hands of those whose production depends on it and to thereby increase the total
-productive forces as rapidly as possible.
+El proletariado se valdrá del Poder **Económico** para ir despojando
+paulatinamente a la burguesía de todo el capital, de todos los instrumentos de
+la producción, **de**centralizándolos <s>en manos del Estado, es decir, del
+proletariado organizado como clase gobernante,</s> **en un stock común
+controlado directamente por aquellos que lo utilizan para producir,** y
+procurando fomentar por todos los medios y con la mayor rapidez posible las
+energías productivas.
 
-El proletariado usará su supremacía política expandiendo su poder económico
-para combatir, al mismo nivel, a todo el capital de la burguesía, para
--centralizar- decentralizar todos los instrumentos de la producción en las
-manos del Estado, es decir, del proletariado organizado como la clase
-dominante; en un stock común directamente puesto en las manos de aquellos cuya
-producción depende de ello y de esta manera incrementar las fuerzas productivas
-totales de la forma más rápida posible.
+Claro está que, al principio, esto sólo podrá llevarse a cabo mediante una
+<s>acción despótica sobre</s> **reestructuración de nuestras empresas a** la
+propiedad y el régimen burgués de producción, por medio de medidas que, aunque
+de momento parezcan económicamente insuficientes e insostenibles, **contrarias
+a nuestros fines**, en el transcurso del movimiento serán un gran resorte
+propulsor y de las que no puede prescindiese como medio para transformar todo
+el régimen de producción vigente.
 
-Of course, in the beginning, this cannot be effected except by means of
-despotic inroads structuring our enterprises on the rights of property, and on
-the conditions of bourgeois production; by means of measures, therefore, which
-appear economically insufficient and untenable, and contrary to our ends, but
-which, in the course of the movement, outstrip themselves, necessitate further
-inroads upon the old social order, and are unavoidable as a means of entirely
-revolutionising the mode of production.
+Estas medidas no podrán ser las mismas, naturalmente, en <s>todos los
+países</s> **todas las comunidades**.
 
-Por supuesto, al principio, esto no puede realizarse excepto por medios
-despóticos 
+Para l**a**s más progresiv**a**s mencionaremos unas cuantas, susceptibles, sin
+duda, de ser aplicadas con carácter más o menos general, según los casos.
 
-These measures will, of course, be different in different countries
-communities.
+1. <s>Expropiación</s> **Mutualización** de la propiedad <s>inmueble</s>
+**sobre todos los medios de producción** y aplicación de la renta <s>del
+suelo</s> a los gastos <s>públicos</s> **mutuales**.
 
-Nevertheless, in most advanced countries communities, the following will be
-pretty generally applicable.
+2. <s>Fuerte impuesto progresivo.</s> **Establecimiento de un ingreso
+garantizado en la forma de dividendos pagados a cada miembro de la comunidad,
+igual en cantidad a la parte per cápita de toda la renta mutualmente
+recolectada.**
 
-1.	(Abolition) Mutualization of property in (land) all instruments of
-production and application of all rents (of land) to (public) mutual purposes.	
+3. <s>Abolición del derecho de herencia.</s> **Derecho a la membresía para
+todos aquellos que contribuyan con su labor, y sola compensación por esta
+contribución de labor, no por herencia, compra o transferencia de ningún
+tipo.**
 
-2.	(A heavy progressive or graduated income tax.) Establishment of a
-guaranteed income in the form of a dividend paid to each member of the
-community equal in amount to their per-capita share of all mutually collected
-rent.
+4. <s>Confiscación de la fortuna de los emigrados y rebeldes.</s> **Renuncia
+contractual de la propiedad privada sobre los activos productivos de todas las
+empresas de los miembros, y en su lugar, toma de posesión de sus necesidades
+productivas por alquiler al stock común.**
 
-3.	(Abolition of all rights of inheritance.) The right to membership of all
-who contribute their labor, and awarding of membership only by contribution of
-labor, not by inheritance, purchase or transfer of any kind.
+5. <s>Centralización del crédito en el Estado por medio de un Banco nacional con
+capital del Estado y régimen de monopolio.</s> **Establecimiento de un mercado
+mutual de bonos, donde los bonos son subastados con el propósito de construir
+el stock común de activos productivos.**
 
-4.	(Confiscation of the property of all emigrants and rebels.) A binding
-agreement with all member enterprises to forgo all private ownership of their
-own productive assets, and instead take possession of what they need by renting
-it from the mutual common stock.
+6. <s>Nacionalización de los transportes.</s> **Desarrollo de los medios
+necesarios para poner en manos de todos los miembros los medios de comunicación
+y transporte.**
 
-5.	(Centralisation of credit in the hands of the state, by means of a national
-bank with State capital and an exclusive monopoly.) Establishment of a mutual
-bond market, where bonds are sold at auction for the purpose of building the
-common stock of productive assets.
+7. <s>Multiplicación de las fábricas nacionales y de los medios de producción,
+roturación y mejora de terrenos con arreglo a un plan colectivo.</s>
+**Provisión general de oportunidades para adquirir y extender los instrumentos
+de producción disponibles con el mayor grado posible.**
 
-6.	(Centralisation of the means of communication and transport in the hands of
-the State.) Development of resources that put the means of communication and
-transport in the hands of all members.
+8. <s>Proclamación del deber general de trabajar; creación de ejércitos
+industriales, principalmente en el campo.</s> **Igualdad de oportunidad de
+participación y producción.**
 
-7.	(Extension of factories and instruments of production owned by the State;
-the bringing into cultivation of waste-lands, and the improvement of the soil
-generally in accordance with a common plan.) Provide to all enterprises the
-opportunity to acquire and extend the available instruments of production to
-the greatest degree possible.
+9. <s>Articulación de las explotaciones agrícolas e industriales; tendencia a ir
+borrando gradualmente las diferencias entre el campo y la ciudad.</s>
+**Abolición de cualquier distinción entre productor y consumidor y
+transformación de relaciones basadas en transacciones mercantiles a relaciones
+basadas en la distribución generalizada, donde la producción de valor social
+toma precedencia sobre la producción de mercancías.**
 
-8.	(Equal liability of all to work. Establishment of industrial armies,
-especially for agriculture.) Equal opportunity of all to participate and
-produce.
+10. <s>Educación pública y gratuita de todos los niños. Prohibición del trabajo
+infantil en las fábricas bajo su forma actual.  Régimen combinado de la
+educación con la producción material, etc.</s> **Establecimiento de redes de
+compartición de conocimiento y capacidades y sistemas de apoyo para todos los
+miembros, y provisión de oportunidades para el desarrollo de habilidades de
+contribución y producción.**
 
-9.	(Combination of agriculture with manufacturing industries; gradual
-abolition of all the distinction between town and country by a more equable
-distribution of the populace over the country.) Abolition of all the
-distinction between producers and consumers and the transformation of relations
-from market based transactions to generalized distribution, where production of
-social value takes precedent over the production of goods for sale.
+Tan pronto como, en el transcurso del tiempo, hayan desaparecido las
+diferencias de clase y toda la producción esté <s>concentrada</s>
+**distribuida** en manos de la sociedad, el Estado perderá todo carácter
+político. El Poder político no es, en rigor, más que el poder organizado de una
+clase para la opresión de la otra. El proletariado se ve forzado a organizarse
+como clase para luchar contra la burguesía; la <s>revolución</s>
+**auto-organización** le lleva al Poder; mas tan pronto como desde él, como
+clase gobernante, derribe por la fuerza el régimen vigente de producción, con
+éste hará desaparecer las condiciones que determinan el antagonismo de clases,
+las clases mismas, y, por tanto, su propia soberanía como tal clase.
 
-10.	(Free education for all children in public schools. Abolition of children’s
-factory labor in its present form. Combination of education with industrial
-production, &amp;c, &amp;c.) Establish knowledge and skill sharing networks and
-systems of support for all members, and provide opportunities to develop skills
-by contribution to production.
-
-When, in the course of development, class distinctions have disappeared, and
-all production has been (concentrated) distributed in the hands of (a) vast
-associations (of) spanning the whole (nation) world, the public power will lose
-its political character. Political power, properly so called, is merely the
-organised power of one class for oppressing another. If the proletariat during
-its contest with the bourgeoisie is compelled, by the force of circumstances,
-to organise itself as a class, if, by means of (a revolution) self
-organisation, it makes itself the ruling class, and, as such, sweeps away by
-force the old conditions of production, then it will, along with these
-conditions, have swept away the conditions for the existence of class
-antagonisms and of classes generally, and will thereby have abolished its own
-supremacy as a class.
-
-In place of the old bourgeois society, with its classes and class antagonisms,
-we shall have an association, in which the free development of each is the
-condition for the free development of all.
+Y a la vieja sociedad burguesa, con sus clases y sus antagonismos de clase,
+sustituirá una asociación en que el libre desarrollo de cada uno condicione el
+libre desarrollo de todos.
 
 
 ## Contribución a la Crítica de la Cultura Libre
-
-‘We are in the midst of a revolution in the way that knowledge and culture are
-created, accessed and transformed’, states the ‘Charter for Innovation,
-Creativity and Access to Knowledge’, something of a manifesto for the free
-culture movement.xxv This revolution is against a system of copyright that
-developed along with capitalism and has the exploitation of creators as its
-basis. It is in the context of the great disparity of wealth and the struggle
-between classes that any investigation of cultural production must be
-understood. 
 
 'Estamos en medio de una revolución de las formas en que el conocimiento y la
 cultura son creados, accedidos y transformados', establece la 'Carta por la
 Innovación, la Creatividad y el Acceso al Conocimiento', algo así como un
 manifiesto del movimiento de la cultura libre.[^25] Esta revolución se opone a
-un sistema de copyright que se desarrolló junto con el capitalismo y tiene a la
-explotación de los creadores como su base. Es en el contexto de la gran
-disparidad de riqueza y la lucha entre clases que cualquier investigación sobre
-la producción cultural debe ser entendida.
-
-Creating the conditions for the expropriation of creators has always been at
-the root of copyright. This has been a subject of critique and dissent among
-artists and authors as long as the notion of exclusive rights to ideas have
-been around. This includes many who embrace complete opposition to copyright in
-the form of anticopyright. The advent of digital culture and the popularity of
-file sharing has brought certain forms of such dissent into the mainstream,
-though often without the context of class struggle, and burdened by the common
-misconception that copyright was at one time created in order to protect
-cultural producers. This has led to projects like the Creative Commons, which
-professes to promote the creation of a common culture, but actually limits
-itself to promoting a more flexible model of private ownership. 
+un sistema de copyright que se desarrolló junto con el capitalismo y tiene como
+base a la explotación de los creadores. Es en el contexto de la gran disparidad
+de riqueza y la lucha entre clases que cualquier investigación sobre la
+producción cultural debe ser entendida.
 
 Crear las condiciones para la expropiación a los creadores siempre ha sido la
 raíz del copyright. Esto ha sido el sujeto de crítica y disenso entre artistas
-y autores desde que la noción de derechos exclusivos sobre las ideas existe.
+y autores desde que existe la noción de derechos exclusivos sobre las ideas.
 Esto incluye a muchos que adhieren a una oposición completa al copyright en la
 forma del anticopyright. El advenimiento de la cultura digital y la popularidad
 de la compartición de archivos han traído ciertas formas de tal disenso al
@@ -463,140 +272,72 @@ mainstream, aunque muchas veces sin el contexto de la lucha de clases y
 cargados por la falsa concepción común de que el copyright fue creado para
 proteger a los productores culturales. Esta falsa concepción se encuentra en
 proyectos como Creative Commons, que profesa promover la creación de una
-cultura común, pero de hecho se autolimita en un modelo más flexibles de
+cultura común, pero de hecho se autolimita en un modelo más flexible de
 propiedad privada.
-
-As software production joined cultural production in the sphere of creating
-reproducible digital material, new forms of dissent and organization have
-emerged from the community of free software creators. The free software
-movement, and in particular its tremendous commercial success, produced methods
-and tools that have proven to be of great value to the free culture movement.
-Yet the free software movement has also created misconceptions, as the
-economics of goods intended for use by producers, such as software, are
-different than consumer goods, such as books, movies and music. In order to
-apply the powerful model of copyleft licenses, a form of licensing which
-guarantees the freedom of derivatives of such work, the differing economics of
-software and culture must be taken into account and made to be compatible with
-the emancipation of the working class broadly. Free culture cannot be
-sustainable in an unfree society that requires consumer goods to capture
-profits. Free culture can only be realized within the context of a free
-society. 
 
 Al unirse la producción de software con la producción cultural en la esfera de
 la creación de material digital reproducible, nuevas formas de disenso y
 organización emergen de las comunidades de creadores de software libre. El
 movimiento del Software Libre, y en particular su tremendo éxito comercial,
-produjo métodos y herramientas que han probado de gran valor para el movimiento
-de la cultura libre. Aunque el movimiento del Software Libre ha creado algunas
-falsas concepciones, ya que los bienes económicos orientados al uso de los
-productores, como el software, son diferentes de los bienes para consumo, como
-los libros, películas y música. En orden a aplicar el poderoso modelo de las
-licencias copyleft, una forma de licenciamiento que garantiza la libertad de
-los derivados de tal obra, las diferentes economías del software y la cultura
-deben tomarse en consideración y hacerse compatibles con la emancipación de la
-clase trabajadora en su conjunto. La cultura libre no puede sostenerse en una
-sociedad no libre, que necesita de los bienes de consumo para capturar
-ganancias. La cultura libre sólo puede realizarse en el contexto de una
-sociedad libre.
-
-While copyleft is very effective in creating a commons of software, to achieve
-a commons of cultural works requires copyfarleft, a form of free licensing that
-denies free access to organizations that hold their own assets outside the
-commons.
+produjo métodos y herramientas que han probado ser de gran valor para el
+movimiento de la cultura libre. Aunque también el movimiento del Software Libre
+ha creado algunas falsas concepciones, ya que los bienes económicos orientados
+al uso de los productores, como el software, son diferentes de los bienes para
+consumo, como los libros, películas y música. En orden a aplicar el poderoso
+modelo de las licencias copyleft, una forma de licenciamiento que garantiza la
+libertad de los derivados de las obras, las diferentes economías del software y
+la cultura deben tomarse en consideración y hacerse compatibles con la
+emancipación de la clase trabajadora en su conjunto. La cultura libre no puede
+sostenerse en una sociedad no libre, que necesita de los bienes de consumo para
+capturar ganancias. La cultura libre sólo puede realizarse en el contexto de
+una sociedad libre.
 
 Mientras que el copyleft es muy efectivo en la creación de un dominio común de
-software, alcanzar un dominio común de las obras culturales requiere un
-copyfarleft, una forma de licenciamiento libre que deniega el acceso libre a
+software, alcanzar un dominio común de las obras culturales requiere del
+copyfarleft, una forma de licenciamiento libre que niega el acceso libre a
 las organizaciones que mantienen sus propios activos por fuera del dominio
 común.
 
+
 ## El copyright es un sistema de censura y explotación
 
-The existence of ‘copy rights’ predates 18th century notions of the author’s
-right to ownership.xxvi From the 16th to the 17th century royal licenses gave
-exclusive rights to certain publishers to print particular texts. In 1557, an
-exclusive printing monopoly was granted through a Royal Charter to a London
-guild of printers, the Stationers’ Company, because it assured Crown control
-over which books were published or banned. The first copyrights were
-publisher’s rights to print copies, emerging out of the ideological needs of
-absolutist monarchies to control knowledge and censor dissent.
-
 La existencia de los 'derechos de copia' predan las nociones dieciochescas del
-derecho del autor a la propiedad. [^26] Desde el siglo XVI al XVII las
-licencias reales dieron derechos exclusivos a ciertos editores para
-imprimir textos particulares. En 1557, un monopolio exclusivo sobre la
-imprensión fue dado a través del _Royal Charter_ al gremio londinense de los
-imprenteros, a la _Stationers' Company_, porque aseguraba el control de la
-Corona sobre los libros que se publicaban o se censuraban. Los primeros
-copyrights fueron los derechos de los editores a imprimir copias,
-emergiendo de las necesidades ideológicas de las monarquías absolutistas de
-controlar el conocimiento y censurar el disenso.
+derecho del autor a la propiedad.[^26] Desde el siglo XVI al XVII las licencias
+reales otorgaron derechos exclusivos a ciertos editores para la impresión de
+textos particulares. En 1557, un monopolio exclusivo sobre la impresión fue
+dado a través del _Royal Charter_ al gremio londinense de los imprenteros, la
+_Stationers' Company_, porque aseguraba el control de la Corona sobre los
+libros que se publicaban o se censuraban. Los primeros derechos de copia fueron
+los derechos de los editores a imprimir copias, emergiendo de las necesidades
+ideológicas de las monarquías absolutistas de controlar el conocimiento y
+censurar el disenso.
 
-After the Licensing Act expired in 1694, the monopoly of the Stationers’
-Company was threatened by provincial booksellers, the so-called ‘pirates’ from
-Ireland and Scotland. The Stationers’ Company petitioned Parliament for a new
-bill to extend their copyright monopoly. But this was a different England from
-1557, different from the Parliament that had executed King Charles I in 1649,
-abolished the monarchy and installed a republic under Cromwell, restored the
-monarchy with Charles II, overthrew James II in the Revolution of 1688, and, in
-1689, passed the first decree of modern constitutional sovereignty, the Bill of
-Rights. This was now John Locke’s England. 
-
-Después de que el Acta de Licenciamiento haya expirado en 1694, el monopolio de
-la Stationers' Company se vio amenazado por los libreros provinciales, los
+Después de que el Acta de Licenciamiento hubiera expirado en 1694, el monopolio
+de la Stationers' Company se vio amenazado por los libreros provinciales, los
 llamados 'piratas' de Irlanda y Escocia. La Stationers' Company pidió al
 Parlamento una nueva acta para extender su monopolio sobre el copyright. Pero
-esta era una Inglaterra diferente de la de 1557, diferente del Parlamento que
+esta era una Inglaterra diferente a la de 1557, diferente del Parlamento que
 había ejecutado al rey Charles I en 1649, que abolió la monarquía y instaló una
-república bajo Cromwell, restableció la monarquía con Charles II, destronó a
-James II en la Revolución de 1688 y, en 1689, pasó el primer decreto para una
+república bajo Cromwell, que restableció la monarquía con Charles II, destronó
+a James II en la Revolución de 1688 y, en 1689, pasó el primer decreto para una
 soberanía constitucional moderna, la Carta de Derechos. Esta era la Inglaterra
 de John Locke.
 
-The philosopher John Locke was among the chief architects of the liberal state
-and the ideology of private property. To Locke, property was an extension of
-one’s ownership of oneself. Since you own yourself, you therefore own what you
-produce. The right to property is created by labor. The English Parliament now
-took a view consistent with this outlook, and The Statute of Anne, enacted in
-1709 by Parliament, proved to be a hard blow against the Stationers’ Company.
-The Statute declared authors, not publishers, to be owners of their works and
-limited the copyright term to 14 years for new books and 21 years for existing
-copyrights. The Statute, which was subtitled ‘An Act for the Encouragement of
-Learning, by Vesting the Copies of Printed Books in the Authors or Purchasers
-of such Copies, During the Times Therein Mentioned’, created a marketplace for
-knowledge through competition. The Statute’s aim was not to create an author’s
-copyright, but to break the Stationers’ Company’s monopoly.
-
-El filósofo John Locke se contaba entre los arquitectos maestros del estado
-liberal y la ideología de la propiedad privada. Para Locke, la propiedad era
-una extensión de la propiedad sobre uno mismo. Al ser dueño de uno mismo, uno
-es dueño de lo que produce. El derecho a la propiedad es creado por el trabajo.
+El filósofo John Locke se contaba entre los arquitectos maestros del Estado
+liberal y la ideología de la propiedad privada. Para Locke, la propiedad era la
+extensión de la propiedad sobre uno mismo. Al ser dueño de uno mismo, uno es
+dueño de lo que produce. El derecho a la propiedad es creado por el trabajo.
 El Parlamento inglés tomó una posición consistente con esto y el Estatuto de
-Ana, promulgado por el Parlamento en 1709, se probó como un duro embate a la
-Stationers' Company. El Estatuto declaraba que los autores, no los
-editores, eran los dueños de sus obras y limitaban el término del
-copyright a catorce años para los libros nuevos y veintiuno para los
-copyright existentes. El Estatuto, subtitulado 'Un Acta para la Promoción del
-Aprendizaje, a través de la Asignación de Copias de Libros Impresos a los
-Autores o los Compradores de tales Copias, Durante el Tiempo Debajo
-Mencionado', creó un mercado para el conocimiento a través de la competencia.
-El objetivo del Estatuto no era crear un copyright para el autor, sino quebrar
-el monopolio de la Stationers' Company.
-
-The principal players, in what the press hailed as the great cause of literary
-property, were not authors. Publishers sued each other in the courts, invoking
-the author’s rights as a pretext in their battle for economic power. The notion
-of the author as an originator, with a natural right to own their ideas, may
-have been invented by artists and philosophers, but it was publishers who
-profited. Laws are not made by poets but by states, and states exist to enforce
-economic privilege, adopting whatever legitimizing philosophical framework they
-find convenient at any given time. The Statute of Anne codified the capitalist
-form of the author-publisher relationship. Authors had a right to own the
-products of their labor in theory, but since they created immaterial ideas and
-lacked the technological means to produce books, they had to sell their rights
-to another party with enough capital to exploit them. In essence, it was no
-different than any other sale of labor. The exploitation of the author was
-embedded in the intellectual property regime from its inception.
+Ana, promulgado por el Parlamento en 1709, fue un duro embate para la
+Stationers' Company. El Estatuto declaraba que los autores, no los editores,
+eran los dueños de sus obras y limitaban el término del copyright a catorce
+años para los libros nuevos y veintiuno para los copyright existentes. El
+Estatuto, subtitulado 'Un Acta para la Promoción del Aprendizaje, a través de
+la Asignación de Copias de Libros Impresos a los Autores o los Compradores de
+tales Copias, Durante el Tiempo Debajo Mencionado', creó un mercado para el
+conocimiento a través de la competencia. El objetivo del Estatuto no era crear
+un copyright para el autor, sino quebrar el monopolio de la Stationers'
+Company.
 
 Los jugadores principales, en lo que la prensa saludó como la gran causa de la
 propiedad literaria, no eran los autores. Los editores se demandaron
@@ -609,131 +350,65 @@ privilegio económico, adoptando cualquier marco filosófico legitimador que
 encuentren conveniente. El Estatuto de Ana codificó la forma capitalista de la
 relación autor-editor. Los autores tenían derecho a poseer el producto
 de su trabajo en teoría, pero ya que lo que creaban eran ideas inmateriales y
-carecían de medios tecnológicos para producir libros, tenían que vender sus
+carecían de los medios tecnológicos para producir libros, debían vender sus
 derechos a terceros con el capital suficiente para explotarlos. En esencia, no
 era diferente de ninguna otra forma de trabajo. La explotación del autor está
 imbuida en el régimen de propiedad intelectual desde su concepción.
-
-There are important differences between intellectual property and physical
-property. Physical property is scarce and finite, while intellectual property
-can be copied, often costs almost nothing to reproduce, and can be used
-simultaneously by anyone with a copy. It is exactly this characteristic of
-unlimited reproducibility that requires the copyright regime to make
-information into property. In the long term, the exchange value of any
-reproducible good is driven towards its reproduction cost by competition. Since
-there are few barriers to reproducing an information asset, it can have no
-exchange value beyond the labor and resources required to reproduce it. In
-other words, information has no long-term exchange value of its own. Thus,
-owners of this property (again, not to be confused with the producers) need
-laws to prevent this reproduction. 
 
 Existen importantes diferencias entre las propiedades intelectual y física. La
 propiedad física es escasa y finita, mientras que la propiedad intelectual
 puede ser copiada, a menudo cuesta casi nada para reproducirla y puede ser
 usada simultáneamente por cualquiera que posea una copia. Es exactamente esta
-característica de reproducibilidad ilimitada la que requiere el régimen del
-copyright para convertir la información en propiedad. En el largo plazo, el
-valor de cambio de cualquier bien reproducible es llevado al costo de
-reproducción por competencia. En otras palabras, la información no tiene un
-valor de cambio por sí misma. Entonces, los dueños de esta propiedad (de nuevo,
-no confundirlos con los productores) necesitan leyes que prevengan su
-reproducción.
+característica de reproducibilidad ilimitada la que requiere que el régimen del
+copyright convierta la información en propiedad. En el largo plazo, el valor de
+cambio de cualquier bien reproducible es llevado al costo de reproducción por
+competencia. En otras palabras, la información no tiene un valor de cambio por
+sí misma. Entonces, los propietarios (de nuevo, no confundirlos con los
+productores) necesitan leyes que prevengan su reproducción.
 
-Only by making it illegal for others to reproduce the information can owners
-extract rent for the right to copy. Intellectual property, including copyright,
-is an extension of the structure of property to immaterial assets and
-information. Copyright is a legal construction that tries to make certain kinds
-of immaterial wealth behave like material wealth so that they can be owned,
-controlled, and traded.
+Sólo al volver ilegal la reproducción de la información por terceros los
+propietarios pueden extraer renta por el derecho a copiarla. La propiedad
+intelectual, incluyendo al copyright, es una extensión de la estructura de la
+propiedad a los activos inmateriales y a la información. El copyright es la
+construcción legal que intenta hacer que ciertos tipos de riqueza inmaterial se
+comporten como la riqueza material para que puedan ser apropiadas, controladas
+y comerciadas.
 
-Sólo al volver ilegal la reproducción de la información por terceros los dueños
-pueden extraer renta por el derecho a copiarla. La propiedad intelectuales,
-incluyendo al copyright, es una extensión de la estructura de la propiedad a
-los activos inmateriales y la información. El copyright es la construcción
-legal que intenta hacer que ciertos tipos de riqueza inmaterial se comporten
-como la riqueza material para que pueden ser apropiadas, controladas y
-comerciadas.
-
-In any system of property, musicians can no more retain ownership of the
-product of their labor than can workers at a textile sweatshop. The system of
-private control of the means of publication, distribution, promotion and media
-production ensures that artists and all other creative workers can earn no more
-than their subsistence. Whether you are a biochemist, a musician, a software
-engineer, or a filmmaker, you have signed over all your copyrights to property
-owners before these rights have any real financial value, for no more than the
-reproduction costs of your work.
-
-En cualquier sistema de propiedad, los músicos no pueden retener la propiedad
-sobre el producto de su trabajo al igual que los trabajadores de cualquier
-fábrica textil. El sistema del control privado de los medios de
-publicación, distribución, promoción y producción de medios asegura que los
+En cualquier sistema de propiedad, los músicos son incapaces de retener la
+propiedad sobre el producto de su trabajo al igual que los trabajadores de
+cualquier fábrica textil. El sistema del control privado de los medios de
+publicación, distribución, promoción y producción mediática asegura que los
 artistas y todos los demás trabajadores creativos no puedan ganar más que lo
-necesaria para su subsistencia. Seas un bioquímico, un músico, un ingeniero de
+necesario para su subsistencia. Seas un bioquímico, un músico, un ingeniero de
 software o un cineasta, has cedido todos tus copyright en un contrato a los
-dueños de la propiedad antes de que esos derechos posean algún valor financiero
-real, por no más del costo de reproducción de tu trabajo.
-
-Pierre-Joseph Proudhon, nineteenth century French socialist and the first
-person to call himself an ‘anarchist’, famously argued that property is theft.
-According to this logic, if property is theft, than intellectual property is
-fraud. Property is theft not in a strictly legal sense, since the laws of the
-liberal capitalist state are the foundations of property. Property is theft in
-the philosophical sense, as in the Lockean concept of property as an extension
-of self-ownership, meaning that it is intrinsically unjust to take what you
-Bhave not produced. Proudhon, like Thompson and Hodgskin before him, argues that
-the owner of property has no legitimate claim to the product of those who put
-their property to productive use.xxvii Without recourse to force, property
-owners could not extract any more than the reproduction costs of the
-instruments they contribute to the productive process. A capitalist class,
-then, could not exist without denying workers independent access to the means
-of production. 
+propietarios antes de que esos derechos posean algún valor financiero real, por
+no más del costo de reproducción de tu trabajo.
 
 Pierre-Joseph Proudhon, socialista francés decimonónico y la primera persona en
-llamar un 'anarquista', argumentó que la propiedad es el robo. De acuerdo con
+llamarse 'anarquista', argumentó que la propiedad es el robo. De acuerdo con
 esta lógica, si la propiedad es el robo, entonces la propiedad intelectual es
 el fraude. La propiedad no es el robo en el sentido estrictamente legal, ya que
-las leyes del estado capitalista liberal son el fundamento de la propiedad. La
+las leyes del Estado capitalista liberal son el fundamento de la Propiedad. La
 propiedad es el robo en el sentido filosófico, porque es intrínsecamente
 injusto tomar lo que no has producido. Proudhon, como Thompson y Hodsgkin antes
-de él, argumenta que el dueño de la propiedad no puede reclamar legítimamente
-el producto de aquellos que ponen su propiedad a producir.[^27] Sin el recurso
-de la fuerza, los propietarios no pueden extraer más que los costos de
-reproducción de los instrumentos que contribuyen al proceso productivo. Una
-clase capitalista entonces no puede existir sin negar a los trabajadores el
-acceso independiente a los medios de producción.
+de él, argumenta que el propietario no puede reclamar legítimamente el producto
+de aquellos que ponen su propiedad a producir.[^27] Sin el recurso de la
+fuerza, los propietarios no pueden extraer más que los costos de reproducción
+de los instrumentos que contribuyen al proceso productivo. Una clase
+capitalista entonces no puede existir sin negar a los trabajadores el acceso
+independiente a los medios de producción.
 
-In the words of American Individualist Anarchist Benjamin Tucker, ‘the lender
-of capital is entitled to its return intact, and nothing more’.xxviii Since
-common lands were previously not property, when the peasants of the
-pre-industrial age were denied access to common land by new enclosures, it can
-be said that their land was stolen. Furthermore, because they were forced into
-wage labor as a result of this expropriation, the institution of property
-itself is an institution of theft.
-
-En palabras del anarcoindividualista estadounidense Benjamin Tucker, 'el
-prestamista de capital tiene asegurado su retorno intacto, y nada más'.[^28] Ya
-que las tierras comunes no se consideraban propiedad, cuando a los campesinos de
-la era pre-industrial se les negó el acceso por los nuevos cercamientos, puede
-decirse que su tierra fue robada. Aún más, cuando fueron forzados al trabajo
+En palabras del anarcoindividualista estadounidense Benjamin Tucker, 'el que
+presta capital tiene asegurado su retorno intacto, y nada más'.[^28] Ya que las
+tierras comunes no se consideraban propiedad, cuando a los campesinos de la era
+pre-industrial se les negó el acceso por medio de cercamientos, puede decirse
+que su tierra fue robada. Aún más, cuando fueron forzados hacia el trabajo
 asalariado como resultado de esta expropiación, la institución de la propiedad
-misma es la institución del robo.
-
-But if physical property can be stolen, can intelligence or ideas be stolen? If
-your land is stolen, you cannot use it anymore, except on the conditions set by
-its new private owner. If ownership of an idea is analogous to the ownership of
-material property, it should be subject to the same conditions of economic
-exchange, forfeiture, and seizure. And if seized, it would then cease to be the
-property of its owner. But if your idea is used by others, you have not lost
-your ability to use it, so what is really stolen? The traditional notion of
-property, as something that can be possessed to the exclusion of others, is
-irreconcilable with something as intangible as an idea. Unlike a material
-object, which can exist in only one place at a given time, ideas are infinite
-and non-exclusive. A poem is no less a poet’s poem, despite its existence in
-the memories of a thousand others.
+misma se convirtió en la institución del robo.
 
 Pero si la propiedad física puede ser robada, ¿pueden robarse la inteligencia o
 las ideas? Si tu tierra es robada, ya no podés usarla, a excepción de las
-condiciones que ponga el nuevo propietario. Si la propiedad de una idea es
+condiciones que imponga el nuevo propietario. Si la propiedad de una idea es
 análoga a la propiedad material, debe estar sujeta a las mismas condiciones del
 intercambio económico, decomisación y embargación. Y si es embargado, entonces
 deja de ser la propiedad de su dueño. Pero si tu idea es usada por otros, no
@@ -742,52 +417,26 @@ realidad? La noción tradicional de la propiedad, como algo que puede ser
 poseído excluyendo a otros es irreconciliable con algo tan intangible como una
 idea. Al contrario de un objeto material, que puede existir en un único lugar
 en un tiempo determinado, las ideas son infinitas y no excluyentes. Un poema no
-es el poema de un poeta, a pesar de su existencia en la memoria de otros miles.
+es el poema de un poeta, existe en la memoria de otros miles.
 
-Every expression is an extension of a previous perception. Ideas are not
-original, they are built upon layers of knowledge accumulated throughout
-history. Out of these common layers artists create works that have their
-unmistakable specificities and innovations. All creative works reassemble
-ideas, words, and images from history and their contemporary context. Before
-the 18th century, poets quoted their ancestors and sources of inspiration
-without formal acknowledgement, and playwrights freely borrowed plots and
-dialogue from previous sources without attribution. Homer based the ‘Iliad’ and
-the ‘Odyssey’ on oral traditions that dated back centuries. Virgil’s ‘Aeneid’
-is lifted heavily from Homer. Shakespeare borrowed many of his narrative plots
-and dialogue from Holinshed. 
-
-Toda expresión es una extensión de una percepción previa. Las ideas no son
+Toda expresión es extensión de una percepción previa. Las ideas no son
 originales, se construyen sobre capas de conocimiento acumulado a través de la
 historia. De estas capas comunes los artistas crean obras que incluyen sus
 propias especificidades e innovaciones. Todas las obras creativas asemejan
 ideas, palabras e imágenes de la historia y de su contexto contemporáneo. Antes
 del siglo XVIII, los poetas citaban a sus ancestros y fuentes de inspiración
 sin reconocimiento formal y los guionistas tomaban libremente los argumentos y
-diálogos de fuentes anteriores sin atribución. Homero basó la 'Ilíada' y la
+diálogos de fuentes anteriores, sin atribución. Homero basó la 'Ilíada' y la
 'Odisea' en tradiciones orales con siglos de antigüedad. La 'Eneida' de
 Virgilio está basada fuertemente en Homero. Shakespeare tomó muchos de sus
 argumentos narrativos y diálogos de Holinshed.
 
-This is not to say that the concept of plagiarism didn’t exist before the 18th
-century, but its definition shifted radically. The term plagiarist (literally,
-kidnapper) was first used by Martial in the 1st century to describe someone who
-kidnapped his poems by copying them whole and circulating them under the
-copier’s name. Plagiarism was a false assumption of another’s work. But if a
-new work had similar passages or identical expressions to earlier ones, it was
-not considered such a false assumption, as long as the new work had its own
-aesthetic merits. After the invention of the creative genius, practices of
-collaboration, appropriation and transmission were actively forgotten. The
-accusations of plagiarism directed at Coleridge, Stendhall, Wilde and T.S.
-Eliot for including expressions from their predecessors in their works
-reflected a modern redefinition of the term in accordance with modern notions
-of authorship and exclusive property.
-
 Esto no quiere decir que el concepto de plagio no existiera antes del siglo
 XVIII, pero su definición cambió radicalmente. El término plagio (literalmente,
 secuestrador) fue usado por Marcial en el siglo I para describir alguien que
-secuestraba sus poemas copiándolos completos y haciéndolos circular bajo el
-nombre del copista. El plagio es la falsa asunción de la obra de otro. Pero si
-una obra nueva contenía pasajes similares o expresiones idénticas a otras más
+secuestraba sus poemas copiándolos completos y haciéndolos circular bajo su
+propio nombre. El plagio es la falsa asunción de la obra de otro. Pero si una
+obra nueva contenía pasajes similares o expresiones idénticas a otras más
 tempranas, no se consideraba tal asunción, mientras que la nueva obra poseyera
 sus propios méritos estéticos. Luego de la invención del genio creativo, las
 prácticas de colaboración, apropiación y transmisión fueron olvidadas
@@ -796,41 +445,17 @@ T. S. Eliott por incluir expresiones de sus predecesores en sus obras
 reflejaban la redefinición moderna del término siguiendo a las nociones
 modernas de autoría y propiedad exclusiva.
 
-Ideas are viral. They couple with other ideas, change shape, and migrate into
-unfamiliar territories. Regimes of intellectual property restrict the
-promiscuity of ideas and trap them in artificial enclosures, extracting
-exclusive benefits from their ownership and control.  Intellectual property is
-fraud, a legal privilege to falsely represent oneself as the sole ‘owner’ of an
-idea, expression or technique and to charge a tax to all who want to perceive,
-express or apply this ‘property’ in their own productive practice. It is not
-plagiarism that dispossesses an ‘owner’ of using an idea, it is intellectual
-property, backed by the invasive violence of a state that dispossesses everyone
-from the use of their common culture. 
-
-Las ideas son víricas. Se acoplan a otras ideas, cambian de forma y migran
+Las ideas son virales. Se acoplan a otras ideas, cambian de forma y migran
 hacia territorios desconocidos. Los regimenes de propiedad intelectual
 restringen la promiscuidad de las ideas y las atrapan en cercamientos
 artificiales, extrayendo beneficios exclusivos a través de su propiedad y
 control. La propiedad intelectual es el fraude, un privilegio legal para
 representarse falsamente como el único 'propietario' de una idea, expresión o
-técnica y de cobrar impuestos a todos aquellos que perciban, expresen o
+técnica y de cobrar tarifa a todos aquellos que perciban, expresen o
 apliquen esta 'propiedad' en sus propias prácticas productivas. No es el plagio
 el que desposee a un 'propietario' de una idea, es la propiedad intelectual,
 apoyada por la invasiva violencia de un Estado que desposee a todos del uso de
 la cultura común.
-
-The basis for this dispossession is the legal fiction of the author as a
-sovereign individual who creates original works out of the wellspring of his
-imagination and thus has a natural and exclusive right to ownership. Foucault
-unmasked authorship as a functional principle that impedes the free
-circulation, manipulation, composition, decomposition, and re-composition of
-knowledge.xxix The author-function represents a form of despotism over the
-proliferation of ideas. The effect of this despotism, and of the system of
-intellectual property that it shelters and preserves, is that it robs us of our
-cultural memory, censors our words, and chains our imagination to the law. And
-yet artists continue to be flattered by their association with the myth of the
-creative genius, turning a blind eye to how it is used to justify their
-exploitation and expand the privilege of the property-owning elite. 
 
 La base de esta desposesión es la ficción legal de que el autor es el
 soberano individual que crea obras originales del manantial de su
@@ -845,17 +470,6 @@ Aún así los artistas continúan halagándose con la asociación al mito del ge
 creativo, haciendo ojos ciegos al modo en que es utilizado para justificar su
 explotación y expandir el privilegio de la elite propietaria.
 
-Copyright pits author against author in a war of competition for originality.
-Its effects are not just economic; copyright also naturalizes a certain process
-of knowledge production, de-legitimizes the notion of a common culture, and
-cripples social relations. Artists are not encouraged to share their thoughts,
-expressions and works, or to contribute to a common pool of creativity.
-Instead, they are compelled to jealously guard their ‘property’ from others who
-they view as potential competitors, spies and thieves lying in wait to snatch
-and defile their original ideas. This is a vision of the art world created in
-capitalism’s own image, a capitalism that seeks to appropriate the alienated
-products of its intellectual and creative workers.
-
 El copyright pone a un autor contra otro en una guerra de competencia por la
 originalidad. Sus efectos no son sólo económicos; el copyright también
 naturaliza un cierto proceso de producción de conocimiento, deslegitimiza la
@@ -868,36 +482,15 @@ ideas. Esta es una visión sobre el mundo del arte creada a imagen del
 capitalismo, un capitalismo que busca apropiarse del producto alienado de sus
 trabajadores intelectuales y creativos.
 
-Joost Smiers, Professor Emeritus of Political Science of the Arts at the
-Utrecht School of the Arts, is among those who insist on the abolition of
-copyright. He argues that copyright centralizes media ownership by giving large
-media conglomerates an anti-competitive advantage that damages the position of
-artists. Artists would gain more from a level playing field consisting of a
-larger number of publishers competing for their services, than from the
-exclusivity of copyright.xxx Professor Smiers has a valid point regarding the
-market inefficiency of copyright. Copyright should be abolished. However, there
-is no reason to believe it will be abolished. 
-
 Joost Smiers, Profesor Emérito en Ciencia Política de las Artes en la Escuela
 de Artes Utrecht, se cuenta entre aquellos que insisten en la abolición del
 copyright. Argumenta que el copyright centraliza la propiedad de los medios al
-entregarle a los grandes conglomerados de medios una ventaja anticompetitiva
+entregarle a los grandes conglomerados mediáticos una ventaja anticompetitiva
 que daña la posición de los artistas. Los artistas ganan más en un campo de
-juego consistente de un gran número de editores compitiendo por sus
-servicios, que de la exclusividad del copyright.[^30] El profesor Smiers tiene
-un punto válido en la ineficiencia de mercado del copyright. El copyright
-debería ser abolido. No obstante, no hay razón para creer que lo será.
-
-Copyright is far from the only market inefficiency in the contemporary
-capitalist market. Without market inefficiencies, capital would be unable to
-capture any more than its own reproduction cost in any branch of industry. The
-elimination of competition is central to the logic of capitalism. Without
-unfair advantages, a capitalist class of owners could not accumulate wealth and
-there could be no capitalism. Smiers is correct in his criticism of copyright,
-he is also correct when he goes further and denounces copyright as a form of
-censorship. However as with all political ideas, the abolition of copyright can
-only be implemented when those who support it can overcome the wealth of those
-who oppose it. This is not currently the case.
+juego consistente de un gran número de editores compitiendo por sus servicios,
+que de la exclusividad del copyright.[^30] El profesor Smiers tiene un punto
+válido en la ineficiencia de mercado del copyright. El copyright debería ser
+abolido. No obstante, no hay razón para creer que lo será.
 
 El copyright está lejos de ser la única ineficiencia del mercado en el mercado
 capitalista contemporáneo. Sin las ineficiencias del mercado, el capital no
@@ -911,14 +504,6 @@ idea política, la abolición del copyright sólo puede implementarse cuando
 aquellos que la soportan superan en riqueza a aquellos que la oponen. Este no
 es el caso.
 
-The private ownership of ideas over the last two centuries has not managed to
-eradicate the memory of a common culture, or the recognition that knowledge
-flourishes when ideas, words, sounds and images are free for everyone to use.
-Ever since the birth of the proprietary author, different individuals and
-groups have challenged the intellectual property regime and the ‘right’ it gave
-to some private individuals to ‘own’ creative works while preventing others
-from using and re-interpreting them. 
-
 La propiedad privada de las ideas durante los últimos dos siglos no ha logrado
 erradicar la memoria de una cultura común o el reconocimiento de que el
 conocimiento florece cuando las ideas, palabras, sonidos e imágenes son libres
@@ -927,27 +512,7 @@ diferentes individuos y grupos han desafiado el régimen de propiedad
 intelectual y el 'derecho' que daba a algunos individuos privados a 'poseer'
 obras creativas mientras previene a otros a usarlas y re-interpretarlas.
 
-In his 1870 ‘Poesies’, a pair of texts discovered and revered by Surrealists
-Louis Aragon and André Breton, Uruguayan-born French poet Comte de Lautreamont
-called for a return of impersonal poetry, a poetry written by all.  ‘Plagiarism
-is necessary’, Lautreamont stated, ‘progress depends on it. It sticks close to
-an author&#39;s phrase, uses his expressions, deletes a false idea, replaces it
-with a true one’.xxxi His definition subverted the myth of individual
-creativity used to justify property relations, in the name of progress, where
-the myth of individual creativity in fact impeded progress through the
-privatization of culture. The natural response was to re-appropriate culture as
-a sphere of collective production without acknowledging artificial enclosures
-of authorship. Lautremont’s phrase became a benchmark for the 20th century
-avant-gardes. Dada rejected originality and portrayed all artistic production
-as recycling and reassembling, from Duchamp’s ready-mades to Tzara’s rule for
-making poems from cut-up newspapers, to the photomontages of Höch, Hausmann and
-Heartfield. Dada also challenged the idea of the artist as solitary genius, and
-of art as a separate sphere, by working collectively to not only produce art
-objects and texts, but also media hoaxes, interventions at political gatherings
-and demonstrations on the street. Its assault on artistic values was a revolt
-against the capitalist foundations that created them.
-
-En su 'Poesías' de 1870, un par de textos descubiertos y reverencidos por los
+En su 'Poesías' de 1870, un par de textos descubiertos y reverenciados por los
 surrealistas Louis Aragon y André Breton, el poeta francés nacido en Uruguay
 Comte de Lautreamont llamaba al regreso de una poesía impersonal, una poesía
 escrita por todos. 'El plagio es necesario', decía Lautreamont, 'el progreso
@@ -960,7 +525,7 @@ natural era re-apropiarse de la cultura como una esfera de producción colectiva
 sin reconocer cercamientos individuales de autoría. La frase de Lautreamont se
 volvió una piedra de toque de las vanguardias del siglo XX. Dadá rechazó la
 originalidad y retrató toda la producción artística como reciclaje y
-re-montaje, desde los ready-mades de Duchamp a la regla de Tzara para hacer
+re-montaje, desde los ready-made de Duchamp a la regla de Tzará para hacer
 poemas con recortes de diario, a los fotomontajes de Höch, Hausmann y
 Heartfield. Dadá también desafió la idea del artista como un genio solitario y
 del arte como una esfera separada, trabajando colectivamente para producir no
@@ -968,24 +533,6 @@ sólo objetos y textos artísticos, sino también hoaxes mediáticos,
 intervenciones en encuentros políticos y manifestaciones callejeras. Su asalto
 a los valores artísticos fue una revuelta contra los fundamentos capitalistas
 que los habían creado.
-
-The ideas of Dadaism were systematically developed into a theory by the
-Situationist International (SI). The SI acknowledged that the practice of
-detournement, putting existing artworks, films, advertisements and comic strips
-through a detour, or recoding their dominant meanings, was indebted to Dadaist
-practices, but with a difference. They saw Dada as a negative critique of
-dominant images (one that depended on the easy recognition of the image being
-negated) and defined detournement as a positive reuse of existing fragments
-simply as elements in the production of a new work. Detournement was not
-primarily an antagonism to tradition; rather, it emphasized the reinvention of
-a new world from the scraps of the old. And implicitly, revolution was not
-primarily an insurrection against the past but a way of learning to live in a
-different way by creating new practices and forms of behavior. These forms of
-behavior included collective writings, which were often unsigned, and an
-explicit refusal of the copyright regime by attaching the labels ‘no copyright’
-or ‘anticopyright’ to their works, along with the directions for use, such as:
-any of the texts in this book may be freely reproduced, translated or adapted
-even without mentioning the source.
 
 Las ideas del dadaísmo fueron desarrolladas sistemáticamente en una teoría por
 la Internacional Situacionista (IS). La IS reconoció que la práctica del
@@ -995,38 +542,19 @@ referencia a las prácticas dadaístas, pero con una diferencia. Vieron a Dadá
 como una crítica negativa de las imágenes dominantes (una que dependía del
 fácil reconocimiento de la imagen negada) y definieron el detournement como una
 reutilización positiva de fragmentos existentes, simplemente como elementos en
-la producción una nueva obra. El detournement no era primariamente un
-antagonista de la tradición; enfatizaba la reinvención de un mundo nuevo de los
-restos del viejo. E implícitamente, la revolución no era principalmente una
-insurrección contra el pasado sino una forma de aprender a vivir en una forma
-diferente, creando nuevas prácticas y formas de comportamiento. Estas formas de
-comportamiento incluían escritura colectiva, a menudo no firmadas, y un rechazo
-explícito al régimen de copyright al añadir las etiquetas 'sin copyright' o
-'anticopyright' a sus obras, junto con instrucciones para su uso, como: todos
-los textos de este libro pueden reproducirse, traducirse o adaptarse
-libremente, incluso sin mencionar la fuente.
+la producción de una nueva obra. El detournement no era primariamente un
+antagonista de la tradición; enfatizaba la reinvención de un mundo nuevo a
+partir de los restos del viejo. E implícitamente, la revolución no era
+principalmente una insurrección contra el pasado sino una forma de aprender a
+vivir en una forma diferente, creando nuevas prácticas y formas de
+comportamiento. Estas formas de comportamiento incluían la escritura colectiva,
+a menudo no firmada, y un rechazo explícito al régimen de copyright al añadir
+las etiquetas 'sin copyright' o 'anticopyright' a sus obras, junto con
+instrucciones para su uso, como: todos los textos de este libro pueden
+reproducirse, traducirse o adaptarse libremente, incluso sin mencionar la
+fuente.
 
-Digitalization has proven to be much more of a threat to conventional notions
-of authorship and intellectual property than the plagiarism practiced by
-radical artists, or critiques of the author by poststructuralist theorists. The
-computer dissolves the boundaries essential for the modern fiction of the
-author as a solitary creator of unique and original works. Ownership
-presupposes a separation between texts, and between the author and reader. The
-artificiality of this separation is becoming more apparent. On mailing lists,
-newsgroups and open publishing sites, the transition from reader to writer is
-natural, and the difference between original texts vanishes as readers
-contribute commentary and incorporate fragments of the original in their
-response without the use of quotations. Attempts to copyright online writing
-appear increasingly absurd, as such, texts are often collectively produced and
-immediately multiplied. As online information circulates without regard for the
-conventions of copyright, the concept of the proprietary author really seems to
-have become a ghost of the past. Perhaps the most important effect of
-digitalization is that it threatens the traditional benefactors of intellectual
-property since monopolistic control by book publishers, music labels and the
-film industry is no longer necessary as ordinary people are taking up the means
-of production and distribution for themselves.
-
-La digitalización ha probado ser más que una amenaza a las nociones
+La digitalización ha probado ser más que una amenaza para las nociones
 convencionales de autoría y propiedad intelectual que el plagio practicado por
 los artistas radicales o las críticas del autor de los teóricos
 posestructuralistas. La computadora disuelve los límites esenciales de la
@@ -2787,3 +2315,5 @@ United Nations University-World Institute for Development Economics Research.
 ‘Web 2.0’. Wikipedia.org. http://en.wikipedia.org/wiki/Web_2.0.
 
 Notes
+
+[^100] http://marxists.org/espanol/m-e/1840s/48-manif.htm
