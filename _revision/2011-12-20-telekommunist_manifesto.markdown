@@ -8,20 +8,20 @@ Dmytri Kleiner, a partir de trabajos de Joanne Richardson, Brian Wyrick y
 Dmytri Kleiner, 2004-2008.
 
 Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
-Se promueve el uso comercial hecho por colectivos e independientes que trabajen
-en los comunes.
+Se promueve el uso comercial hecho por colectivos y trabajadores independientes
+que trabajen en el dominio común.
 
 
 ## Prefacio
 
 _Acuñé el término "Comunismo de Riesgo" en el 2011 para promover el ideal de la
-autoorganización productiva de los trabajadores como forma de resolver el
+auto-organización productiva de los trabajadores como forma de resolver el
 conflicto de clase. Telekommunisten \[telecomunista\] es un colectivo con base
 en Berlín, Alemania, donde vivo desde el 2003. Me encontré con el término
 "Telekommunisten" (que se convertiría en el nombre del colectivo) en el 2005,
 cuando visitaba el departamento de un amigo. Él y su compañero habían nombrado
-"telecomunista" a la red de área local que usaban en su departamento para
-compartir acceso a Internet._
+"telecomunista" a la red de área local que usaban para compartir acceso a
+Internet._
 
 Telecomunista había sido usado como un nombre despectivo para la antigua
 telefónica estatal de Alemania, _Deutsch Telekomm_, que ahora es una
