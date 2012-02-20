@@ -1,3 +1,8 @@
+---
+layout: post
+author: Dmytri Kleiner
+title: El comunismo de pares contra el estado capitalista cliente-servidor
+---
 ## Dmytri Kleiner
 # El comunismo de pares contra el estado capitalista cliente-servidor
 
@@ -382,7 +387,7 @@ Maynard Keynes, tal vez el economista más importante de su tiempo y el fundador
 de la 'macroeconomía' moderna, en su libro de 1936 _La teoría general del
 empleo, el interés y el dinero_, 'a veces se dice que sería ilógico que el
 trabajo resista una reducción del salario monetario pero no lo haga frente a
-una reducción del salario real [...] la experiencia demuestra que de hecho es
+una reducción del salario real \[...\] la experiencia demuestra que de hecho es
 de esta manera como se comporta el trabajo'. [^keynes_sf] Daniel Bell pone en claro
 este proceso en su paper 'La subversión de la negociación colectiva'. Bell
 muestra que estos casos no llevan a un cambio en el nivel general de la riqueza
@@ -536,13 +541,6 @@ estándares que fueron producidos por todas estas personas que traban en la Web
 Hay solo un desarrollo continuo de aplicaciones en línea que no puede
 dividirse claramente.
 
-In trying to define what Web 2.0 is, it is safe to say that most of the
-important developments have been aimed at enabling the community to create,
-modify, and share content in a way that was previously only available to
-centralized organizations that bought expensive software packages, paid staff
-to handle the technical aspects of the site, and paid staff to create content
-which generally was published only on that organization’s site.
-
 Al tratar de definir a la Web 2.0, es seguro decir que la mayoría de los
 desarrollos importantes estuvieron orientados a habilitar a la comundiad a
 crear, modificar y compartir contenido de una forma que antes sólo había estado
@@ -590,12 +588,9 @@ La caracterización que hace Graham del 'amateur' tiene una extraña semejanza a
 Si tuviera un circo, de Dr. Seuss, donde el joven Morris McGurk dice al staff
 del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.
-
-> Dicen, '¡Trabájanos! ¡Por favor hazlo!
-
-> Trabajaremos y trabajaremos tantas sorpresas
-
+> Mis obreros aman trabajar.   
+> Dicen, '¡Trabájanos! ¡Por favor hazlo!   
+> Trabajaremos y trabajaremos tantas sorpresas    
 > ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [^seuss_1956]
 
 Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
@@ -975,19 +970,6 @@ organizaciones da origen a una clase coordinadora, una nueva clase consistente
 en una élite tecno-administrativa que históricamente ha probado tener la
 capacidad de ser tan parasitaria y severa con los trabajadores como la clase
 capitalista.
-
-A community of peer producers can grow without developing layers of
-coordination because they are self-organizing and produce independently, and as
-such they do not need any layers of management other than what is needed for
-the provision of the common stock of productive assets. Thus, coordination is
-limited to the allocation of the common stock among those who wish to employ
-it. It is no surprise then that this sort of production has appeared and
-flourished where the common stock is immaterial property, such as free
-software, as the low reproduction costs eliminate allocation concerns. Thus
-what is needed for peer production to be able to incorporate material goods
-into the common stock is a system for allocating material assets among the
-independent peers, which imposes only a minimal coordination burden. Venture
-communism is such a way.
 
 Una comunidad de pares productores puede crecer sin desarrollar capas de
 coordinación porque se auto-organiza y produce independientemente, y como tal
