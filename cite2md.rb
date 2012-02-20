@@ -6,7 +6,10 @@ require 'bibtex'
 require 'citeproc'
 
 bib = BibTeX.open('./ref.bib')
-citere = /\\cite{([^}]+)}/
+# LaTeX
+# citere = /\\cite{([^}]+)}/
+# Markdown
+citere = /\[\^([\w\-_]+)\]/
 
 ARGV.each do |f|
 # Leer todo el texto
@@ -24,8 +27,11 @@ ARGV.each do |f|
     cites.each do |c|
         citeref = ""
 
+        puts "Procesando #{c}"
+
 # puede haber varias citas en un mismo \cite{}
         c[0].split(', ').each do |k|
+            
 # Una nota al pie con el nombre del bib
             citeref << "[^#{k}]"
             
