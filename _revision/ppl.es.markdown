@@ -166,12 +166,12 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     quede sujeta a las condiciones de esta Licencia. Si Usted crea una
     Colección, previa comunicación del Licenciante, Usted deberá, en la medida
     de lo posible, quitar de dicha Colección cualquier crédito requerido en la
-    Sección 4(d), según lo que le fuese solicitado. Si Usted crea una
+    Sección 4(e), según lo que le fuese solicitado. Si Usted crea una
     Adaptación, previa comunicación del Licenciante, deberá, en la medida de lo
     posible, quitar de dicha Adaptación cualquier crédito requerido en la
-    Sección 4(d), según lo que le fuese solicitado.
+    Sección 4(e), según lo que le fuese solicitado.
 
-    b. A excepción de la Sección 4a, Usted no puede ejercer ninguno de los
+    b. A excepción de la Sección 4(a), Usted no puede ejercer ninguno de los
     derechos que le han sido otorgados en la Sección 3 precedente de modo que
     estén principalmente destinados o directamente dirigidos a conseguir un
     provecho comercial o una compensación monetaria privada. El intercambio de
@@ -186,11 +186,12 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     c. Usted puede ejercer los derechos concedidos en la Sección 3 precedente
     con fines comerciales sólo si:
 
-        i. Usted es o pertenece a un colectivo o empresa bajo control obrero;
+        i. Usted es o pertenece a un colectivo o empresa bajo posesión
+        y control obrero;
 
         ii. Toda ganancia, valor añadido, rédito o beneficio producido por el
         ejercicio de los derechos concedidos en esta Obra se distribuyen entre
-        los trabajadores.
+        los trabajadores pertenecientes al colectivo o empresa.
 
     d. Cualquier uso realizado por una empresa poseída y administrada en forma
     privada, y que busque obtener rédito del trabajo asalariado de sus
@@ -215,9 +216,9 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     hecho uso de la Obra en la Adaptación (por ejemplo, "Traducción al francés
     de la Obra del Autor Original" o "Guión basado en la Obra originaria de
     Autor Original").  Los créditos o menciones solicitados por esta Sección
-    4 (d) pueden ser implementados de cualquier forma razonable; Sin embargo,
+    4 (e) pueden ser implementados de cualquier forma razonable; Sin embargo,
     si en una Adaptación o una Colección aparecen mencionados los autores que
-    contribuyeron a formarla, como mínimo el crédito de esta Sección 4(d)
+    contribuyeron a formarla, como mínimo el crédito de esta Sección 4(e)
     deberá aparecer incluido como parte de dicha mención y de forma tan
     destacada como los créditos de quienes han contribuido. Para evitar dudas,
     Usted sólo puede utilizar los créditos requeridos por esta Sección con la
