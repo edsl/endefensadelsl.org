@@ -1,5 +1,31 @@
 En Defensa del Software Libre
 =============================
 
-
 Sitio web hecho en [Jekyll](http://jekyllrb.com/).
+
+
+## Markdown
+
+Como no existen las citas bibliográficas en markdown, lo que hacemos es crear
+notas al pie con identificador igual al que se utiliza en el archivo BibTeX.
+
+El script cite2md recupera estos identificadores y escribe la bibliografía en
+formato APA. Al convertir markdown a HTML se ven como notas al pie.
+
+Al usar el campo _url_ de BibTeX, CiteProc añade al final de la entrada
+"Retrieved from (url)", nosotros la cambiamos con esta regexp:
+
+    /Retrieved from (.*)\.$/[ver](\1)/
+
+que los convierte a links markdown [ver](http://endefensadelsl.org)
+
+
+## Latex
+
+Se usa pandoc para convertir markdown a latex, hay que borrar las notas
+bibliograficas en markdown para que pandoc no las reemplace por notas al pie.
+Luego convertir a latex y ejecutar esta regexp:
+
+    /\[\^([a-z][^\]]\+)\]/\\cite{\1}/
+
+que convierte [^nota] a \cite{nota}
