@@ -82,7 +82,7 @@ discográfica intentan forzar su posición como mediadores entre artistas
 y admiradores, mientras los admiradores y los artistas se acercan entre sí
 y exploran nuevas formas de interactuar.
 
-Los productores de software, como las manufacturadoras de armas, juegan a dos
+Los productores de software, como los fabricantes de armas, juegan a dos
 puntas en este conflicto: proveyendo las herramientas para imponer el control
 a la vez que proveen las herramientas para evadirlo. Las relaciones no
 jerárquicas posibilitadas por las redes de pares, como la Internet, contradicen
@@ -109,7 +109,7 @@ de software y la producción de obras culturales inmateriales no es suficiente.
 La comunitarización de la propiedad inmaterial por sí sola no puede cambiar la
 distribución de activos productivos materiales y por lo tanto no puede eliminar
 la explotación; sólo la auto-organización de la producción hecha por los
-trabajadores puede hacerlo. 
+trabajadores puede hacerlo.
 
 Esta publicación intenta ser un resumen de las posiciones que motivan
 a Telekommunisten como proyecto, basado en la exploración del conflicto de
@@ -118,7 +118,7 @@ y la emergencia de la economía de la información. El objetivo de este texto es
 introducir las motivaciones políticas de Telekommunisten, incluyendo un croquis
 del marco teorético básico en el que se enraiza. A través de dos secciones
 interrelacionadas, 'El comunismo de pares contra el capitalismo
-cliente-servidor' y 'Contribución a la Crítica de la Cultura Libre', el
+cliente-servidor' y 'Una contribución a la Crítica de la Cultura Libre', el
 manifiesto cubre la economía política de las topologías de red y la producción
 cultural, respectivamente. 'El comunismo de pares...' se enfoca en la
 comercialización de Internet y la emergencia de la producción distribuida por
@@ -131,9 +131,9 @@ Construyendo sobre la sección previa, en 'Contribución a la Crítica de la
 Cultura Libre', el manifiesto continúa con la historia y las falsas
 concepciones del copyright, el movimiento del Software Libre, el disenso
 anticopyright/copyleft y la economía política del software y la cultura libres.
-El reto de extender los logros del software libre a la cultural libre se aborda
+El reto de extender los logros del software libre a la cultura libre se aborda
 conectándolo con el programa tradicional del socialismo de izquierda,
-resultando en el copyfarleft (ultraizquierda de copia) y ofreciendo la Licencia
+resultando en el copyfarleft (extremoizquierda de copia) y ofreciendo la Licencia
 de Producción de Pares como un modelo.
 
 Este texto está particularmente orientado a artistas, hackers y activistas con
@@ -185,9 +185,9 @@ riesgo. A través del acceso a la riqueza que resulta de la captura continua de
 plusvalía, los capitalistas ofrecen a las nuevas generaciones de innovadores la
 chance de convertirse en _partners junior_ de su club, haciéndoles vender el
 futuro valor productivo de lo que crearon a cambio de la riqueza presente que
-necesitan para empezar. El valor robado, muerto, de las capturas pasadas en el
-valor no-nato del futuro. Ni los innovadores, ni ninguno de los trabajadores
-futuros en las organizaciones e industrias que creen, son capaces de retener el
+necesitan para empezar. El valor robado, muerto, del pasado captura el valor
+no-nato del futuro. Ni los innovadores, ni ninguno de los trabajadores
+futuros en las organizaciones e industrias que crean, son capaces de retener el
 valor de su contribución.
 
 Este valor 'no retenido' forma la riqueza que se utiliza para capturar la
@@ -205,7 +205,7 @@ fuerza y la explotación. La lucha del comunismo de riesgo contra la
 estratificación de clase no podría ser más vital. Nuestra sociedad no sólo se
 enfrenta las viejas aflicciones de la pobreza y la injusticia, también se
 vuelve claro que los niveles de producción requeridos para sostener la
-acumulación de una pequeña élite nos lleva constantemente a la guerra,
+acumulación de una pequeña élite nos llevan constantemente a la guerra,
 e inevitablemente hacia la catástrofe ambiental. Fracasar en lograr una
 sociedad más igualitaria tiene consecuencias más graves de las que nos podemos
 permitir. Para triunfar, los espacios, instrumentos y recursos necesarios deben
@@ -266,9 +266,9 @@ capaces de retener lo suficiente de sus salarios para adquirir propiedad. Si
 los trabajadores adquirieran propiedad podrían dejar de vender su trabajo a los
 capitalistas. El capitalismo, entonces, no puede existir en un mercado libre.
 La idea de un "libre mercado" es parte de la mitología del capitalismo. No es
-posible dentro del capitalismo así como poco probable que exista sin ella.
+posible dentro del capitalismo así como poco probable que exista fuera de él.
 
-"Liberados" de la coerción de los capitalistas en busca de lucro, los
+Si fueran "liberados" de la coerción de los capitalistas en busca de lucro, los
 productores podrían producir por el valor social, no por el lucro, como lo
 hacen en sus vidas privadas y familiares, y como lo hacen en comunidades no
 capitalistas. Esto no quiere decir que en una sociedad libre no exista la
@@ -282,27 +282,28 @@ donde las contribuciones a la producción y el consumo deben medirse en detalle.
 Es una economía de contadores y guardias de seguridad. La contabilidad del
 valor de cambio en pequeñas y reductoras listas de transacciones valoradas
 individualmente debe superarse por formas de intercambio más fluidas
-y generalizadas. El motivo por el que se maximiza el beneficio de la propiedad,
+y generalizadas. El motivo por el que se maximiza el beneficio a partir de la propiedad,
 que es tan a menudo la fuerza motriz detrás de formas de producción
 irracionales y destructivas, dará paso a un motivo de producir mucho más
 fuerte: realizar trabajo con beneficio directo sobre nuestras vidas y nuestra
 sociedad, una producción que cumpla necesidades y deseos del mundo real.
 
-Los apólogos del capitalismo insistirán que esos motivos son uno y el mismo,
+Los apólogistas del capitalismo insistirán que esos motivos son uno y el mismo,
 que el beneficio es simplemente la recompensa monetaria de producir lo que la
-comunidad necesita, pero esta relación es por lo menos tenua. Mientras que el
-abultado precio de los bienes de baja ocurrencia dirige las actividades
+comunidad necesita, pero esta relación es por lo menos tenue. Mientras que el
+abultado precio de los bienes de oferta reducida sí dirige las actividades
 productivas hacia áreas particulares, la extracción de ganancias de esta
 producción por parte de los dueños de la propiedad hace muy poco por nuestras
 necesidades sociales. Cuando la ganancia es el motivo, el precio puede
 aumentarse o los costos reducirse a través de prácticas de negocio predatorias,
 explotadoras y anticompetitivas, que no contribuyen al cumplimiento de las
 necesidades comunitarias. Cuando los trabajadores son capaces de formar su
-propio capital, las motivaciones para perseguir esas prácticas se desvanecen.
+propio capital, y por lo tanto mantener el producto completo de su trabajo, las
+motivaciones para perseguir esas prácticas se desvanecen.
 
 Sin la necesidad de contabilizar y medir nuestros consumo y producción para
 apaciguar a los que imponen el control capitalista, los trabajadores en una
-sociedad libre no se molestarían en producir exclusivamente para maximizar la
+sociedad libre tal vez no se molestarían en producir exclusivamente para maximizar la
 ganancia dentro de una "economía de mercado". En su lugar, podrían decidir
 enfocar sus esfuerzos en producir lo que quieren y lo que su comunidad
 necesita, y están motivados a compartir los productos de su labor sólo por
