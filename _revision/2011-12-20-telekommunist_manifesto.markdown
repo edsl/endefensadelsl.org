@@ -118,7 +118,7 @@ y la emergencia de la economía de la información. El objetivo de este texto es
 introducir las motivaciones políticas de Telekommunisten, incluyendo un croquis
 del marco teorético básico en el que se enraiza. A través de dos secciones
 interrelacionadas, 'El comunismo de pares contra el capitalismo
-cliente-servidor' y 'Una contribución a la Crítica de la Cultura Libre', el
+cliente-servidor' y 'Contribución a la Crítica de la Cultura Libre', el
 manifiesto cubre la economía política de las topologías de red y la producción
 cultural, respectivamente. 'El comunismo de pares...' se enfoca en la
 comercialización de Internet y la emergencia de la producción distribuida por
@@ -133,7 +133,7 @@ concepciones del copyright, el movimiento del Software Libre, el disenso
 anticopyright/copyleft y la economía política del software y la cultura libres.
 El reto de extender los logros del software libre a la cultura libre se aborda
 conectándolo con el programa tradicional del socialismo de izquierda,
-resultando en el copyfarleft (extremoizquierda de copia) y ofreciendo la Licencia
+resultando en el copyfarleft (extremaizquierda de copia) y ofreciendo la Licencia
 de Producción de Pares como un modelo.
 
 Este texto está particularmente orientado a artistas, hackers y activistas con
