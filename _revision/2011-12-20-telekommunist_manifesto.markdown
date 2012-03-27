@@ -453,7 +453,7 @@ La porción de la salida productiva de un productor que puede demandarse por el
 derecho a existir es el total de esa salida productiva menos los costos de
 subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
 en su _Sobre los principios de la economía política y los impuestos_ de
-1817,[^ricardo-1821] y esta es el piso de negociación que nos encontramos
+1817,[^ricardo-1821] y esta es la base de negociación que nos encontramos
 todos aquellos que nacimos en un mundo enteramente apropiado por otros.
 
 En su 'Ensayo sobre los beneficios', Ricardo argumenta: 'El interés del
@@ -516,7 +516,7 @@ y calidad debida se convierte en una marca de inferioridad y desmerecimiento',
 argumenta Veblen en _La teoría de clase ociosa_, de 1889. [^thorstein-2010]
 
 Los trabajadores tienen algo más que fuerzas culturales trabajando contra su
-habilidad de formar capital a través de los ingresos que retuvieran de la
+habilidad de formar capital a través de los ingresos que retuvieran más allá de la
 subsistencia. Mientras los trabajadores carezcan de propiedad, cualquier
 aumento salarial que ganen será barrido por la inflación de los precios, muy
 a menudo como resultado del crecimiento de la competencia monetaria por
@@ -526,27 +526,27 @@ público. Reducir los salarios reales por la inflación como alternativa a la
 reducción salarial funciona por la 'ilusión del dinero'. Como escribe John
 Maynard Keynes, tal vez el economista más importante de su tiempo y el fundador
 de la 'macroeconomía' moderna, en su libro de 1936 _La teoría general del
-empleo, el interés y el dinero_, 'a veces se dice que sería ilógico que el
-trabajo resista una reducción del salario monetario pero no lo haga frente
+empleo, el interés y el dinero_, 'a veces se dice que sería ilógico que los
+trabajadores resistan una reducción del salario monetario pero no lo hagan frente
 a una reducción del salario real \[...\] la experiencia demuestra que de hecho
-es de esta manera como se comporta el trabajo'. [^keynes-2002] Daniel Bell
+es de esta manera como se comporta la mano de obra'. [^keynes-2002] Daniel Bell
 pone en claro este proceso en su paper 'La subversión de la negociación
 colectiva'. Bell muestra que estos casos no llevan a un cambio en el nivel
 general de la riqueza real; en la mayoría de los casos, los trabajadores que
 recibieron un aumento salarial no incrementaron su parte de la riqueza, sino
 que terminaron pagando precios más altos. [^bell-1960]
 
-La propiedad no es un fenómeno natural; la propiedad es creada por la ley. La
+La propiedad no es un fenómeno natural; la propiedad es creada por ley. La
 habilidad para extraer renta depende de la habilidad propia para controlar un
 recursos escaso aun si es utilizado por alguien más. En otras palabras, la
 propiedad le da la capacidad al propietario de forzar a esa otra persona
 a compartir el producto de su trabajo. La propiedad, entonces, es el control
-a distancia. De esta manera, la renta sólo es posible mientras sea soportada
+a distancia. De esta manera, la renta sólo es posible mientras sea apoyada
 por la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
 
-Sin los medios para forzar a aquellos que ponen la propiedad en uso productivo
+Sin un medio para forzar a aquellos que ponen la propiedad en uso productivo
 a compartir el producto de su trabajo con el dueño ausente y ocioso, ese
-propietario no podría ganarse la vida, sin contar acumular más propiedad. Como
+propietario no podría ganarse la vida, y menos acumular más propiedad. Como
 diría el revolucionario marxista alemán Ernest Mandel en su 'El materialismo
 histórico y el Estado capitalista', 'sin la violencia del estado capitalista,
 no hay capitalismo seguro'.[^mandel-1981] El propósito de la propiedad es
@@ -575,7 +575,7 @@ diferente. Los requisitos de control y privilegio requeridos por el capitalismo
 están siendo impuestos en la Internet, cambiando la topología de la red de una
 donde el comunismo de pares está embebido en su arquitectura, a otra donde las
 aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
-y controlan todos las relaciones.
+y controlan todas las relaciones.
 
 
 ## Atrapados en la telaraña mundial
@@ -589,10 +589,10 @@ cambiando, y la topología de la red está siendo reconstruida de forma tal que
 no sólo sirve a los intereses del capitalismo, sino que también habilita el
 monitoreo y control de sus usuarios en una escala jamás soñada.
 
-Internet tomó el mundo corporativo por sorpresa, al emerger de universidades
+Internet tomó al mundo corporativo por sorpresa, al emerger de universidades
 públicas, investigación militar y la sociedad civil. Fue promovida por una
 industria casera de proveedores de internet pequeños e independientes, que eran
-capaces de ganar un peso al proveer acceso a la red construida y financiada por
+capaces de ganarse unos pesos al proveer acceso a la red construida y financiada por
 el Estado. Mientras tanto, el mundo corporativo pujaba por una idea muy
 diferente sobre la supercarretera de la información, produciendo 'servicios
 online' monolíticos y centralizados como CompuServe, Prodigy y AOL.  Lo que
@@ -648,7 +648,7 @@ compartición en línea. La gente usaba la Web para, por ejemplo, navegar una
 librería, pero continuó empleando las tecnologías distribuidas para comunicarse
 con otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
 riesgo, se colocó de forma tal que los sitios web operados por grandes
-corporaciones se convirtieron en las principales plataformas sociales . La
+corporaciones se convirtieron en las principales plataformas sociales. La
 misma internet desaparecería pronto detrás de la Web, y los usuarios nunca más
 saldrían del navegador.
 
@@ -699,7 +699,7 @@ organización de su contenido a los mismísimos usuarios finales. En lugar del
 modelo tradicional de un proveedor de contenidos editando su propio contenido
 y de un usuario final consumiéndolo, el nuevo modelo permite al sitio de la
 compañía a actuar como un portal centralizado de usuarios que son a la vez
-consumidores y creadores. Para el usuario, el acceso a estas aplicacion lo
+consumidores y creadores. Para el usuario, el acceso a estas aplicaciones lo
 empodera a crear y publicar contenido que previamente les hubiera requerido
 comprar como software de escritorio y poseer una mayor serie de habilidades
 tecnológicas. Por ejemplo, dos de los medios primarios de producción de
@@ -743,8 +743,8 @@ sueñan con trabajadores incansables produciendo contenidos infinitos sin
 demandar un salario, suena estupendo. Y en efecto, de YouTube a Flickr
 a Wikipedia, verdaderamente 'no verías la mitad si tuvieras cuarentas ojos'.
 Tim Berners-Lee tiene razón. No hay nada, desde un punto de vista técnico o del
-usuario en la Web 2.0 que no tenga sus raíces en, y no como un desarrollo
-natural, la generación temprana de la Web. La tecnología asociada con la
+usuario en la Web 2.0 que no tenga sus raíces en, y no sea un desarrollo
+natural de, la generación temprana de la Web. La tecnología asociada con la
 bandera de la Web 2.0 era posible y en algunos casos estaba previamente
 disponible, pero la moda alrededor de este uso ciertamente ha afectado el
 crecimiento de los sitios 2.0.
@@ -770,11 +770,11 @@ embargo, probó ser una propuesta más atractiva.
 La Web 2.0 es el Boom de la Inversión en Internet 2.0. La Web 2.0 es un modelo
 de negocio de apropiación privada del valor creado colectivamente. Nadie niega
 que la tecnología de sitios como YouTube, por ejemplo, es trivial. Esto está
-más que evidenciado por el gran número de servicios idénticos tales como Daily
-Motion de compartición de videos. El valor real de YouTube no es creado por los
+más que evidenciado por el gran número de servicios idénticos, tales como Daily
+Motion, de compartición de videos. El valor real de YouTube no es creado por los
 desarrolladores del sitio; en cambio, es creado por la gente que carga videos
-en el sitio. Aun así, cuando YouTube fue comprado acciones de Google por un
-valor de mil millones de dólares, ¿cuántas de esas acciones fueron adquiridas
+en el sitio. Aun así, cuando YouTube fue comprado por un valor de mil millones
+de dólares en acciones de Google, ¿cuántas de esas acciones fueron adquiridas
 por los que hicieron esos videos? Cero. Zilch. Nothing. Un gran negocio,
 entonces, si sos el dueño de una compañía de la Web 2.0.
 
@@ -798,7 +798,7 @@ de la compañía para 'aprovechar la inteligencia colectiva', como dice Tim
 O'Reilly. [^oreilly-2007] Desde esta perspectiva, las compañías de la Web 1.0
 eran demasiado monolíticas y unilaterales en su acercamiento al contenido. Las
 historias de éxito en la transición de la Web 1.0 a 2.0 se basaron en su
-habilidad para mantenerse monolíticas en la marca del contenido, o, mejor aun,
+habilidad para mantenerse monolíticas en cuanto a la marca del contenido, o, mejor aun,
 en su apropiación del contenido, al mismo tiempo que abrían la creación de ese
 contenido a la comunidad. Yahoo!, por ejemplo, creó un portal con contenido de
 la comunidad mientras se mantenía como la ubicación centralizada para
@@ -807,10 +807,10 @@ dueño del mercado para esos bienes. Amazon, aun vendiendo los mismos productos
 que otros sitios, tuvo éxito al permitir que la comunidad participe en el
 'flujo' alrededor de sus productos.
 
-Debido a que los capitalstas que invierten en emprendimientos de la Web 2.0
+Debido a que los capitalistas que invierten en emprendimientos de la Web 2.0
 usualmente no financian la capitalización temprana, su comportamiento es
 marcadamente parasitario. Los capitalistas de la Web 2.0 arriban frecuentemente
-tarde cuando la creación de valor está en su mejor momento, se cuelan para
+tarde, cuando la creación de valor está en su mejor momento, se cuelan para
 apropiarse del espacio y usan su poder financiero para promover el servicio,
 a menudo en el contexto de una red hegemónica de socios mayores y bien
 financiados. Esto significa que las compañías que no son adquiridas por el
@@ -837,7 +837,7 @@ las compañías de la Web 2.0, es decir el control sobre fuentes de datos única
 difíciles de recrear, enriquecidas por el uso de la gente y el aprovechamiento
 de la inteligencia colectiva que atraen. [^oreilly-2007] Permitir a la
 comunidad contribuir abiertamente y utilizar esa contribución en el contexto de
-un sistema propietario donde el propietario se adueña del contenido es
+un sistema privativo donde el propietario se adueña del contenido es
 característico del éxito de una compañía de la Web 2.0. Permitir a la comunidad
 ser dueño de lo que crea, sin embargo, no lo es.
 
@@ -865,7 +865,7 @@ gracias a la naturaleza distribuída de Usenet, otros medios de acceso continuan
 existiendo en paralelo y mientras su rol como una plataforma online ha perdido
 prominencia, muchos grupos de noticias permanecen en actividad. Por ejemplo, la
 Iglesia de los SubGenios, alt.slack, continua teniendo importancia como un foro
-social para la popular religión burlezca. La falta de una infraestructura
+social para la popular religión de burla con sede en EEUU. La falta de una infraestructura
 central también conlleva una falta de control central, significando la ausencia
 de censura, a menudo un problema de la propiedad privada de las 'comunidades',
 que frecuentemente ceden a los grupos de presión públicos y privados y aplican
@@ -880,8 +880,8 @@ y por lo tanto tiene más dinero para financiar y promover soluciones
 centralizadas. El resultado final es que la inversión capitalista ha fluido
 hacia las soluciones centralizadas, volviéndolas fáciles y baratas o gratuitas
 para que los productores no-técnicos de información las adoptasen. Esta
-facilidad de acceso, comparada a la técnicamente desafiante y al costoso
-compromiso de apropiarse de los propios medios de producción de información, ha
+facilidad de acceso, comparada a la técnicamente desafiante y costosa empresa
+de poseer tus propios medios de producción de información, ha
 creado un proletariado 'sin tierra' listo para proveer de trabajo alienado de
 creación de contenido a los nuevos terratenientes informáticos de la Web 2.0.
 La misión de la Web 2.0 es destruir el aspecto P2P de la Internet y hacerte
@@ -894,7 +894,7 @@ Un detalle informativo es que la mayoría de las conexiones hogareñas o de
 oficina durante los '90, como las conexiones por módem o ISDN, eran simétricas,
 iguales en su habilidad para enviar y recibir datos. Por diseño, estas
 conexiones te permitían ser al mismo tiempo un productor y un consumidor de
-información. Por otro lado, las conexiones DSL y de cable-módem modernas son
+información. Por otro lado, las conexiones DSL y de cable-modem modernas son
 asimétricas, permitiéndote descargar información rápidamente, pero subirla
 lentamente. Además, muchos acuerdos de usuario de los servicios de Internet
 prohíben al usuario correr servidores en sus cuentas de consumidor y podrían
