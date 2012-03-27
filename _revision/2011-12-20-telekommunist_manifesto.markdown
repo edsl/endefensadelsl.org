@@ -327,7 +327,8 @@ voluntarias.
 El capitalismo depende del Estado para imponer control dentro de la economía de
 red, particularmente para controlar las relaciones a través de canales
 autorizados, y por lo tanto capturar el valor que de otra forma sería retenido
-por los productores. La "economía de mercado" es entonces la imposición de los
+por los productores. Se introducen puntos de control en la trama natural de las
+relaciones sociales. La "economía de mercado" es entonces la imposición de los
 términos "no libres" del mercado físico a la sociedad en su conjunto. La
 distinción entre productor y consumidor debe aplicarse para que la circulación
 puede ser controlada. Sólo la jerarquía y la autoridad deben tener acceso
@@ -341,42 +342,42 @@ tradicional del Estado como mediador entre clases en nombre de la clase
 dominante depende de su soberanía territorial. La habilidad del Estado para
 imponer control sobre la economía de red depende del hecho de que los
 participantes actúan principalmente dentro de los límites del Estado. Una vez
-que la red se expanda más allá del Estado tendrá el potencial para convertirse
-en una amenaza para el Estado mismo, al deteriorar la captura de valor basada
+que la red se expande más allá del Estado tiene el potencial para convertirse
+en una amenaza para el Estado mismo, al socavar la captura de valor basada
 en el territorio.
 
 La habilidad del Estado para garantizar títulos y privilegios se basa en su
-habilidad para asegurar tales ventajas a través del monopolio legitimado de la
-violencia. Las comunicaciones basadas en redes globales de pares tienen una
+habilidad para asegurar tales ventajas a través del monopolio sobre el uso
+legítimo de la violencia. Las comunicaciones basadas en redes globales de pares tienen una
 chance para resistir y evadir la violencia contenida en tales jerarquías. Las
 relaciones sociales entre comunidades transnacionales, translocales, operan
-dentro de un espacio extraterritorial, uno donde las operaciones de título
-y privilegio pueden dar lugar a relaciones de interés mutuo y negociación.
+dentro de un espacio extraterritorial, uno donde las operaciones de título y
+privilegio pueden dar lugar a relaciones de interés mutuo y negociación.
 
 Los modos de producción que emplean estructuras similares a las redes de pares
-poseen relaciones reminiscentes a las de los comunes pastoriles históricos,
+poseen relaciones reminiscentes a las de los pastoriles comunes históricos,
 tierras tenidas en común usadas para mantener el ganado y regulado por derechos
-antiguos, ahora predando las leyes y formas de gobierno modernas. Los comunes
+antiguos, previos a las leyes y formas de gobierno modernas. Los comunes
 modernos, sin embargo, no se encuentran en un sólo lugar, sino que abarcan todo
-el planeta, ofreciendo esperanza a nuestra sociedad, un camino de salida a la
-estratificación de clase del capitalismo al deteriorar su lógica de control
+el planeta, ofreciendo a nuestra sociedad la esperanza de un camino de salida a la
+estratificación de clase del capitalismo al menoscabar su lógica de control
 y extracción. Ejemplos de tal modo de producción en potencia pueden encontrarse
 a montones.
 
 Las redes de pares, como la Internet, y toda la entrada material e inmaterial
-que la mantiene corriendo, sirven como un capital común que puede ser usado
+que las mantiene corriendo, sirven como un capital común que es usado
 independientemente por mucha gente. El Software Libre, cuya producción
 y distribución depende frecuentemente de redes de pares, es un capital común
 disponible para todos. El Software Libre es producido por productores diversos
 y distribuidos que contribuyen a él porque ganan mayor valor al usar el
 software para su propia producción que el valor de sus contribuciones
-individuales al software. Los populares ataques a las royalties y cuotas
-(rentas) capturadas por la industría discográfica y fílmica por parte de los
+individuales al software. Los ataques populares a las regalías y tasas
+capturadas por la industría discográfica y fílmica por parte de los
 usuarios de tecnologías de compartición de archivos nos muestran las
 dificultades que enfrentan aquellos cuyos ingresos dependen del control de la
 reproducción. El transporte masivo y la migración internacional han creado
-comunidades distribuidas que mantienen relaciones interpersonales y a menudo
-informalmente económicas a través de los límites nacionales.
+comunidades distribuidas que mantienen relaciones interpersonales y, a menudo,
+económicas informales a través de los límites nacionales.
 
 Todos estos son ejemplos de nuevas relaciones productivas que trascienden las
 actuales relaciones basadas en la propiedad y apuntan a un progreso potencial.
@@ -386,7 +387,7 @@ amplias posibilidades revolucionarias mientras las comunidades dispersas se
 vuelven capaces de interactuar instantáneamente a escala global. Nuestras vidas
 y relaciones ya no necesitan confinarse a naciones estado vinculadas a un
 territorio. Aunque los elementos coercitivos en la jerarquía política
-y corporativa imponen aun más controles draconianos en un intento por prevenir
+y corporativa imponen cada vez más controles draconianos en un intento por prevenir
 nuestra resistencia a, o la evasión de, tal confinamiento, podemos colocar
 nuestras esperanzas revolucionarias en la posibilidad de que la escala del
 cambio es simplemente tan amplia que nunca podrán triunfar del todo.
@@ -395,7 +396,7 @@ En proporción a la audaz emergencia de las tecnologías de pares, el software
 libre y las comunidades internacionales, los obstáculos para el cambio social
 son increiblemente grandes. Debemos superar la gran acumulación de riqueza de
 la que la elite capitalista dispone. Esta riqueza les da la habilidad de
-configurar la sociedad de acuerdo a sus intereses. Para poder cambiar la
+moldear la sociedad de acuerdo a sus intereses. Para poder cambiar la
 sociedad debemos expandir activamente el alcance de nuestros comunes, para que
 nuestras comunidades independientes de pares puedan sostenerse materialmente
 y resistir los avances del capitalismo.
@@ -403,19 +404,19 @@ y resistir los avances del capitalismo.
 Cualquier porción de nuestra productividad que permitamos que nos saquen
 retornará en la forma de nuestra propia opresión.
 
-La cabeza de la intervención estatal en la economía de red es el refuerzo de la
-propiedad. La propiedad es por su naturaleza antagónica de la libertad. La
+La cabeza de la intervención estatal en la economía de red es la coacción de la
+propiedad. La propiedad es por naturaleza antagónica de la libertad. La
 propiedad es la habilidad de controlar bienes productivos a distancia, la
 habilidad de 'adueñarse' de algo que es puesto en uso productivo por otra
 persona. La propiedad hace posible la subyugación de individuos y comunidades.
 Donde la propiedad es soberana, no puede haber libertad alguna bajo su dominio.
-Los dueños de la propiedad escasa pueden denegar la vida al denegar el acceso
-a la propiedad, para entonces esclavizar el trabajo vivo sin pagarles más que
-el costo de su reproducción.
+Los dueños de la propiedad escasa pueden negar la vida al negar el acceso
+a la propiedad, para entonces poner a los vivos a trabajar como esclavos sin
+pagarles más que el costo de su reproducción.
 
 En la terminología económica, el ingreso que los dueños reciben, al apropiarse
-del producto de los trabajadores, se llama renta. El economista político
-clásico británico David Ricardo fue el primero en describir la renta económica
+del producto de los trabajadores, se llama renta. El británico David Ricardo,
+economista político clásico, fue el primero en describir la renta económica
 a principios del siglo XIX. Dicho simplemente, la renta económica es el ingreso
 que el dueño de un bien productivo puede ganar sólo por ser su dueño. El dueño
 gana un ingreso en renta no por hacer algo o alguna forma de contribución, sólo
@@ -434,24 +435,24 @@ y no renta en términos del precio que pagás por el alquiler de tu casa. La
 renta no se recolecta por ninguna contribución a la producción, sino por
 privilegios legales, como el título de posesión de una ubicación de valor.
 
-Esto no significa que el dueño no contribuye al valor de la propiedad, como en
-su mantenimiento, sino que el valor de cualquier contribución que hagan no se
+Esto no significa que el dueño no contribuya al valor de la propiedad, por
+ejemplo a través de su mantenimiento, sino que el valor de cualquier contribución que hagan no se
 calcula como renta, pero por ejemplo, como interés si incrementa directamente
 el valor de la propiedad. La renta, en términos económicos, es el ingreso
 ganado por permitir a otros usar la propiedad; en última instancia, este
 ingreso se deriva de la porción que el terrateniente reclama de lo que producen
-los inquilinos como propio. Esto no se refiere directamente a los
+ilos inquilinos como propio. Esto no se refiere solamente a los
 terratenientes, la renta y la propiedad en el sentido edilicio. Mientras
 nuestra habilidad para proveernos subsistencia material requiera acceso a la
-propiedad que hace a nuestros 'medios de producción', debemos acordar
+propiedad que forma nuestros 'medios de producción', debemos acordar
 transferir una porción de lo que producimos a aquellos que nos permiten el
-acceso a tales medios, o de lo contrario no podemos vivir.
+acceso a tales medios, o de lo contrario no podríamos vivir.
 
 La porción de la salida productiva de un productor que puede demandarse por el
-derecho a existir es el total de la salida productiva menos los costos de
+derecho a existir es el total de esa salida productiva menos los costos de
 subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
 en su _Sobre los principios de la economía política y los impuestos_ de
-1817,[^ricardo-1821] y esta es la base de negociación que nos encontramos
+1817,[^ricardo-1821] y esta es el piso de negociación que nos encontramos
 todos aquellos que nacimos en un mundo enteramente apropiado por otros.
 
 En su 'Ensayo sobre los beneficios', Ricardo argumenta: 'El interés del
