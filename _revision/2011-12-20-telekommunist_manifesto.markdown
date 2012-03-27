@@ -348,21 +348,22 @@ en el territorio.
 
 La habilidad del Estado para garantizar títulos y privilegios se basa en su
 habilidad para asegurar tales ventajas a través del monopolio sobre el uso
-legítimo de la violencia. Las comunicaciones basadas en redes globales de pares tienen una
-chance para resistir y evadir la violencia contenida en tales jerarquías. Las
-relaciones sociales entre comunidades transnacionales, translocales, operan
-dentro de un espacio extraterritorial, uno donde las operaciones de título y
-privilegio pueden dar lugar a relaciones de interés mutuo y negociación.
+legítimo de la violencia. Las comunicaciones basadas en redes globales de pares
+tienen una chance para resistir y evadir la violencia contenida en tales
+jerarquías. Las relaciones sociales entre comunidades transnacionales,
+translocales, operan dentro de un espacio extraterritorial, uno donde las
+operaciones de título y privilegio den lugar a relaciones de interés mutuo
+y negociación.
 
 Los modos de producción que emplean estructuras similares a las redes de pares
-poseen relaciones reminiscentes a las de los pastoriles comunes históricos,
+poseen relaciones reminiscentes a las de los comunes pastoriles históricos,
 tierras tenidas en común usadas para mantener el ganado y regulado por derechos
 antiguos, previos a las leyes y formas de gobierno modernas. Los comunes
 modernos, sin embargo, no se encuentran en un sólo lugar, sino que abarcan todo
-el planeta, ofreciendo a nuestra sociedad la esperanza de un camino de salida a la
-estratificación de clase del capitalismo al menoscabar su lógica de control
-y extracción. Ejemplos de tal modo de producción en potencia pueden encontrarse
-a montones.
+el planeta, ofreciendo a nuestra sociedad la esperanza de un camino de salida
+a la estratificación de clase del capitalismo al menoscabar su lógica de
+control y extracción. Ejemplos de tal modo de producción en potencia pueden
+encontrarse a montones.
 
 Las redes de pares, como la Internet, y toda la entrada material e inmaterial
 que las mantiene corriendo, sirven como un capital común que es usado
