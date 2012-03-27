@@ -578,7 +578,7 @@ aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
 y controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial
+## Atrapados en la telaraña mundial[^NdT1]
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -2899,3 +2899,5 @@ Earnings. DIMESeptember 2006.
 [^landauer-2010]: Landauer, G. (2010). Revolution and Other Writings:
 A Political Reader. Oakland: PM Press.
 
+[^NdT1]: *NdT: Trapped in the World Wide Web en el original. Web puede traducirse
+tanto por red como por telaraña.*
