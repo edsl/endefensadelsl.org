@@ -467,12 +467,12 @@ opuestos.
 Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
 distinción no necesariamente implica intereses en conflicto y por lo tanto no
 ofrece una comprensión de la fuente de la estratificación de clase.
-Representativo de la clase capitalista emergente, Ricardo no intentaba que su
+Como representante de la clase capitalista emergente, Ricardo no intentaba que su
 crítica de la renta sobre la tierra se extendiera al ingreso ganado por los
 capitalistas. Los comentaristas críticos como William Thompson y Thomas
 Hodgsking, los más reconocidos 'socialistas ricardianos', hicieron exactamente
-eso, argumentando que el lucro obtenido por los capitalistas es tan explotadora
-e inmerecida como la renta de los terratenientes, y que los intereses de los
+eso, argumentando que el lucro obtenido por los capitalistas es tan explotador
+e inmerecido como la renta de los terratenientes, y que los intereses de los
 trabajadores se oponen a los intereses tanto de los terratenientes como de los
 capitalistas. De su trabajo se desprende la crítica del 'capitalismo', un
 término acuñado como analogía del feudalismo.
@@ -484,15 +484,15 @@ notablemente entre los que apoyaban al reformista social Robert Owen y el
 movimiento cooperativista a principios del 1800. Esta comprensión de clase,
 basada en la relación con los medios de producción, como capitalistas,
 terratenientes y trabajadores, antes que categorías como rico y pobre, noble,
-clero y campesino, proveyó una sólida base intelectual que permitió el
-surgimiento de un socialismo más científico desde esas raíces utópicas.
+clero y campesino, proveyó una sólida base intelectual que permitió que
+emergiera un socialismo más científico desde esas raíces utópicas.
 
 La renta permite a los dueños de la propiedad escasa llevar a los trabajadores
 desposeídos al nivel de subsistencia. Como lo explica Ricardo, 'el precio
 natural del trabajo es aquel que es necesario para permitir a los trabajadores,
 uno tras otro, subsistir y perpetuar su raza'.[^ricardo-1821] A veces se
-proclama que esto puede ser refutado por la diferencia entre el teórico precio
-'natural' y el precio del trabajo en el mercado real, pero tal argumento es
+proclama que esto puede ser refutado por la diferencia entre el precio
+'natural' teórico y el precio del trabajo en el mercado real, pero tal argumento es
 simplemente una equivocación, explica Ricardo, porque el precio del mercado
 fluctúa. La subsistencia no puede tomarse como el mínimo indispensable que
 requiere la supervivencia y la reproducción. Aun en tiempos de Ricardo, muchos
