@@ -957,7 +957,7 @@ de las tecnologías distribuídas sobre las centralizadas no han sido los
 factores decisivos en el desarrollo, en última instancia, de nuestra
 infraestructura de comunicación global, que se ha consolidado como una
 infraestructura restrictiva y regulada. El factor determinante es, como
-siempre, el hecho de que aquellos cuyos intereses estan asegurados por la
+siempre, el hecho de que aquellos cuyos intereses están asegurados por la
 restricción de la libertad, tienen más riqueza a su disposición para presionar
 implacablemente hacia sus fines, que la riqueza disponible para resistirse
 a ellos. Las razones económicas de esto son bien entendidas; la clase
@@ -968,7 +968,7 @@ producida por las masas de trabajadores sin propiedad.
 Si queremos tener voz en la forma en como las redes de comunicaciones son
 operadas, o si queremos hacer cualquier reforma social, debemos comenzar por no
 permitir que los dueños de la propiedad conviertan nuestra productividad en
-riqueza acumulada por ellos. La riqueza utilizada para imponer restricciones
+riqueza acumulada por ellos. La riqueza que usan para imponer restricciones
 a nuestras libertades es la riqueza que nos han quitado. Sin nosotros no
 tendrían fuente de riqueza. Ni siquiera toda la riqueza acumulada durante
 siglos de explotación puede salvar a la elite económica si se vuelve incapaz de
@@ -979,14 +979,14 @@ o simplemente ignorar. Antes bien, son nuestras nuevas formas de trabajar
 y compartir a través de fronteras nacionales las que tienen el potencial de
 amenazar el orden capitalista y abrir paso a una nueva sociedad.
 
-Las discusiones frecuentes sobre las relaciones productivas en los proyectos de
+Frecuentemente, las discusiones sobre las relaciones productivas en los proyectos de
 software libre y otros proyectos colaborativos como Wikipedia, intentan
 embotellar la producción basada en los comunes y atraparla dentro de la esfera
 de la producción inmaterial e intangible, restringiéndola a un dominio en el
 que no puede afectar la distribución de la riqueza, y por lo tanto desempeñar
 un papel en el conflicto de clases. Yochai Benkler, profesor de Estudios
 Legales Empresariales en la Escuela de Leyes de Harvard, acuñó el término
-"produccion de pares" para describir la forma en que el software, los articulos
+"produccion de pares" para describir la forma en que el software libre, los articulos
 de Wikipedia y otros trabajos similares son producidos. Limitando su análisis
 a la llamada 'economía de la información en red', la novedad de la producción
 de pares como es entendida por Benkler y muchos otros es que la propiedad en el
@@ -1002,7 +1002,7 @@ software libre no se les requiere compensar a los desarrolladores originales.
 
 No hay que negar que la red de riqueza de Benkler tiene mucho que ofrecer. El
 valor de estos comunes informacionales para sus usuarios es fantástico, como
-han evidenciado los millones que, por ejemplo, usan software libre, Wikipedia,
+evidencian los millones que, por ejemplo, usan software libre, Wikipedia,
 comunicaciones en línea y herramientas de redes sociales. Sin embargo, si la
 producción de pares basada en comunes se limita exclusivamente a bienes comunes
 hechos de propiedad digital sin costo de reproducción, ¿cómo puede el valor de
@@ -1018,31 +1018,31 @@ la pobreza no son la falta de cultura o información, sino la explotación
 directa de la clase productora por las clases dueñas de la propiedad. La fuente
 de la pobreza no son los costos de reproducción sino la renta económica
 extraída, la plusvalía capturada al forzar a los productores a aceptar como
-salario, menos que el producto completo de su trabajo, negándoles el acceso
+salario menos que el producto completo de su trabajo, negándoles el acceso
 independiente a los medios de producción. Mientras la producción basada en los
 comunes se aplique exclusivamente a los comunes informacionales y el modo de
 producción capitalista siga dominando la producción de la riqueza material, los
 dueños de la propiedad material continuarán capturando la riqueza marginal
 creada como resultado de la productividad de esos comunes informacionales.
-Cualquiera sea el valor de intercambio sea derivado de los comunes
-informacionales, será siempre capturado por los dueños de la propiedad real,
-que se encuentra fuera de los comunes.
+Cualquiera sea el valor de intercambio derivado de los comunes informacionales, 
+será siempre capturado por los dueños de la propiedad real, que se encuentra
+fuera de los comunes.
 
 Para que la producción de pares tenga algún efecto sobre la riqueza material en
-general, tiene que operar dentro del contexto del sistema completo de bienes
+general, tiene que operar en el contexto de un sistema completo de bienes
 y servicios, donde tanto los medios de producción físicos como los virtuales
 están disponibles en los comunes productivos. Al establecer una producción de
-pares únicamente en el contexto del patrimonio común de la informacion,
+pares únicamente en el contexto del patrimonio común solo de informacion,
 Blenkler está creando una trampa, asegurándose de que el valor creado en la
 economía de pares sea apropiado por el privilegio sobre la propiedad.
 Encontramos a Benkler de cabeza y necesitamos redefinir la producción de pares
 para volverlo a colocar sobre sus pies.
 
-No se trata de la producción de lo inmaterial, sino que lo inmaterial es la
-producción no reciprocitaria. Las computadoras, redes, desarrolladores y sus
-lugares de residencia y trabajo son bien materiales y requieren mantenimiento
-material. Lo inmaterial es la distribución. La información digitalizada, sea
-código fuente o obra cultural, puede multiplicarse y enviarse por las redes
+No es la producción, en la producción de lo inmaterial y no reciprocitario, lo
+que es inmaterial. Las computadoras, redes, desarrolladores y sus
+lugares de residencia y trabajo son muy materiales y requieren mantenimiento
+material. Lo que es inmaterial es la distribución. La información digitalizada, sea
+código fuente u obra cultural, puede multiplicarse y enviarse por las redes
 globales en fracciones de segundo, aunque su producción sigue siendo un asunto
 bastante material. Si la produccion de pares sólo puede producir bienes
 inmateriales como el software, y si los productores no obtienen nada a cambio
@@ -1058,40 +1058,40 @@ producir software libre, cultura libre o sopa libre, los productores deben
 obtener su subsistencia de alguna otra fuente, y por lo tanto la producción
 inmaterial no reciprocitaria no es una forma de producción en lo absoluto, sino
 un caso especial de distribución dentro de otra forma de producción. La
-producción inmaterial no reciprocitaria no es más un modo de producción que una
-olla popular o medicina socializada. Se trata simplemente un fenómeno
+producción inmaterial no reciprocitaria no es más modo de producción que una
+olla popular o la medicina socializada. Se trata simplemente de un fenómeno
 superestructural que tiene otro modo de producción como base, el capitalismo.
 
 En lugar de poner el énfasis en la distribucion inmaterial de lo que es
-producido por los ejemplos actuales de la produccion de pares, deberíamos notar
+producido por los ejemplos actuales de la produccion de pares, podríamos notar
 que esa producción está caracterizada por productores independientes que
 emplean un acervo común de activos productivos. Esta mirada sobre la producción
 de pares no se limita categóricamente a los bienes inmateriales. Entendido de
 esta forma, el concepto de producción de pares, donde una red de pares aplican
 su labor a un acervo común para beneficio mutuo e individual, ciertamente
 resuena en las viejas propuestas de modos socialistas de producción, donde en
-una comunidad sin clases los trabajadores ('pares') producen colaborativamente
+una comunidad de trabajadores sin clase ('pares') producen colaborativamente
 dentro de una sociedad sin propiedad ('basada en los comunes'). A diferencia de
 la definición inmaterial y no reciprocitaria, esta formulación puede dar cuenta
-de sus insumos materiales, especialización del trabajo y medios de formación de
+de insumos materiales, especialización del trabajo y medios de formación de
 capital, y tambien se relaciona cercanamente a la topología de las redes de
 pares (P2P) de la cual se deriva el término. Esta definición también describe
 mejor la producción de software libre, Wikipedia y otros trabajos ofrecidos
 como ejemplos de producción de pares.
 
-Aun más, esta formulación está arraigada en la historia, como describen los
+Aun más, esta formulación está mejor arraigada en la historia, como describen los
 ejemplos históricos de producción basada en comunes, como los terrenos
-pastoriles. Mientras la distribución de los activos producidos se encuentre
-arraigado en la inequidad de riqueza y poder que perpetuan los sistemas
+pastoriles. Como la distribución de los activos producidos está tan en la raíz
+de la inequidad de riqueza y poder que perpetuan los sistemas
 explotadores, un modo de producción donde los activos productivos son
 apropiados en común se vuelve potencialmente revolucionario. Sin embargo, si
 esta forma de producción se encapsula en lo inmaterial, si puede ser
 categorizada como inmaterial por definición, entonces sus productores no podrán
-capturar el valor que generen. Por lo tanto no tiene ningún valor, precisamente
-la razón por la que los profesores de leyes y otras elites de la Ivy League
+capturar el valor que generen. Esta, vale la pena decirlo, es precisamente
+la razón por la que los profesores de leyes de la Ivy League y otras elites
 prefieren mantener esta limitación. No obstante, si podemos implementar formas
 de compartir independientemente un acervo común de activos materiales y por lo
-tanto expandir el alcance para de los comunes incluir bienes materiales tanto
+tanto expandir el alcance de los comunes para incluir bienes materiales tanto
 como inmateriales, entonces los productores que emplean estos activos en su
 producción pueden retener una mayor parte de su producto.
 
