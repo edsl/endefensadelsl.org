@@ -1131,7 +1131,7 @@ coordinación. El comunismo de riesgo es esta forma.
 
 El comunismo de riesgo provee una estructura para que productores
 independientes compartan un patrimonio común de activos productivos,
-permitiendo formas de producción previamente asociadas con la creación de valor
+permitiendo que formas de producción antes asociadas exclusivamente con la creación de valor
 inmaterial, como el software libre, extendido a la esfera material. Parte del
 aparato que permitió a la comunidad del software libre crecer y expandirse fue
 la creación del copyleft, un tipo de licencia que permite la re-utilización del
@@ -1141,8 +1141,8 @@ convierte en patrimonio colectivo de todos los desarrolladores de software
 libre.
 
 La innovación principal del copyleft fue el de volver el sistema de copyright
-contra sí mismo. El vehículo para establecer control bajo copyright es la
-licencia bajo la cual se publica una obra, que establece los términos bajo los
+contra sí mismo. El vehículo para establecer control con el copyright es la
+licencia bajo la cual se publica una obra, que establece los términos en los
 cuales se permite a otros usar el material con copyright. El copyleft secuestra
 efectivamente el aparato existente que refuerza el privilegio sobre los activos
 intelectuales, usando la autoridad concedida por la licencia de copyright para
@@ -1158,8 +1158,8 @@ compartir propiedad material secuestra el aparato existente que refuerza el
 privilegio, para proteger un patrimonio común de activos productivos disponible
 para el uso de productores independientes.
 
-Legalmente, la comuna de riesgo es una compañía, muy similar a los fondos del
-capitalismo de riesgo de la clase capitalista. No obstante, la comuna de riesgo
+Legalmente, la comuna de riesgo es una compañía, muy similar a los fondos de
+capital de riesgo de la clase capitalista. No obstante, la comuna de riesgo
 posee propiedades distintas que la transforman en un vehículo efectivo para la
 lucha revolucionaria de los trabajadores. La comuna de riesgo posee todos los
 activos productivos que hacen al patrimonio común empleado por una red diversa
@@ -1172,71 +1172,72 @@ pares productores.
 
 La comuna de riesgo es la federación de colectivos de trabajadores y de
 trabajadores individuales, y es en sí misma propiedad de cada uno de ellos,
-donde cada miembro posee sólo una parte. En el caso de los trabajadores que
+donde cada miembro posee sólo una acción. En el caso de los trabajadores que
 trabajen en un colectivo o cooperativa, la propiedad se posee individualmente,
 por cada persona que forma ese colectivo o cooperativa. La propiedad en una
 comuna de riesgo sólo puede ser adquirida por contribuciones de trabajo, no de
-propiedad. Sólo el trabajo es una parte de la comuna que se gana, no por la
-contribución de tierra, capital o dinero; sólo de trabajo. La propiedad sólo se
+propiedad. Sólo mediante el trabajo se gana una acción de la comuna, no por la
+contribución de tierra, capital o dinero; sólo de trabajo. La propiedad siempre se
 posee en común por todos los miembros de la comuna, y la comuna de riesgo es
 poseída en partes iguales por todos sus miembros. Así, cada miembro no podría
-nunca acumular una parte desproporcionada de la propiedad. La propiedad no
+nunca acumular una parte desproporcionada de lo recaudado por la propiedad. La propiedad no
 puede concentrarse en pocas manos.
 
 La función de la comuna de riesgo es adquirir los activos materiales que sus
 miembros necesitan para vivir y trabajar, como el equipamiento y las
-herramientas, y asignarlas a esos miembros. La comuna adquiere propiedad cuando
+herramientas, y asignarlas a esos miembros. La comuna adquiere estos bienes cuando
 uno de los miembros lo requiere. Los miembros interesados en utilizar esa
 propiedad ofrecen un acuerdo de renta a la comuna, dando los términos que
-deseen para tomar posesión.  La comuna levanta una serie de bonos para juntar
+deseen para tomar posesión de los bienes. La comuna emite una serie de bonos para juntar
 los fondos necesarios para la adquisición, que entonces se vuelve colateral
 a los bonistas. El acuerdo de renta se ofrece como una garantía de que los
 fondos estarán disponibles para amortizar los bonos.
 
-Si esta garantía no se cumple, la propiedad podrá liquidarse a favor de los
+Si esta garantía no se cumple, la propiedad puede liquidarse a favor de los
 bonistas. Esta serie de bonos se venden en una subasta pública. Si la venta se
 realiza, la comuna adquiere la propiedad, y el acuerdo de renta se ejecuta
 transfiriendo la posesión al arrendador. La propiedad retorna a la comuna en
 cuanto los arrendadores dejen de necesitarla o son incapaces de cumplir con los
-términos del acuerdo, momento en el que la comuna lo ofrece otra vez en subasta
-a sus miembros, que ofertan por términos nuevos. Si no existiera demanda por el
-activo, este se liquida. Después de que los bonos se amortizan, se vuelve
-propiedad completa de la comuna.
+términos acordados, momento en el que la comuna lo ofrece otra vez en subasta
+a sus miembros, que ofertan por términos de renta nuevos. Si no existiera demanda por el
+activo, este se liquida. Después de que los bonos que fueron emitidos para
+adquirir un activo son cancelados completamente, este se vuelve propiedad
+de la comuna.
 
 El ingreso restante de la renta que la propiedad gana se divide en partes
 iguales entre todos los miembros de la comuna y se les paga. Las ganancias de
 la liquidación de la propiedad se dividen del mismo modo. Dado que la renta
 recolectada por la renta de la propiedad se divide igualmente entre los
 miembros de la comuna, aquellos miembros que pagan renta por una propiedad
-igual al monto que recibirían, esencialmente usan una parte igual de la
+igual al monto que recibirían de vuelta, esencialmente usan una parte igual de la
 propiedad colectiva gratis. Lo que pagan en renta por la propiedad es igual
-a la rentea que reciben como miembros de la comuna. Los miembros que alquilan
+a la renta que reciben como miembros de la comuna. Los miembros que alquilan
 por sobre su parte per-cápita de la propiedad colectiva pagarán más,
 y presumiblemente elegirán pagar porque están empleando la propiedad como un
 activo productivo, y por lo tanto ganando lo suficiente para pagar.
 
-Del mismo modo, los miembros que utilicen menos de su parte per-cápita reciben
-más en pago de lo que pagan en renta, es decir se les premia por no atesorar
+En cambio, los miembros que utilicen menos que su parte per-cápita reciben
+más en pago de lo que pagan en renta, es decir se les premia por no acumular
 propiedad. Las actividades principales de la comuna de riesgo, administrar
 bonos y acuerdos de renta, no imponen un gran nivel de coordinación y, como las
-redes informáticas que administrar la asignación de bienes inmateriales, son
+redes informáticas que administran la asignación de bienes inmateriales, son
 actividades muy bien dispuestas para la automatización computarizada. Podrían
 existir muchas comunas de riesgo y comunidades más estables y sostenibles de
-productores con base en los comunes.
+productores basados en los comunes.
 
-Cualquier cambio que pueda producir una sociedad más equitativa depende de un
-cambio en el modo de producción que incremente la parte de la riqueza retenida
+Cualquier cambio que puede producir una sociedad más equitativa depende de un
+cambio previo en el modo de producción que incrementa la parte de la riqueza retenida
 por los trabajadores. El cambio en el modo de producción debe ocurrir primero.
 Este cambio no puede alcanzarse políticamente, por voto, lobby, militancia
 o violencia revolucionaria, no mientras los dueños de la propiedad tengan más
-riqueza para aplicar en la prevención del cambio financiando a sus propios
+riqueza para usar en prevenir cualquier cambio financiando a sus propios
 candidatos, lobbistas, militantes y en última instancia, desarrollando una
 mayor capacidad para la violencia contrarrevolucionaria. La sociedad no puede
 ser cambiada por una huelga, no mientras los dueños de la propiedad tengan más
 riqueza acumulada para sostenerse durante las interrupciones de la producción.
-Ni siquiera la negociación colectiva funcionaría, mientras los dueños de la
-propiedad se apropien del producto, establezcan su precio y por lo tanto
-cualquier ganancia en salarios se pierdan en el aumento de precios.
+Ni siquiera la negociación colectiva puede funcionar, dado que como los dueños de la
+propiedad poseen el producto, establecen su precio y por lo tanto
+cualquier ganancia en salarios se pierde en el aumento de precios.
 
 El comunismo de riesgo no debe entenderse como una propuesta para una nueva
 forma de sociedad. Es una forma organizacional para la lucha social. Las
@@ -1244,11 +1245,11 @@ comunas de riesgo no intentan reemplazar los sindicatos, los partidos
 políticos, ONGs y otros vehículos potenciales para el conflicto de clase, sino
 complementarlos, para inclinar la balanza económica en favor de los
 representantes de los intereses de clase de los trabajadores. Sin el comunismo
-de riesgo, estas otras formas organizadas estarán siempre forzadas a trabajar
+de riesgo, estas otras formas organizadas están forzadas a trabajar siempre
 en oposición a bolsillos mucho más profundos y por lo tanto condenadas
 a cooptación, fracaso y retroceso infinitos. La única forma es detener la
 aplicación de nuestro trabajo a la propiedad privada de los no-productores y en
-reemplazarla por un patrimonio común de activos productivos.
+cambio formar un patrimonio común de activos productivos.
 
 El comunismo de riesgo significa tomar el control de nuestro propio proceso
 productivo, reteniendo el producto completo de nuestro trabajo, formando
