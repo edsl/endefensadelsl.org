@@ -1024,7 +1024,7 @@ comunes se aplique exclusivamente a los comunes informacionales y el modo de
 producción capitalista siga dominando la producción de la riqueza material, los
 dueños de la propiedad material continuarán capturando la riqueza marginal
 creada como resultado de la productividad de esos comunes informacionales.
-Cualquiera sea el valor de intercambio derivado de los comunes informacionales, 
+Cualquiera sea el valor de cambio derivado de los comunes informacionales, 
 será siempre capturado por los dueños de la propiedad real, que se encuentra
 fuera de los comunes.
 
@@ -1279,7 +1279,7 @@ empresas donde el pueblo produzca por el valor social mismo y lo comparta entre
 iguales y la construcción y expansión económica de estas para elevar al
 proletariado como la clase económicamente dominante. Sólo cuando los
 trabajadores controlen su propia producción será alcanzada** la conquista de la
-democracia .
+democracia.
 
 El proletariado se valdrá del Poder **Económico** para ir despojando
 paulatinamente a la burguesía de todo el capital, de todos los instrumentos de
@@ -1327,7 +1327,7 @@ duda, de ser aplicadas con carácter más o menos general, según los casos.
    mercado mutual de bonos, donde los bonos son subastados con el propósito de
    construir el stock común de activos productivos.**
 
-6. <s>Nacionalización de los transportes.</s> **Desarrollo de los medios
+6. <s>Nacionalización de los transportes.</s> **Desarrollo de los recursos
    necesarios para poner en manos de todos los miembros los medios de
    comunicación y transporte.**
 
@@ -1375,23 +1375,23 @@ libre desarrollo de todos.
 'Estamos en medio de una revolución de las formas en que el conocimiento y la
 cultura son creados, accedidos y transformados', establece la 'Carta por la
 Innovación, la Creatividad y el Acceso al Conocimiento', algo así como un
-manifiesto del movimiento de la cultura libre.[^charter-sf] Esta revolución se
-opone a un sistema de copyright que se desarrolló junto con el capitalismo
+manifiesto del movimiento de la cultura libre.[^charter-sf] La revolución es
+contra un sistema de copyright que se desarrolló junto con el capitalismo
 y tiene como base a la explotación de los creadores. Es en el contexto de la
 gran disparidad de riqueza y la lucha entre clases que cualquier investigación
 sobre la producción cultural debe ser entendida.
 
-Crear las condiciones para la expropiación a los creadores siempre ha sido la
+Crear las condiciones para la expropiación de los creadores siempre ha sido la
 raíz del copyright. Esto ha sido el sujeto de crítica y disenso entre artistas
 y autores desde que existe la noción de derechos exclusivos sobre las ideas.
-Esto incluye a muchos que adhieren a una oposición completa al copyright en la
+Esto incluye a muchos que adhieren a una oposición completa al copyright, en la
 forma del anticopyright. El advenimiento de la cultura digital y la popularidad
 de la compartición de archivos han traído ciertas formas de tal disenso al
 mainstream, aunque muchas veces sin el contexto de la lucha de clases
 y cargados por la falsa concepción común de que el copyright fue creado para
-proteger a los productores culturales. Esta falsa concepción se encuentra en
+proteger a los productores culturales. Esto ha llevado a
 proyectos como Creative Commons, que profesa promover la creación de una
-cultura común, pero de hecho se autolimita en un modelo más flexible de
+cultura común, pero de hecho se autolimita a promover un modelo más flexible de
 propiedad privada.
 
 Al unirse la producción de software con la producción cultural en la esfera de
@@ -1404,11 +1404,11 @@ ha creado algunas falsas concepciones, ya que los bienes económicos orientados
 al uso de los productores, como el software, son diferentes de los bienes para
 consumo, como los libros, películas y música. En orden a aplicar el poderoso
 modelo de las licencias copyleft, una forma de licenciamiento que garantiza la
-libertad de los derivados de las obras, las diferentes economías del software
+libertad de los derivados de las obras, las economías diferentes del software
 y la cultura deben tomarse en consideración y hacerse compatibles con la
 emancipación de la clase trabajadora en su conjunto. La cultura libre no puede
-sostenerse en una sociedad no libre, que necesita de los bienes de consumo para
-capturar ganancias. La cultura libre sólo puede realizarse en el contexto de
+sostenerse en una sociedad no libre, que necesita que los bienes de consumo
+capturen ganancias. La cultura libre sólo puede realizarse en el contexto de
 una sociedad libre.
 
 Mientras que el copyleft es muy efectivo en la creación de un dominio común de
@@ -1419,8 +1419,8 @@ organizaciones que mantienen sus propios activos por fuera del dominio común.
 
 ## El copyright es un sistema de censura y explotación
 
-La existencia de los 'derechos de copia' predan las nociones dieciochescas del
-derecho del autor a la propiedad.[^26] Desde el siglo XVI al XVII las licencias
+La existencia de los 'derechos de copia' es previa a las nociones sobre el
+derecho del autor a la propiedad del siglo XVIII.[^26] Desde el siglo XVI al XVII las licencias
 reales otorgaron derechos exclusivos a ciertos editores para la impresión de
 textos particulares. En 1557, un monopolio exclusivo sobre la impresión fue
 dado a través del _Royal Charter_ al gremio londinense de los imprenteros, la
@@ -1445,13 +1445,13 @@ El filósofo John Locke se contaba entre los arquitectos maestros del Estado
 liberal y la ideología de la propiedad privada. Para Locke, la propiedad era la
 extensión de la propiedad sobre uno mismo. Al ser dueño de uno mismo, uno es
 dueño de lo que produce. El derecho a la propiedad es creado por el trabajo.
-El Parlamento inglés tomó una posición consistente con esto y el Estatuto de
+El Parlamento inglés tomó una posición consistente con esta visón y el Estatuto de
 Ana, promulgado por el Parlamento en 1709, fue un duro embate para la
 Stationers' Company. El Estatuto declaraba que los autores, no los editores,
 eran los dueños de sus obras y limitaban el término del copyright a catorce
 años para los libros nuevos y veintiuno para los copyright existentes. El
-Estatuto, subtitulado 'Un Acta para la Promoción del Aprendizaje, a través de
-la Asignación de Copias de Libros Impresos a los Autores o los Compradores de
+Estatuto, subtitulado 'Un Acta para la Promoción del Aprendizaje, Invistiendo
+las Copias de Libros Impresos en los Autores o los Compradores de
 tales Copias, Durante el Tiempo Debajo Mencionado', creó un mercado para el
 conocimiento a través de la competencia. El objetivo del Estatuto no era crear
 un copyright para el autor, sino quebrar el monopolio de la Stationers'
@@ -1475,12 +1475,12 @@ imbuida en el régimen de propiedad intelectual desde su concepción.
 
 Existen importantes diferencias entre las propiedades intelectual y física. La
 propiedad física es escasa y finita, mientras que la propiedad intelectual
-puede ser copiada, a menudo cuesta casi nada para reproducirla y puede ser
+puede ser copiada, a menudo cuesta casi nada reproducirla y puede ser
 usada simultáneamente por cualquiera que posea una copia. Es exactamente esta
 característica de reproducibilidad ilimitada la que requiere que el régimen del
 copyright convierta la información en propiedad. En el largo plazo, el valor de
-cambio de cualquier bien reproducible es llevado al costo de reproducción por
-competencia. En otras palabras, la información no tiene un valor de cambio por
+cambio de cualquier bien reproducible es llevado hacia el costo de reproducción por
+la competencia. En otras palabras, la información no tiene un valor de cambio por
 sí misma. Entonces, los propietarios (de nuevo, no confundirlos con los
 productores) necesitan leyes que prevengan su reproducción.
 
@@ -1492,24 +1492,24 @@ construcción legal que intenta hacer que ciertos tipos de riqueza inmaterial se
 comporten como la riqueza material para que puedan ser apropiadas, controladas
 y comerciadas.
 
-En cualquier sistema de propiedad, los músicos son incapaces de retener la
-propiedad sobre el producto de su trabajo al igual que los trabajadores de
-cualquier fábrica textil. El sistema del control privado de los medios de
+En cualquier sistema de propiedad, los músicos no pueden retener la
+propiedad sobre el producto de su trabajo más que lo que pueden los trabajadores de
+cualquier taller clandestino textil. El sistema del control privado de los medios de
 publicación, distribución, promoción y producción mediática asegura que los
 artistas y todos los demás trabajadores creativos no puedan ganar más que lo
 necesario para su subsistencia. Seas un bioquímico, un músico, un ingeniero de
-software o un cineasta, has cedido todos tus copyright en un contrato a los
+software o un cineasta, has cedido todos tus derechos de copia en un contrato a los
 propietarios antes de que esos derechos posean algún valor financiero real, por
 no más del costo de reproducción de tu trabajo.
 
 Pierre-Joseph Proudhon, socialista francés decimonónico y la primera persona en
-llamarse 'anarquista', argumentó que la propiedad es el robo. De acuerdo con
-esta lógica, si la propiedad es el robo, entonces la propiedad intelectual es
-el fraude. La propiedad no es el robo en el sentido estrictamente legal, ya que
+llamarse a sí mismo 'anarquista', argumentó que la propiedad es un robo. De acuerdo con
+esta lógica, si la propiedad es un robo, entonces la propiedad intelectual es
+un fraude. La propiedad no es un robo en el sentido estrictamente legal, ya que
 las leyes del Estado capitalista liberal son el fundamento de la Propiedad. La
-propiedad es el robo en el sentido filosófico, porque es intrínsecamente
+propiedad es un robo en el sentido filosófico, porque es intrínsecamente
 injusto tomar lo que no has producido. Proudhon, como Thompson y Hodsgkin antes
-de él, argumenta que el propietario no puede reclamar legítimamente el producto
+que él, argumenta que el propietario no puede reclamar legítimamente el producto
 de aquellos que ponen su propiedad a producir.[^proudhon-1890] Sin el recurso
 de la fuerza, los propietarios no pueden extraer más que los costos de
 reproducción de los instrumentos que contribuyen al proceso productivo. Una
@@ -1525,22 +1525,22 @@ forzados hacia el trabajo asalariado como resultado de esta expropiación, la
 institución de la propiedad misma se convirtió en la institución del robo.
 
 Pero si la propiedad física puede ser robada, ¿pueden robarse la inteligencia
-o las ideas? Si tu tierra es robada, ya no podés usarla, a excepción de las
+o las ideas? Si tu tierra es robada, ya no podés usarla, excepto bajo las
 condiciones que imponga el nuevo propietario. Si la propiedad de una idea es
 análoga a la propiedad material, debe estar sujeta a las mismas condiciones del
-intercambio económico, decomisación y embargación. Y si es embargado, entonces
+intercambio económico, decomisación y embargo. Y si es embargado, entonces
 deja de ser la propiedad de su dueño. Pero si tu idea es usada por otros, no
-has perdido la habilidad para usarla, ¿entonces que es lo que fue robado en
+has perdido la habilidad para usarla, ¿entonces qué es lo que fue robado en
 realidad? La noción tradicional de la propiedad, como algo que puede ser
 poseído excluyendo a otros es irreconciliable con algo tan intangible como una
 idea. Al contrario de un objeto material, que puede existir en un único lugar
 en un tiempo determinado, las ideas son infinitas y no excluyentes. Un poema no
-es el poema de un poeta, existe en la memoria de otros miles.
+deja de ser el poema de un poeta, aunque exista en la memoria de otros miles.
 
 Toda expresión es extensión de una percepción previa. Las ideas no son
 originales, se construyen sobre capas de conocimiento acumulado a través de la
 historia. De estas capas comunes los artistas crean obras que incluyen sus
-propias especificidades e innovaciones. Todas las obras creativas asemejan
+inconfundibles especificidades e innovaciones propias. Todas las obras creativas reensamblan
 ideas, palabras e imágenes de la historia y de su contexto contemporáneo. Antes
 del siglo XVIII, los poetas citaban a sus ancestros y fuentes de inspiración
 sin reconocimiento formal y los guionistas tomaban libremente los argumentos
@@ -1550,16 +1550,16 @@ Virgilio está basada fuertemente en Homero. Shakespeare tomó muchos de sus
 argumentos narrativos y diálogos de Holinshed.
 
 Esto no quiere decir que el concepto de plagio no existiera antes del siglo
-XVIII, pero su definición cambió radicalmente. El término plagio (literalmente,
-secuestrador) fue usado por Marcial en el siglo I para describir alguien que
+XVIII, pero su definición cambió radicalmente. El término plagiario (literalmente,
+secuestrador) fue usado por Marcial en el siglo I para describir a alguien que
 secuestraba sus poemas copiándolos completos y haciéndolos circular bajo su
 propio nombre. El plagio es la falsa asunción de la obra de otro. Pero si una
 obra nueva contenía pasajes similares o expresiones idénticas a otras más
-tempranas, no se consideraba tal asunción, mientras que la nueva obra poseyera
+tempranas, no se consideraba como tal asunción, mientras que la nueva obra poseyera
 sus propios méritos estéticos. Luego de la invención del genio creativo, las
 prácticas de colaboración, apropiación y transmisión fueron olvidadas
 activamente. Las acusaciones de plagio dirigidas a Coleridge, Stendhal, Wilde
-y T. S. Eliott por incluir expresiones de sus predecesores en sus obras
+y T. S. Eliot por incluir expresiones de sus predecesores en sus obras
 reflejaban la redefinición moderna del término siguiendo a las nociones
 modernas de autoría y propiedad exclusiva.
 
