@@ -373,12 +373,12 @@ disponible para todos. El Software Libre es producido por productores diversos
 y distribuidos que contribuyen a él porque ganan mayor valor al usar el
 software para su propia producción que el valor de sus contribuciones
 individuales al software. Los ataques populares a las regalías y tasas
-capturadas por la industría discográfica y fílmica por parte de los
-usuarios de tecnologías de compartición de archivos nos muestran las
-dificultades que enfrentan aquellos cuyos ingresos dependen del control de la
-reproducción. El transporte masivo y la migración internacional han creado
-comunidades distribuidas que mantienen relaciones interpersonales y, a menudo,
-económicas informales a través de los límites nacionales.
+capturadas por la industría discográfica y fílmica por parte de los usuarios de
+tecnologías de compartición de archivos nos muestran las dificultades que
+enfrentan aquellos cuyos ingresos dependen del control de la reproducción. El
+transporte masivo y la migración internacional han creado comunidades
+distribuidas que mantienen relaciones interpersonales y, a menudo, económicas
+informales a través de los límites nacionales.
 
 Todos estos son ejemplos de nuevas relaciones productivas que trascienden las
 actuales relaciones basadas en la propiedad y apuntan a un progreso potencial.
@@ -1032,23 +1032,23 @@ Para que la producción de pares tenga algún efecto sobre la riqueza material e
 general, tiene que operar en el contexto de un sistema completo de bienes
 y servicios, donde tanto los medios de producción físicos como los virtuales
 están disponibles en los comunes productivos. Al establecer una producción de
-pares únicamente en el contexto del patrimonio común solo de informacion,
-Blenkler está creando una trampa, asegurándose de que el valor creado en la
+pares únicamente en el contexto del patrimonio común de la informacion,
+Benkler está creando una trampa, asegurándose que el valor creado en la
 economía de pares sea apropiado por el privilegio sobre la propiedad.
-Encontramos a Benkler de cabeza y necesitamos redefinir la producción de pares
-para volverlo a colocar sobre sus pies.
+Encontramos a Benkler sobre su cabeza y necesitamos redefinir la producción de
+pares para volver a colocarlo sobre sus pies.
 
-No es la producción, en la producción de lo inmaterial y no reciprocitario, lo
-que es inmaterial. Las computadoras, redes, desarrolladores y sus
-lugares de residencia y trabajo son muy materiales y requieren mantenimiento
-material. Lo que es inmaterial es la distribución. La información digitalizada, sea
-código fuente u obra cultural, puede multiplicarse y enviarse por las redes
-globales en fracciones de segundo, aunque su producción sigue siendo un asunto
-bastante material. Si la produccion de pares sólo puede producir bienes
-inmateriales como el software, y si los productores no obtienen nada a cambio
-por esa producción, entonces esa forma de 'producción' no puede llamarse modo
-de producción en lo absoluto. En primer término, cualquier modo de producción
-debe dar cuenta de sus insumos materiales o se desvanecerá. Estos insumos deben
+No es la producción de lo inmaterial, es decir la producción no reciprocitaria,
+lo que es inmaterial. Las computadoras, redes, desarrolladores y sus lugares de
+residencia y trabajo son muy materiales y requieren mantenimiento material. Lo
+que es inmaterial es la distribución. La información digitalizada, sea código
+fuente u obra cultural, puede multiplicarse y enviarse por las redes globales
+en fracciones de segundo, aunque su producción sigue siendo un asunto bastante
+material. Si la produccion de pares sólo puede producir bienes inmateriales
+como el software, y si los productores no obtienen nada a cambio por esa
+producción, entonces esa forma de 'producción' no puede llamarse modo de
+producción en lo absoluto. En primer término, cualquier modo de producción debe
+dar cuenta de sus insumos materiales o se desvanecerá. Estos insumos deben
 incluir los costos de subsistencia de quienes contribuyeron con su trabajo,
 para, como mínimo, 'permitir a los trabajadores, uno con otro, subsistir
 y perpetuar su raza', en palabras de Ricardo.[^ricardo-1821]
@@ -1070,7 +1070,7 @@ de pares no se limita categóricamente a los bienes inmateriales. Entendido de
 esta forma, el concepto de producción de pares, donde una red de pares aplican
 su labor a un acervo común para beneficio mutuo e individual, ciertamente
 resuena en las viejas propuestas de modos socialistas de producción, donde en
-una comunidad de trabajadores sin clase ('pares') producen colaborativamente
+una comunidad sin clases de trabajadores ('pares') producen colaborativamente
 dentro de una sociedad sin propiedad ('basada en los comunes'). A diferencia de
 la definición inmaterial y no reciprocitaria, esta formulación puede dar cuenta
 de insumos materiales, especialización del trabajo y medios de formación de
