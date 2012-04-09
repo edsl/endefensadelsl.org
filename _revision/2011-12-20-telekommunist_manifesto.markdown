@@ -1389,7 +1389,7 @@ forma del anticopyright. El advenimiento de la cultura digital y la popularidad
 de la compartición de archivos han traído ciertas formas de tal disenso al
 mainstream, aunque muchas veces sin el contexto de la lucha de clases
 y cargados por la falsa concepción común de que el copyright fue creado para
-proteger a los productores culturales. Esto ha llevado a
+proteger a los productores culturales. Esta falsa concepción ha llevado a
 proyectos como Creative Commons, que profesa promover la creación de una
 cultura común, pero de hecho se autolimita a promover un modelo más flexible de
 propiedad privada.
@@ -1407,8 +1407,8 @@ modelo de las licencias copyleft, una forma de licenciamiento que garantiza la
 libertad de los derivados de las obras, las economías diferentes del software
 y la cultura deben tomarse en consideración y hacerse compatibles con la
 emancipación de la clase trabajadora en su conjunto. La cultura libre no puede
-sostenerse en una sociedad no libre, que necesita que los bienes de consumo
-capturen ganancias. La cultura libre sólo puede realizarse en el contexto de
+sostenerse en una sociedad no libre, que necesita de los bienes de consumo para
+capturar ganancias. La cultura libre sólo puede realizarse en el contexto de
 una sociedad libre.
 
 Mientras que el copyleft es muy efectivo en la creación de un dominio común de
@@ -1420,15 +1420,15 @@ organizaciones que mantienen sus propios activos por fuera del dominio común.
 ## El copyright es un sistema de censura y explotación
 
 La existencia de los 'derechos de copia' es previa a las nociones sobre el
-derecho del autor a la propiedad del siglo XVIII.[^26] Desde el siglo XVI al XVII las licencias
-reales otorgaron derechos exclusivos a ciertos editores para la impresión de
-textos particulares. En 1557, un monopolio exclusivo sobre la impresión fue
-dado a través del _Royal Charter_ al gremio londinense de los imprenteros, la
-_Stationers' Company_, porque aseguraba el control de la Corona sobre los
-libros que se publicaban o se censuraban. Los primeros derechos de copia fueron
-los derechos de los editores a imprimir copias, emergiendo de las necesidades
-ideológicas de las monarquías absolutistas de controlar el conocimiento
-y censurar el disenso.
+derecho del autor a la propiedad del siglo XVIII.[^26] Desde el siglo XVI al
+XVII las licencias reales otorgaron derechos exclusivos a ciertos editores para
+la impresión de textos particulares. En 1557, un monopolio exclusivo sobre la
+impresión fue dado a través del _Royal Charter_ al gremio londinense de los
+imprenteros, la _Stationers' Company_, porque aseguraba el control de la Corona
+sobre los libros que se publicaban o se censuraban. Los primeros derechos de
+copia fueron los derechos de los editores a imprimir copias, emergiendo de las
+necesidades ideológicas de las monarquías absolutistas de controlar el
+conocimiento y censurar el disenso.
 
 Después de que el Acta de Licenciamiento hubiera expirado en 1694, el monopolio
 de la Stationers' Company se vio amenazado por los libreros provinciales, los
@@ -1445,17 +1445,16 @@ El filósofo John Locke se contaba entre los arquitectos maestros del Estado
 liberal y la ideología de la propiedad privada. Para Locke, la propiedad era la
 extensión de la propiedad sobre uno mismo. Al ser dueño de uno mismo, uno es
 dueño de lo que produce. El derecho a la propiedad es creado por el trabajo.
-El Parlamento inglés tomó una posición consistente con esta visón y el Estatuto de
-Ana, promulgado por el Parlamento en 1709, fue un duro embate para la
-Stationers' Company. El Estatuto declaraba que los autores, no los editores,
+El Parlamento inglés tomó una posición consistente con esta visión y el
+Estatuto de Ana, promulgado por el Parlamento en 1709, fue un duro embate para
+la Stationers' Company. El Estatuto declaraba que los autores, no los editores,
 eran los dueños de sus obras y limitaban el término del copyright a catorce
 años para los libros nuevos y veintiuno para los copyright existentes. El
 Estatuto, subtitulado 'Un Acta para la Promoción del Aprendizaje, Invistiendo
-las Copias de Libros Impresos en los Autores o los Compradores de
-tales Copias, Durante el Tiempo Debajo Mencionado', creó un mercado para el
-conocimiento a través de la competencia. El objetivo del Estatuto no era crear
-un copyright para el autor, sino quebrar el monopolio de la Stationers'
-Company.
+las Copias de Libros Impresos en los Autores o los Compradores de tales Copias,
+Durante el Tiempo Debajo Mencionado', creó un mercado para el conocimiento
+a través de la competencia. El objetivo del Estatuto no era crear un copyright
+para el autor, sino quebrar el monopolio de la Stationers' Company.
 
 Los jugadores principales, en lo que la prensa saludó como la gran causa de la
 propiedad literaria, no eran los autores. Los editores se demandaron entre sí
@@ -1492,15 +1491,15 @@ construcción legal que intenta hacer que ciertos tipos de riqueza inmaterial se
 comporten como la riqueza material para que puedan ser apropiadas, controladas
 y comerciadas.
 
-En cualquier sistema de propiedad, los músicos no pueden retener la
-propiedad sobre el producto de su trabajo más que lo que pueden los trabajadores de
-cualquier taller clandestino textil. El sistema del control privado de los medios de
-publicación, distribución, promoción y producción mediática asegura que los
-artistas y todos los demás trabajadores creativos no puedan ganar más que lo
-necesario para su subsistencia. Seas un bioquímico, un músico, un ingeniero de
-software o un cineasta, has cedido todos tus derechos de copia en un contrato a los
-propietarios antes de que esos derechos posean algún valor financiero real, por
-no más del costo de reproducción de tu trabajo.
+En cualquier sistema de propiedad, los músicos no pueden retener la propiedad
+sobre el producto de su trabajo más que lo que pueden los trabajadores de
+cualquier taller textil clandestino. El sistema del control privado de los
+medios de publicación, distribución, promoción y producción mediática asegura
+que los artistas y todos los demás trabajadores creativos no puedan ganar más
+que lo necesario para su subsistencia. Seas un bioquímico, un músico, un
+ingeniero de software o un cineasta, has cedido todos tus derechos de copia en
+un contrato a los propietarios antes de que esos derechos posean algún valor
+financiero real, por no más del costo de reproducción de tu trabajo.
 
 Pierre-Joseph Proudhon, socialista francés decimonónico y la primera persona en
 llamarse a sí mismo 'anarquista', argumentó que la propiedad es el robo. De
@@ -1541,14 +1540,15 @@ deja de ser el poema de un poeta, aunque exista en la memoria de otros miles.
 Toda expresión es extensión de una percepción previa. Las ideas no son
 originales, se construyen sobre capas de conocimiento acumulado a través de la
 historia. De estas capas comunes los artistas crean obras que incluyen sus
-inconfundibles especificidades e innovaciones propias. Todas las obras creativas reensamblan
-ideas, palabras e imágenes de la historia y de su contexto contemporáneo. Antes
-del siglo XVIII, los poetas citaban a sus ancestros y fuentes de inspiración
-sin reconocimiento formal y los guionistas tomaban libremente los argumentos
-y diálogos de fuentes anteriores, sin atribución. Homero basó la 'Ilíada' y la
-'Odisea' en tradiciones orales con siglos de antigüedad. La 'Eneida' de
-Virgilio está basada fuertemente en Homero. Shakespeare tomó muchos de sus
-argumentos narrativos y diálogos de Holinshed.
+inconfundibles especificidades e innovaciones propias. Todas las obras
+creativas reensamblan ideas, palabras e imágenes de la historia y de su
+contexto contemporáneo. Antes del siglo XVIII, los poetas citaban a sus
+ancestros y fuentes de inspiración sin reconocimiento formal y los guionistas
+tomaban libremente los argumentos y diálogos de fuentes anteriores, sin
+atribución. Homero basó la 'Ilíada' y la 'Odisea' en tradiciones orales con
+siglos de antigüedad. La 'Eneida' de Virgilio está basada fuertemente en
+Homero. Shakespeare tomó muchos de sus argumentos narrativos y diálogos de
+Holinshed.
 
 Esto no quiere decir que el concepto de plagio no existiera antes del siglo
 XVIII, pero su definición cambió radicalmente. El término plagiario (literalmente,
