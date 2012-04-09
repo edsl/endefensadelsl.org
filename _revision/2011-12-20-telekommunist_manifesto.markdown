@@ -1038,8 +1038,8 @@ economía de pares sea apropiado por el privilegio sobre la propiedad.
 Encontramos a Benkler sobre su cabeza y necesitamos redefinir la producción de
 pares para volver a colocarlo sobre sus pies.
 
-No es la producción de lo inmaterial, es decir la producción no reciprocitaria,
-lo que es inmaterial. Las computadoras, redes, desarrolladores y sus lugares de
+No es la producción lo que es inmaterial, en la producción inmaterial no
+reciprocitaria. Las computadoras, redes, desarrolladores y sus lugares de
 residencia y trabajo son muy materiales y requieren mantenimiento material. Lo
 que es inmaterial es la distribución. La información digitalizada, sea código
 fuente u obra cultural, puede multiplicarse y enviarse por las redes globales
