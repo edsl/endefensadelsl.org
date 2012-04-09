@@ -1389,7 +1389,7 @@ forma del anticopyright. El advenimiento de la cultura digital y la popularidad
 de la compartición de archivos han traído ciertas formas de tal disenso al
 mainstream, aunque muchas veces sin el contexto de la lucha de clases
 y cargados por la falsa concepción común de que el copyright fue creado para
-proteger a los productores culturales. Esta falsa concepción ha llevado a
+proteger a los productores culturales. Esto ha llevado a
 proyectos como Creative Commons, que profesa promover la creación de una
 cultura común, pero de hecho se autolimita a promover un modelo más flexible de
 propiedad privada.
