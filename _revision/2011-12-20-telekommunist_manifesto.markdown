@@ -1503,18 +1503,19 @@ propietarios antes de que esos derechos posean algún valor financiero real, por
 no más del costo de reproducción de tu trabajo.
 
 Pierre-Joseph Proudhon, socialista francés decimonónico y la primera persona en
-llamarse a sí mismo 'anarquista', argumentó que la propiedad es un robo. De acuerdo con
-esta lógica, si la propiedad es un robo, entonces la propiedad intelectual es
-un fraude. La propiedad no es un robo en el sentido estrictamente legal, ya que
-las leyes del Estado capitalista liberal son el fundamento de la Propiedad. La
-propiedad es un robo en el sentido filosófico, porque es intrínsecamente
-injusto tomar lo que no has producido. Proudhon, como Thompson y Hodsgkin antes
-que él, argumenta que el propietario no puede reclamar legítimamente el producto
-de aquellos que ponen su propiedad a producir.[^proudhon-1890] Sin el recurso
-de la fuerza, los propietarios no pueden extraer más que los costos de
-reproducción de los instrumentos que contribuyen al proceso productivo. Una
-clase capitalista entonces no puede existir sin negar a los trabajadores el
-acceso independiente a los medios de producción.
+llamarse a sí mismo 'anarquista', argumentó que la propiedad es el robo. De
+acuerdo con esta lógica, si la propiedad es el robo, entonces la propiedad
+intelectual es un fraude. La propiedad no es el robo en el sentido
+estrictamente legal, ya que las leyes del Estado capitalista liberal son el
+fundamento de la Propiedad. La propiedad es el robo en el sentido filosófico,
+porque es intrínsecamente injusto tomar lo que no has producido. Proudhon, como
+Thompson y Hodsgkin antes que él, argumenta que el propietario no puede
+reclamar legítimamente el producto de aquellos que ponen su propiedad
+a producir.[^proudhon-1890] Sin el recurso de la fuerza, los propietarios no
+pueden extraer más que los costos de reproducción de los instrumentos que
+contribuyen al proceso productivo. Una clase capitalista entonces no puede
+existir sin negar a los trabajadores el acceso independiente a los medios de
+producción.
 
 En palabras del anarcoindividualista estadounidense Benjamin Tucker, 'el que
 presta capital tiene asegurado su retorno intacto, y nada más'.[^tucker-1926]
