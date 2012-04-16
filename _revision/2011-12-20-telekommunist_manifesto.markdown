@@ -1565,15 +1565,15 @@ reflejaban la redefinición moderna del término siguiendo a las nociones
 modernas de autoría y propiedad exclusiva.
 
 Las ideas son virales. Se acoplan a otras ideas, cambian de forma y migran
-hacia territorios desconocidos. Los regimenes de propiedad intelectual
+hacia territorios desconocidos. Los regímenes de propiedad intelectual
 restringen la promiscuidad de las ideas y las atrapan en cercamientos
 artificiales, extrayendo beneficios exclusivos a través de su propiedad
 y control. La propiedad intelectual es el fraude, un privilegio legal para
 representarse falsamente como el único 'propietario' de una idea, expresión
-o técnica y de cobrar tarifa a todos aquellos que perciban, expresen o apliquen
+o técnica y cobrar tarifa a todos aquellos que quieran percibir, expresar o aplicar
 esta 'propiedad' en sus propias prácticas productivas. No es el plagio el que
 desposee a un 'propietario' de una idea, es la propiedad intelectual, apoyada
-por la invasiva violencia de un Estado que desposee a todos del uso de la
+por la invasiva violencia de un Estado que desposee a todos del uso de su
 cultura común.
 
 La base de esta desposesión es la ficción legal de que el autor es el soberano
@@ -1583,19 +1583,19 @@ como un principio funcional que impide la libre circulación, manipulación,
 composición, decomposición y recomposición del conocimiento.[^macmillan-2007]
 El autor-función representa una forma de despotismo sobre la proliferación de
 ideas. El efecto de este despotismo y del sistema de propiedad intelectual que
-lo protege y preserva, es el de robarnos nuestra memoria cultural, censurar
-nuestras palabras y encadenar nuestra imaginación a la ley.  Aún así los
-artistas continúan halagándose con la asociación al mito del genio creativo,
+este protege y preserva, es que nos roba nuestra memoria cultural, censura
+nuestras palabras y encadena nuestra imaginación a la ley.  Y sin embargo los
+artistas continúan halagándose con su asociación al mito del genio creativo,
 haciendo ojos ciegos al modo en que es utilizado para justificar su explotación
 y expandir el privilegio de la elite propietaria.
 
 El copyright pone a un autor contra otro en una guerra de competencia por la
 originalidad. Sus efectos no son sólo económicos; el copyright también
 naturaliza un cierto proceso de producción de conocimiento, deslegitimiza la
-noción de la cultura común y discapacita las relaciones sociales. Los artistas
-no son invitados a compartir sus pensamientos, expresiones y obras,
+noción de una cultura común y daña las relaciones sociales. Los artistas
+no son incentivados a compartir sus pensamientos, expresiones y obras,
 o a contribuir a un pozo común de creatividad. En su lugar, se ven obligados
-a proteger celosamente su 'propiedad' de los demás a los que ven como
+a proteger celosamente su 'propiedad' de los demás, a los que ven como
 potenciales competidores, espías y ladrones esperando para robar y violar sus
 originales ideas. Esta es una visión sobre el mundo del arte creada a imagen
 del capitalismo, un capitalismo que busca apropiarse del producto alienado de
@@ -1605,22 +1605,22 @@ Joost Smiers, Profesor Emérito en Ciencia Política de las Artes en la Escuela
 de Artes Utrecht, se cuenta entre aquellos que insisten en la abolición del
 copyright. Argumenta que el copyright centraliza la propiedad de los medios al
 entregarle a los grandes conglomerados mediáticos una ventaja anticompetitiva
-que daña la posición de los artistas. Los artistas ganan más en un campo de
-juego consistente de un gran número de editores compitiendo por sus servicios,
+que daña la posición de los artistas. Los artistas ganarían más en un campo de
+juego parejo que consista de un gran número de editores compitiendo por sus servicios,
 que de la exclusividad del copyright.[^joost-2009] El profesor Smiers tiene un
-punto válido en la ineficiencia de mercado del copyright. El copyright debería
+punto válido respecto a la ineficiencia de mercado del copyright. El copyright debería
 ser abolido. No obstante, no hay razón para creer que lo será.
 
 El copyright está lejos de ser la única ineficiencia del mercado en el mercado
 capitalista contemporáneo. Sin las ineficiencias del mercado, el capital no
 sería capaz de capturar más que su propio costo de reproducción en cualquier
 rama de la industria. La eliminación de la competencia es central para la
-lógica del capitalismo. Sin estas ventajas injustas, una clase capitalista de
+lógica del capitalismo. Sin ventajas injustas, una clase capitalista de
 propietarios no podría acumular riqueza y no podría haber capitalismo alguno.
 Smiers tiene razón en su crítica al copyright, también está en lo correcto
 cuando denuncia el copyright como una forma de censura. Sin embargo, como toda
 idea política, la abolición del copyright sólo puede implementarse cuando
-aquellos que la soportan superan en riqueza a aquellos que la oponen. Este no
+aquellos que la apoyan superan en riqueza a aquellos que la oponen. Actualmente este no
 es el caso.
 
 La propiedad privada de las ideas durante los últimos dos siglos no ha logrado
@@ -1629,27 +1629,27 @@ conocimiento florece cuando las ideas, palabras, sonidos e imágenes son libres
 para el uso de todos. Desde el mismo nacimiento del autor propietario,
 diferentes individuos y grupos han desafiado el régimen de propiedad
 intelectual y el 'derecho' que daba a algunos individuos privados a 'poseer'
-obras creativas mientras previene a otros a usarlas y re-interpretarlas.
+obras creativas mientras impide a otros a usarlas y re-interpretarlas.
 
 En su 'Poesías' de 1870, un par de textos descubiertos y reverenciados por los
 surrealistas Louis Aragon y André Breton, el poeta francés nacido en Uruguay
-Comte de Lautreamont llamaba al regreso de una poesía impersonal, una poesía
+Conde de Lautreamont llamaba al regreso de una poesía impersonal, una poesía
 escrita por todos. 'El plagio es necesario', decía Lautreamont, 'el progreso
 depende de eso. Toma la frase de un autor, usa sus expresiones, borra una falsa
 idea, la reemplaza por una verdadera'.[^khayati-1966] Su definición subvertía
 el mito de la creatividad individual usado para justificar las relaciones de
-propiedad, en nombre del progreso, donde el mito de la creatividad individual
-impedía de hecho el progreso a través de la privatización de la cultura. La
+propiedad, en nombre del progreso, cuando en realidad el mito de la creatividad individual
+impedía el progreso a través de la privatización de la cultura. La
 respuesta natural era re-apropiarse de la cultura como una esfera de producción
-colectiva sin reconocer cercamientos individuales de autoría. La frase de
-Lautreamont se volvió una piedra de toque de las vanguardias del siglo XX. Dadá
-rechazó la originalidad y retrató toda la producción artística como reciclaje
-y re-montaje, desde los ready-made de Duchamp a la regla de Tzará para hacer
+colectiva sin reconocer cercamientos artificiales de autoría. La frase de
+Lautreamont se volvió un punto de referencia de las vanguardias del siglo XX. Dadá
+rechazó la originalidad y retrató a toda la producción artística como reciclaje
+y reensamblado, desde los ready-made de Duchamp a la regla de Tzará para hacer
 poemas con recortes de diario, a los fotomontajes de Höch, Hausmann
 y Heartfield. Dadá también desafió la idea del artista como un genio solitario
 y del arte como una esfera separada, trabajando colectivamente para producir no
-sólo objetos y textos artísticos, sino también hoaxes mediáticos,
-intervenciones en encuentros políticos y manifestaciones callejeras. Su asalto
+sólo objetos y textos artísticos, sino también hoaxes[^NdT2] mediáticos,
+intervenciones en encuentros políticos y manifestaciones callejeras. Su ataque
 a los valores artísticos fue una revuelta contra los fundamentos capitalistas
 que los habían creado.
 
@@ -2903,3 +2903,5 @@ A Political Reader. Oakland: PM Press.
 
 [^NdT1]: *NdT: Trapped in the World Wide Web en el original. Web puede traducirse
 tanto por red como por telaraña.*
+
+[^NdT2]: *NdT: Un hoax es 
