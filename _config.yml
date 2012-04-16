@@ -1,4 +1,3 @@
-#source: /home/fauno/endefensadelsl/web
 destination: /srv/http/endefensadelsl.org
 
 permalink: ":title.html"
