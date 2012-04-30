@@ -1697,69 +1697,70 @@ gente común toma los medios de producción y distribución en sus propias manos
 
 ## Los anti-comunes creativos
 
-La emergencia del Software Libre, la compartición de archivos y las formas
+El surgimiento del Software Libre, la compartición de archivos y las formas
 artísticas basadas en el _sampleo_ y reutilización de otros medios ha creado un
 serio problema para el sistema de copyright tradicional. Las industria de la
 música y el cine, en particular, se encuentran en el medio de una guerra a todo
 o nada contra sus propios consumidores para prohibirles descargar y samplear su
 propiedad, sus copyright. Resulta claro que las tecnologías de redes digitales
-resultan un serio problema para las industrias discográficas y fílmicas. El
-disenso sobre las restricciones del copyright ha tenido una rica historia entre
+plantean un serio problema para las industrias discográficas y fílmicas. El
+disenso a las restricciones del copyright ha tenido una rica historia entre
 los artistas de vanguardia, productores de zines, músicos radicales y la
 marginalidad contracultural. Al día de hoy, la lucha contra la propiedad
 intelectual es liderada por abogados, profesores y miembros del gobierno. No
-sólo el estrato social al que pertenecen los líderes es muy diferente, también
-el marco para la lucha contra la propiedad intelectual ha cambiado
+sólo el estrato social al que pertenecen los jugadores principales muy
+diferente, un hecho que, por sí mismo, puede no ser un detalle particularmente
+importante, sino que también el marco para la lucha contra la propiedad intelectual ha cambiado
 completamente.
 
-Antes de que profesores de ley como Lawrence Lessig se interesaran en la
-propiedad intelectual, el discurso entre los disidentes se contraponía a toda
+Antes de que profesores de leyes como Lawrence Lessig se interesaran en la
+propiedad intelectual, el discurso entre los disidentes era en contra de toda
 propiedad sobre los comunes, intelectuales o físicos. Ahora, los que apoyan la
 propiedad y el privilegio económico están en el centro del escenario. El
 argumento ya no es que el autor es una ficción y que la propiedad es el robo,
-sino que la regulación de la propiedad intelectual necesita contenerse
+sino que la legislación de la propiedad intelectual necesita contenerse
 y reformarse porque ahora avanza sobre los derechos de los creadores. Lessig
 critica los cambios recientes en la legislación del copyright que han impuesto
 las corporaciones de medios globales y sus poderosos lobbies, la absurda
 duración a la que se ha extendido el copyright y otras perversiones que
 restringen la creatividad de los artistas. Pero no cuestiona el copyright como
-tal, ya que su visión es que el es más importante incentivo para crear que
-tienen los artistas. El objetivo aquí es defenderse del extremismo en la
-propiedad intelectual y el absolutismo, mientras se preservan los efectos
+tal, ya que lo ve como el más importante incentivo para crear que
+tienen los artistas. El objetivo aquí es defenderse del extremismo, y el
+absolutismo, en la propiedad intelectual, mientras se preservan los efectos
 benéficos.
 
-En su conferencia maestra en Wizards of OS 4 en Berlín, Lessig celebraba la
-cultura de lectoescritura, compartición libre y autoría colaborativa que ha
+En su conferencia maestra en Wizards of OS4 en Berlín, Lessig celebraba la
+cultura lectura-escritura de la compartición libre y autoría colaborativa que ha
 sido la norma en gran parte de la historia. Durante el último siglo, explicaba
-Lessig, esta cultura se ha visto frustrada por la legislación de propiedad
-intelectual y convertida en una cultura de sólo lectura, dominada por un
+Lessig, esta cultura lectura-escritura se ha visto frustrada por la legislación de propiedad
+intelectual y convertida en una cultura de sólo-lectura, dominada por un
 régimen de control del productor.[^lessig-2006] Lessig lamenta que las
-travesías recientes de la legislación del copyright hayan censurado el trabajo
-de artistas del remix como DJ Dange Mouse (El Album Gris) y Javier Prato
-(Jesucristo: el Musical). Ambos artistas fueron torpedeados por los
+farsas recientes de la legislación del copyright hayan censurado el trabajo
+de artistas del remix como DJ Danger Mouse (The Grey Album) y Javier Prato
+(Jesus Christ: The Musical). Ambos artistas fueron torpedeados por los
 propietarios legales de la música utilizada en la producción de sus obras, tal
-como John Oswald y Negativland lo fueron antes de ellos. En estos casos, los
+como John Oswald y Negativland lo fueron antes que ellos. En estos casos, los
 deseos de los artistas, vistos como meros consumidores por la ley, fueron
 subordinados al control de los productores -los Beatles y Gloria Gaynor
 respectivamente- y sus representantes legales. El problema es que el control
-del productor está creando una cultura de sólo lectura y destruyendo la
-vitalidad y diversidad de la producción creativa. Es la promoción de los
+del productor está creando una cultura de sólo-lectura y destruyendo la
+vitalidad y diversidad de la producción creativa. Está promoviendo los
 intereses estrechos de unos pocos 'productores' privilegiados a expensas de
 todos los demás.
 
 Lessig contrasta el control del productor con los comunes culturales (un stock
-común de valor que todos pueden utilizar y contribuir). Los comunes niegan el
+común de valor al que todos pueden utilizar y contribuir). Los comunes niegan el
 control del productor e insisten en la libertad de los consumidores. Lo 'libre'
 de la cultura libre refiere a la libertad natural de los consumidores a usar un
-stock cultural común y no a la libertad reforzada por el Estado de los
+stock cultural común y no a la libertad hecha cumplir por el Estado de los
 productores para controlar el uso de 'sus' obras. En principio, la noción de un
-común cultural abuele la distinción entre productores y consumidores, viéndolos
+común cultural suprime la distinción entre productores y consumidores, viéndolos
 como actores iguales en un proceso continuo.
 
 Hoy, en el contexto específico del proyecto Creative Commons (CC), Lessig
-proclama que la posibilidad de una cultura de lectoescritura ha renacido. ¿Pero
+proclama que la posibilidad de una cultura de lectura-escritura ha renacido. ¿Pero
 es Creative Commons realmente un dominio común? Según su sitio web, Creative
-Commons define un espectro de posibilidades entre el copyright completo (todos
+Commons define el espectro de posibilidades entre el copyright completo (todos
 los derechos reservados) y el dominio público (ningún derecho reservado).
 Creative Commons también ofrece licencias que ayudan a mantener el copyright
 mientras invitan a ciertos usos de la obra, un copyright de 'algunos derechos
@@ -1768,19 +1769,19 @@ como productor, a mantener el control de 'tu' obra. Estás invitado a elegir
 entre un rango de restricciones que deseas aplicar a 'tu' obra, como prohibir
 la duplicación, prohibir las obras derivadas o prohibir el uso comercial. Se
 asume que, como un autor-productor, todo lo que hagas y digas es de tu
-propiedad. El derecho del consumidor nunca es mencionado, tampoco la distinción
-entre productores y consumidores se disputa. Creative Commons legitimiza, antes
-que niega, el control del productor y refuerza, antes que abuele, la distinción
+propiedad. El derecho del consumidor nunca es mencionado, como tampoco se disputa la distinción
+entre productores y consumidores. Creative Commons legitimiza, no
+niega, el control del productor y refuerza, no suprime, la distinción
 entre productor y consumidor. Expande el marco legal para que los productores
 nieguen a los consumidores la posibilidad de crear valor de uso o valor de
 cambio del stock común.
 
-El problema de crear 'acciones comunes' para obras que no están realmente en el
-stock común es típico del abordaje copy-just-right (derecho justo de copia)
+El problema de crear 'escrituras comunes' para obras que no están realmente entre
+las existencias de comunes es típico del abordaje copy-just-right (apenas derecho de copia)
 tipificado por Creative Commons. Si los Beatles o Gloria Gaynor hubieran
 publicado sus obras en el marco de Creative Commons, todavía hubiera sido su
-elección y no la de DJ Danger Mouse o Javier Prato si El Album Gris
-o Jesucristo: El Musical tuvieran permiso para existir. Los representantes
+elección, y no la de DJ Danger Mouse o Javier Prato, si The Grey Album
+o Jesus Christ: The Musical deberían tener permiso para existir. Los representantes
 legales de los Beatles o Gloria Gaynor fácilmente podrían haber utilizado
 licencias CC para reforzar su control sobre el uso de sus obras. El problema
 real del control de los productores presentado por Lessig no se resuelve con la
@@ -2901,14 +2902,18 @@ Earnings. DIMESeptember 2006.
 [^landauer-2010]: Landauer, G. (2010). Revolution and Other Writings:
 A Political Reader. Oakland: PM Press.
 
-[^NdT1]: *NdT: Trapped in the World Wide Web en el original. Web puede traducirse
-tanto por red como por telaraña.*
+[^NdT1]: **NdT: Trapped in the World Wide Web en el original. Web puede traducirse
+tanto por red como por telaraña.**
 
-[^NdT2]: *NdT: Un hoax es 
+[^NdT2]: **NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
+un grupo de personas que algo falso es real. En el idioma castellano el término
+se popularizó principalmente al referirse a engaños masivos por medios
+electrónicos (especialmente Internet).
+[Ver](https://es.wikipedia.org/wiki/Bulo)**
 
-[^NdT3]: Détournement es un concepto surgido dentro del movimiento
+[^NdT3]: **NdT: Détournement es un concepto surgido dentro del movimiento
 situacionista que habla sobre la posibilidad artística y política de tomar
 algún objeto creado por el capitalismo o el sistema político hegemónico y
 distorsionar su significado y uso original para producir un efecto crítico. Una
 palabra parecida en español es tergiversación.
-[Ver](https://es.wikipedia.org/wiki/Detournement)
+[Ver](https://es.wikipedia.org/wiki/Detournement)**
