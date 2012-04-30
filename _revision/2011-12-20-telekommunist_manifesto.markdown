@@ -1655,14 +1655,14 @@ que los habían creado.
 
 Las ideas del dadaísmo fueron desarrolladas sistemáticamente en una teoría por
 la Internacional Situacionista (IS). La IS reconoció que la práctica del
-_detournement_, poner obras, películas, publicidades y cómics existentes en un
-desvío (detour) y recodificar sus significados predominantes, era una
-referencia a las prácticas dadaístas, pero con una diferencia. Vieron a Dadá
+_détournement_[^NdT3], poner obras, películas, publicidades y cómics existentes en un
+desvío (detour) o recodificar sus significados predominantes, estaba en
+deuda con las prácticas dadaístas, pero con una diferencia. Vieron a Dadá
 como una crítica negativa de las imágenes dominantes (una que dependía del
 fácil reconocimiento de la imagen negada) y definieron el detournement como una
 reutilización positiva de fragmentos existentes, simplemente como elementos en
 la producción de una nueva obra. El detournement no era primariamente un
-antagonista de la tradición; enfatizaba la reinvención de un mundo nuevo
+antagonista de la tradición; más precisamente, enfatizaba la reinvención de un mundo nuevo
 a partir de los restos del viejo. E implícitamente, la revolución no era
 principalmente una insurrección contra el pasado sino una forma de aprender
 a vivir en una forma diferente, creando nuevas prácticas y formas de
@@ -1673,10 +1673,10 @@ instrucciones para su uso, como: todos los textos de este libro pueden
 reproducirse, traducirse o adaptarse libremente, incluso sin mencionar la
 fuente.
 
-La digitalización ha probado ser más que una amenaza para las nociones
+La digitalización ha probado ser mucho más amenazante para las nociones
 convencionales de autoría y propiedad intelectual que el plagio practicado por
 los artistas radicales o las críticas del autor de los teóricos
-posestructuralistas. La computadora disuelve los límites esenciales de la
+posestructuralistas. La computadora disuelve los límites esenciales para la
 ficción moderna del autor como un creador solitario de obras únicas
 y originales. La propiedad presupone una separación entre los textos y entre el
 autor y el lector. La artificialidad de esta separación se está volviendo
@@ -1685,13 +1685,13 @@ abierta, la transición de lector a escritor es natural, y la diferencia entre
 los textos originales se desvanece cuando los lectores contribuyen comentarios
 e incorporan fragmentos del original en sus respuestas sin utilizar
 entrecomillado. Los intentos de implementar copyright a la escritura en línea
-se muestran cada vez más absurdos, por ejemplo en textos que son producidos
-colectivamente e inmediatamente multiplicados. Mientras la información en línea
+se muestran cada vez más absurdos, por lo que los textos son frecuentemente producidos
+en forma colectiva e inmediatamente multiplicados. Mientras la información en línea
 circula sin importar las convenciones del copyright, el concepto del autor
-propietario realmente se vuelve un fantasma del pasado. Tal vez el efecto más
+propietario realmente parece haberse vuelto un fantasma del pasado. Tal vez el efecto más
 importante de la digitalización es que amenaza a los benefactores tradicionales
 de la propiedad intelectual ya que el control monopólico de los editores de
-libros, sellos musicales y la industria fílmica ya no son necesarios cuando la
+libros, sellos musicales y la industria fílmica ya no es necesarios cuando la
 gente común toma los medios de producción y distribución en sus propias manos.
 
 
@@ -2905,3 +2905,10 @@ A Political Reader. Oakland: PM Press.
 tanto por red como por telaraña.*
 
 [^NdT2]: *NdT: Un hoax es 
+
+[^NdT3]: Détournement es un concepto surgido dentro del movimiento
+situacionista que habla sobre la posibilidad artística y política de tomar
+algún objeto creado por el capitalismo o el sistema político hegemónico y
+distorsionar su significado y uso original para producir un efecto crítico. Una
+palabra parecida en español es tergiversación.
+[Ver](https://es.wikipedia.org/wiki/Detournement)
