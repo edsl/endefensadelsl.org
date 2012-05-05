@@ -1804,7 +1804,7 @@ software libre Richard Stallman, da a los usuarios para copiar, modificar
 y distribuir el software mientras la misma libertad se mantenga. Stallman ha
 declarado recientemente su rechazo completo a Creative Commons porque algunas
 de sus licencias son libres mientras que otras no, argumentando que confunde
-a la gente a tomar la etiqueta común como algo sustancial, cuando en realidad
+a la gente a interpretar la etiqueta común como algo sustancial, cuando en realidad
 no existe un estándar común ni una posición ética detrás de dicha
 etiqueta.[^dablade-2006]
 
@@ -1824,14 +1824,14 @@ interpretaciones de derechos y responsabilidades, pero estos derechos son
 derechos comunes y los recursos se comparten del mismo modo por la comunidad
 entera. Su uso no está garantizado arbitrariamente en base a un análisis caso
 por caso de acuerdo a los caprichos de los miembros individuales, como el
-abordaje de Creative Commons. La bolsa mixta de bienes culturales de Creative
+abordaje de Creative Commons. El surtido de bienes culturales de Creative
 Commons no es mantenida en común, porque es la elección de los autores
 individuales para permitir su uso o negarlo. Entonces, Creative Commons es un
-anti-común que encubre la lógica capitalista de privatización bajo un falso
-nombre elegido deliberadamente. Su propósito es ayudar a los propietarios de la
+anti-común que encubre la lógica capitalista de privatización bajo un
+nombre engañoso elegido deliberadamente. Su propósito es ayudar a los dueños de la
 'propiedad intelectual' a alcanzar el rápido paso del intercambio de
 información, no mediante la liberación de la información, sino al proveerles
-definiciones más sofisticadas, una gama de grises de propiedad y control del
+definiciones más sofisticadas para las varias gamas de propiedad y control del
 productor.
 
 Lo que empezara como un movimiento por la abolición de la propiedad intelectual
@@ -1860,7 +1860,7 @@ La marca Creative Commons es invocada moralmente en muchos sitios, blogs,
 discursos, ensayos, obras artísticas y piezas musicales como si constituyera la
 condición necesaria y suficiente de la revolución próxima por una verdadera
 'cultura libre'. Creative Commons es parte de un movimiento más grande de
-copyfight (lucha por la copia), que se define como una lucha para aboler la
+copyfight (lucha por la copia), que se define como una lucha para abolir la
 'propiedad intelectual' y regresar a los principios míticos de una legislación
 del copyright pre-corrupta que fue planeada 'genuinamente' para proteger los
 derechos de los autores. Los individuos y grupos asociados a este movimiento
