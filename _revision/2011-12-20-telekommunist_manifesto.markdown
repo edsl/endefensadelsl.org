@@ -1872,11 +1872,11 @@ cultural y económico.
 
 En una repetición sorprendente de las luchas por el copyright que emergieron
 por primera vez durante el romanticismo, los excesos de la forma capitalista de
-la propiedad intelectual se contraponen utilizando el mismo lenguaje
-y presuposiciones del capitalismo. Creative Commons preserva las ideas
+propiedad intelectual se combaten utilizando el lenguaje
+y presuposiciones propias del capital. Creative Commons preserva las ideas
 románticas de originalidad, creatividad y derecho a la propiedad,
 y similarmente considera la 'cultura libre' como una esfera separada que existe
-en aislamiento perfecto del mundo de la producción material. Nunca como en el
+en aislamiento perfecto del mundo de la producción material. Desde el
 siglo XVIII las ideas de 'creatividad' y 'originalidad' estuvieron vinculadas
 inextricablemente con un anti-común de conocimiento. Creative Commons no es la
 excepción. Esta visión sobre el movimiento copyfight, un movimiento que incluye
