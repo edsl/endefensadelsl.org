@@ -1,0 +1,54 @@
+Ciclo de trabajo
+================
+
+* Los textos a traducir se colocan en texto plano en \_revision/
+
+* Se agregan a git y se hace commit de los cambios.
+
+* En general la traducción se hace sobre el mismo texto original, con la
+  traducción de cada párrafo inmediatamente debajo del original (es decir,
+  intercalados).
+
+* Cuando termina la traducción se hace una lectura de prueba y se eliminan los
+  párrafos en el idioma original.
+
+* Este artículo se mueve a \_posts/AAAA-MM-DD-Titulo.markdown y se corre el
+  comando `jekyll` para compilar el sitio en HTML.
+
+* Referencias bibliográficas: el markdown de jekyll no soporta referencias
+  bibliográficas, pero sí notas al final con nombre (autor-año en lugar de
+  número de orden). Las referencias se escriben en formato BibTeX en el archivo
+  _ref.bib_ y se vinculan a los textos con la sintaxis "\[^autor-año\]" o el
+  identificador asignado en el archivo bib.
+
+  Al final del texto se corre el script `cite2md.rb`, que genera las
+  referencias como notas al pie utilizando el sistema APA.
+
+* Maquetado para edición PDF: el texto en formato markdown se convierte a LaTeX
+  utilizando el conversor `pandoc`. Hay algunas incompatibilidades con la forma
+  en que se generan las citas bibliográficas, por lo que hay que convertir el
+  .markdown a .tex antes de generar las citas con `cite2md.rb`, y en el .tex,
+  convertir los \[^id-bib\] a \cite{id-bib} con una expresión regular.
+
+* El archivo .tex creado con pandoc se exporta al proyecto endefensadelsl.git
+  que es el repositorio para el maquetado hecho en LaTeX. En un principio era
+  la fuente canónica de las traducciones, pero se migró a markdown por
+  comodidad y simplicidad.
+
+
+Planes
+------
+
+* El markdown de pandoc soporta código TeX incorporado en el texto, por lo que
+  las citas bibliográficas podrían mantenerse en el formato TeX
+  (\cite{id-bib}), aunque la conversión a HTML hecha por jekyll debería ser
+  realizada con pandoc o un add-on bibliográfico que pueda extraer y generar
+  las citas en ese formato. Existen varios add-ons bibliográficos pero ninguno
+  hace exactamente lo que necesitamos.
+
+  De otra forma, podría generarse el sitio directamente con pandoc, lo que
+  facilitaría la edición de los textos en diferentes formatos, por ejemplo EPUB
+  para lectores de ebooks. Se perdería la feature de generación de posteos
+  relacionados de jekyll.
+
+# vim:set ts=2 sw=2 syntax=markdown et:
