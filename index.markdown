@@ -21,7 +21,7 @@ title: En Defensa del Software Libre
 
 * Lista de discusión: [endefensadelsl@listas.hipatia.net][0]
 * IRC: [#endefensadelsl][1] en freenode
-
+* [Puntos de venta física][6]
 
 [Licencia][5] | [Feed Atom][3] | [Código fuente del sitio][4]  
 &#8220;El dedo de la cita&#8221; es cc-by de [Your Neighbours][2].
@@ -33,3 +33,4 @@ title: En Defensa del Software Libre
 [3]: /atom.xml "Feed"
 [4]: git://kiwwwi.com.ar/endefensadelsl.org "Repositorio git"
 [5]: /licencia.html "Licencia del sitio"
+[6]: /ventas.html "Puntos de venta física"
