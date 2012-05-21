@@ -48,6 +48,7 @@ Planes
 
   De otra forma, podría generarse el sitio directamente con pandoc, lo que
   facilitaría la edición de los textos en diferentes formatos, por ejemplo EPUB
-  para lectores de ebooks.
+  para lectores de ebooks. Se perdería la feature de generación de posteos
+  relacionados de jekyll.
 
 # vim:set ts=2 sw=2 syntax=markdown et:
