@@ -1919,9 +1919,9 @@ surgimiento de la comunidad del software libre.
 
 La Licencia Pública General (GPL) fue la primer licencia copyleft bajo la cual
 una gran cantidad de software libre fue lanzado. Su inventor Richard Stallman
-proclama que en la era de la copia digital, el rol del copyright ha sido
-revertido completamente. Aún cuando comenzara como una medida legal para
-permitir a los autores restringir a los editores a favor del público general,
+afirma que en la era de la copia digital, el rol del copyright ha sido
+revertido completamente. Aún cuando comenzó como una medida legal para
+permitir a los autores restringir a los editores por el bien del público general,
 el copyright se ha convertido en el arma de los editores para mantener su
 monopolio imponiendo restricciones al público general, que ahora posee los
 medios para producir sus propias copias. El objetivo del copyleft en general,
@@ -1937,7 +1937,7 @@ y derivaciones deben redistribuirse bajo la misma licencia. El copyleft reclama
 la propiedad legalmente, sólo para subvertirla en la práctica, al permitir
 a todos usar la obra como prefieran mientras que el copyleft se mantenga. El
 reclamo meramente formal de la propiedad significa que nadie puede volver
-a poner la obra bajo copyright una vez que es copyleft, e intentar limitar su
+a poner la obra bajo copyright una vez que es copyleft, para intentar limitar su
 uso.
 
 Las licencias copyleft garantizan libertad de la propiedad intelectual al
@@ -1946,22 +1946,22 @@ por las 'cuatro libertades' de la Fundación del Software Libre (FSF). Estas son
 las libertades de usar, estudiar, modificar y redistribuir.[^36] Puesto en
 contexto histórico, el copyleft descansa en algún lugar entre el copyright y el
 anticopyright. El gesto de los escritores al poner en anticopyright sus obras
-era hecho en el espíritu de la generosidad, afirmando que el conocimiento puede
-florecer sólo cuando carece de propietarios. En tanto declaración 'ningún
-derecho reservado', el anticopyright era un eslógan perfecto en un mundo
-imperfecto. La asunción era que los demás usarían la información en el mismo
+era hecho con un espíritu de generosidad, afirmando que el conocimiento puede
+florecer sólo cuando carece de propietarios. En tanto declaración de 'ningún
+derecho reservado', el anticopyright era un eslógan perfecto lanzado en un mundo
+imperfecto. Se suponía que los demás usarían la información en el mismo
 espíritu de generosidad. Pero las corporaciones aprendieron a explotar la falta
-de copyright y redistribuyeron las obras por lucro.
+de copyright y redistribuir las obras por lucro.
 
-A Stallman se le ocurrió la idea de copyleft en 1984, después que una compañía
-hizo mejoras a software que él había puesto en dominio público (el equivalente
+A Stallman se le ocurrió la idea del copyleft en 1984, después que una compañía
+hizo mejoras a software que él había puesto en el dominio público (el equivalente
 técnico del anticopyright, pero sin el gesto crítico), privatizó el código
 fuente y rehusó compartir la nueva versión. En este sentido, el copyleft
 representa un aprendizaje, una dolorosa lección de que la renuncia a todos los
-derechos puede llevar al abuso de los lucradores. El copyleft intenta crear un
-común basado en derechos y responsabilidades recíprocos para respetar los
-derechos de otros usuarios. Todos pueden sumar al común, pero nadie puede
-sustraer.
+derechos puede llevar al abuso de los lucradores. El copyleft intenta crear unos
+comunes basados en derechos y responsabilidades recíprocos para respetar los
+derechos de otros usuarios. Todos pueden sumar los comunes, pero nadie puede
+sustraer de ellos.
 
 Pero en otro sentido el copyleft representa un paso atrás del anticopyright
 y está plagado por una serie de contradicciones. La posición de Stallman está
@@ -1987,23 +1987,23 @@ izquierda entendida por la mayoría de los activistas políticos.
 
 La GPL y el copyleft son frecuentemente invocados como ejemplos de la tendencia
 anticomercial del movimiento del Software Libre. Pero no hay tal tendencia. Las
-cuatro libertades requeridas por la GPL significa que cualquier restricción
-adicional, como una cláusula no comercial, convertirían a la obra en no-libre
+cuatro libertades requeridas por la GPL significan que cualquier restricción
+adicional, como una cláusula no comercial, convertiría a la obra en no-libre
 aún si cumple con algunas de las libertades. Mantener el software 'libre' no
 previene a los desarrolladores vender copias que hayan modificado con su propio
 trabajo, y tampoco previene la redistribución hecha por una compañía comercial
 cobrando una tarifa, mientras que la misma licencia sea utilizada y el código
 fuente siga siendo transparente.
 
-Esta versión de la libertad no abuele el intercambio, como han proclamado
+Esta versión de la libertad no suprime el intercambio, como han proclamado
 algunos entusiastas del software libre, ni es incompatible con una economía
 capitalista basada en el robo de la plusvalía. La contradicción inherente en
 estos comunes se debe a un entendimiento de lo propietario como sinónimo de
-código cerrado o no transparente. 'Propietario' significa tener un propietario
+código cerrado o no transparente. 'Propietario' significa tener un dueño
 que prohibe el acceso a la información y mantiene el código fuente en secreto,
-pero no necesariamente significa tener un propietario que extraiga un rédito,
+pero no necesariamente significa tener un dueño que extraiga un rédito,
 aunque mantener el código fuente en secreto y extraer rédito a menudo coincidan
-con esta práctica. Mientras que las cuatro condiciones se cumplan, la
+en la práctica. Mientras que las cuatro condiciones se cumplan, la
 redistribución comercial del software libre no es considerada propietaria.
 
 Virtualmente cada oficina, academia y fábrica necesita de software para su
@@ -2011,8 +2011,8 @@ trabajo diario. Para todas estas organizaciones, el valor de uso del software
 puede traducirse directamente en valor de cambio en el curso de su producción
 normal, no al venderlo, sino al realizar sus tareas habituales, vendiendo el
 producto de ellas y usando software para aumentar su productividad. Pagar por
-licencias de software y acordando con los términos restrictivos de estas no
-está entre sus intereses. En comparación a lo que David Ricardo dijo sobre los
+licencias de software y acordar con los términos restrictivos de estas no
+les conviene. En comparación con lo que David Ricardo dijo sobre los
 terratenientes, el interés de una compañía de software como Microsoft siempre
 está en oposición al de cada usuario de software.
 
@@ -2021,29 +2021,31 @@ y empresas de comercio electrónico, emplean colectivamente muchos más
 desarrolladores de software que las pocas compañías que venden software
 propietario, como Microsoft. Entonces, el software libre es muy atractivo para
 estas organizaciones ya que les permite reducir sus costos individuales de
-desarrollo manteniendo colectivamente un stock común de activos de software.
+desarrollo manteniendo colectivamente un inventario común de activos de software.
 Entonces, el valor de uso del software libre es valorado por las organizaciones
 que pagan desarrolladores de software para trabajar en él, aunque no posean el
-copyright exclusivo. Al adoptar y soportar el software libre y el copyleft para
+copyright exclusivo. Al patrocinar el software libre y el copyleft para
 recortar sus costos de producción, los gigantes tecnológicos como IBM tienen
 mucho en común con capitalistas liberales como David Ricardo, que trabajó para
-sobrepasar las ventajas que los terratenientes tenían sobre los capitalistas,
-por ejemplo al reducir el precio de sus medios de producción.
+sobrepasar las ventajas que los terratenientes tenían sobre los capitalistas al,
+por ejemplo, reducir el precio de sus medios de producción.
 
 Pero el software libre no fue concebido como una mera forma de reducir los
 costos corporativos de producción de software. Richard Stallman escribe en el
 sitio de web de su organización: 'Mi trabajo por el software libre es motivado
 por un objetivo idealista: propagar libertad y cooperación. Quiero fomentar el
 software libre para reemplazar el software propietario que proscribe la
-cooperación y mejorar nuestra sociedad.'[^stallman-2010] Sin embargo, ya que
+cooperación y así mejorar nuestra sociedad.'[^stallman-2010] Sin embargo, ya que
 el software libre no puede capturar directamente el valor de cambio, sus
 productores todavía deben vender su trabajo para lograr su subsistencia
 material. Por lo tanto el copyleft no es capaz de 'mejorar la sociedad' en
 ningún sentido material, porque la mayoría del valor de cambio creado por los
 productores del software libre es capturado por los propietarios de lo material
 que son los que proveen su subsistencia. Como el copyleft no puede hacer que
-los trabajadores acumulen riqueza más allá de su subsistencia, no tiene por sí
-mismo impacto directo en la distribución de riqueza y poder.
+los trabajadores acumulen riqueza más allá de su subsistencia, el copyleft solo
+no puede cambiar la distribución de activos productivos o su producto. Por lo
+tanto, el copyleft no tiene por sí mismo impacto directo en la distribución de
+riqueza y poder.
 
 No todo el software libre es copyleft. Todo el software licenciado bajo los
 términos que proveen las cuatro libertades de la FSF es software libre. El
