@@ -2058,9 +2058,9 @@ software de dominio público fue apropiado y privatizado en 1984, existen
 también amplios contraejemplos de proyectos de software libre de gran escala
 que continúan utilizando licencias que permiten redistribución propietaria,
 como varios sistemas operativos basados en BSD y el enormemente popular
-servidor Apache. Mientras una corporación puede utilizar código de estos
+servidor web Apache. Aunque una corporación puede utilizar código de estos
 proyectos en sus aplicaciones propietarias, lo hace costosamente. Al separar su
-desarrollo del proyecto de software libre principal, debe emparchar manualmente
+desarrollo del proyecto de software libre principal, debe parchar manualmente
 o reimplementar las mejoras de código de la distribución libre a su propia
 derivación, y olvidarse de recibir ayuda de la comunidad del software libre
 para mejorar sus contribuciones propietarias. Esto significa que las compañías
@@ -2074,9 +2074,9 @@ provienen de las compañías cuyo negocio principal es vender hardware, no
 software, como Apple Computer o los routers Juniper, donde ambos utilizan
 versiones propietarias de software derivado de proyectos BSD. Debe notarse que
 tanto Apple como Juniper hacen software propietario no para venderlo, sino para
-añadirlo a su hardware costoso. Este punto se enfatiza en los esfuerzos de
+empacarlo con su hardware costoso. Este punto se enfatiza con los esfuerzos de
 ambas compañías para evitar que los usuarios adquieran su software para
-utilizarlo en hardware más barato. Por ejemplo, deben considerarse los ejemplos
+utilizarlo en hardware más barato. Por ejemplo, considérense los ejemplos
 de Apple para frustrar el proyecto Hackintosh, que ofrece instrucciones para
 utilizar los sistemas operativos Mac en hardware no soportado, así como tomar
 acciones legales contra las compañías que venden hardware que no es de Apple
@@ -2094,12 +2094,12 @@ bajo la GPL.
 
 Así como el copyleft es de alguna manera un retroceso de la posición ideológica
 del anticopyright, la posición política del copyleft es un retroceso de la
-posición ideológica de la izquierda socialista. Aun cuando se apropia
-argumentos contra la propiedad de la izquierda, el copyleft limita su crítica
+posición ideológica de la izquierda socialista. Aun cuando se apropia de
+argumentos de la izquierda en contra de la propiedad, el copyleft limita su crítica
 al estrecho campo de la propiedad inmaterial. Un ejemplo particularmente
 desvergonzado de esto es el 'Manifiesto puntoComunista' de Eben
 Moglen,[^moglen-2003] un insultante pastiche del manifiesto seminal de Marx
-y Engels, que en 1848 invoca a las armas a la clase trabajadora y unirse por la
+y Engels, que invoca la llamada a las armas para que la clase trabajadora se una por la
 abolición del capitalismo, y en su lugar lo cambia para sólo demandar la
 abolición de la propiedad intelectual. Los dos materialistas decimonónicos
 hubieran comprendido que la sola abolición de la propiedad intelectual no
@@ -2127,7 +2127,7 @@ autoorganizadas de obreros pueden beneficiarse de tal stock común de software
 copyleft e incorporar a desarrolladores de software en sus empresas colectivas.
 
 El software libre es por lo tanto valioso para la producción autoorganizada de
-los obreros, al darnos una valiosa fuente de capital, el software que
+los obreros, al darnos una valiosa fuente de capital, software que
 previamente hubiera sido controlado con exclusividad por corporaciones
 propietarias ahora nos da la posibilidad de retener una mayor porción del
 producto de nuestro trabajo. Tal vez tan importante como esto es la forma en
