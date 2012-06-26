@@ -2394,7 +2394,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     o interpretación, e incluye las adaptaciones cinematográficas o cualquier
     otra forma en que la Obra pueda ser transformada o modificada,
     comprendiendo cualquier forma reconocible derivada de la original, que
-    constituya una creación autónoma , excepto que una obra forme parte de una
+    constituya una creación autónoma, excepto que una obra forme parte de una
     Colección, en cuyo caso no será considerada una Adaptación para los fines
     de esta Licencia. Para evitar dudas, cuando la Obra es una creación
     musical, interpretación o fonograma, la sincronización de ella en cuanto al
@@ -2406,7 +2406,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     fonogramas o emisiones, u otras creaciones o materias distintas de las
     obras enumeradas en la Sección 1(g) siguiente, las que, en razón de la
     selección y distribución de sus contenidos, constituyan creaciones
-    intelectuales, en los cuales la Obra esté incluida en su totalidad sin
+    intelectuales, en las cuales la Obra esté incluida en su totalidad sin
     modificaciones junto con una o más de otras contribuciones, constituyendo
     cada una obras separadas e independientes en sí mismas, que al encontrarse
     juntas están unidas en un todo colectivo. Una obra que constituya una
@@ -2715,7 +2715,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
 
 ## El Comunismo de Riesgo y el Copyfarleft
 
-> "El Estado es un condicionamiento, una cierta relación entre seres humanos,
+> "El Estado es una condición, una cierta relación entre seres humanos,
 > un modo de comportamiento humano; lo destruimos cuando contraemos otras
 > relaciones, comportándonos diferente...' - Gustav Landauer[^landauer-2010]
 
@@ -2732,13 +2732,13 @@ capitalista. En palabras de los Trabajadores Industriales del Mundo 'no sólo
 por la lucha diaria contra los capitalistas, sino para sostener la producción
 una vez que el capitalismo haya sido destronado. Al organizarnos
 industrialmente estamos formando la estructura de la nueva sociedad dentro del
-caparazón de la antigua'.
+caparazón de la antigua'.[^iww-sf]
 
 El capitalismo, un modo de producción donde el trabajador gana sólo su
 subsistencia mientras que los propietarios retienen el resto del producto, sólo
 puede crear una sociedad donde los intereses del propietario se verán
 reflejados en las instituciones sociales y en los intereses de los productores
-subyugados. Tanto el comunismo de riesgo y el copyfarleft tiene como objetivo
+subyugados. Tanto el comunismo de riesgo como el copyfarleft tienen como objetivo
 la creación de un común productivo que los productores puedan utilizar para
 acumular riqueza mutual, y por lo tanto trabajo hacia la realización de su rol
 histórico en la creación de una sociedad libre de clases económicas.
