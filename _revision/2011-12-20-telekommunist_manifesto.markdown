@@ -2150,23 +2150,23 @@ herramienta para utilizar en la producción, es decir un bien de producción. Lo
 bienes de producción, como se mencionó antes, son los activos utilizados en la
 producción, como las herramientas y el equipamiento necesario para producir
 bienes de consumo que se venden por rédito. La demanda del capital es distinta
-de la demanda de consumo. La demanda del capital es la demanda de bienes de
-producción; la demanda de consumo es la demanda de bienes de consumo. El
+de la demanda del consumidor. La demanda del capital es la demanda de bienes de
+producción; la demanda del consumidor es la demanda de bienes de consumo. El
 capitalismo no necesita realizar su ganancia en la producción de bienes de
 capital porque las ganancias se hacen a través del control de la circulación de
 bienes de consumo. Todo aquello que baje el costo del capital aumenta
 consecuentemente el beneficio potencial que podrá ser capturado en la venta de
-esos bienes. Fracasar en comprender la diferencia entre demanda de capital
-y demanda de consumo propaga el mito de que el éxito del software libre puede
+esos bienes. Fracasar en comprender la diferencia entre demanda del capital
+y demanda del consumidor propaga el mito de que el éxito del software libre puede
 ser una plantilla para la cultura libre. Bajo el capitalismo, sólo el capital
 puede ser libre. Es por esto que el software puede ser libre, pero la cultura
-no puede serlo sin cambios fundamentales en la sociedad.
+no puede serlo sin cambios más fundamentales en la sociedad.
 
 El arte no es, en la mayoria de los casos, una necesidad común de la producción
 como lo es el software. Entonces, su demanda es una demanda de consumo, no de
 capital. Existen ciertamente casos en los que las obras artísticas pueden
 considerarse necesidades productivas, como los efectos de sonido, el clipart,
-clips musicales y así, y la tradición de los artistas de basarse en la obra de
+clips musicales y otros similares, y la tradición de los artistas de basarse en la obra de
 sus predecesores se ha discutido largamente más arriba; sin embargo, cuando
 discutimos la economía de las obras de contenido, como los poemas, novelas,
 películas o música, así como el software de entretenimiento como los juegos, no
@@ -2178,19 +2178,19 @@ Por qué lo harían, si el arte es un bien de consumo y la industria no está en
 el mercado para regalar bienes de consumo. Están en el mercado para, no
 obstante, obtener ganancias al controlar la distribución de bienes de consumo.
 
-Como toda la información copiable, reproducible, las obras de contenido no
+Como toda la información copiable y reproducible, las obras de contenido no
 tienen valor de cambio directo, y a diferencia del software, raramente poseen
 valor de uso en la producción. El valor de uso existe sólo entre los fanáticos
 de estas obras y, si los propietarios no pueden obtener dinero de esos
 fanáticos por el derecho a copiar, ¿por qué financiarían la producción? Y si
-los propietarios no apoyaran el arte copyleft, que es distribuido libremente,
+los propietarios no apoyarán el arte copyleft, que es distribuido libremente,
 ¿quién lo hará? La respuesta no es clara. En algunos casos, instituciones
-culturales estatales o privadas, pero estas sólo pueden soportar en pequeño
+culturales estatales o privadas, pero estas sólo pueden soportar un pequeño
 número de artistas, y eso sólo aplicando dudosos y en última instancia
 arbitrarios criterios de selección para decidir quién y quién no recibe ese
 financiamiento.
 
-El problema resulta obvio cuando se intenta traducijr el copyleft a las obras
+El problema resulta obvio cuando se intenta traducir el copyleft a las obras
 culturales. Si alguien libera una novela bajo una licencia copyleft, y Random
 House la imprime y obtiene ganancias de esa obra, Random House no ha violado el
 copyleft mientras lo haya aplicado. Ser 'libre' significa estar abierto a la
@@ -2204,8 +2204,8 @@ Wu Ming, un grupo de autores anti propiedad intelectual de Italia, proclama que
 es necesario restringir el uso comercial, o el uso lucrativo, para proscribir
 la explotación parasitaria de los trabajadores culturales. Justifican esta
 restricción y su divergencia de la versión del copyleft de la Licencia Pública
-General, en base a la lucha contra la explotación y la lucha por la
-remuneración justa del trabajo como una piedra de toque histórica de la
+General, en base a que la lucha contra la explotación y la lucha por la
+remuneración justa del trabajo son la piedra fundacional histórica de la
 izquierda. Otros proveedores de contenido y editores de libros, Verso por
 ejemplo, han expandido esta restricción reclamando que la copia, modificación
 y redistribución no sólo debe ser no lucrativa, sino también en el espíritu del
@@ -2216,23 +2216,23 @@ significado de 'en el espíritu del original' luego de tener problemas con el
 sitio web neo-fascista Altermedia Rumania, cuyas 'jodas' fueron desde
 secuestrar el dominio indymedia.ro a copiar textos de Indymedia mintiendo sobre
 nombres y fuentes. Las restricciones de Indymedia Rumania incluyen la no
-modificación del nombre original y la fuente porque se opone el deseo de
-transparencia, ni reproducir el material lucrativamente porque abusa el
+modificación del nombre original y la fuente porque se opone al deseo de
+transparencia, no reproducir el material lucrativamente porque abusa el
 espíritu de generosidad y no reproducir el material en un contexto que viole
 los derechos de individuos y grupos al discriminarlos por nacionalidad,
-etnicidad, género o sexualidad porque contraviene el compromiso con la
+etnicidad, género o sexualidad porque contraviene su compromiso con la
 igualdad.
 
 Otras versiones del copyleft han intentado añadir otras restricciones basándose
-en una interpretación fuerte en la 'izquierda' de copyleft, utilizando
+en una interpretación fuerte de la 'izquierda' de copyleft, utilizando
 principios positivos en lugar de la libertad negativa basada en restricciones,
-por ejemplo valorando la cooperación social sobre el lucro, la partición no
+como valor la cooperación social sobre el lucro, la partición no
 jerárquica y la no discriminación. Las definiciones más restrictivas del
 copyleft intentar fundar un común informacional que no se trate sólo de la
 libre circulación de información, sino como parte de un movimiento social más
 grande que basa su comunalidad en principios izquierdistas compartidos. En sus
-varios mutaciones, el copyleft representa un abordaje pragmático, racional, que
-reconoce los límites de la libertad en cuanto implica derechos
+varias mutaciones, el copyleft representa un abordaje pragmático, racional, que
+reconoce que los límites de la libertad están en que implica derechos
 y responsabilidades recíprocos. Estas diversas restricciones representan
 interpretaciones divergentes sobre cómo deben ser estos derechos
 y responsabilidades. Aún así, dadas las pobres condiciones económicas de la
@@ -2246,8 +2246,8 @@ términos; ya que es comercial, no califica para el acceso libre bajo los
 términos de la licencia no comercial. Sin embargo, los artistas carecen de
 recursos para manufacturar y distribuir en una escala comercial. Entonces,
 necesitan de hecho a aquellos que poseen el capital para hacerlo y no pueden
-negociar nada más que su subsistencia. En esencia, vender sus ideas es como la
-venta de su trabajo que realizan los otros trabajadores. Esto se ilustra en
+negociar nada más que su subsistencia. En esencia, vender sus ideas es como
+para otros trabajadores vender su trabajo. Esto se ilustra en
 'Ganancias de los artistas musicales y digitalización: una revisión de datos
 empíricos en Inglaterra y Alemania' de Martin Kretschmer, Profesor de
 Jurisprudencia de la Información en la Universidad Bournemouth, donde concluye
@@ -2257,7 +2257,7 @@ del 2006, dice: 'Las ganancias del no-copyright, e incluso de las actividades
 no artísticas, son una fuente importante de ingresos para muchos
 creadores'.[^kretschmer-2006] Este estudio incluye muchas cifras
 sorprendentes. Por ejemplo, el pago medio distribuido por la Performing Right
-Society (Inglaterra) en 1994 a los detentadores de copyright fue de
+Society (Reino Unido) en 1994 a los detentadores de copyright fue de
 £84.[^kretschmer-2006]
 
 Mientras que los términos no comerciales podrían proveer una forma de integrar
@@ -2273,13 +2273,13 @@ izquierda socialista: la creación de una economía controlada por los
 trabajadores.
 
 Para que el copyleft transmute en un instrumento revolucionario en el dominio
-de la producción cultural, debe convertirse en 'copy-far-left' (ultraizquierda
+de la producción cultural, debe convertirse en 'copy-far-left' (extremaizquierda
 de copia). Debe insistir en la propiedad de los trabajadores sobre los medios
 de producción. Las obras mismas deben formar parte de ese stock común y estar
 disponibles para su uso productivo por otros productores con base en el común.
 Mientras los autores se reserven el derecho a hacer dinero de sus obras
 y prevengan a otros productores basados en el común a hacerlo, sus obras no
-pueden considerarse definitivamente como parte del común, son obras privadas.
+pueden considerarse definitivamente como parte del común para nada, son obras privadas.
 Una licencia copyfarleft no debe restringir el uso comercial, antes bien el uso
 que no está basado en el común.
 
@@ -2288,14 +2288,14 @@ que están trabajando en el contexto de la propiedad comunal de los
 trabajadores, y otro para aquellos que emplean la propiedad privada y el
 trabajo asalariado en la producción. Una licencia copyfarleft debe posibilitar
 a los productores a compartir libremente y también a retener el valor del
-producto de su trabajo. En otras palabras, debe posibilitar que los
-trabajadores obtengan una remuneración por la aplicación de su trabajo en la
-propiedad mutua, pero imposibilitar a los propietarios de la propiedad privada
+producto de su trabajo. En otras palabras, debe ser posible para los
+trabajadores obtener una remuneración aplicando su trabajo a la
+propiedad mutua, pero imposible para los propietarios de la propiedad privada
 obtener ganancias del trabajo asalariado.
 
 Entonces, bajo una licencia copyfarleft, una imprenta cooperativa controlada
-por sus trabajadores debe ser libre de reproducir, distribuir y modificar el
-stock común como deseen, pero una imprenta privada deberá verse impedida de
+por sus trabajadores sería libre de reproducir, distribuir y modificar el
+stock común como deseen, pero una imprenta privada se vería impedida de
 obtener acceso libre. De esta forma, el copyfarleft se mantiene libre en el
 mismo sentido que el copyleft, a pesar de las restricciones a la redistribución
 propietaria. El copyfarleft proscribe la sustracción del común, no las
@@ -2304,7 +2304,7 @@ contribuciones a él.
 Una licencia copyfarleft permitiría el uso comercial con base en el común al
 tiempo que niega la posibilidad de obtener rédito explotando el trabajo
 asalariado. El abordaje copyleft no comercial no hace ninguna de las dos cosas,
-previene el comercio basado en el común mientras que restringe efectivamente la
+previene el comercio basado en el común mientras que no restringe efectivamente la
 explotación asalariada porque esto requiere un cambio en la distribución de la
 riqueza. El copyleft provee una fundación sólida para el software en la
 producción basada en el común. El copyfarleft podría proveer un basamento
@@ -2314,37 +2314,37 @@ los trabajadores, no sólo la prevención del uso comercial, puede cambiar la
 distribución de la riqueza.
 
 Sin embargo, para que el copyfarleft tenga un impacto real, necesitaría ser
-empleado en el contexto de la naciente economía de los trabajadores que incluye
-varias formas de producción, tanto cultural como material (arte tanto como
+empleado en el contexto de una naciente economía de los trabajadores que incluya
+varias formas de producción, por ejemplo culturales y materiales (arte tanto como
 comida, etc.). En ausencia de tal ambiente, el copyleft y sus variedades poseen
-poca ventaja para la mayoríá de los artistas, para quienes el prospecto de
+poca ventaja para la mayoría de los artistas, para quienes el prospecto de
 ganancia financiera a través del licenciamiento comercial es despreciable.
-Para estos artistas, el anticopyright mantiene una fuerte atracción. El
+Para estos artistas, el anticopyright mantiene un fuerte atractivo. El
 anticopyright es un gesto radical que rechaza transigencias pragmáticas y busca
-aboler la propiedad intelectual por entero. El anticopyright afirma una
+abolir la propiedad intelectual toda. El anticopyright afirma una
 libertad absoluta y no reconoce límites para su deseo.
 
-Mientras que algunas mutaciones del copyleft poseen múltiples restricciones,
+Mientras que algunas mutaciones del copyleft han multiplicado las restricciones,
 otras han rechazado cualquier tipo de restricción, incluyendo la sola
 restricción impuesta por el copyleft inicial. Es el movimiento alrededor de la
-compartición entre pares la que se acerca al gesto del anticopyright. El mejor
+compartición entre pares lo que más se acerca al gesto del anticopyright. El mejor
 ejemplo de esto es el blog _Copyriot_ de Rasmus Fleischer del Piratbyrån (Buró
 de Piratería), un _think tank_ anti propiedad intelectual, y los alguna vez
 fundadores de Pirate Bay, el más conocido sitio BitTorrent de la comunidad P2P.
 El leit motiv de Copyriot es 'Sin copyright. Sin licencia'. Pero existe una
-diferencia con respecto a la vieja tradición anticopyright. Fleischer clama que
+diferencia con respecto a la vieja tradición anticopyright. Fleischer afirma que
 el copyright se ha vuelto absurdo en la era de la tecnología digital porque
 debe recurrir a toda suerte de ficciones, como distinciones entre subidas
 y bajadas o entre productor y consumidor, que no tienen existencia real en una
-comunicación entre pares.
+comunicación horizontal entre pares.
 
-El Piratbyrån rechaza el copyright en su integridad, pero no porque está
+El Piratbyrån rechaza el copyright completamente, pero no porque está
 fallado de fábrica, sino porque fue inventado para regular una costosa máquina
 de una sola vía como la imprenta y ya no se corresponde con las prácticas que
 han sido posibilitadas por las actuales tecnologías de la reproducción. Sin
 embargo, a pesar de la absurdidad de las ficciones en que descansa el
-copyright, el contexto político amplio sugiere que los modelos inspirados en el
-copyleft también tienen un rol importante para jugar. El rechazo total del
+copyright, el contexto político más amplio sugiere que los modelos inspirados en el
+copyleft también tienen un rol importante que jugar. El rechazo total del
 ambiente legal no siempre es posible cuando se toman en cuenta las
 consideraciones prácticas. Construir formas alternativas de producir
 y compartir, 'construir la sociedad nueva en el caparazón de la vieja',
