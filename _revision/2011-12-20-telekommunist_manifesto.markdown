@@ -1960,7 +1960,7 @@ fuente y rehusó compartir la nueva versión. En este sentido, el copyleft
 representa un aprendizaje, una dolorosa lección de que la renuncia a todos los
 derechos puede llevar al abuso de los lucradores. El copyleft intenta crear unos
 comunes basados en derechos y responsabilidades recíprocos para respetar los
-derechos de otros usuarios. Todos pueden sumar los comunes, pero nadie puede
+derechos de otros usuarios. Todos pueden sumar a los comunes, pero nadie puede
 sustraer de ellos.
 
 Pero en otro sentido el copyleft representa un paso atrás del anticopyright
@@ -2074,7 +2074,7 @@ provienen de las compañías cuyo negocio principal es vender hardware, no
 software, como Apple Computer o los routers Juniper, donde ambos utilizan
 versiones propietarias de software derivado de proyectos BSD. Debe notarse que
 tanto Apple como Juniper hacen software propietario no para venderlo, sino para
-empacarlo con su hardware costoso. Este punto se enfatiza con los esfuerzos de
+imbuirlo en su hardware costoso. Este punto se enfatiza con los esfuerzos de
 ambas compañías para evitar que los usuarios adquieran su software para
 utilizarlo en hardware más barato. Por ejemplo, considérense los ejemplos
 de Apple para frustrar el proyecto Hackintosh, que ofrece instrucciones para
@@ -2099,8 +2099,8 @@ argumentos de la izquierda en contra de la propiedad, el copyleft limita su crí
 al estrecho campo de la propiedad inmaterial. Un ejemplo particularmente
 desvergonzado de esto es el 'Manifiesto puntoComunista' de Eben
 Moglen,[^moglen-2003] un insultante pastiche del manifiesto seminal de Marx
-y Engels, que invoca la llamada a las armas para que la clase trabajadora se una por la
-abolición del capitalismo, y en su lugar lo cambia para sólo demandar la
+y Engels, que en 1848 llamaba a la clase trabajadora a unirse en armas por la
+abolición del capitalismo, y lo cambia para sólo demandar la 
 abolición de la propiedad intelectual. Los dos materialistas decimonónicos
 hubieran comprendido que la sola abolición de la propiedad intelectual no
 hubiera liberado a la clase trabajadora de sus cadenas. Moglen, profesor de
@@ -2150,17 +2150,17 @@ herramienta para utilizar en la producción, es decir un bien de producción. Lo
 bienes de producción, como se mencionó antes, son los activos utilizados en la
 producción, como las herramientas y el equipamiento necesario para producir
 bienes de consumo que se venden por rédito. La demanda del capital es distinta
-de la demanda del consumidor. La demanda del capital es la demanda de bienes de
-producción; la demanda del consumidor es la demanda de bienes de consumo. El
+de la demanda del consumo. La demanda del capital es la demanda de bienes de
+producción; la demanda del consumo es la demanda de bienes de consumo. El
 capitalismo no necesita realizar su ganancia en la producción de bienes de
 capital porque las ganancias se hacen a través del control de la circulación de
 bienes de consumo. Todo aquello que baje el costo del capital aumenta
 consecuentemente el beneficio potencial que podrá ser capturado en la venta de
 esos bienes. Fracasar en comprender la diferencia entre demanda del capital
-y demanda del consumidor propaga el mito de que el éxito del software libre puede
+y demanda del consumo propaga el mito de que el éxito del software libre puede
 ser una plantilla para la cultura libre. Bajo el capitalismo, sólo el capital
 puede ser libre. Es por esto que el software puede ser libre, pero la cultura
-no puede serlo sin cambios más fundamentales en la sociedad.
+no puede serlo sin otros cambios más fundamentales en la sociedad.
 
 El arte no es, en la mayoria de los casos, una necesidad común de la producción
 como lo es el software. Entonces, su demanda es una demanda de consumo, no de
@@ -2278,8 +2278,8 @@ de copia). Debe insistir en la propiedad de los trabajadores sobre los medios
 de producción. Las obras mismas deben formar parte de ese stock común y estar
 disponibles para su uso productivo por otros productores con base en el común.
 Mientras los autores se reserven el derecho a hacer dinero de sus obras
-y prevengan a otros productores basados en el común a hacerlo, sus obras no
-pueden considerarse definitivamente como parte del común para nada, son obras privadas.
+y prevengan a otros productores basados en el común hacerlo, sus obras no
+pueden considerarse parte del común en lo absoluto, son obras privadas.
 Una licencia copyfarleft no debe restringir el uso comercial, antes bien el uso
 que no está basado en el común.
 
