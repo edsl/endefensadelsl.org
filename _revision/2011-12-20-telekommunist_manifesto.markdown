@@ -2095,19 +2095,18 @@ bajo la GPL.
 Así como el copyleft es de alguna manera un retroceso de la posición ideológica
 del anticopyright, la posición política del copyleft es un retroceso de la
 posición ideológica de la izquierda socialista. Aun cuando se apropia de
-argumentos de la izquierda en contra de la propiedad, el copyleft limita su crítica
-al estrecho campo de la propiedad inmaterial. Un ejemplo particularmente
-desvergonzado de esto es el 'Manifiesto puntoComunista' de Eben
-Moglen,[^moglen-2003] un insultante pastiche del manifiesto seminal de Marx
-y Engels, que en 1848 llamaba a la clase trabajadora a unirse en armas por la
-abolición del capitalismo, y lo cambia para sólo demandar la 
-abolición de la propiedad intelectual. Los dos materialistas decimonónicos
-hubieran comprendido que la sola abolición de la propiedad intelectual no
-hubiera liberado a la clase trabajadora de sus cadenas. Moglen, profesor de
-leyes en la Universidad de Columbia y consejero maestro en la FSF de Stallman,
-falla en involucrarse en el problema de la institución misma de la propiedad,
-y por lo tanto no ha aprendido nada de la posición de los revolucionarios que
-intenta imitar.
+argumentos de la izquierda en contra de la propiedad, el copyleft limita su
+crítica al estrecho campo de la propiedad inmaterial. Un ejemplo
+particularmente desvergonzado de esto es el 'Manifiesto puntoComunista' de Eben
+Moglen,[^moglen-2003] un ofensivo pastiche del manifiesto seminal de Marx
+y Engels, que convierte aquella llamada a las armas de la clase trabajadora por
+la abolición del capitalismo para sólo demandar la abolición de la propiedad
+intelectual. Los dos materialistas decimonónicos hubieran comprendido que la
+sola abolición de la propiedad intelectual no hubiera liberado a la clase
+trabajadora de sus cadenas. Moglen, profesor de leyes en la Universidad de
+Columbia y consejero maestro en la FSF de Stallman, falla en involucrarse en el
+problema de la institución misma de la propiedad, y por lo tanto no ha
+aprendido nada de la posición de los revolucionarios que intenta imitar.
 
 Pero, a pesar de los retrocesos ideológicos y políticos que el copyleft
 representa, en el área del desarrollo de software, el copyleft se ha probado un
