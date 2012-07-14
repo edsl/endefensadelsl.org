@@ -2757,7 +2757,7 @@ de una sociedad nueva se pone a nuestro alcance.
 [^22]: El [‘Paquete de Reformas de
 Telecomunicadoras’](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/07/1677&format=HTML&aged=0&language=EN&guiLanguage=en)
 fue presentado por la Viviane Reding al Parlamento Europeo en Estrasburgo el 13
-de noviembre de 2007.  Apunta a cambiar las Reglas de las Telecomunicadoras
+de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
 europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
 europeo para los 27 miembros.
 
@@ -2812,7 +2812,7 @@ Oxford: Oxford University Press.
 University Press.
 
 [^un-2007]: Development Economics Research, U. N. U.-W. I. for. (2007). Richest
-2\% Own Half the World’s Wealth. update.unu.edu 44 (Diciembre 2006-Febrero
+2% Own Half the World’s Wealth. update.unu.edu 44 (Diciembre 2006-Febrero
 2007). Para más información ver: United Nations University-World Institute for
 Development Economics Research (UNU-WIDER) en
 [PDF](http://www.wider.unu.edu/events/past-events/2006-events/en\_GB/05-12-2006/\_files/78079217418699128/default/wider-wdhw-press-release-5-12-2006.pdf), 
@@ -2845,7 +2845,7 @@ Party. Marxists Internet Archive.
 [^charter-sf]: Charter for Innovation, Creativity and Access to Knowledge
 ‘Introduction’. [Ver](http://fcforum.net/charter_extended)
 
-[^proudhon-1890]: Proudhon{P}ierre-{J}oseph. (1890). What is Property? An
+[^proudhon-1890]: Proudhon, Pierre-Joseph. (1890). What is Property? An
 Inquiry into the Principle of Right and of Government. Project Gutenberg.
 [Ver](http://www.gutenberg.org/ebooks/360)
 
@@ -2903,18 +2903,17 @@ Earnings. DIMESeptember 2006.
 [^landauer-2010]: Landauer, G. (2010). Revolution and Other Writings:
 A Political Reader. Oakland: PM Press.
 
-[^NdT1]: **NdT: Trapped in the World Wide Web en el original. Web puede traducirse
-tanto por red como por telaraña.**
+[^NdT1]: NdT: Trapped in the World Wide Web en el original. Web puede traducirse
+tanto por red como por telaraña.
 
-[^NdT2]: **NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
+[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
 un grupo de personas que algo falso es real. En el idioma castellano el término
 se popularizó principalmente al referirse a engaños masivos por medios
-electrónicos (especialmente Internet).
-[Ver](https://es.wikipedia.org/wiki/Bulo)**
+electrónicos (especialmente Internet).  [Ver](https://es.wikipedia.org/wiki/Bulo)
 
-[^NdT3]: **NdT: Détournement es un concepto surgido dentro del movimiento
+[^NdT3]: NdT: Détournement es un concepto surgido dentro del movimiento
 situacionista que habla sobre la posibilidad artística y política de tomar
-algún objeto creado por el capitalismo o el sistema político hegemónico y
-distorsionar su significado y uso original para producir un efecto crítico. Una
-palabra parecida en español es tergiversación.
-[Ver](https://es.wikipedia.org/wiki/Detournement)**
+algún objeto creado por el capitalismo o el sistema político hegemónico
+y distorsionar su significado y uso original para producir un efecto crítico.
+Una palabra parecida en español es tergiversación.
+[Ver](https://es.wikipedia.org/wiki/Detournement)
