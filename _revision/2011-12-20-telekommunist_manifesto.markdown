@@ -20,7 +20,7 @@ conflicto de clase. Telekommunisten \[telecomunista\] es un colectivo con base
 en Berlín, Alemania, donde vivo desde el 2003. Me encontré con el término
 "Telekommunisten" (que se convertiría en el nombre del colectivo) en el 2005,
 cuando visitaba el departamento de un amigo. Él y su compañero habían nombrado
-"telecomunista" a la red de área local que usaban para compartir acceso a
+"telecomunista" a la red de área local que usaban para compartir el acceso a
 Internet._
 
 Telecomunista había sido usado como un nombre despectivo para la antigua
@@ -591,7 +591,7 @@ monitoreo y control de sus usuarios en una escala jamás soñada.
 
 Internet tomó al mundo corporativo por sorpresa, al emerger de universidades
 públicas, investigación militar y la sociedad civil. Fue promovida por una
-industria casera de proveedores de internet pequeños e independientes, que eran
+industria casera de proveedores de Internet pequeños e independientes, que eran
 capaces de ganarse unos pesos al proveer acceso a la red construida y financiada por
 el Estado. Mientras tanto, el mundo corporativo pujaba por una idea muy
 diferente sobre la supercarretera de la información, produciendo 'servicios
@@ -649,7 +649,7 @@ librería, pero continuó empleando las tecnologías distribuidas para comunicar
 con otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
 riesgo, se colocó de forma tal que los sitios web operados por grandes
 corporaciones se convirtieron en las principales plataformas sociales. La
-misma internet desaparecería pronto detrás de la Web, y los usuarios nunca más
+misma Internet desaparecería pronto detrás de la Web, y los usuarios nunca más
 saldrían del navegador.
 
 La Web 2.0 emergió como el paraíso del capitalismo de riesgo, donde inversores
@@ -905,7 +905,7 @@ de la propiedad ociosa, requiere del control centralizado. Sin tal forma de
 control, los productores no tienen motivo para compartir su ganancia con
 accionistas ajenos. Asique mientras el financiamiento del desarrollo de
 Internet provenga de accionistas privados intentando apropiar valor poseyendo
-recursos de internet, la red solo podrá volverse más restringida
+recursos de Internet, la red solo podrá volverse más restringida
 y centralizada. Mientras los bienes comunes informacionales tienen el potencial
 de tener un rol importante en movilizar a la sociedad hacia modos de producción
 más inclusivos, cualquier esperanza real por servicios basados en Internet
