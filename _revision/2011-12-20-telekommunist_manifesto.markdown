@@ -1273,8 +1273,8 @@ _Derivado de la Sección 2 del Manifiesto del Partido Comunista. Marx y Engels,
 
 _Revisado utilizando el texto del Manifiesto Comunista en castellano._ [^100]
 
-Ya dejamos dicho que el primer paso de la revolución obrera será <s>la
-exaltación del proletariado al Poder,</s> **el desarrollo de una red de
+Ya dejamos dicho que el primer paso de la revolución obrera será ~~la
+exaltación del proletariado al Poder,~~ **el desarrollo de una red de
 empresas donde el pueblo produzca por el valor social mismo y lo comparta entre
 iguales y la construcción y expansión económica de estas para elevar al
 proletariado como la clase económicamente dominante. Sólo cuando los
@@ -1283,83 +1283,83 @@ democracia.
 
 El proletariado se valdrá del Poder **Económico** para ir despojando
 paulatinamente a la burguesía de todo el capital, de todos los instrumentos de
-la producción, **de**centralizándolos <s>en manos del Estado, es decir, del
-proletariado organizado como clase gobernante,</s> **en un stock común
+la producción, **de**centralizándolos ~~en manos del Estado, es decir, del
+proletariado organizado como clase gobernante,~~ **en un stock común
 controlado directamente por aquellos que lo utilizan para producir,**
 y procurando fomentar por todos los medios y con la mayor rapidez posible las
 energías productivas.
 
 Claro está que, al principio, esto sólo podrá llevarse a cabo mediante una
-<s>acción despótica sobre</s> **reestructuración de nuestras empresas a** la
+~~acción despótica sobre~~ **reestructuración de nuestras empresas a** la
 propiedad y el régimen burgués de producción, por medio de medidas que, aunque
 de momento parezcan económicamente insuficientes e insostenibles, **contrarias
 a nuestros fines**, en el transcurso del movimiento serán un gran resorte
 propulsor y de las que no puede prescindiese como medio para transformar todo
 el régimen de producción vigente.
 
-Estas medidas no podrán ser las mismas, naturalmente, en <s>todos los
-países</s> **todas las comunidades**.
+Estas medidas no podrán ser las mismas, naturalmente, en ~~todos los
+países~~ **todas las comunidades**.
 
 Para l**a**s más progresiv**a**s mencionaremos unas cuantas, susceptibles, sin
 duda, de ser aplicadas con carácter más o menos general, según los casos.
 
-1. <s>Expropiación</s> **Mutualización** de la propiedad <s>inmueble</s>
-   **sobre todos los medios de producción** y aplicación de la renta <s>del
-   suelo</s> a los gastos <s>públicos</s> **mutuales**.
+1. ~~Expropiación~~ **Mutualización** de la propiedad ~~inmueble~~
+   **sobre todos los medios de producción** y aplicación de la renta ~~del
+   suelo~~ a los gastos ~~públicos~~ **mutuales**.
 
-2. <s>Fuerte impuesto progresivo.</s> **Establecimiento de un ingreso
+2. ~~Fuerte impuesto progresivo.~~ **Establecimiento de un ingreso
    garantizado en la forma de dividendos pagados a cada miembro de la
    comunidad, igual en cantidad a la parte per cápita de toda la renta
    mutualmente recolectada.**
 
-3. <s>Abolición del derecho de herencia.</s> **Derecho a la membresía para
+3. ~~Abolición del derecho de herencia.~~ **Derecho a la membresía para
    todos aquellos que contribuyan con su labor, y sola compensación por esta
    contribución de labor, no por herencia, compra o transferencia de ningún
    tipo.**
 
-4. <s>Confiscación de la fortuna de los emigrados y rebeldes.</s> **Renuncia
+4. ~~Confiscación de la fortuna de los emigrados y rebeldes.~~ **Renuncia
    contractual de la propiedad privada sobre los activos productivos de todas
    las empresas de los miembros, y en su lugar, toma de posesión de sus
    necesidades productivas por alquiler al stock común.**
 
-5. <s>Centralización del crédito en el Estado por medio de un Banco nacional
-   con capital del Estado y régimen de monopolio.</s> **Establecimiento de un
+5. ~~Centralización del crédito en el Estado por medio de un Banco nacional
+   con capital del Estado y régimen de monopolio.~~ **Establecimiento de un
    mercado mutual de bonos, donde los bonos son subastados con el propósito de
    construir el stock común de activos productivos.**
 
-6. <s>Nacionalización de los transportes.</s> **Desarrollo de los recursos
+6. ~~Nacionalización de los transportes.~~ **Desarrollo de los recursos
    necesarios para poner en manos de todos los miembros los medios de
    comunicación y transporte.**
 
-7. <s>Multiplicación de las fábricas nacionales y de los medios de producción,
-   roturación y mejora de terrenos con arreglo a un plan colectivo.</s>
+7. ~~Multiplicación de las fábricas nacionales y de los medios de producción,
+   roturación y mejora de terrenos con arreglo a un plan colectivo.~~
    **Provisión general de oportunidades para adquirir y extender los
    instrumentos de producción disponibles con el mayor grado posible.**
 
-8. <s>Proclamación del deber general de trabajar; creación de ejércitos
-   industriales, principalmente en el campo.</s> **Igualdad de oportunidad de
+8. ~~Proclamación del deber general de trabajar; creación de ejércitos
+   industriales, principalmente en el campo.~~ **Igualdad de oportunidad de
    participación y producción.**
 
-9. <s>Articulación de las explotaciones agrícolas e industriales; tendencia
-   a ir borrando gradualmente las diferencias entre el campo y la ciudad.</s>
+9. ~~Articulación de las explotaciones agrícolas e industriales; tendencia
+   a ir borrando gradualmente las diferencias entre el campo y la ciudad.~~
    **Abolición de cualquier distinción entre productor y consumidor
    y transformación de relaciones basadas en transacciones mercantiles
    a relaciones basadas en la distribución generalizada, donde la producción de
    valor social toma precedencia sobre la producción de mercancías.**
 
-10. <s>Educación pública y gratuita de todos los niños. Prohibición del trabajo
+10. ~~Educación pública y gratuita de todos los niños. Prohibición del trabajo
     infantil en las fábricas bajo su forma actual.  Régimen combinado de la
-    educación con la producción material, etc.</s> **Establecimiento de redes
+    educación con la producción material, etc.~~ **Establecimiento de redes
     de compartición de conocimiento y capacidades y sistemas de apoyo para
     todos los miembros, y provisión de oportunidades para el desarrollo de
     habilidades de contribución y producción.**
 
 Tan pronto como, en el transcurso del tiempo, hayan desaparecido las
-diferencias de clase y toda la producción esté <s>concentrada</s>
+diferencias de clase y toda la producción esté ~~concentrada~~
 **distribuida** en manos de la sociedad, el Estado perderá todo carácter
 político. El Poder político no es, en rigor, más que el poder organizado de una
 clase para la opresión de la otra. El proletariado se ve forzado a organizarse
-como clase para luchar contra la burguesía; la <s>revolución</s>
+como clase para luchar contra la burguesía; la ~~revolución~~
 **auto-organización** le lleva al Poder; mas tan pronto como desde él, como
 clase gobernante, derribe por la fuerza el régimen vigente de producción, con
 éste hará desaparecer las condiciones que determinan el antagonismo de clases,
@@ -2815,7 +2815,7 @@ University Press.
 2\% Own Half the World’s Wealth. update.unu.edu 44 (Diciembre 2006-Febrero
 2007). Para más información ver: United Nations University-World Institute for
 Development Economics Research (UNU-WIDER) en
-\url{http://www.wider.unu.edu/events/past-events/2006-events/en\_GB/05-12-2006/\_ﬁles/78079217418699128/default/wider-wdhw-press-release-5-12-2006.pdf}.
+http://www.wider.unu.edu/events/past-events/2006-events/en_GB/05-12-2006/_files/78079217418699128/default/wider-wdhw-press-release-5-12-2006.pdf.
 [Ver](http://update.unu.edu/issue44_22.htm)
 
 [^wikipedia-web20]: Wikipedia.org. (2010). Web 2.0.
