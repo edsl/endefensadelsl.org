@@ -1,3 +1,12 @@
+markdown: pandoc
+
+pandoc:
+    extensions: 
+        - smart 
+        - html5
+        - csl: 'apa.csl'
+        - bibliography: 'ref.bib'
+
 destination: /srv/http/endefensadelsl.org
 
 permalink: ":title.html"
