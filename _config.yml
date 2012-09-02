@@ -1,7 +1,11 @@
 markdown: pandoc
 
 pandoc:
-    extensions: [ smart ] #, { csl => apa.csl, bibliography => ref.bib }]
+    extensions: 
+        - smart 
+        - html5
+        - csl: 'apa.csl'
+        - bibliography: 'ref.bib'
 
 destination: /srv/http/endefensadelsl.org
 
