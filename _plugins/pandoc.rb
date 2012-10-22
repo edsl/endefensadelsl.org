@@ -4,10 +4,10 @@ module Jekyll
 
 class PandocGenerator < Generator
     def generate(site)
-       outputs = site.config['pandoc']['outputs']
-       flags  = site.config['pandoc']['flags']
+        outputs = site.config['pandoc']['outputs']
+        flags  = site.config['pandoc']['flags']
 
-       outputs.each do |output|
+        outputs.each do |output|
             site.posts.each do |post|
                 filename = File.join(site.config['destination'], post.url).gsub(/\.html$/, ".#{output}")
 
@@ -27,9 +27,9 @@ class PandocGenerator < Generator
                     stdin.close
                 end
 
-           end
-       end
-    
+            end
+        end
+
+        end
     end
-end
 end
