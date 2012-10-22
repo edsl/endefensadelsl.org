@@ -9,6 +9,14 @@ layout: default
 
     <footer id="related">
 
+        <h2>Otros formatos</h2>
+
+        <ul class="formatos">
+          {% for format in site.pandoc.outputs %}
+            <li>En <a href="{{ page.url | replace:'html',format }}">{{ format }}</a></li>
+          {% endfor %}
+        </ul>
+
         <h2>Otras lecturas</h2>
         <ul class="posts">
 
