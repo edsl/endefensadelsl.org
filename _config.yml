@@ -1,5 +1,3 @@
-markdown: pandoc
-
 pandoc:
     extensions:
         - smart
@@ -9,8 +7,9 @@ pandoc:
     flags: '--csl=apa.csl --bibliography=ref.bib'
     outputs: 
         - epub
-        - pdf
         - rst
+        - mediawiki
+        - pdf
 
 destination: /srv/http/endefensadelsl.org
 
