@@ -6,10 +6,15 @@ pandoc:
         - html5
         - csl: 'apa.csl'
         - bibliography: 'ref.bib'
+    flags: '--csl=apa.csl --bibliography=ref.bib'
+    outputs: 
+        - epub
+        - pdf
+        - rst
 
 destination: /srv/http/endefensadelsl.org
 
 permalink: ":title.html"
 
-lsi: true
+lsi: false
 
