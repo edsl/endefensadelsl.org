@@ -22,10 +22,10 @@ class PandocGenerator < Generator
                 puts "pandoc #{flags} #{output_flag}"
 
 # Correr el comando
-#                Open3::popen3("#{command} #{flags}") do |stdin, stdout, stderr|
-#                    stdin.puts p.content
-#                    stdin.close
-#                end
+                Open3::popen3("pandoc #{output_flag} #{flags}") do |stdin, stdout, stderr|
+                    stdin.puts post.content
+                    stdin.close
+                end
            end
        end
     
