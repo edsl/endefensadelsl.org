@@ -33,7 +33,7 @@ end
 
 class MarkdownConverter
   def convert(content)
-    flags  = site.config['pandoc']['flags']
+    flags  = @config['pandoc']['flags']
 
     output = ''
     Open3::popen3("pandoc #{flags}") do |stdin, stdout, stderr|
