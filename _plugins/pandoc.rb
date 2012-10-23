@@ -8,11 +8,10 @@ class PandocGenerator < Generator
     flags  = site.config['pandoc']['flags']
 
     outputs.each do |output|
+      FileUtils.mkdir_p(output)
+
       site.posts.each do |post|
         filename = File.join(output, post.url).gsub(/\.html$/, ".#{output}")
-
-        FileUtils.mkdir_p(File.dirname(filename))
-        site.static_files << StaticFile.new(site, site.source, '', filename)
 
 # Casos especiales para pandoc
         if ['pdf', 'epub'].include? output 
@@ -29,6 +28,10 @@ class PandocGenerator < Generator
           stdin.puts post.content
           stdin.close
         end
+
+        next if not File.exist? filename
+
+        site.static_files << StaticFile.new(site, site.source, '', filename)
       end
     end
   end
@@ -39,7 +42,7 @@ class MarkdownConverter
     flags  = @config['pandoc']['flags']
 
     output = ''
-    Open3::popen3("pandoc #{flags}") do |stdin, stdout, stderr|
+    Open3::popen3("pandoc -t html5 #{flags}") do |stdin, stdout, stderr|
       stdin.puts content
       stdin.close
 
