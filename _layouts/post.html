@@ -13,7 +13,7 @@ layout: default
 
         <ul class="formatos">
           {% for format in site.pandoc.outputs %}
-            <li>En <a href="{{ page.url | replace:'html',format }}">{{ format }}</a></li>
+            <li>En <a href="{{format}}/{{ page.url | replace:'html',format }}">{{ format }}</a></li>
           {% endfor %}
         </ul>
 

@@ -9,7 +9,10 @@ class PandocGenerator < Generator
 
     outputs.each do |output|
       site.posts.each do |post|
-        filename = File.join(site.config['destination'], post.url).gsub(/\.html$/, ".#{output}")
+        filename = File.join(output, post.url).gsub(/\.html$/, ".#{output}")
+
+        FileUtils.mkdir_p(File.dirname(filename))
+        site.static_files << StaticFile.new(site, site.source, '', filename)
 
 # Casos especiales para pandoc
         if ['pdf', 'epub'].include? output 
