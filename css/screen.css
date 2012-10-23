@@ -43,8 +43,7 @@ em {
     font-style: italic
 }
 
-h1,
-blockquote {
+h1 {
     margin-top: 50px;
     margin-left: 50px;
 }
@@ -80,16 +79,9 @@ dt {
     margin: 10px 0 0 0;
 }
 
-blockquote:after {
-    display: block;
-    content: url('images/finger.png');
-    height: 49px;
-    margin-top: -29px;
-
-}
-
-blockquote p {
-    padding-left: 100px;
+blockquote {
+    padding: 0 0 0 15px;
+    border-left: 5px solid #eee;
 }
 
 img {
@@ -126,4 +118,23 @@ nav#formats * {
 
 nav#formats li:before {
     content:""
+}
+
+dd p,
+li p {
+    margin: auto;
+}
+
+li p {
+    display: inline;
+}
+
+blockquote span.citation:before {
+    content: "— "
+}
+
+blockquote span.citation {
+    color: #999999;
+    display: block;
+    font-size: 85%;
 }
