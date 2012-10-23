@@ -117,3 +117,11 @@ li {
 ul li:before {
     content: "\00BB \0020";
 }
+
+nav#formats * {
+    display: inline;
+}
+
+nav#formats li:before {
+    content:""
+}
