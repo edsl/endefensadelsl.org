@@ -1,15 +1,11 @@
+markdown: pandoc
 pandoc:
-    extensions:
-        - smart
-        - html5
-        - csl: 'apa.csl'
-        - bibliography: 'ref.bib'
-    flags: '--csl=apa.csl --bibliography=ref.bib'
+    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es'
     outputs: 
-        - epub
-        - rst
+        - markdown
         - mediawiki
         - pdf
+        - epub
 
 destination: /srv/http/endefensadelsl.org
 
