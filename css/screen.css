@@ -1,12 +1,13 @@
 
 /* Reset */
 @import url('reset.css');
-@import url('fonts/stylesheet.css');
+/* @import url('fonts/stylesheet.css'); */
 /* Oxymoron CSS framework*/
 @import url('oxymoron.css');
 
 body {
-    font-family: Liberation Serif, LiberationSerifRegular, serif;
+/*    font-family: Liberation Serif, LiberationSerifRegular, serif; */
+    font-family: sans-serif;
     width: 680px;
 }
 
@@ -18,7 +19,8 @@ h1 {
 h2 {
     font-size: 200%;
     font-weight: bold;
-    font-family: Liberation Serif Bold, LiberationSerifBold, serif;
+/*    font-family: Liberation Serif Bold, LiberationSerifBold, serif;*/
+    font-family: sans-serif;
     margin: 40px 0 15px 0;
 }
 
@@ -41,8 +43,7 @@ em {
     font-style: italic
 }
 
-h1,
-blockquote {
+h1 {
     margin-top: 50px;
     margin-left: 50px;
 }
@@ -78,16 +79,9 @@ dt {
     margin: 10px 0 0 0;
 }
 
-blockquote:after {
-    display: block;
-    content: url('/images/finger.png');
-    height: 49px;
-    margin-top: -29px;
-
-}
-
-blockquote p {
-    padding-left: 100px;
+blockquote {
+    padding: 0 0 0 15px;
+    border-left: 5px solid #eee;
 }
 
 img {
@@ -116,4 +110,31 @@ li {
 
 ul li:before {
     content: "\00BB \0020";
+}
+
+nav#formats * {
+    display: inline;
+}
+
+nav#formats li:before {
+    content:""
+}
+
+dd p,
+li p {
+    margin: auto;
+}
+
+li p {
+    display: inline;
+}
+
+blockquote span.citation:before {
+    content: "— "
+}
+
+blockquote span.citation {
+    color: #999999;
+    display: block;
+    font-size: 85%;
 }
