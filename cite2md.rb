@@ -28,7 +28,7 @@ ARGV.each do |f|
 
 # puede haber varias citas en un mismo \cite{}
         c[0].split(', ').each do |k|
-            
+
 # Una nota al pie con el nombre del bib
             citeref << "[^#{k}]"
 
@@ -44,7 +44,7 @@ ARGV.each do |f|
             puts citenote
         end
 
-# Cambiar los \cite{} por las referencias 
+# Cambiar los \cite{} por las referencias
 #        text.gsub!(/\\cite{#{c[0]}}/, citeref)
     end
 

@@ -14,10 +14,10 @@ class PandocGenerator < Generator
         filename = File.join(output, post.url).gsub(/\.html$/, ".#{output}")
 
 # Casos especiales para pandoc
-        if ['pdf', 'epub'].include? output 
+        if ['pdf', 'epub'].include? output
           output_flag = "-o #{filename}"
         else
-          output_flag = "-t #{output} -o #{filename}" 
+          output_flag = "-t #{output} -o #{filename}"
         end
 
 # Prueba del comando
@@ -50,7 +50,7 @@ class MarkdownConverter
     end
 
     output
-    
+
   end
 end
 end

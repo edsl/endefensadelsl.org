@@ -23,7 +23,7 @@ title: En Defensa del Software Libre
 * IRC: [#endefensadelsl][1] en freenode
 * [Puntos de venta física][6]
 
-[Licencia][5] | [Feed Atom][3] | [Código fuente del sitio][4]  
+[Licencia][5] | [Feed Atom][3] | [Código fuente del sitio][4]
 &#8220;El dedo de la cita&#8221; es cc-by de [Your Neighbours][2].
 
 
