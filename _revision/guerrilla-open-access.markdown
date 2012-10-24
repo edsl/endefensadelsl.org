@@ -73,7 +73,7 @@ para amigos.
 > information locked up by the publishers and sharing them with your friends.
 
 Mientras tanto, aquellos de ustedes que se han quedado afuera no están cruzados
-de brazos. Han estado atravesando agujeros sigilosamente y trepando 
+de brazos. Han estado atravesando agujeros sigilosamente y trepando
 vallas, liberando la información encerrada por las editoriales y compartiéndola
 con sus amigos.
 
