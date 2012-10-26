@@ -14,4 +14,4 @@ acercarte a estos lugares:
 Si querés ayudarnos en la distribución [contactate][1] con nosotros!
 
 [0]: http://www.bibliobarracas.com.ar "Biblioteca Popular de Barracas"
-[1]: /#contacto
+[1]: index.html#contacto
