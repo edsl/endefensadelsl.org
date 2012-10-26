@@ -1,11 +1,12 @@
 markdown: pandoc
 pandoc:
+    skip: true
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es'
     outputs:
-        - markdown
-        - mediawiki
         - pdf
         - epub
+        - markdown
+        - mediawiki
         - rst
 
 destination: /srv/http/endefensadelsl.org

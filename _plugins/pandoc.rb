@@ -7,6 +7,8 @@ class PandocGenerator < Generator
     outputs = site.config['pandoc']['outputs']
     flags  = site.config['pandoc']['flags']
 
+    return if site.config['pandoc']['skip']
+
     outputs.each do |output|
       FileUtils.mkdir_p(output)
 
