@@ -20,11 +20,9 @@ layout: nil
    <link href="http://endefensadelsl.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://endefensadelsl.org{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
-   {% for format in site.pandoc.outputs %}
    <link rel="enclosure" title="{{ post.title }}" 
-         href="http://endefensadelsl.org/{{ format }}/{{ post.url | replace:'html',format }}"/>
-   {% endfor %}
+         type="application/epub+zip"
+         href="http://endefensadelsl.org/epub/{{ post.url | replace:'html','epub' }}"/>
  </entry>
  {% endfor %}
 
