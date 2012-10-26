@@ -2,12 +2,13 @@
 /* Reset */
 @import url('reset.css');
 /* @import url('fonts/stylesheet.css'); */
+/* @import url('droid/stylesheet.css'); */
 /* Oxymoron CSS framework*/
 @import url('oxymoron.css');
 
 body {
 /*    font-family: Liberation Serif, LiberationSerifRegular, serif; */
-    font-family: sans-serif;
+    font-family: 'Droid Serif', sans-serif;
     width: 680px;
 }
 
@@ -49,7 +50,8 @@ h1 {
 }
 
 h3 {
-    margin: 20px 0 0 0;
+    margin: 20px 0 10px 0;
+    font-size: 130%;
 }
 
 dl a {
@@ -61,13 +63,13 @@ dl a:hover {
     color: #333
 }
 
-dd {
-    margin-left: 15px;
-}
-
 dd,
 dt {
     font-style: italic;
+}
+
+dd {
+    display: inline;
 }
 
 small {
@@ -76,7 +78,7 @@ small {
 
 dt {
     font-weight: bold;
-    margin: 10px 0 0 0;
+    margin: 20px 0 0 0;
 }
 
 blockquote {
@@ -137,4 +139,14 @@ blockquote span.citation {
     color: #999999;
     display: block;
     font-size: 85%;
+}
+
+dd p {
+    display: inline;
+}
+
+dd p a {
+    font-size: 80%;
+    color: #4083A9;
+    font-style: normal;
 }
