@@ -3,7 +3,7 @@ pandoc:
     skip: true
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es'
     outputs:
-        - pdf
+        - pdf: '--latex-engine=xelatex'
         - epub
         - markdown
         - mediawiki
