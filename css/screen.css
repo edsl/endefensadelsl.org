@@ -81,6 +81,14 @@ dt {
     margin: 20px 0 0 0;
 }
 
+dt + dd {
+    margin-left: 16px;
+}
+
+dt:before {
+    content: "» ";
+}
+
 blockquote {
     padding: 0 0 0 15px;
     border-left: 5px solid #eee;
