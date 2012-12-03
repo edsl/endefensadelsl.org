@@ -1,0 +1,22 @@
+\usepackage{quotchap} % changes style of chapter headings
+\usepackage{setspace}
+\usepackage{fancyhdr}
+
+\newcommand{\copyleft}{\reflectbox{©}}
+
+\definecolor{grey}{cmyk}{0,0,0,0.6}
+
+\renewcommand{\chapnumfont}{
+    \fontsize{44}{46}
+    \selectfont
+    \color{grey}
+}
+
+\pagestyle{fancy}
+\setlength{\headheight}{15.2pt}
+\fancyhead[]{}
+\fancyhead[LE]{\footnotesize{\leftmark}}
+\fancyhead[RE]{}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}

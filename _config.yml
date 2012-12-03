@@ -1,13 +1,28 @@
 markdown: pandoc
 pandoc:
-    skip: true
-    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es'
+    skip: false
+    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish'
     outputs:
-        - pdf: '--latex-engine=xelatex'
+        - pdf: '-V fontsize=10pt,a5paper,twoside
+                -V documentclass=book
+                -V geometry=hcentering
+                -V geometry=bindingoffset=1cm
+                --latex-engine=xelatex
+                --table-of-contents
+                --include-in-header=_layouts/header.tex
+                --include-before-body=_layouts/license.tex' 
         - epub
-        - markdown
         - mediawiki
         - rst
+        - man
+        - latex: '-V fontsize=10pt,a5paper,twoside
+                  -V documentclass=book
+                  -V geometry=hcentering
+                  -V geometry=bindingoffset=1cm
+                  --latex-engine=xelatex
+                  --table-of-contents
+                  --include-in-header=_layouts/header.tex
+                  --include-before-body=_layouts/license.tex' 
 
 destination: /srv/http/endefensadelsl.org
 
