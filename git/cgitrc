@@ -2,7 +2,7 @@ root-title=En Defensa del Software Libre
 root-desc=~
 
 virtual-root=/git
-css=/usr/share/webapps/cgit/cgit.css
+css=/git/cgit.css
 
 clone-prefix=git://endefensadelsl.org 
 
