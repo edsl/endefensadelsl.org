@@ -14,7 +14,6 @@ pandoc:
         - epub
         - mediawiki
         - rst
-        - man
         - latex: '-V fontsize=10pt,a5paper,twoside
                   -V documentclass=book
                   -V geometry=hcentering
@@ -28,5 +27,5 @@ destination: /srv/http/endefensadelsl.org
 
 permalink: ":title.html"
 
-lsi: false
+lsi: true
 
