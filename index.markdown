@@ -28,7 +28,7 @@ title: En Defensa del Software Libre
 * IRC: [#endefensadelsl][1] en freenode
 * [Puntos de distribución][6]
 
-[Licencia][5] | [Feed Completo][3] | [Feed EPUB][7] | [Código fuente][4] | [jekyll]+[pandoc] ❤
+[Licencia][5] | [Feed Completo][3] | [Feed EPUB][7] | [Código fuente][4] | [jekyll]+[pandoc]
 
 
 [0]: http://listas.hipatia.net/cgi-bin/mailman/listinfo/endefensadelsl "Lista de correo"
