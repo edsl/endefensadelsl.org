@@ -66,7 +66,7 @@ en asumirse responsable.
 
 * Pepa le da el número y la dirección de Pepe a [#bantown][4].
 
-* Pepe pasa el resto del mes siguiente diciendole a todo el mundo que va
+* Pepe pasa el resto del mes siguiente diciéndole a todo el mundo que va
   a dejar o dejó de participar en Noisebridge, o alguna combinación de las dos.
 
 * Pepa, en venganza porque Pepe revierte constantemente sus cambios en la wiki,
@@ -77,13 +77,13 @@ en asumirse responsable.
   Pepa. La mañana siguiente se despierta en la cama de Pepa, sintiéndose
   culpable. Ninguna ducha lo hará sentirse limpio.
 
-* En este punto una de dos cosas pasa:
+En este punto una de dos cosas pasa:
 
-  - Los amigos de Pepe y Pepa se conocen, por lo que sin darse cuenta terminan
+* Los amigos de Pepe y Pepa se conocen, por lo que sin darse cuenta terminan
   emborrachándose juntos en un bar y hacen las paces, llorando en los hombros
   del otro sobre la pérdida de tiempo que es Noisebridge.
 
-  - El drama continua hasta que alguien se rinde y sigue con lo suyo. Nadie se
+* El drama continúa hasta que alguien se rinde y sigue con lo suyo. Nadie se
   acuerda cómo fue que empezó esta batalla épica.
 
 
