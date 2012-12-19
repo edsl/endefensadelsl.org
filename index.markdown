@@ -35,7 +35,7 @@ title: En Defensa del Software Libre
 [1]: irc://freenode.net/#endefensadelsl "IRC freenode"
 [2]: http://yourneighbours.de/web-design/free-retro-icon-set/ "Your Neighbours"
 [3]: atom.xml "Feed"
-[4]: git://endefensadelsl.org/endefensadelsl.org.git "Repositorio git"
+[4]: http://endefensadelsl.org/git/ "Repositorios git"
 [5]: licencia.html "Licencia del sitio"
 [6]: ventas.html "Puntos de distribución"
 [7]: atom_epub.xml "Feed EPUB"
