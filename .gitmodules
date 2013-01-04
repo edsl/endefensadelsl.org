@@ -3,4 +3,4 @@
 	url = git://git.hackcoop.com.ar/jekyll-pandoc-multiple-formats.git
 [submodule "_plugins/torrent"]
 	path = _plugins/torrent
-	url = git@hackcoop.com.ar:jekyll-torrent.git
+	url = git://endefensadelsl.org/jekyll-torrent.git
