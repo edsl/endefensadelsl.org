@@ -1,3 +1,6 @@
 [submodule "_plugins/outputs"]
 	path = _plugins/outputs
 	url = git://endefensadelsl.org/jekyll-pandoc-multiple-formats.git
+[submodule "_plugins/torrent"]
+	path = _plugins/torrent
+	url = git://endefensadelsl.org/jekyll-torrent.git

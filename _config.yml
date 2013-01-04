@@ -29,3 +29,5 @@ permalink: ":title.html"
 
 lsi: true
 
+torrent:
+  file: endefensadel.torrent

@@ -4,9 +4,10 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title></title>
+ <title>En Defensa del Software Libre</title>
  <link href="http://endefensadelsl.org/atom.xml" rel="self"/>
  <link href="http://endefensadelsl.org/"/>
+ <link href="http://endefensadelsl.org/{{ site.torrent.file }}" rel="torrent"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://endefensadelsl.org/</id>
  <author>
