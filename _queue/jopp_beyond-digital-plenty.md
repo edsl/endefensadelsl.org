@@ -1,36 +1,59 @@
-http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/
+---
+title: Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
+author: Christian Siefkes
+url: http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/
+---
 
-Beyond digital plenty: Building blocks for physical peer production
-===================================================================
+Resumen
+-------
 
-by Christian Siefkes
---------------------
-
-**Summary**
-
-Commons-based peer production has produced astonishing amounts of freely
-usable and shareable information. While that is amazing in itself, many
-people think that it is all, arguing that peer production flourishes in
-the digital realms of the Internet—and only there. This would mean that
-peer production could never be more than a niche phenomenon, since
-nobody can survive on information alone. This article challenges the
-conventional viewpoint, arguing that the potential of peer production
-extends far beyond the digital sphere into the sphere of physical
-production and that corresponding developments are already under way.\
- The article contrasts the plenty of the digital world with the apparent
-scarcity of the physical world. It explains the difference between
+Commons-based peer production has produced astonishing amounts of freely usable
+and shareable information. While that is amazing in itself, many people think
+that it is all, arguing that peer production flourishes in the digital realms
+of the Internet—and only there. This would mean that peer production could
+never be more than a niche phenomenon, since nobody can survive on information
+alone. This article challenges the conventional viewpoint, arguing that the
+potential of peer production extends far beyond the digital sphere into the
+sphere of physical production and that corresponding developments are already
+under way.\ The article contrasts the plenty of the digital world with the
+apparent scarcity of the physical world. It explains the difference between
 scarcity and limitations and why is it necessary to distinguish between
-different meanings of the word “plenty” when thinking about the
-possibility of plenty in a limited world. It shows that firm- and
-market-based capitalist production is unable to produce plenty for
-everyone due to its inherent traits, but that commons-based peer
-production is very different in this regard. It sketches building blocks
-for the generalization of peer production into the physical world,
-referring to examples that exist today. Finally, questions of fairness
-in a peer production–based society are discussed.
+different meanings of the word “plenty” when thinking about the possibility of
+plenty in a limited world. It shows that firm- and market-based capitalist
+production is unable to produce plenty for everyone due to its inherent traits,
+but that commons-based peer production is very different in this regard. It
+sketches building blocks for the generalization of peer production into the
+physical world, referring to examples that exist today. Finally, questions of
+fairness in a peer production–based society are discussed.
+
+La producción de pares basada en el Común ha producido cantidades sorprendentes
+de información libremente utilizable y compartible.  Mientras que esto es
+asombroso por sí mismo, muchas personas creen que eso es todo, que la
+producción de pares florece en el ámbito digital de la Internet y sólo allí.
+Esto significaría que la producción de pares nunca podría pasar de un fenómeno
+de niche, dado que nadie puede sobrevivir de información.  Este artículo
+discute este punto de vista convencional, argumentando que el potencial de la
+producción de pares se extiende mucho más allá de la esfera digital hacia la
+esfera de la producción física y que el desarrollo correspondiente está en
+camino.  Este artículo contrasta la abundancia en el mundo digital con la
+escasez aparente del mundo físico.  Explica la diferencia entre la escasez
+y las limitaciones y por qué es necesario distinguir entre los diferentes
+significados de la palabra "abundancia" cuando se piensa la posibilidad de la
+abundancia en un mundo limitado.  Muestra que la producción capitalista de
+mercado es incapaz de producir abundancia para todos debido a sus fallas
+inherentes, mientras que la producción de pares con base en el Común es muy
+diferente en este sentido.  Delinea los bloques de construcción para la
+generalización de la producción de pares en el mundo físico, refiriendo
+a ejemplos que existen hoy en día.  Finalmente, se discuten preguntas sobre la
+justicia en una sociedad basada en la producción de pares.
 
 Digital Plenty Versus Natural Scarcity?
 ---------------------------------------
+
+¿La abundancia digital contra la escasez natural?
+-------------------------------------------------
+
+### La Internet como un lugar de abundancia
 
 ### The Internet as a Place of Plenty
 
@@ -42,11 +65,25 @@ Everest), even though at some point they’ll start go get fairly
 repetitious and I have seen everything of interest—I can continue
 nevertheless.
 
+La Internet se ha convertido en un lugar de abundancia; abundancia en
+diferentes significados de la palabra.  El primer significado es el de
+"fastuosidad" o "desperdicio".  Podría estar todo el día navegando sitios de
+compartición de fotografías, mirando eternamente fotografías de cualquier
+persona o tema (digamos, el Monte Everest), aun cuando en algún punto comience
+a volverse bastante repetitivo y que he encontrado todo lo que pudiera ser de
+interés; y aun así continuar.
+
 I can use BitTorrent to download tons of movies—that’s usually illegal,
 but it works—until I’ve filled my hard disk with movies, even though I
 might never find the time for watching them. I can install any number of
 free software programs, endlessly trying new ones, even if I don’t
 really use any of them. It’s easy to waste time on the Net.
+
+Puede utilizar BitTorrent para descargar montones de películas --usualmente
+ilegal, pero funcional-- hasta llenar mi disco rígido con ellas, aunque nunca
+encuentre el tiempo para verlas.  Puedo instalar cualquier cantidad de
+programas de Software Libre, probando los nuevos hasta cansarme, aunque nunca
+los use realmente.  Es fácil perder tiempo en la Red.
 
 But plenty also has another meaning: “getting what I need, when I need
 it.” The Internet offers plenty in this sense, too. Just try to remember
@@ -61,6 +98,19 @@ interesting links for further reference. It has become so easy to find
 information on practically any topic that it is hard to remember how it
 was before.
 
+Pero la abundancia también tiene otro significado: "obtener lo que necesito,
+cuando lo necesito."  La Internet ofrece abundancia en este sentido, también.
+Intenta recordar (si eres lo suficientemente viejo) cuan incómodo era
+investigar algo antes de la Internet.  Tenías que visitar una biblioteca para
+encontrar libros sobre el tema; si no existían, tenías que intentarlo con
+artículos en _journals_ o averiguando si había expertos en algún lugar a los
+que podías ubicar y que respondieran a tus preguntas.  Hoy, comenzar una
+investigación se ha simplificado enormemente: sólo hay que buscar algunos
+términos en Google o leer el artículo sobre el tema en Wikipedia, y entonces
+seguir los vínculos más interesantes para más referencias.  Se ha vuelto tan
+fácil encontrar información en prácticamente cualquier tema que resulta difícil
+recordar cómo era antes.
+
 Solving problems has likewise become much simpler. Since you are hardly
 the first person with any specific problem, you can search the Internet.
 Usually you’ll find others who had the same problem and wrote about it.
@@ -69,6 +119,15 @@ it’s often easy to get involved and ask for help. In the past, it was
 very hard to find and cooperate with people with similar problems or
 interests, unless (maybe) if they lived in the same city or area as you.
 Not anymore.
+
+Del mismo modo, la resolución de problemas se ha vuelto mucho más simple.  Dado
+que dificilmente seas la primera persona con ese problema específico, puedes
+buscar en la Internet.  Usualmente encontrarás otras que tuvieron tu mismo
+problema y escribieron sobre eso.  Puedes chequear las soluciones a las que
+llegaron; si eso es insuficiente, a menudo es fácil involucrarse y pedir
+ayudar.  En el pasado, era muy difícil encontrar y cooperar con gente con
+problemas o intereses similares, a menos que (tal vez) vivan en tu misma ciudad
+o área.  Pero ya no más.
 
 When looking for a specified piece of music or a particular video, I’m
 quite likely to find it on YouTube or elsewhere online. And I can
@@ -79,6 +138,15 @@ editing photos, videos, or music, playing games, developing
 programs—almost anything is there. Thus, the Internet is also very good
 at providing plenty in the sense of “what I need, when I need it.”
 
+Cuando busco una pieza específica de música o un video en particular, muy
+probablemente lo encuentre en YouTube o en algún otro lugar en línea.  Y puedo
+descargar y ver películas que me interesan --no legalmente, pero aun así.
+Puedo encontrar programas de Software Libre para realizar tareas específicas
+o resolver problemas específicos; tanto para navegación Web, ver videos, editar
+fotos, videos o música, jugar, desarrollar programas, casi todo está ahí.
+Entonces, la Internet es muy buena para proveer abundancia en el sentido "lo
+que necesito, cuando lo necesito".
+
 It might seem as if the plenty originates in the digital nature of the
 Internet itself. But that would be a wrong impression. Digital
 technology is only the foundation; the producers of the plenty are the
@@ -87,7 +155,16 @@ that issue, but prior to doing so I will look a the limitations of the
 physical world which make it appear so different from the digital plenty
 of the Net.
 
+Podría parecer que si la abundancia se origina en la naturaleza digital de la
+Internet misma.  Pero sería la impresión errónea.  La tecnología digital es
+solamente el basamento; los productores de la abundancia son las personas que
+usan la Internet y la hacen posible.  Regresaré a este problema, pero antes de
+hacerlo revisaré las limitaciones del mundo físico que lo hacen parecer tan
+diferente de la abundancia digital de la Red.
+
 ### The Ecological Footprint: Is Scarcity “Natural”?
+
+### La huella ecológica: ¿Es la escasez "natural"?
 
 One issue that might seem to make the concept of plenty—plenty for
 everyone—in the natural world hopeless has become known as “ecological
@@ -97,6 +174,13 @@ and render harmless the corresponding waste. It is measured in “global
 hectares,” meaning hectares (one percent of a square kilometer) of land
 of average fertility.
 
+Un problema que puede hacer parecer imposible el concepto de abundancia
+--abundancia para todos-- en el mundo natural es conocido como "huella
+ecológica".  La huella ecológica es la cantidad de tierra necesaria para
+generar todos los recursos consumidos por la población humana y absorber
+y volver inofensivo el desecho correspondiente.  Es medido en "hectáreas
+globales", es decir hectáreas (el 1% de km²) de tierra de fertilidad promedio.
+
 Today, the ecological footprint of humanity is about eighteen billion
 global hectares, but the Earth’s total biocapacity is only about twelve
 billion global hectares. The disparity is obvious: our current lifestyle
@@ -105,6 +189,13 @@ resources much faster than the Earth can replenish them. Since such
 overuse is impossible in the long run, we live at the cost of future
 generations.
 
+Hoy en día, la huella ecológica de la humanidad es alrededor de 18 billones de
+hectáreas globales, pero la biocapacidad total de la Tierra es sólo de 12.  La
+disparidad es obvia: nuestra estilo de vida actual requeriría una Tierra
+y media para ser sostenible.  Consumimos recursos mucho más rápido de lo que la
+Tierra puede regenerarlos.  Dado que tal uso excesivo es imposible en la largo
+plazo, estamos viviendo al costo de las generaciones futuras.
+
 But not everybody does. In many countries, the average footprint per
 person is very low. In Bangladesh and Afghanistan, it is just 0.6 global
 hectares per person; in India and Yemen, 0.9 hectares; in Iraq and the
@@ -112,6 +203,13 @@ Philippines, 1.3 hectares. In these and many other countries, resource
 usage is below the sustainable average that can be calculated by
 dividing the twelve billion hectares of available biocapacity among the
 seven billion people alive: 1.7 hectares per person.
+
+Pero no todos lo hacen.  En muchos países, la huella promedio por persona es
+muy baja.  En Bangladesh y Afghanistan, es de sólo 0,6 hectáreas por persona;
+en India y Yemen, de 0,9; en Irak y las Filipinas, 1.3.  En estos y muchos
+otros países, el uso de recursos está debajo del promedio sostenible, que puede
+ser calculado al dividir los 12 billones de hectáreas de biocapacidad
+disponible entre los 7 billones de personas vivas: 1,7 hectáreas por persona.
 
 The actual global average is about 2.7 hectares per person, more than
 50% higher than sustainable. My own country, Germany, uses almost twice
@@ -123,7 +221,20 @@ live at the cost of future generations, but also at the cost of people
 in other parts of the word. Our consumption patterns are only possible
 because people elsewhere consume much less.
 
+El promedio global actual es alrededor de 2,7 hectáreas por persona, más del
+50% que lo sostenible.  Mi propio país, Alemania, utiliza el doble: 5,1 ha. por
+persona.  La mayoría de los demás países europeos poseen valores similares.
+Las huellas promedio de los EEUU y algunos países árabes son mucho más altos:
+8 ha. por persona, o más[@wikipedia-2011].  Aquellos que vivimos en países
+altamente industrializados, no vivimos sólo al costo de las generaciones
+futuras, sino también al costo de personas en otras partes del mundo.
+Nuestros patrones de consumo son posible sólo porque otras personas en otras
+partes consumen mucho menos.
+
 Scarcity, Limitations and How (Not) to Produce Plenty
+-----------------------------------------------------
+
+Escasez, limitaciones y cómo (no) producir abundancia
 -----------------------------------------------------
 
 It is clear that to remain possible and sustainable in the long run, all
@@ -138,12 +249,34 @@ it depends, first, on how much of a good is needed (and by whom) and,
 secondly, on how much of a good is produced (and by whom). Scarcity is
 thus a social phenomenon, never a natural one.
 
+Resulta claro que para mantenerse posible y sostenible en el largo plazo, toda
+la producción está atada a los límites de la biocapacidad disponible.  Estas
+limitaciones se mantienen a pesar de la forma social de producción.  El límite
+actual de 1.7 ha. globales por persona pueden sobrepasarse por algunos y por
+períodos limitados de tiempo, pero no por todos y para siempre.  Tales
+limitaciones deben ser respetadas, pero las limitaciones, como apunta Stefan
+Meretz en el segundo patrón de su "Diez patrones desarrollados por el proyecto
+Oekonux"[^oekonux], no son lo mismo que escasez.  La escasez significa que *no
+hay suficiente* de algo, por lo que depende, en primer lugar, de cuánto de un
+bien es necesitado (y por quién) y en segundo, en cuánto de un bien es
+producido (y por quién).  La escasez es por lo tanto un fenómeno social, nunca
+uno natural.
+
+[^oekonux]: Disponible en
+http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project/ 
+
 Above I distinguished two concepts of plenty—unlimited wastefulness
 versus “getting what I need, when I need it.” It’s easy to see that
 unlimited wastefulness will quickly collide with the limits of our
 planet. It won’t be possible for everybody to have five cars in their
 garage, or use everything just for a little while and then throw it
 away.
+
+Arriba he distinguido entre dos conceptos de la abundancia --desperdicio sin
+límites contra "obtener lo que necesito, cuando lo necesito".  Es fácil ver que
+el desperdicio sin límites colisionará rápidamente con los límites de nuestro
+planeta.  Será imposible para todos tener cinco autos en su garage o usarlo
+todo por poco tiempo y luego tirarlo.
 
 But plenty in the second sense is a different matter. Things that are
 quickly discarded won’t satisfy more needs than things that are used for
@@ -153,9 +286,21 @@ quickly and conveniently—depending on the situation, one car, an
 better. This concept of plenty isn’t focused on the accumulation of
 things, but on the satisfaction of needs.
 
+Pero la abundancia en el segundo sentido es un tema diferente.  Las cosas que
+son descartadas rápidamente no satisfarán más necesidades que las que son
+utilizadas por largo tiempo; y no necesitas cinco autos para llegar a tu
+destino rápida y convenientemente --dependiendo de la situación, un auto, una
+bicicleta (eléctrica) o buen transporte público será igual de bueno.  Este
+concepto de abundancia no está enfocado en la acumulación de cosas, sino en la
+satisfacción de necesidades.
+
 Is it possible to produce “what you need, when you need it” for
 everybody, on this limited planet? That question cannot be answered
 without considering the social form of production.
+
+¿Es posible producir "lo que necesito, cuando lo necesito" para todos en este
+planeta limitado?  Esta pregunta no puede ser respondida sin considerar la
+forma social de producción.
 
 Capitalism is the mode of production that dominates today. For this
 mode, the answer must be no. Capitalism is good at producing plenty for
@@ -163,6 +308,13 @@ some, but it does so at the expense of others. Most people in the Global
 South are excluded, and many poor people in the “rich” countries are
 largely excluded as well. This is not just an empirical fact, there are
 also theoretical reasons why it must be so.
+
+El capitalismo es el modo de producción dominante en la actualidad.  Para este
+modo, la respuesta es no.  El capitalismo es bueno produciendo abundancia para
+algunos, pero lo hace a expensas de otros.  La mayoría de las personas en el
+Sur Global quedan excluídas así como muchas personas pobres en los países
+"ricos".  Este no es sólo un hecho empírico, también existen razones teoréticas
+de por qué debe ser así.
 
 First, the goal of every capitalist entity, every investor and every
 company, is to “make money,” that is, to turn money into more money.
@@ -180,6 +332,22 @@ which capitalism produces for those who can afford it. Neither
 alternative is good: crisis causes people to suffer, but permanent
 growth necessarily comes at the expense of nature.
 
+En primer lugar, el objetivo de cualquier entidad capitalista, cualquier
+inversos y cualquier compañía, es "hacer dinero", esto es, convertir dinero en
+más dinero.  Hacer dinero es sólo posible si alguien produce algo (aunque esta
+relación puede ser indirecta y muy lejana) y la producción siempre necesita
+recursos.  Si el objetivo de "hacer dinero" es alcanzado, como resultado hay
+más dinero para ser reinvertido para hacer aun más --y así.  El proceso
+capitalista posee incorporado una urgencia de crecimiento infinita, para
+producir más y usar más recursos.  La superexplotación de la biocapacidad es el
+resultado lógico.  Bajo el capitalismo, la única alternativa al crecimiento es
+la crisis: las inversiones fallan, llevando a la pérdida de capital y la
+cancarrota de las compañías.  Las personas pierden su trabajo y por lo tanto su
+capacidad de beneficiarse de la abundancia limitada que produce el capitalismo
+para aquellos que pueden pagarla.  Ninguna alternativa es buena: las crisis
+causan sufrimiento pero el crecimiento permanente viene a expensas de la
+naturaleza.
+
 Moreover, plenty for everybody is impossible because companies produce
 goods in order to sell them—that’s how they make money. But things can
 only be sold if they are scarce, if they don’t exist in sufficient
@@ -196,6 +364,21 @@ since the Internet facilitated the noncommercial sharing of music. In
 such a situation, the affected companies will desperately try to smash
 the noncapitalist alternative, just as we see today.
 
+Asimismo, la abundancia para todos es imposible porque las compañías producen
+bienes para venderlos --así es como hacen dinero.  Pero las cosas sólo pueden
+ser vendidas si son escasas, si no existen en cantidad suficiente.  De otro
+modo, si el suministro de más alto que la demanda, los precios tienden a caer
+a cero.  Esto le quita al mercado en cuestión atracción para los productores ya
+que se vuelve difícil o imposible "hacer dinero".  Algunos productores se irán
+o irán a la bancarrota, llevando finalmente a una situación donde el suministro
+cae bajo el nivel de la demanda y la situación de escasez requerida para el
+éxito de las inversiones se restablece.  Si las corporaciones capitalistas no
+son la única fuente de bienes, sino que la gente puede obtenerlas gratuitamente
+de la naturaleza o de otra gente, la explotación comercial va a encontrarse en
+problemas.  Esta es la situación en que se encontró la industria musical.  En
+tal situación, las compañías afectadas van a tratar desesperadamente de
+aplastar la alternativa no capitalista, tal como vemos en la actualidad.
+
 Finally, there is a conflict between plenty for everyone and the core
 principle of capitalist markets: competition. Competition means that
 whenever someone wins, someone else loses. It doesn’t matter whether
@@ -204,8 +387,19 @@ successful, but the rest will fail, going bankrupt or becoming
 unemployed. There may be plenty for the winners, but the losers won’t
 get more than some modest handouts from the government, if at all.
 
+Finalmente, existe un conflicto entre la abundancia para todos y el principio
+fundamental de los mercados capitalistas: la competencia.  La competencia
+significa que siempre que alguien gana, otro pierde.  No importa si las
+compañías compiten por una parte del mercado o la gente por trabajos: algunos
+van a triunfar pero el resto no, yéndose a la bancarrota o volviéndose
+desocupados.  Puede que haya abundancia para los ganadores, pero los perdedores
+no tendrán más que unas modestas migajas del Estado, si alguna.
+
 Commons-based Peer Production: A Different Mode of Production to the Rescue?
 ----------------------------------------------------------------------------
+
+La producción de pares basada en el Común: ¿Un modo de producción diferente al rescate?
+---------------------------------------------------------------------------------------
 
 Thus, plenty for everybody is only a possibility with another mode of
 production. But how might such a mode of production work? Indeed, what
@@ -218,10 +412,26 @@ or unwilling to find work. Work seems to be something that you only do
 if you have to, if it’s forced upon you by economic necessity or social
 pressure.
 
+Entonces, la abundancia para todos es sólo una posibilidad bajo otro modo de
+producción.  ¿Pero cómo podría funcionar tal modo de producción?  En efecto,
+¿dónde quedaría el concepto de "trabajo"?  En el capitalismo, el trabajo es
+usualmente un medio para un fin: las compañías contratan trabajadores para
+producir mercancías; la gente trabaja para ganar el dinero que necesitan para
+"vivir", es decir, para sobrevivir.  Cuando los políticos hablan sobre
+"incrementar los incentivos para el trabajo", se refieren a la extensión de
+sanciones para la gente que no quiere o no puede encontrar trabajo.  El trabajo
+pareciera ser algo que sólo haces si tienes que hacerlo, si te es forzado por
+necesidad económica o presión social.
+
 But does it have to be like that? Let’s return to the way in which
 plenty is produced on the Internet. Not all of the digital plenty we can
 find there, but a large part of it is a result of the process we call
 *commons-based peer production* — the very topic of this journal.
+
+¿Pero tiene que ser de esta forma?  Volvamos a la manera en que la abundancia
+es producida en Internet.  No toda la abundancia digital que podemos encontrar
+allí, pero una gran parte es el resultado de un proceso que llamamos
+_producción de pares basada en el Común_.
 
 In many cases, peer production differs considerably from the
 conventional model of work as a means to make money. Innumerable people
@@ -233,10 +443,25 @@ Firefox web browser. Others set up wireless community networks and still
 others devise open hardware and open designs, freely sharing designs and
 blueprints of furniture, clothes, machines and other items.
 
+En muchos casos, la producción de pares difiere considerablemente del modelo
+convencional de trabajo como medio para conseguir dinero.  Innumerable cantidad
+de gente ayuda en la escritura y edición de la enciclopedia libre Wikipedia sin
+esperar compensación monetaria.  Otros hacen música, toman fotografías
+o publican textos, compartiendo libremente sus obras en linea.  La gente crea
+y comparte software libre como el sistema operativo GNU/Linux y el navegador
+web Firefox.  Otros crean redes inalámbricas comunitarias y otros hardware
+y diseño abiertos, compartiendo libremente los diseños y planos de muebles,
+ropa, máquinas y otros elementos.
+
 Commons-based peer production is no longer a marginal phenomenon, but an
 essential part of the modern world. The Internet largely runs on free
 software; Wikipedia has become a primary source of information for many
 people.
+
+La producción de pares basada en el Común ya no es un fenómeno marginal, sino
+una parte esencial del mundo moderno.  La Internet funciona sobre software
+libre; Wikipedia se ha convertido en la principal fuente de información para
+mucha gente.
 
 Peer production is *benefit-driven*: in contrast to capitalist
 production, the goal is not to “make money” (turn money into more).
@@ -248,6 +473,13 @@ there or out of an interest in the goods produced (e.g. the free
 software developed in a project). Other frequently pursued goals are to
 learn something or “to give something back to the community” (cf.
 Lakhani and Wolf 2005).
+
+La producción de pares está orientada al beneficio: en contraste con la
+producción capitalista, el objetivo no es "hacer dinero" (convertir el dinero
+en más dinero).  En cambio, las necesidades, deseos y objetivos específicos de
+los participantes determinan lo que sucede.  Esto cambia la naturaleza de la
+actividad: muchos de los participantes no se involucran para hacer dinero
+(aunque eso también pasa), sino porque les gusta hacer las cosas que 
 
 Such peer production is no longer “work” in the traditional sense. The
 Wikipedia works only because its founders managed to replace the tedious
