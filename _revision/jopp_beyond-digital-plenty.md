@@ -474,17 +474,26 @@ software developed in a project). Other frequently pursued goals are to
 learn something or “to give something back to the community” (cf.
 Lakhani and Wolf 2005).
 
-La producción de pares está orientada al beneficio: en contraste con la
+La producción de pares está *orientada al beneficio*: en contraste con la
 producción capitalista, el objetivo no es "hacer dinero" (convertir el dinero
 en más dinero).  En cambio, las necesidades, deseos y objetivos específicos de
 los participantes determinan lo que sucede.  Esto cambia la naturaleza de la
 actividad: muchos de los participantes no se involucran para hacer dinero
-(aunque eso también pasa), sino porque les gusta hacer las cosas que 
+(aunque esto también pasa), sino porque les gusta hacer las cosas que se pueden
+hacer en ella o tienen un interés en los bienes que se producen (por ejemplo el
+software libre que se desarrolla en un proyecto).  Otros objetivos que se
+persiguen con frecuencia son el aprendizaje y el "devolver algo a la
+comunidad".[@lakhani-wolf-2005]
 
 Such peer production is no longer “work” in the traditional sense. The
 Wikipedia works only because its founders managed to replace the tedious
 and monotonous work of encyclopedia writing by a process that’s easy to
 start with and that people enjoy doing.
+
+La producción de pares ya no es "trabajo" en el sentido tradicional.  La
+Wikipedia funciona sólo porque sus fundadores lograron reemplazar el trabajo
+tedioso y monótono que era escribir una enciclopedia por un proceso que es
+fácil de iniciar y que la gente disfruta.
 
 Rather than creating commodities that can be sold with a profit, peer
 producers jointly create, maintain and foster *commons*: resources and
@@ -496,6 +505,17 @@ beyond—free software and free content are commons that *everyone* can
 use and improve, without exclusions. Free licenses (such as the GNU GPL
 and the Creative Commons licenses) codify these community rules in a way
 that makes them legally binding.
+
+Antes que crear mercancías para ser vendidas por ganancia, los productores de
+pares conjuntamente crean, mantienen y hacen crecer *comunes*:  recursos y
+bienes desarrollados y mantenidos por una comunidad y compartidos de acuerdo a
+reglas definidas comunitariamente.  Resulta importante señalar que la comunidad
+hace sus propias reglas --que no están predefinidas o impuestas desde arriba.
+Los comunes son usualmente compartidos entre los miembros de la comunidad o
+incluso más allá --el software y el contenido libres son comunes que
+*cualquiera* puede usar y mejorar, sin exclusiones.  Las licencias libres (como
+la GNU GPL o las Creative Commons) codifican estas reglas comunitarias de forma
+que se vuelven requisitos legales.
 
 Since cooperation in peer projects is voluntary, no one is forced to
 handle specific tasks. The way of distributing tasks in such projects is
@@ -513,6 +533,21 @@ plenty (in the sense of “what you need, when you need it”) for everyone?
 Not just in some specific areas (e.g. software) and not just for some
 people, but in all areas, for everybody?
 
+Ya que la cooperación en los proyectos de pares es voluntaria, nadie es forzado
+a hacerse cargo de tareas específicas.  La forma en que se distribuyen tareas
+en tales proyectos es usualmente llamada _estigmérgica_[@heylighen-2007].  Los
+participantes dejan pistas sobre las tareas que comenzaron y cosas que
+quisieran ver, animando a otros a hacerse cargo.  Los reportes de _bugs_ en los
+proyectos de software y los "vínculos rojos" que apuntan a artículos faltantes
+en la Wikipedia son ejemplos de tales pistas.  Estas pistas proveen orientación
+a los novatos y a los participantes que terminaron otras tareas y están
+buscando alguna nueva.  Mientras más participantes se preocupen por una tarea,
+más visibles serán las pistas que apunten a ella, incrementando la posibilidad
+de que alguien comience a trabajar en ella.  ¿Puede la producción de pares
+lograr lo que el capitalismo no puede: producir abundancia en el sentido de "lo
+que necesites, cuando lo necesites" para todos, y no sólo en áreas específicas
+(software) y no sólo para algunos, sino en todas las áreas y para todos?
+
 To make this possible, peer production needs to grow beyond the
 immaterial into the material world, producing not just information, but
 also physical goods and services. But is that even possible? “An
@@ -525,12 +560,32 @@ underlying notion, shared by both proponents and critics of peer
 production, is that it excels in the sphere of information, which is so
 easy to copy and change, but fails in the material world, which isn’t.
 
+Para hacerlo posible, la producción de pares necesita crecer más allá del mundo
+inmaterial hacia el material, produciendo no sólo información sino también
+bienes físicos y servicios.  ¿Pero es esto posible siquiera?  "Una abundancia
+de información sobre cómo podemos hacer cosas no es lo mismo que una abundancia
+de cosas --es una abundancia de recetas no una de comida", arguye el economista
+y activista comunitario Brian Davey[@davey-2010], quejándose de la que la
+producción de pares basada en el común sólo puede producir información
+(recetas) pero no las cosas físicas (comida).  La noción subyacente, compartida
+tanto por proponentes como críticos de la producción de pares, es que es
+excelente en la esfera de la información, la cual es fácil de copiar y cambiar,
+pero falla en el mundo material, que no lo es.
+
 But this argument misses the fact that it’s not an inherent property of
 information that makes it so easy to copy, but rather a question of
 *infrastructure*. 30 years ago, only corporations with extremely
 expensive specialized machinery were able to reproduce music, as Glyn
 Moody (2010) points out. Only the spread of broadband Internet
 connections and sufficiently large hard discs made it commonplace.
+
+Pero este argumento ignora el hecho que no es una propiedad inherente de la
+información lo que la hace fácil de copiar, sino una cuestión
+_infraestructural_.  Hace 30 años, sólo las corporaciones con maquinaria
+extremadamente cara y especializada eran capaces de producir música, como
+indica Glyn Moody[@moody-2010].  Sólo la difusión de las conexiones de banda
+ancha a Internet y los discos rígidos suficientemente grandes la hicieron
+común.
 
 Similar developments regarding the production of physical things are not
 only possible—in some areas, they are already under way. The
@@ -540,8 +595,18 @@ and to the necessary *means of production*. In the following section, I
 will try to briefly outline how generalized peer production may become
 able to fulfill these conditions.
 
+Desarrollos similares en la producción de cosas físicas no sólo son posibles
+--en algunas áreas, ya están en camino.  La reproducción de cosas físicas es
+posible cuando se cumplen tres condiciones:  acceso al _diseño completo_, a los
+_recursos_ requeridos y a los _medios de producción_ necesarios.  En la
+siguiente sección intentaré delinear cómo la generalización de la producción de
+pares puede cumplir estas condiciones.
+
 Building Blocks for Generalized Peer Production
 -----------------------------------------------
+
+Bloques para la construcción de la producción de pares generalizada
+-------------------------------------------------------------------
 
 If we consider at contemporary forms of peer production, we find that
 the used resources and means of production tend to be *commons* or
@@ -551,8 +616,20 @@ as commons that everybody can use, share and improve. This philosophy is
 nicely expressed by the Wikimedia Foundation (2011), the organization
 running the Wikipedia and related wikis:
 
+Si consideramos las formas contemporáneas de producción de pares, encontramos
+que los recursos y los medios de producción tienden a ser _comunes_ o
+_ampliamente distribuidos_.  Para la producción de pares digital, el
+conocimiento y la información son los recursos más importantes.  Son tratados
+generalmente como comunes que todos pueden usar, compartir y mejorar.  Esta
+filosofía es bien expresada por la Fundacin Wikimedia[@wikimedia-2011], la
+organización que soporta la Wikipedia y otros wikis relacionados:
+
+
 “Imagine a world in which every single human being can freely share in
 the sum of all knowledge. That’s our commitment.”
+
+> Imagina un mundo donde cualquier ser humano puede compartir libremente la
+> suma del conocimiento.  Ese es nuestro compromiso.
 
 *Open design* (also called *open hardware*) is the kind of knowledge
 most important for producing physical things. Open hardware projects
@@ -565,11 +642,28 @@ even track. Producing and sharing free knowledge about how to fabricate,
 maintain, repair and recycle things is the first building block of
 physical peer production.
 
+El _diseño abierto_, también llamado _hardware abierto_, es el tipo de
+conocimiento más importante para la producción de cosas físicas.  Los proyectos
+de hardware abierto diseñan cosas físicas, compartiendo libremente sus diseños
+y planos con todos.  Este área de la producción de pares es todavía joven, pero
+en años recientes hemos visto una multitud de proyectos emergentes.  El
+Directorio del Hardware Abierto de la P2P Foundation[@p2p-2011] lista más de
+300 proyectos y hay muchas áreas del diseño abierto (como la ropa y los
+textiles) que no registra.  Producir y compartir conocimiento libre sobre cómo
+fabricar, mantener, reparar y reciclar cosas es el primer bloque para la
+construcción de la producción física de pares.
+
 We have seen that peer production tends to treat essential resources as
 commons. Extending this logic to physical production implies that
 natural resources must become commons too, since they are certainly
 essential. More than a hundred years ago, Karl Marx (1894, ch. 46)
 arrived at the same conclusion:
+
+Hemos visto que la producción de pares tiende a tratar los recursos esenciales
+como comunes.  Extender esta lógica a la producción física implica que los
+recursos naturales también deben ser comunes, ya que son ciertamente
+esenciales.  Más de cien años atrás, Karl Marx[@marx-1894, ch. 46] llegó a la
+misma conclusión:
 
 “From the standpoint of a higher economic form of society, private
 ownership of the globe by single individuals will appear quite as absurd
@@ -578,6 +672,14 @@ nation, or even all simultaneously existing societies taken together,
 are not the owners of the globe. They are only its possessors, its
 usufructuaries, and, like *boni patres familias*, they must hand it down
 to succeeding generations in an improved condition.”
+
+> Desde el punto de vista de una forma económica superior de la sociedad, la
+> propiedad privada del globo por individuos parecerá tan absurda como la
+> propiedad privada de un hombre sobre otro.  Aun una sociedad completa, una
+> nación o incluso todas las sociedades existente simultáneamente tomadas
+> juntas pueden ser propietarias del globo.  Sólo son sus poseedores, sus
+> usufructuarios y, como las _boni patres familias*, deben dejarlo a las
+> generaciones siguientes en condición mejorada.
 
 Treating natural resources as commons means that nobody can claim
 exclusive rights over them and that they must be preserved in their
