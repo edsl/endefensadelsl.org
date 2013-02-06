@@ -690,6 +690,15 @@ while still leaving enough for others. In this way, it’s possible to
 deal with the limitedness of Earth’s resources in a manner that doesn’t
 exclude or disadvantage anybody.
 
+Tratar los recursos naturales como comunes significa que nadie puede reclamar
+derechos exclusivos sobre ellos y deben ser preservados sustancialmente; pueden
+ser usados, pero no abusados.  Mientras nadie tenga acceso privilegiado, la
+suma de los recursos es compartir por todos.  La huella ecológica provee
+algunas directrices sobre cuánto puede usar cada uno al tiempo que deja
+suficiente para los demás.  De esta forma, es posible tratar con los límites de
+los recursos terrestres de manera que no se excluya o se ponga en desventaja a
+nadie.
+
 Preserving and sharing natural resources as commons is the second
 building block of physical peer production. Switching from the
 capitalist logic of treating almost everything (including most natural
@@ -701,6 +710,16 @@ already see a lot of such struggles going on the digital realm today
 we can expect much more and heavier struggles about commons versus
 property for the future.
 
+Preservar y compartir los recursos naturales como comunes es el segundo bloque
+para la construcción de la producción física de pares.  Cambiar la lógica
+capitalista de tratar casi todo (incluyendo la mayoría de los recursos
+naturales) como propiedad de alguien a tratar los recursos como comunes será un
+desafío tremendo, ya que interrumpe radicalmente el control existente y los
+derechos exclusivos de los "propietarios" actuales de estos recursos.  Ya hemos
+visto muchas de estas luchas en el ámbito digital (¿debería considerarse la
+información como propiedad privada o como bien común?) y podemos esperar muchas
+y más fuertes luchas sobre los comunes versus la propiedad en el futuro.
+
 No production is possible without means of production, such as the
 machines used to produce. In the field of digital peer production, the
 means of production are usually owned by lots of different people.
@@ -709,11 +728,24 @@ computers. That’s very different from capitalist production, where the
 means of production are usually owned by a company that employs people
 and uses both (people and machines) to make a profit.
 
+La producción no es posible sin medios de producción, como las máquinas usadas
+en el proceso productivo.  En el campo de la producción digital de pares, los
+medios de producción son poseídos por muchas personas.  Las personas que
+escriben software libre o artículos de la Wikipedia lo hacen desde sus
+computadoras.  Esto es muy diferente de la producción capitalista, donde los
+medios de producción son poseídos por una compañía que emplea personas y los
+usa a ambos (personas y máquinas) para obtener rédito.
+
 If somebody else owns (and thus controls) the means of production you
 have to use, you are dependent on their decisions. With distributed
 ownership, such unilateral dependency relations are avoided. Nobody can
 stop others from becoming active, or dictate them conditions they have
 to fulfill.
+
+Si alguien más posee (y por lo tanto controla) los medios de producción que
+debemos usar, dependemos de sus decisiones.  Bajo la propiedad distribuida,
+tales relaciones de dependencia unilateral son evitadas.  Nadie puede detener a
+otros de entrar en actividad o dictar las condiciones que deben satisfacer.
 
 Similar developments start to occur in the area of physical peer
 production. Decentralized, self-organized productive infrastructures are
@@ -721,6 +753,14 @@ emerging, created and run by people who use them to satisfy their
 productive and consumptive needs. The goal is benefit, not profit. And
 ownership of these infrastructures is spread so widely that nobody can
 effectively exclude others.
+
+Desarrollos similares están empezando a ocurrir en el área de la producción
+física de pares.  Están emergiendo infraestructuras productivas
+decentralizadas y autoorganizadas, creadas y llevadas a cabo por personas que
+las usan para satisfacer sus necesidades productivas y consumidoras.  El
+objetivo es el beneficio, no el rédito.  Y la propiedad de estas
+infraestructura está diseminada tan ampliamente que nadie puede excluir a
+otros.
 
 Mesh networks are an example of this trend. The classical model of
 network access is hierarchical: each provider connects thousands or
@@ -733,6 +773,16 @@ are offline too (as happened in Egypt during the uprising in early 2011,
 when the government shut down almost all Internet connections for
 several days).
 
+Las redes en malla son un ejemplo de esta tendencia.  El modelo clásico de
+acceso a la red es jerárquico: cada proveedor conecta miles y cientos de miles
+de personas (clientes) a la Internet.  El proveedor es el punto de falla y
+control.  Puede desconectar a los clientes que no pagan o violan los "términos
+de servicio" arbitrarios; puede monitorear el comportamiento de sus clientes y
+censurar lo que pueden ver o hacer.  Si alguien ordena o fuerza al proveedor a
+quedar fuera de línea, todos sus clientes también quedarán desconectados (como
+sucedió en Egipto durante el levantamiento de 2011, cuando el gobierno apagó
+casi todas las conexiones a Internet por varios días).
+
 Mesh networks, on the other hand, are distributed networks where all
 nodes (connected computers) are equal. Typically, every node uses
 wireless connections to directly communicate with the nodes in its
@@ -744,6 +794,16 @@ the network, the nodes near them automatically determine new routes
 around them. Thus, there are no central authorities that could monitor
 or censor the network.
 
+Las redes en malla, por otro lado, son redes distribuidas donde todos los
+nodos (es decir computadoras conectadas) son iguales.  En general, cada nodo
+utiliza conexiones inalámbricas para comunicarse directamente con los nodos en
+su vecindario; si la computadora objetivo está muy alejada, los nodos que se
+encuentren físicamente entre ellos actúan como relés, transmitiendo el mensaje
+a su destino.  No existen servidores centrales que puedan apagarse para dar de
+baja un servicio y si desaparecen nodos individuales de la red, los nodos
+cercanos a ellos determinan automáticamente nuevas rutas.  Entonces, no existen
+autoridades centrales que puedan monitorear o censurar la red.
+
 The inhabitants of the town of Scarborough in South Africa have set up a
 mesh network that gives them Internet and telephone access. The required
 hardware is distributed among many people—everyone can contribute by
@@ -752,15 +812,34 @@ the mesh. The network runs entirely on free software and parts of the
 equipment are developed as open hardware, allowing everyone to share and
 improve the designs (cf. Rowe 2010).
 
+Los habitantes de la ciudad de Scarborough en África del Sur han levantado una
+red en malla que les otorga acceso a Internet y al teléfono.  El hardware
+requerido se encuentra distribuido entre muchas personas; todos pueden
+contribuir comprando un router wi-fi, una antena u otro equipo y volverlo parte
+de la malla.  La red corre enteramente sobre softwre libre y partes de su
+equipamiento están desarrolladas como hardware abierto, permitiendo a cualquier
+compartir y mejorar los diseños[@rowe-2010].
+
 Similar solutions should be possible for energy generation and access to
 water. Projects organizing water supply as a commons already exist in
 South America (cf. De Angelis 2010).
+
+Solucionaes similares son posible en cuanto a la generación de energía y acceso
+al agua.  Ya existen proyectos que organizan acceso al agua como común en
+Sudamérica[@deangelis-2010].
 
 Hackerspaces (see hackerspaces.org) are another example—self-organized
 meeting points of people that use them to develop free software, create
 free content, to learn and share their knowledge, or just to relax and
 have fun. Most hackerspaces are funded through contributions of their
 members, but usually everybody is welcome, even if you don’t pay.
+
+Los _hackerspaces_ (ver [hackerspaces.org](http://hackerspaces.org)) son otro
+ejemplo de lugares de encuentro autoorganizados donde las personas los usan
+para desarrollar software libre, crear contenidos libres, aprender y compartir
+conocimiento o solo relajarse y divertirse.  La mayoría de los hackerspaces se
+financian con las contribuciones de sus miembros, aunque por lo general
+cualquiera es bienvenido, aun cuando no pague.
 
 Fab Labs are organized along similar lines, but their goal is physical
 production. By now, there are more than 60 Fab Labs in all continents
@@ -773,6 +852,17 @@ Many Labs also have “fabbers” (3D printers) that can additively
 manufacture items by “printing” multiple layers of e.g. plastic, one
 above the other.
 
+Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
+producción física.  En la actualidad, existen más de 60 Fab Labs en todos los
+continentes[@mit-2011].  Hospedan maquinaria productiva diversa que puede ser
+utilizada por las personas en su vecindario para producir localmente.
+Usualmente se trata de fresadoras y cortadoras láser controladas por computadora
+(CNCs) utilizadas para la "manufactura sustractiva", es decir darle forma a una
+pieza de material (madera o metal) removiendo las partes innecesarias fresando
+o cortando.  Muchos Labs poseen también "fabbers" (impresoras 3D) que además
+pueden manufacturar cosas "imprimiendo" múltiples capas de plástico, una sobre
+la otra.
+
 So far, much of the required equipment is still proprietary and quite
 expensive to get, hence most Labs need the sponsorship of a university
 or other organization. But this is gradually changing, since a multitude
@@ -783,6 +873,18 @@ the Kikori (sindrianarts.com), laser cutters like the Lasersaur
 the Ultimaker (ultimaker.com). While most of these tools are not yet
 competitive with commercially manufactured, proprietary equipment, the
 gap is getting closer.
+
+Hasta ahora, mucho del equipamiento requerido es todavía propietario y bastante
+costoso de obtener, por lo que la mayoría de los Labs necesitan el esponsoreo
+de una universidad u otra organización.  Pero esta está cambiando gradualmente,
+desde que la multitud de proyectos de pares que desarrolla herramientas de
+producción como hardware abierto está emergiendo en los últimos años.  Existen
+enrutadoras CNC libres y abiertas como la [Kikori](http://sindrianarts.com),
+cortadoras láser como el [Lasersaur](http://labs.nortd.com/lasersaur/),
+_fabbers_ como la [RepRap](http://reprap.org) y la
+[Ultimaker](http://ultimaker.com).  Mientras que la mayoría de estas
+herramientas todavía no compiten con sus versiones comerciales y propietarias,
+la brecha se está cerrando.
 
 Once the used machines are itself the result of peer production, they
 can be freely reproduced by anyone with the right equipment. And if the
@@ -798,6 +900,20 @@ could jointly produce what they need. Thus, the self-organized
 fabrication and utilization of the means of production becomes the third
 building block of physical peer production.
 
+Una vez que las máquinas usadas sean ellas mismas el resultado de la producción
+de pares, serán reproducidas libremente por cualquiera que posea el
+equipamiento adecuado.  Y si los _hubs_ de producción abierta --"Fab Labs" más
+avanzados-- hospedan el equipamiento necesario para producir sus herramientas,
+la cosa se pone excitante, ya que significa que la red abierta de facilidades
+productivas pueden crecer sin requerir más entrada desde el mercado.  De esta
+forma, un desacoplamiento parcial de la producción capitalista se vuelve
+posible.  Las personas cooperando como pares ya no tendrán que comprar casi
+todo (lo que significa que tampoco van a tener que vender algo, por ejemplo su
+fuerza de trabajo, para conseguir el dinero necesario).  En su lugar, pueden
+producir conjuntamente lo que necesiten.  Entonces, la fabricación y
+utilización autoorganizada de los medios de producción se convierte en el
+tercer bloque para la construcción de la producción física de pares.
+
 None of this would be possible without the people who contribute their
 time and effort to share their knowledge, to design and make useful
 things, to organize and run hackerspaces, Fab Labs and other hubs for
@@ -807,8 +923,20 @@ the basis of any kind of peer production—whether it is software,
 cultural works, designs, or physical things that are thus produced. They
 are the fourth and most important building block of peer production.
 
+Nada de esto sería posible sin las personas que contribuyen su tiempo y
+esfuerzo a compartir su conocimiento, diseñar y realizar cosas útiles,
+organizar y correr hackerspaces, Fab Labs y otros _hubs_ de la producción de
+pares.  La gente elige contribuir por sí misma en formas que se adecuan a sus
+preferencias y deseos.  Tales contribuciones voluntarias de los pares son la
+base de un nuevo tipo de producción de pares --sea software, obras culturales,
+diseños o cosas físicas aquello que es producido.  Ellas son el cuarto y más
+importante bloque para la construcción de la producción de pares.
+
 Fairness Questions
 ------------------
+
+Preguntas sobre la justicia
+---------------------------
 
 But could a society based on self-organized peer production really work?
 Or wouldn’t it at least be incomplete, staying dependent in some aspects
@@ -817,6 +945,13 @@ police forces, or markets? Especially in regard to matters of fairness
 (or justice), many people are quick to point out the presumed necessity
 of centralized regulatory bodies.
 
+¿Pero puede una sociedad basada en la producción de pares autoorganizada
+funcionar realmente?  ¿O no estaría al menos incompleta, dependiendo de
+formas más tradicionales de organización social, como los gobiernos, fuerzas
+policiales o mercados?  Especialmente sobre problemas sobre la justicia mucha
+gente se apura a apuntar la presunta necesidad de cuerpos regulatorios
+centralizados.
+
 One critical point is access to resources. The logic of peer production
 postulates that resources be treated as commons that can be used as long
 as they are substantially preserved for the future and everybody gets
@@ -824,6 +959,14 @@ their fair share. But what if some try to violate this principle, using
 much more resources than a sustainable ecological footprint allows, thus
 living at the cost of others (either now or in the future) who would
 have to do with less?
+
+Un punto crítico es el acceso a los recursos.  La lógica de la producción de
+pares postula que los recursos son tratados como comunes que pueden ser
+utilizados siempre y cuando sean preservados sustancialmente para el futuro y
+donde todos obtienen una parte justa.  ¿Pero qué pasa si se trata de violar
+este principio, utilizando muchos más recursos de lo que permite una huella
+ecológica sostenible y por lo tanto viviendo a expensas de otros (tanto ahora
+como en el futuro) que tendrán que arreglar con menos?
 
 It may seem that some kind of governmental institution is necessary to
 prevent and sanction such behavior. But the practice of peer projects
@@ -835,6 +978,11 @@ friendly at first, but increasingly turning to aggressive, scolding
 people turn to “shunning” the wrongdoer, starting to completely ignore
 them and refusing to cooperate with them any longer. In extreme cases,
 the shunned person is officially banned from the project.
+
+Podría parecer que alguna forma de institución gubernamental es necesaria para
+prevenir y sancionar tal comportamiento.  Pero la práctica de los proyectos de
+pares muestra una forma diferente de tratar con la mala conducta (percibida por
+la comunidad): los participantes reaccionan 
 
 But everybody needs others, regardless of the form of society one lives
 in, and in a society based on peer production this mutual dependency
