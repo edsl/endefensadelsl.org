@@ -982,7 +982,13 @@ the shunned person is officially banned from the project.
 Podría parecer que alguna forma de institución gubernamental es necesaria para
 prevenir y sancionar tal comportamiento.  Pero la práctica de los proyectos de
 pares muestra una forma diferente de tratar con la mala conducta (percibida por
-la comunidad): los participantes reaccionan 
+la comunidad): los participantes reaccionan "[flaming] y
+aislando"[@lehmann-2004].  La gente criticará y amonestará públicamente al que
+se comporte mal --al principio amistosamente, pero tornándose cada vez más
+agresiva, asuzando las "llamas" si la crítica es ignorada.  Si estas
+advertencias no son efectivas, la gente lo "aislará", ignorándolo completamente
+y rehusándose a cooperar con él.  En casos extremos, la persona aislada es
+oficialmente echada del proyecto.
 
 But everybody needs others, regardless of the form of society one lives
 in, and in a society based on peer production this mutual dependency
@@ -992,12 +998,27 @@ broad social consensus of not accepting certain kinds of behavior, still
 engaging in such behavior becomes almost impossible (and almost
 certainly not worth the social price one has to pay for it).
 
+Pero todos necesitan de los demás, sin tener en cuenta la forma de sociedad en
+la que se viva y en una sociedad basada en la producción de pares esta
+dependencia mutua será más fuerte.  Sin otros, será muy difícil sobrevivir y el
+buen pasar estará fuera de tema.  De ahí que si existe un amplio consenso
+social para no aceptar ciertas formas de comportamiento, comportarse de esa
+forma se vuelve casi imposible (y ciertamente no valdrá la pena asumir el costo
+social de hacerlo).
+
 The distribution of tasks is another potentially problematic area. For
 peer production, the usual mode of task distribution is stigmergic
 self-selection. Everybody chooses for themselves how to get involved and
 what to do, inspired by other people’s hints about what is needed. But
 how can peer producers deal with tasks for which this doesn’t work—tasks
 which nobody, or not enough people, are willing to do?
+
+La distribución de tareas es otra área potencialmente problemática.  En la
+producción de pares, el modo usual de distribución de tareas es la
+auto-selección estigmérgica.  Todos eligen por sí mismos cómo involucrarse y
+qué hacer, inspirándose en las pistas que dan los demás sobre lo que es
+necesario.  ¿Pero cómo pueden los pares productores asumir tareas que no nadie,
+o no la suficiente gente, está dispuesto a hacer?
 
 The first question to ask is whether these tasks are indeed necessary.
 If nobody cares about a task sufficiently to be willing do to it, maybe
@@ -1010,6 +1031,18 @@ often quite unpopular. Activities that require intelligence, creativity,
 and intuition are harder or impossible to automatize, but they are
 usually less of a problem anyway, since the nature of these tasks tends
 to make them sufficiently interesting and appealing.
+
+La primera pregunta que nos debemos preguntar es si esas tareas son en realidad
+necesarias.  Si nadie se preocupa suficiente por algo como para estar dispuesto
+a hacerlo, ¿tal vez sea posible vivir sin ella?  Si ese no es el caso, otra
+solución posible es la automatización.  Desde el comienzo de la "revolución
+industrial", la automatización ha tenido efectos tremendos;  la mayoría de los
+procesos productivos han sido automatizados parcial o completamente.  Las
+tareas pasibles de automatización son aquellas monótonas y repetitivas --por lo
+tanto las más impopulares.  Las actividades que requieren inteligencia,
+creatividad e intuición son las más difíciles o imposibles de automatizar, pero
+son el problema menor de todas formas ya que la naturaleza de estas tareas
+tiende a hacerlas lo suficientemente interesantes y atractivas.
 
 However, in capitalism, the height of wages limits the potential of
 automation—the worse paid a job is, the more difficult it is to automate
@@ -1024,6 +1057,19 @@ should be much easier to find volunteers for designing and creating the
 necessary workflows and equipment (a more interesting and challenging
 activity) that allow automation then for the tasks itself.
 
+Sin embargo, en el capitalismo el salario limita el potencial de la
+automatización --mientras peor pago es un trabajo, más difícil es automatizarlo
+sin incurrir en costos extra (lo que no tendría sentido desde un punto de vista
+capitalista).  Los salarios pagados por muchas ocupaciones no placenteras
+(por ejemplo la limpieza) tienden a ser específicamente bajos, por lo tanto no
+son atractivos para la automatización bajo el capitalismo.  En la sociedad
+basada en la producción de pares, la situación sería diferente.  Si casi todos
+desean que una tarea se realice, pero nadie quiere realmente hacerla, el
+incentivo para automatizarla completa o parcialmente incrementa.  En tales
+casos debería ser mucho más fácil encontrar voluntarios para diseñar y crear
+los flujos de trabajo y equipamiento necesarios (es decir una actividad mucho
+más interesante y desafiante) para permitir la automatización de la tarea.
+
 A further option for dealing with unpopular tasks is to reorganize them
 in a way that makes them more pleasant—more entertaining, more
 interesting, easier. In capitalism, the working conditions of low-paid
@@ -1034,10 +1080,25 @@ volunteers decide how to organize their activities and what
 circumstances to accept. They don’t have to accept circumstances
 dictated by others and can do away with such unattractive conditions.
 
+Otra opción para tratar con tareas impopulares es reorganizarlas de forma tal
+que las vuelva más placenteras --más entretenidas, más interesantes, más
+fáciles.  En el capitalismo, las condiciones laborales de trabajos mal pagados
+y no atractivos son usualmente muy malas (por ejemplo, los trabajadores de la
+limpieza en las oficinas empiezan su jornada mucho más temprano).  No obstante,
+tales condiciones no son inherentes a esas tareas.  En la producción de pares,
+los voluntarios (potenciales) deciden cómo organizar sus actividades y qué
+circnstancias aceptar.  No tienen por qué aceptar circunstancias dictadas por
+otro y pueden pasar de condiciones sin atractivo.
+
 If neither approach is possible, the unpleasant tasks could be shared in
 a fair manner. If everybody (or everybody who cares) does a small part
 of such tasks now and then, they can be dealt with without causing much
 trouble to anybody.
+
+Si ningún acercamiento resulta posible, las tareas no placenteras pueden
+compartirse de forma justa.  Si todos (o todos los que les importa) realizan
+una pequeña parte de tales tareas de vez en cuando, pueden realizarse sin
+causar problemas a nadie.
 
 Peer production is not a panacea for solving all social problems, but it
 opens many opportunities to join forces with others and to jointly
@@ -1053,7 +1114,23 @@ nature. On the contrary, peer production works so well since people help
 each other to reach their goals and fulfill their needs, which is an
 advantage for everybody involved.
 
+La producción de pares no es la panacea para resolver todos los problemas
+sociales, pero abre muchas oportunidades para unir fuerzas con otros y abordar
+conjuntamente las cuestiones que uno considera importantes.  Bajo el
+capitalismo, la gente es forzada constantemente a trabajar contra los demás,
+causando montones de trabajo extra y sufrimiento innecesario.  La producción de
+pares puede ser mucho mejor porque tiene fines de beneficio:  la gente produce
+algo, juntos, porque encaja en sus necesidades productivas o de consumo.  En el
+capitalismo, el éxito de una persona o empresa se realiza necesariamente a
+expensas de otros, pero lo mismo es falso si aunaran fuerzas para satisfacer
+sus necesidades.  Las necesidades de una persona no deben venir a expensas de
+otros, ni de la naturaleza.  Al contrario, la producción de pares funciona tan
+bien porque la gente se ayuda entre sí para alcanzar sus objetivos y satisfacer
+sus necesidades, lo que es una ventaja para todos los involucrados.
+
 **Works cited**
+
+% TODO convertir a bibtex
 
 Davey, Brian (2010): The Abundance of Food vs the Abundance of Recipes.
 URL:
