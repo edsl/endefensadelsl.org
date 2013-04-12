@@ -3,7 +3,7 @@ layout: post
 title: El Manifiesto Telecomunista
 author: Dmitry Kleiner
 ---
-## Dmitry Kleiner
+
 # El Manifiesto Telecomunista
 
 El Manifiesto Telecomunista se compone de textos extendidos y re-trabajados por
@@ -2392,7 +2392,7 @@ SEÑALAN EN ELLA. EN LA MEDIDA QUE ESTA LICENCIA PUEDA SER CONSIDERADA COMO UN
 CONTRATO, EL LICENCIANTE LE CONCEDE A USTED LOS DERECHOS CONTENIDOS EN ELLA,
 CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
 
-1. Definiciones
+ 1) Definiciones
 
     a. "Adaptación", también llamada "Obra Derivada", es aquella creación
     basada en la Obra, o basada en la Obra y otras creaciones preexistentes,
@@ -2484,7 +2484,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     sonido y visuales, e incluyendo el almacenamiento de una interpretación
     o fonograma protegido en un formato digital u otro medio electrónico.
 
-2. Usos Legítimos.
+ 2) Usos Legítimos.
 
     Nada en esta Licencia podrá ser interpretado como una disminución,
     limitación o restricción de cualquiera de los derechos de usos que se
@@ -2492,7 +2492,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     y limitaciones a los derechos de autor y conexos previstos en la ley
     u otras legislaciones que resulten aplicables.
 
-3. Otorgamiento de la Licencia.
+ 3) Otorgamiento de la Licencia.
 
     Bajo los términos y condiciones de esta Licencia, el Licenciante le otorga
     a Usted una licencia mundial, gratuita, no exclusiva y permanente (durante
@@ -2523,7 +2523,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     pero no limitándose a los derechos establecidos en las Secciones 4(e)
     y 4(f).
 
-4. Restricciones.
+ 4) Restricciones.
 
     La licencia otorgada en la anterior Sección 3 está expresamente sujeta
     y limitada por las siguientes restricciones:
@@ -2642,7 +2642,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     medida que éstos sean reconocidos, y no considerados renunciables, por el
     derecho aplicable.
 
-5. Garantía
+ 5) Garantía
 
     A MENOS QUE LAS PARTES LO CONVINIERAN DE OTRA FORMA POR ESCRITO, Y HASTA LA
     MAYOR EXTENSIÓN PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL LICENCIANTE
@@ -2654,7 +2654,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, EN CUYO CASO ESTA EXCLUSIÓN
     PUEDE NO APLICARSE A USTED.
 
-6. Limitación de Responsabilidad.
+ 6) Limitación de Responsabilidad.
 
     A MENOS QUE LO EXIJA EXPRESAMENTE LA LEY APLICABLE, EL LICENCIANTE NO SERÁ
     RESPONSABLE ANTE USTED POR DAÑO ALGUNO, SEA POR RESPONSABILIDAD
@@ -2665,7 +2665,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     LEYES NO PERMITEN LA EXCLUSIÓN DE CIERTA RESPONSABILIDAD, EN CUYO CASO ESTA
     EXCLUSIÓN PUEDE NO APLICARSE A USTED.
 
-7. Término
+ 7) Término
 
     a. Esta Licencia y los derechos otorgados en virtud de ella terminarán
     automáticamente si Usted infringe alguna condición establecida en ella. Sin
@@ -2688,7 +2688,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     distribuidos con ella, si no se le da término en las condiciones indicadas
     anteriormente.
 
-8. Varios
+ 8) Varios
 
     a. Cada vez que Usted Distribuya o Ejecute Públicamente la Obra o una
     Colección, el Licenciante ofrecerá al destinatario una licencia en los

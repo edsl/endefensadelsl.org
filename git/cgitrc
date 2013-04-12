@@ -1,0 +1,26 @@
+root-title=En Defensa del Software Libre
+root-desc=~
+
+virtual-root=/git
+css=/git/cgit.css
+
+clone-prefix=git://endefensadelsl.org 
+
+enable-commit-graph=1
+side-by-side-diffs=1
+snapshots=tar.gz tar.xz
+
+repo.url=endefensadelsl.org.git
+repo.path=/srv/git/endefensadelsl.org.git
+repo.desc=El sitio
+repo.owner=EDSL
+
+repo.url=jekyll-pandoc-multiple-formats.git
+repo.path=/srv/git/jekyll-pandoc-multiple-formats.git
+repo.desc=Plugin de Jekyll para formatos múltiples
+repo.owner=EDSL
+
+repo.url=jekyll-torrent.git
+repo.path=/srv/git/jekyll-torrent.git
+repo.desc=Plugin de Jekyll para generar un torrent del sitio
+repo.owner=EDSL
