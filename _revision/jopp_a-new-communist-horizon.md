@@ -70,12 +70,22 @@ el comunismo avanzado.  Por lo tanto, ha sido llamado cibercomunismo
 P2P and Marx’s advanced phase of communism
 ------------------------------------------
 
+El P2P y la fase avanzada del comunismo de Marx
+-----------------------------------------------
+
 As the history of the contemporary P2P mode of production has already
 been written (Söderberg, 2008; Raymond, 200; Weber, 2004) I pause here
 only briefly on two defining moments of this history, namely the
 invention of the GPL (General Public License) and Free Software (FS) by
 Richard Stallman in 1984 and the invention of the system of online
 voluntary collective cooperation by Linus Torvalds in 1991.
+
+Como la historia del modo de producción de pares contemporáneo ya ha sido
+escrita [@soderberg-2008, @raymond-2000, @weber-2004] haré una breve pausa para
+definir dos momentos definititorios de esta historia, por un lado la invención
+de la licencia GPL (Licencia Pública General, en inglés) y el Software Libre
+(SL) por Richard Stallman en 198 y la invención del sistema de cooperación
+colectiva voluntaria en línes por Linus Torvalds en 1991.
 
 Stallman created the Free Software Foundation by releasing a code under
 a license he termed the General Public License (GPL). The GPL guaranteed
@@ -87,6 +97,16 @@ clause any code that would include a component that was derived from a
 GPL licensed code must be also released entirely under a GPL license.
 Copyleft is a dialectical negation of copyright, because it
 simultaneously preserves and abolishes copyright (Stallman, 2002).
+
+Stallman creó la Free Software Foundation lanzando código bajo una licencia
+llamada Licencia Pública General.  La GPL garantizaba cuatro libertades: correr
+el programa con cualquier propósito;  estudiarlo y personalizarlo;
+redistribuir copias gratuitamente o por un precio razonable;  y cambiar y
+mejorar el programa.  Stallman incluyó la así llamada cláusula "copyleft" en la
+GPL.  De acuerdo con esta cláusula cualquier código que incluya componentes
+derivados de código bajo la GPL deberá ser también lanzado bajo la misma
+licencia.  El copyleft es la negación dialéctica del copyright, porque
+simultáneamente lo preserva y lo abuele [@stallman-2002].
 
 The significance of the GPL lies in the fact that it formulated for the
 first time in the history of humanity an all-inclusive global property
