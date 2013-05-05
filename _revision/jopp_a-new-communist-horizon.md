@@ -3,8 +3,11 @@ http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizo
 Peer to Peer Production as the Alternative to Capitalism: A New Communist Horizon
 =================================================================================
 
-By Jakob Rigi
--------------
+La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
+====================================================================================
+
+Jakob Rigi
+----------
 
 The current crisis of capitalism has provoked protests, revolts and
 revolutions in major parts of the planet that include 3 billions of
@@ -13,6 +16,14 @@ person of the year. The caption on Time’s cover reads: From the Arab
 Spring To Athens, from Occupy Wall Street to Moscow. China, Chile,
 Spain, England, Italy, India, Israel, Iran and France, among many other
 places, can be added to Time’s hotbeds of recent social protests.
+
+La crisis actual del capitalismo ha provocado protestas, revueltas y
+revoluciones en grandes partes del planeta que incluyen a 3 billones de
+habitantes.  Aun la _Time Magazine_ hizo del "Protestante" el personaje del
+año.  La tapa decía: De la primavera árabe a Atenas, de Occupy Wall Street a
+Moscú.  China, Chile, España, Inglaterra, Italia, India, Israel, Irán y
+Francia, entre todos, pueden agregarse al semillero de protestas sociales
+recientes.
 
 The protest movements have put alternatives to capitalism on the
 historical agenda (Hardt and Negri, 2011). This article argues that a
@@ -24,6 +35,16 @@ egalitarian society. The very fact that sections of P2P activists and
 ICT workers are also actively involved in the current protests may work
 as a good catalyst in connecting P2P to these movements.
 
+Los movimientos de protesta han puesto las alternativas al capitalismo en la
+agenda histórica [@hardt-negri-2011].  Este artículo argumenta que una sección
+de los trabajadores cognitivos ya ha creado un nuevo modo de producción llamado
+Par-a-par (P2P) como alternativa viable al capitalismo.  Aunque se encuentra en
+su fase emergente y se encuentra dominado por el capitalismo, el P2P demuestra
+claramente los contornos principales de una sociedad igualitaria.  El hecho
+mismo de que secciones del activismo P2P y los trabajadores de las TIC estén
+activamente involucrados en las protestas puede funcionar como un buen
+catalizador que conecte el P2P con estos movimientos.
+
 In P2P production, producers collectively produce goods through
 voluntary participation in a de-centered, network-based production
 system. Volunteers choose the tasks they perform; the amount of time
@@ -34,6 +55,17 @@ their contribution (Benkler, 2006). This mode of production is very
 similar to what Marx (1978 a, 1978b) described as advanced communism.
 Therefore, it has also been called cyber communism (Kleiner, 2010;
 Barbrook, 2007; Moglen, 2003).
+
+En la producción de pares, los productores producen bienes colectivamente a
+través de la participación voluntaria en un sistema productivo decentralizado,
+de red.  Los voluntarios escogen las tareas que realizan;  la cantidad de
+tiempo que dedican a la producción colectiva;  el tiempo y lugar de su
+actividad productiva.  En términos de distribución, cualquiera en el mundo
+puede usar los productos gratuitamente de acuerdo a sus propias necesidades,
+sin tener en cuenta su propia contribución [@benkler-2006].  Este modo de
+producción es muy similar al que Marx [@marx-1978a, @marx-1978b] describió como
+el comunismo avanzado.  Por lo tanto, ha sido llamado cibercomunismo
+[@kleiner-2010, @barbrook-2007, @moglen-2003].
 
 P2P and Marx’s advanced phase of communism
 ------------------------------------------
