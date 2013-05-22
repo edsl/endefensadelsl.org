@@ -9,17 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1488.189"
-   height="1052.3622"
-   id="svg2"
+   width="524.40942"
+   height="744.09448"
+   id="svg3589"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tapa_manifiesto_telecomunista.svg"
-   inkscape:export-filename="/tmp/tapa_manifiesto_telecomunista.png"
-   inkscape:export-xdpi="99"
-   inkscape:export-ydpi="99">
+   sodipodi:docname="manifiesto_telecomunista_a5.svg">
   <defs
-     id="defs4" />
+     id="defs3591" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,121 +24,38 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="810.6207"
-     inkscape:cy="852.62983"
+     inkscape:zoom="0.7"
+     inkscape:cx="90.527023"
+     inkscape:cy="325.54601"
      inkscape:document-units="px"
      inkscape:current-layer="g4502"
      showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
      units="mm"
-     inkscape:window-width="680"
+     inkscape:window-width="1360"
      inkscape:window-height="749"
      inkscape:window-x="0"
      inkscape:window-y="19"
-     inkscape:window-maximized="0">
-    <sodipodi:guide
-       orientation="1,0"
-       position="1268.5039,0"
-       id="guide2989" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="744.09449,0"
-       id="guide2993" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,898.22835"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="219.68504,0"
-       id="guide3024" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,154.13386"
-       id="guide3028" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,526.1811"
-       id="guide3032" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="201.969,0"
-       id="guide3034" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,915.94453"
-       id="guide3036" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,136.41746"
-       id="guide3038" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1286.2204,0"
-       id="guide3040" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="0" />
   <metadata
-     id="metadata7">
+     id="metadata3594">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-2.5390623e-6)">
-    <g
-       id="g4502-2"
-       transform="matrix(0.70429282,0,0,0.70429282,-278.74648,20.582805)">
-      <rect
-         inkscape:export-filename="/home/moteado/Desarrollo/hacklab/endefensadelsl/tapa_3/tapa3.png"
-         inkscape:export-ydpi="36.169998"
-         inkscape:export-xdpi="36.169998"
-         y="218.02158"
-         x="740.46051"
-         height="994.39551"
-         width="687.03693"
-         id="rect2987-2-7"
-         style="fill:#ff0000;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3979-7"
-         d="m 1063.2924,867.4018 c -29.2458,-2.71466 -57.9906,-14.62923 -80.91783,-33.54012 -5.93318,-4.89385 -15.56975,-14.46698 -20.70412,-20.56783 -19.11704,-22.71581 -30.75422,-49.82094 -33.92895,-79.02532 -0.81154,-7.46291 -0.93388,-23.6541 -0.2325,-30.67976 2.9605,-29.64114 13.89187,-56.40411 32.58598,-79.77573 7.96866,-9.96329 21.25548,-22.61699 31.36591,-29.87276 16.41391,-11.77906 34.54571,-19.59953 54.54341,-23.52518 10.6275,-2.0863 16.239,-2.55723 30.4808,-2.55828 13.8215,-9.9e-4 17.9512,0.29893 28.4336,2.06648 22.206,3.74403 43.4914,12.92795 61.7963,26.66344 34.1022,25.58934 54.4017,60.7094 59.5189,102.97325 0.9693,8.00891 1.0977,27.25005 0.2325,34.80248 -4.0688,35.4748 -17.5764,64.21385 -41.2748,87.81587 -12.8977,12.84562 -25.6182,21.99909 -41.3751,29.77306 -15.8526,7.82119 -30.69,12.38118 -48.2232,14.82077 -6.0528,0.84226 -25.8535,1.22815 -32.3004,0.62935 z m 30.6186,-28.36749 c 27.2041,-4.08209 50.8992,-15.89049 70.7663,-35.26566 13.7192,-13.37943 23.3663,-28.49199 28.913,-45.29449 4.0599,-12.29797 5.817,-22.49426 6.2703,-36.39488 1.229,-37.64092 -13.2873,-71.65706 -41.1934,-96.52836 -18.0952,-16.12719 -38.6282,-25.8158 -62.6195,-29.54698 -8.4231,-1.30997 -30.3888,-1.19904 -38.8729,0.19596 -30.4658,5.01054 -55.0704,19.51461 -75.26357,44.36648 -7.92105,9.74845 -16.31153,24.44583 -20.52698,35.95524 -13.38979,36.56284 -8.14359,76.92412 14.22955,109.47589 9.14832,13.31057 22.70529,26.41638 36.4981,35.28365 5.3752,3.45556 16.5092,8.93719 22.9666,11.30747 9.4528,3.46929 20.005,5.92039 30.4885,7.08223 5.2932,0.58596 22.8143,0.19209 28.344,-0.63627 z m -97.26702,-43.07948 c 0,-1.42855 8.20892,-148.97078 8.44472,-151.78342 l 0.2768,-3.29824 11.1075,0 c 6.1086,0 11.1107,0.0554 11.1151,0.11348 0,0.0631 1.0197,24.44998 2.2558,54.19426 1.2361,29.74433 2.3272,54.16027 2.4247,54.25764 0.1,0.0913 9.1649,-7.62096 20.1494,-17.15208 l 19.9729,-17.32905 0.2269,17.08011 0.227,17.08028 17.2875,-17.159 17.288,-17.15889 0.227,16.40382 0.2269,16.40398 20.6997,-17.43456 c 11.3842,-9.58891 21.0573,-17.64316 21.4952,-17.89841 0.7556,-0.44064 0.796,1.67821 0.796,41.86119 l 0,42.32507 -77.1113,0 c -56.3276,0 -77.11203,-0.13618 -77.11203,-0.50707 z m 104.97432,-82.7989 c -5.9963,-0.57788 -9.6266,-1.56428 -14.8966,-4.047 -7.1787,-3.38138 -18.5839,-5.88136 -26.9224,-5.90123 -7.8435,-0.0221 -15.5598,1.93451 -22.5613,5.7108 l -3.7621,2.0294 0.7285,-1.71331 c 4.8576,-11.4204 7.0724,-19.90249 7.8972,-30.24526 0.4983,-6.22812 0.067,-13.11056 -1.1303,-17.99804 -1.1548,-4.72357 -4.2493,-10.87276 -6.9584,-13.82761 -1.3009,-1.41936 -2.201,-2.6825 -1.9995,-2.80694 0.6438,-0.39746 12.0119,-2.48387 16.6481,-3.05488 2.6936,-0.33215 7.0425,-0.45338 10.9186,-0.30557 8.5687,0.3266 13.4297,1.59251 22.1368,5.76301 8.1768,3.91629 12.7122,5.33698 18.9127,5.92454 11.6007,1.09906 20.7784,-1.10836 42.8924,-10.31641 6.241,-2.59863 8.5311,-3.36284 9.0659,-3.02538 1.1846,0.74693 3.2815,5.38431 4.03,8.91062 0.5203,2.44839 0.646,4.9714 0.4871,9.68058 -0.1937,5.78521 -0.3875,6.9321 -2.0565,12.51077 -2.1717,7.24486 -2.816,10.53009 -2.816,14.35444 0,3.95133 1.1265,9.95781 2.883,15.37489 l 1.4979,4.61917 -6.1712,0.0576 c -7.2036,0.0681 -11.0188,0.8091 -21.7703,4.22358 -9.3764,2.97722 -11.8774,3.58421 -16.9858,4.12217 -4.7147,0.49655 -4.4695,0.49766 -10.0672,-0.0443 z"
-         style="fill:#000000;opacity:0.7" />
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 1268.5039,154.13383 0,-35.34308"
-       id="path3048"
-       inkscape:connector-curvature="0"
-       transform="translate(0,2.5390623e-6)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1268.5039,154.13384 35.343,0"
-       id="path3048-5"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1268.5039,898.22837 0,35.343"
-       id="path3048-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1268.5039,898.22833 35.343,0"
-       id="path3048-5-1"
-       inkscape:connector-curvature="0" />
+     transform="translate(0,-308.26769)">
     <g
        id="g4502"
-       transform="matrix(0.70429282,0,0,0.70429282,245.66293,20.582804)">
+       transform="matrix(0.70429282,0,0,0.70429282,-498.43156,176.59109)">
       <rect
          inkscape:export-filename="/home/moteado/Desarrollo/hacklab/endefensadelsl/tapa_3/tapa3.png"
          inkscape:export-ydpi="36.169998"
@@ -151,7 +65,7 @@
          height="994.39551"
          width="687.03693"
          id="rect2987-2"
-         style="fill:#ff0000;fill-opacity:1;stroke:none;opacity:0.9" />
+         style="opacity:0.9;fill:#ff0000;fill-opacity:1;stroke:none" />
       <rect
          y="843.44318"
          x="707.70502"
@@ -418,7 +332,7 @@
         </g>
       </g>
       <g
-         id="g3934"
+         id="g3795"
          transform="translate(-1.2250977,-0.78465271)">
         <rect
            y="218.80623"
@@ -564,25 +478,5 @@
         </g>
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 219.68504,118.79076 0,35.34308"
-       id="path3048-4"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 184.34204,154.13384 35.343,0"
-       id="path3048-5-0"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 184.34196,898.22833 35.34308,0"
-       id="path3048-15"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 219.685,898.22837 0,35.343"
-       id="path3048-5-3"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
