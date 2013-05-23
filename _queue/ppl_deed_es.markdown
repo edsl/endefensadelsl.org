@@ -26,8 +26,11 @@ licencia idéntica a ésta.
 
 ![](images/nc.png)
 
-**No Capitalista** - Todo rédito o beneficio obtenido de los derechos
-concedidos por la Obra debe ser distribuido entre los trabajadores.
+**No Capitalista** - La explotación comercial de esta obra solo se permite a
+organizaciones, colectivos y empresas controladas por sus propios miembros y
+donde no existan relaciones de explotación.  Toda ganancia o plusvalía obtenida
+por el ejercicio de los derechos concedidos por esta Licencia sobre la Obra
+deben ser distribuido por y entre los trabajadores.
 
 
 Entendiendo que
