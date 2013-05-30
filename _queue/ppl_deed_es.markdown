@@ -26,11 +26,12 @@ licencia idéntica a ésta.
 
 ![](images/nc.png)
 
-**No Capitalista** - La explotación comercial de esta obra solo se permite a
-organizaciones, colectivos y empresas controladas por sus propios miembros y
-donde no existan relaciones de explotación.  Toda ganancia o plusvalía obtenida
-por el ejercicio de los derechos concedidos por esta Licencia sobre la Obra
-deben ser distribuido por y entre los trabajadores.
+**No Capitalista** - La explotación comercial de esta obra solo está permitida
+a cooperativas, organizaciones y colectivos sin fines de lucro, a
+organizaciones de trabajadores autogestionados, y donde no existan relaciones
+de explotación.  Todo excedente o plusvalía obtenidos por el ejercicio de los
+derechos concedidos por esta Licencia sobre la Obra deben ser distribuidos por y
+entre los trabajadores.
 
 
 Entendiendo que
