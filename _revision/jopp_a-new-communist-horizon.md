@@ -679,7 +679,7 @@ hand uses the commons of social production for free.
 La nueva producción social consiste de islas en el mar del modo de producción
 capitalista.  La relación entre ambas, como se señaló más arriba, es de
 dependencia mutua y antagonismo.  La producción social depende del capitalismo
-para aqquirir algunos de los medios de producción y de los salarios de sus
+para adquirir algunos de los medios de producción y de los salarios de sus
 contribuidores, mientras que el capitalismo utiliza los comunes de la
 producción social gratuitamente.
 
@@ -800,7 +800,7 @@ automatización será el pilar de esta transformación, aunque la automatizació
 no es una pre-condición necesaria del P2P material.  En una producción
 totalmente automatizada, el factor cognitivo de la producción de pares
 (investigación y desarrollo, diseño y software) pondrá la producción material
-bjo el dominio del P2P.  La automatización capitalista lleva a la pérdida de
+bajo el dominio del P2P.  La automatización capitalista lleva a la pérdida de
 puestos de trabajo y a la degradación del trabajo.  El empleo no tiene sentido
 y la automatización ofrece tiempo libre a la humanidad.  Este tiempo puede ser
 dedicado a la producción colectiva de conocimiento, educación y salud.
@@ -1127,9 +1127,9 @@ de pares en su agenda?
 
 **Works cited**
 
-Amin, A. (1994) (ed.) Post-Fordism, Oxford: Blackwell.
+% Amin, A. (1994) (ed.) Post-Fordism, Oxford: Blackwell.
 
-Barbrook, R. (2007) ‘Cybercommunism: How the Americans Are Superseding
+% Barbrook, R. (2007) ‘Cybercommunism: How the Americans Are Superseding
 Capitalism in Cyberspace’.
 http://www.imaginaryfutures.net/2007/18by-richard-barbrook/.
 
@@ -1205,10 +1205,10 @@ http://www.emoglen.law.columbia.ed/my\_pubs/dcm.html.
 O’Neil, M. (2009) Cyberchiefs: Autonomy and Authority in Online Tribe:
 London: Pluto Press.
 
-Ostrom, E. (1990) Govening the Commons: The Evolution of Institutions
+% Ostrom, E. (1990) Govening the Commons: The Evolution of Institutions
 for Collective Action,
 
-Raymond, E. (2001) The Cthedral and the Bazaar:Musing on Linux and Open
+% Raymond, E. (2001) The Cthedral and the Bazaar:Musing on Linux and Open
 Source bt anAccidental Revolutionary, Sebastopol: O’Reilly.
 
 Rigi, J. (2011) ‘Peer to Peer Production and Advanced Communism: The
@@ -1218,15 +1218,15 @@ Rabinowitz, D. (2010) ‘Ostrom, the commons, and the anthropology of
 “earthlings” and their atmosphere’Focaal: Journal of Global and
 Historical Anthropology, 57:104-108.
 
-Soderberg, J (2008) Hacking Capitalism: The Free and Oen Source Software
+% Soderberg, J (2008) Hacking Capitalism: The Free and Oen Source Software
 Movement, New York: Routledge.
 
-Stallman, R. (2002) Free Software, Free Society, Boston: GNU Press.
+% Stallman, R. (2002) Free Software, Free Society, Boston: GNU Press.
 
 Tamney, J. (1994) ‘A New Paradigm of Work Organization and Technilogy’
 in Amim, A. (ed.) Post-Fordism, Oxford: Blackwell.
 
-Weber, S. (2004) The Success of Open Source, Cambridge Mass: Harvard UP.
+% Weber, S. (2004) The Success of Open Source, Cambridge Mass: Harvard UP.
 
 Wu, T. (2010) The Master of Switch: The Rise and Fall of Information
 Enterprises, New York: Knof.
