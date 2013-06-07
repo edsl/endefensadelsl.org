@@ -33,6 +33,9 @@ Ciclo de trabajo
 * Este artículo se mueve a \_posts/AAAA-MM-DD-Titulo.markdown y se corre el
   comando `jekyll` para compilar el sitio en HTML.
 
+## Correcciones después de publicado
+
+* Usar feature branchs y mergearlas en master
 
 ## Esquema
 

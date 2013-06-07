@@ -1,7 +1,8 @@
 markdown: pandoc
 pandoc:
     skip: false
-    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish'
+    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish
+            --section-divs --email-obfuscation=references'
     outputs:
         - pdf: '-V fontsize=10pt,a5paper,twoside
                 -V documentclass=book
@@ -10,8 +11,8 @@ pandoc:
                 --latex-engine=xelatex
                 --table-of-contents
                 --include-in-header=_layouts/header.tex
-                --include-before-body=_layouts/license.tex' 
-        - epub
+                --include-before-body=_layouts/license.tex'
+        - epub: '--epub-stylesheet=css/bootstrap.css'
         - mediawiki
         - rst
         - latex: '-V fontsize=10pt,a5paper,twoside
@@ -21,13 +22,13 @@ pandoc:
                   --latex-engine=xelatex
                   --table-of-contents
                   --include-in-header=_layouts/header.tex
-                  --include-before-body=_layouts/license.tex' 
+                  --include-before-body=_layouts/license.tex'
 
 destination: /srv/http/endefensadelsl.org
 
 permalink: ":title.html"
 
-lsi: true
+lsi: false
 
 torrent:
   file: endefensadel.torrent
