@@ -26,7 +26,7 @@ licencia idéntica a ésta.
 
 ![](images/nc.png)
 
-**No Capitalista** - La explotación comercial de esta obra solo está permitida
+**No Capitalista** - La explotación comercial de esta obra sólo está permitida
 a cooperativas, organizaciones y colectivos sin fines de lucro, a
 organizaciones de trabajadores autogestionados, y donde no existan relaciones
 de explotación.  Todo excedente o plusvalía obtenidos por el ejercicio de los
