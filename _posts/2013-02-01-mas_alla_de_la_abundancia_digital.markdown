@@ -225,7 +225,7 @@ El promedio global actual es alrededor de 2,7 hectáreas por persona, más del
 50% que lo sostenible.  Mi propio país, Alemania, utiliza el doble: 5,1 ha. por
 persona.  La mayoría de los demás países europeos poseen valores similares.
 Las huellas promedio de los EEUU y algunos países árabes son mucho más altos:
-8 ha. por persona, o más[@wikipedia-2011].  Aquellos que vivimos en países
+8 ha. por persona, o más [@wikipedia-2011].  Aquellos que vivimos en países
 altamente industrializados, no vivimos sólo al costo de las generaciones
 futuras, sino también al costo de personas en otras partes del mundo.
 Nuestros patrones de consumo son posible sólo porque otras personas en otras
@@ -483,7 +483,7 @@ actividad: muchos de los participantes no se involucran para hacer dinero
 hacer en ella o tienen un interés en los bienes que se producen (por ejemplo el
 software libre que se desarrolla en un proyecto).  Otros objetivos que se
 persiguen con frecuencia son el aprendizaje y el "devolver algo a la
-comunidad".[@lakhani-wolf-2005]
+comunidad" [@lakhani-wolf-2005].
 
 Such peer production is no longer “work” in the traditional sense. The
 Wikipedia works only because its founders managed to replace the tedious
@@ -535,7 +535,7 @@ people, but in all areas, for everybody?
 
 Ya que la cooperación en los proyectos de pares es voluntaria, nadie es forzado
 a hacerse cargo de tareas específicas.  La forma en que se distribuyen tareas
-en tales proyectos es usualmente llamada _estigmérgica_[@heylighen-2007].  Los
+en tales proyectos es usualmente llamada _estigmérgica_ [@heylighen-2007].  Los
 participantes dejan pistas sobre las tareas que comenzaron y cosas que
 quisieran ver, animando a otros a hacerse cargo.  Los reportes de _bugs_ en los
 proyectos de software y los "vínculos rojos" que apuntan a artículos faltantes
@@ -565,7 +565,7 @@ inmaterial hacia el material, produciendo no sólo información sino también
 bienes físicos y servicios.  ¿Pero es esto posible siquiera?  "Una abundancia
 de información sobre cómo podemos hacer cosas no es lo mismo que una abundancia
 de cosas --es una abundancia de recetas no una de comida", arguye el economista
-y activista comunitario Brian Davey[@davey-2010], quejándose de la que la
+y activista comunitario Brian Davey [-@davey-2010], quejándose de la que la
 producción de pares basada en el común sólo puede producir información
 (recetas) pero no las cosas físicas (comida).  La noción subyacente, compartida
 tanto por proponentes como críticos de la producción de pares, es que es
@@ -583,7 +583,7 @@ Pero este argumento ignora el hecho que no es una propiedad inherente de la
 información lo que la hace fácil de copiar, sino una cuestión
 _infraestructural_.  Hace 30 años, sólo las corporaciones con maquinaria
 extremadamente cara y especializada eran capaces de producir música, como
-indica Glyn Moody[@moody-2010].  Sólo la difusión de las conexiones de banda
+indica Glyn Moody [-@moody-2010].  Sólo la difusión de las conexiones de banda
 ancha a Internet y los discos rígidos suficientemente grandes la hicieron
 común.
 
@@ -621,7 +621,7 @@ que los recursos y los medios de producción tienden a ser _comunes_ o
 _ampliamente distribuidos_.  Para la producción de pares digital, el
 conocimiento y la información son los recursos más importantes.  Son tratados
 generalmente como comunes que todos pueden usar, compartir y mejorar.  Esta
-filosofía es bien expresada por la Fundacin Wikimedia[@wikimedia-2011], la
+filosofía es bien expresada por la Fundación Wikimedia [-@wikimedia-2011], la
 organización que soporta la Wikipedia y otros wikis relacionados:
 
 
@@ -647,7 +647,7 @@ conocimiento más importante para la producción de cosas físicas.  Los proyect
 de hardware abierto diseñan cosas físicas, compartiendo libremente sus diseños
 y planos con todos.  Este área de la producción de pares es todavía joven, pero
 en años recientes hemos visto una multitud de proyectos emergentes.  El
-Directorio del Hardware Abierto de la P2P Foundation[@p2p-2011] lista más de
+Directorio del Hardware Abierto de la P2P Foundation [-@p2p-2011] lista más de
 300 proyectos y hay muchas áreas del diseño abierto (como la ropa y los
 textiles) que no registra.  Producir y compartir conocimiento libre sobre cómo
 fabricar, mantener, reparar y reciclar cosas es el primer bloque para la
@@ -662,7 +662,7 @@ arrived at the same conclusion:
 Hemos visto que la producción de pares tiende a tratar los recursos esenciales
 como comunes.  Extender esta lógica a la producción física implica que los
 recursos naturales también deben ser comunes, ya que son ciertamente
-esenciales.  Más de cien años atrás, Karl Marx[@marx-1894, ch. 46] llegó a la
+esenciales.  Más de cien años atrás, Karl Marx [-@marx-1894, ch. 46] llegó a la
 misma conclusión:
 
 “From the standpoint of a higher economic form of society, private
@@ -818,7 +818,7 @@ requerido se encuentra distribuido entre muchas personas; todos pueden
 contribuir comprando un router wi-fi, una antena u otro equipo y volverlo parte
 de la malla.  La red corre enteramente sobre softwre libre y partes de su
 equipamiento están desarrolladas como hardware abierto, permitiendo a cualquier
-compartir y mejorar los diseños[@rowe-2010].
+compartir y mejorar los diseños [@rowe-2010].
 
 Similar solutions should be possible for energy generation and access to
 water. Projects organizing water supply as a commons already exist in
@@ -826,7 +826,7 @@ South America (cf. De Angelis 2010).
 
 Solucionaes similares son posible en cuanto a la generación de energía y acceso
 al agua.  Ya existen proyectos que organizan acceso al agua como común en
-Sudamérica[@deangelis-2010].
+Sudamérica [@deangelis-2010].
 
 Hackerspaces (see hackerspaces.org) are another example—self-organized
 meeting points of people that use them to develop free software, create
@@ -854,7 +854,7 @@ above the other.
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en todos los
-continentes[@mit-2011].  Hospedan maquinaria productiva diversa que puede ser
+continentes [@mit-2011].  Hospedan maquinaria productiva diversa que puede ser
 utilizada por las personas en su vecindario para producir localmente.
 Usualmente se trata de fresadoras y cortadoras láser controladas por computadora
 (CNCs) utilizadas para la "manufactura sustractiva", es decir darle forma a una
@@ -983,7 +983,7 @@ Podría parecer que alguna forma de institución gubernamental es necesaria para
 prevenir y sancionar tal comportamiento.  Pero la práctica de los proyectos de
 pares muestra una forma diferente de tratar con la mala conducta (percibida por
 la comunidad): los participantes reaccionan "[flaming] y
-aislando"[@lehmann-2004].  La gente criticará y amonestará públicamente al que
+aislando" [@lehmann-2004].  La gente criticará y amonestará públicamente al que
 se comporte mal --al principio amistosamente, pero tornándose cada vez más
 agresiva, asuzando las "llamas" si la crítica es ignorada.  Si estas
 advertencias no son efectivas, la gente lo "aislará", ignorándolo completamente
