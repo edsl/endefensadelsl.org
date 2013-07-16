@@ -113,6 +113,10 @@ ol {
     padding-left: 1.5em;
 }
 
+ul li {
+  padding-bottom: 1.5em
+}
+
 ul li:before {
     content: "\00BB \0020";
 }
