@@ -98,12 +98,6 @@ blockquote {
     border-left: 5px solid #eee;
 }
 
-img {
-    float: left;
-    margin: 10px 10px 50px 10px;
-    max-width: 400px;
-}
-
 sup {
     font-size: 80%;
     vertical-align: super;
@@ -158,4 +152,8 @@ dd p a {
     font-size: 80%;
     color: #4083A9;
     font-style: normal;
+}
+
+figure {
+  text-align: center;
 }
