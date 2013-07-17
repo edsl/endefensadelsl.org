@@ -1,0 +1,12 @@
+
+# Copiar a .git/config
+# cat gitflow >>.git/config
+[gitflow "branch"]
+	master = master
+	develop = queue
+[gitflow "prefix"]
+	feature = traduccion/
+	release = edicion/
+	hotfix = hotfix/
+	support = support/
+	versiontag =
