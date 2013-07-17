@@ -2,6 +2,7 @@
 layout: post
 title: Proyecto Harmony considerado dañino
 author: Bradley M. Kuhn
+cover: images/cover_endefensadelsl_nr1.png
 ---
 
 Proyecto Harmony considerado dañino
@@ -218,6 +219,7 @@ tecnología involucrada. Agregar algo como esto sólo causará problemas y
 demoras, agregando más peso a nuestros mínimamente financiados esfuerzos por
 hacer cumplir el copyleft de la comunidad.
 
+![](images/harmony.png)
 
 Entrante=Saliente es todo lo que necesitás
 ------------------------------------------
