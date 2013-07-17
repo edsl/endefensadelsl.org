@@ -2,6 +2,7 @@
 layout: post
 author: Dmytri Kleiner
 title: El comunismo de pares contra el estado capitalista cliente-servidor
+cover: images/cover_endefensadelsl_nr1.png
 ---
 
 El comunismo de pares contra el estado capitalista cliente-servidor
@@ -86,6 +87,8 @@ capacidades competidoras por, entre otras cosas, la comunicación y el lobby.
 Estas capacidades son, en su base, capacidades económicas. El cambio requiere
 entonces la aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
+
+![](images/gran_hermano.png)
 
 Las nuevas formas de producir y compartir, entonces, son la precondición de
 cualquier cambio en el orden social. Estos nuevos métodos de producir
@@ -324,6 +327,8 @@ distinción general entre las clases altas y bajas, sino en la relación con los
 factores de la producción, tierra, trabajo o capital. Este modelo ricardiano
 provee una base lógica para la idea de que las clases, terrateniente,
 trabajador y capitalista, tienen intereses diametralmente opuestos.
+
+![](images/software_libre.png)
 
 Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
 distinción no necesariamente implica intereses en conflicto y por lo tanto no

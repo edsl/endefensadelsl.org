@@ -1,66 +1,91 @@
 Ciclo de trabajo
 ================
 
+## Git Flow
+
+Usamos [git-flow](https://github.com/nvie/gitflow).
+
+Configuración:
+
+* master   => master
+* develop  => queue
+* feature  => traduccion
+* hotfix   => hotfix
+* release  => edicion
+
+Ver el archivo *gitflow*.
+
+
+### Más información
+
+* [Modelo de ramas](http://nvie.com/git-model)
+* [Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+
 ## Propuesta de texto
 
 * Moverse a la rama *queue* y agregarlo dentro del directorio *\_queue* en
-  texto plano
+  texto plano.
+
+Comandos:
+
+    git checkout queue
+    git add _queue/nombre-del-articulo.markdown
+    git commit
 
 
 ## Traducción
 
 * Desde la rama *queue*, crear una nueva rama con el articulo a traducir.
 
-* Mover el articulo de *\_queue* a *\_revision*.
-
 * En general la traducción se hace sobre el mismo texto original, con la
   traducción de cada párrafo inmediatamente debajo del original (es decir,
   intercalados).
 
+Comandos:
+
+    git flow feature start nombre-del-articulo
+
 
 ## Revisión
-
-* Una vez traducido el artículo, se mergea en la rama *revision*.
 
 * Se hace una lectura de prueba y se eliminan los párrafos en el idioma
   original.
 
+* Se mergea en la rama *queue*.
+
+Comandos:
+
+    git flow feature finish nombre-del-articulo
+
 
 ## Publicación
 
-* Se mergea *revision* en *master*.
+* Se crea una *edicion*.
 
-* Este artículo se mueve a \_posts/AAAA-MM-DD-Titulo.markdown y se corre el
-  comando `jekyll` para compilar el sitio en HTML.
+* El artículo se mueve a
+  \_posts/AAAA-MM-DD-nombre\_del\_articulo.markdown y se corre el comando
+  `jekyll build` para compilar el sitio en HTML.
 
+Comandos:
 
-## Esquema
-
-    ---o                         queue
-        \
-         o---o---o               articulo
-                  \
-                   o--o--o       revision
-                          \
-    ---o---o--o---o---o----o---  master
+    git flow release start AAAA-MM-DD
+    git mv _queue/nombre-del-articulo.markdown _posts/AAAA-MM-DD-nombre_del_articulo.markdown
+    git commit
+    git flow release finish AAAA-MM-DD
+    jekyll build
 
 
-    --o---o                      queue
-       \   \
-        \   o----o-o             articulo2
-         \          \
-          o---o--o   \           articulo
-                  \   \
-                   o---o--o      revision
-                           \
-    ---o---o--o---o---o-----o--- master
+## Correcciones después de publicado
 
-## Ideas
+* Usar hotfixes
 
-* Podría llegar a ser muy burocrático? Eliminar el movimiento de directorios
-  o usar directorios en lugar de ramas, pero no las dos cosas a la vez.
+Comandos:
 
-* La distribución de texto se puede hacer en la rama de cada artículo y en
-  revision
+    git flow hotfix start nombre-del-articulo
+    (correcciones...)
+    git flow hotfix finish nombre-del-articulo
+    jekyll build
+
 
 # vim:set ts=2 sw=2 syntax=markdown et:
