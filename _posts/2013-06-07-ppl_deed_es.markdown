@@ -1,5 +1,5 @@
 ---
-title: Licencia de Producción de Pares (Versión legible por humanos)
+title: "Licencia de Producción de Pares (Versión legible por humanos)"
 author: En Defensa del Software Libre
 layout: post
 ---
