@@ -5,19 +5,19 @@ author: Dmitry Kleiner
 cover: images/tapas/manifiesto_telecomunista_a5.png
 ---
 
-# El Manifiesto Telecomunista
-
-El Manifiesto Telecomunista se compone de textos extendidos y re-trabajados por
-Dmytri Kleiner, a partir de trabajos de Joanne Richardson, Brian Wyrick y
-Dmytri Kleiner, 2004-2008.
-
-Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
-Se promueve el uso comercial hecho por colectivos y trabajadores independientes
-que trabajen en el dominio común.
-
-Traducido al castellano por Nicolás Reynolds <fauno@endefensadelsl.org>
-y Mauricio Pasquier Juan <mpj@endefensadelsl.org>. Correcciones por Andrea
-Granate y Facundo Acevedo.
+> El Manifiesto Telecomunista se compone de textos extendidos y
+> re-trabajados por Dmytri Kleiner, a partir de trabajos de Joanne
+> Richardson, Brian Wyrick y Dmytri Kleiner, 2004-2008.
+>
+> Esta publicación se encuentra bajo la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html).  Se promueve el
+> uso comercial hecho por colectivos y trabajadores independientes que
+> trabajen en el dominio común.
+>
+> Traducido al castellano por Nicolás Reynolds
+> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
+> <mpj@endefensadelsl.org>. Correcciones por Andrea Granate y Facundo
+> Acevedo.
 
 
 ## Prefacio
@@ -590,7 +590,7 @@ aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
 y controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial[^NdT1]
+## Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -2785,9 +2785,6 @@ _Internationale Situationniste_ pueden leerse en el sitio [Situationist
 International Online](http://www.cddc.vt.edu/sionline/index.html)
 
 [^36]: [Free Software Foundation](http://fsf.org)
-
-[^NdT1]: NdT: Trapped in the World Wide Web en el original. Web puede traducirse
-tanto por red como por telaraña.
 
 [^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
 un grupo de personas que algo falso es real. En el idioma castellano el término

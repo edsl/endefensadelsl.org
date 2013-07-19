@@ -5,9 +5,6 @@ title: El comunismo de pares contra el estado capitalista cliente-servidor
 cover: images/cover_endefensadelsl_nr1.png
 ---
 
-El comunismo de pares contra el estado capitalista cliente-servidor
-===================================================================
-
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
 entonces describirse en términos de relaciones sociales. Los militantes
@@ -447,7 +444,7 @@ aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
 y controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial[^NdT1]
+## Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -1137,7 +1134,6 @@ construcción de una sociedad sin clases, una sociedad de iguales.
 Tienen un mundo por ganar.
 
 
-## Notas
 [^22]: El [‘Paquete de Reformas de
 Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
 fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13

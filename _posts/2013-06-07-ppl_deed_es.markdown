@@ -4,8 +4,6 @@ author: En Defensa del Software Libre
 layout: post
 ---
 
-# Licencia de Producción de Pares (Versión legible por humanos)
-
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
 
