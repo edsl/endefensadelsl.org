@@ -4,8 +4,6 @@ title: Libertad en la nube, Libertad del Software, Privacidad y Seguridad para l
 author: Eben Moglen
 cover: images/cover_endefensadelsl_nr0.png
 ---
-# Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube
-
 Es un placer estar aquí. Me encantaría pensar que la razón por la que estamos
 aquí en un viernes a la noche es porque mis charlas son muy buenas. En realidad
 no tengo idea de por qué estamos aquí en una noche de viernes pero estoy muy

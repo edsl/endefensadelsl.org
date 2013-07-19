@@ -5,8 +5,10 @@ author: Bradley M. Kuhn
 cover: images/cover_endefensadelsl_nr1.png
 ---
 
-Proyecto Harmony considerado dañino
-===================================
+> Esta traducción y el artículo original se liberan bajo Creative
+> Commons Atribución CompartirDerivadasIgual 3.0 de Argentina y Estados
+> Unidos respectivamente [@cc-by-sa-ar; @cc-by-sa-us-3.0]. Traducido por
+> Nicolás Reynolds y Mauricio Pasquier Juan.
 
 _Jueves 7 de Julio de 2011 por Bradley M. Kuhn_[^2]
 
@@ -546,11 +548,6 @@ el código bajo copyleft.
 "elección de ley". El fraseo ha sido aclarado para solucionar este problema.
 Por favor envíenme comentarios o correo si creen que no ha sido corregido
 adecuadamente.
-
-[^2]: [Creative Commons License][86] Esta traducción y el artículo original se
-liberan bajo Creative Commons Atribución CompartirDerivadasIgual 3.0 de
-Argentina y Estados Unidos respectivamente. Traducido por Nicolás Reynolds y
-Mauricio Pasquier Juan.
 
 [1]:http://ebb.org/bkuhn/rss.xml
 [2]:http://ebb.org/bkuhn/blog/rss.xml
