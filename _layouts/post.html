@@ -3,29 +3,33 @@ layout: default
 ---
 
 <article>
+  <header>
     <h4><a href="/" alt='Inicio'>En Defensa del Software Libre</a></h4>
     <nav id="formats">
       <ul>
 {% for format in site.pandoc.outputs %}
-        <li><a href="{{ format }}/{{ page.url | replace:'html',format }}">{{ format }}</a></li>
+        {% capture extension %}{{ format | first }}{% endcapture %}
+        <li><a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
       </ul>
     </nav>
 
     <h2>{{ page.author }}</h2>
+    <h1>{{ page.title }}</h1>
+  </header>
 
     {{ content }}
 
-    <footer id="related">
+  <footer id="related">
 
-        <h2>Otras lecturas</h2>
-        <ul class="posts">
+      <h2>Otras lecturas</h2>
+      <ul class="posts">
 
 {% for post in site.related_posts limit:3 %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
-        </ul>
-    </footer>
+      </ul>
+  </footer>
 
 </article>
