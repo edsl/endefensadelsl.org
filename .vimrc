@@ -6,7 +6,7 @@ set textwidth=79
 
 " Flame wars
 set expandtab
-set softtabstop
+set softtabstop=2
 set tabstop=2
 set shiftwidth=2
 
