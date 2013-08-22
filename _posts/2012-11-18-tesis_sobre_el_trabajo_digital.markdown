@@ -4,9 +4,6 @@ author: Michel Bauwens
 title: Tesis sobre el trabajo digital
 ---
 
-Tesis sobre el trabajo digital
-==============================
-
 El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La
 mayoría de los trabajadores de los países occidentales ya no están involucrados
 en el trabajo fabril, sino que son trabajadores cognitivos o de servicios.
