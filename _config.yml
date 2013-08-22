@@ -4,6 +4,7 @@ pandoc:
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish
             --section-divs --email-obfuscation=references'
     site_flags: '--toc --template=_layouts/toc.html'
+    output: ./tmp
     outputs:
         pdf: '-V fontsize=10pt,a5paper,twoside
                 -V documentclass=book
