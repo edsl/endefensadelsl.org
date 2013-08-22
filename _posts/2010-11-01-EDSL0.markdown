@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author: Publicación
 title: En Defensa del Software Libre 0
 ---
