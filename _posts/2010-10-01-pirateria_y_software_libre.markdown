@@ -9,13 +9,13 @@ cover: images/cover_endefensadelsl_nr0.png
 > Software”. El artículo original en inglés puede encontrarse en
 > http://mako.cc/copyrighteous/20101011-00. Traducción por Nicolás
 > Reynolds, septiembre, 2010. Este artículo y el original están
-> licenciados bajo Creative Commons Atribución-CompartirIgual 3.0
-> [@cc-by-sa-ar].
+> licenciados bajo Creative Commons Atribución-CompartirIgual 3.0.
+> [@cc-by-sa-ar]
 
-> Este ensayo es un resumen de mi presentación en el taller “Inlaws and
-> Outlaws” [@nsnd-split] realizado los días 19 y 20 de agosto, 2010
-> en Split, Croacia. El taller reunió militantes de la piratería con
-> participantes de los movimientos por la Cultura y el Software Libres.
+> Este ensayo es un resumen de mi presentación en el taller “Inlaws
+> and Outlaws” realizado los días 19 y 20 de agosto, 2010 en Split,
+> Croacia. El taller reunió militantes de la piratería con participantes
+> de los movimientos por la Cultura y el Software Libres. [@nsnd-split]
 
 En “Por qué el software no debería tener dueños” [@stallman-definition], Richard
 Stallman explica que, si un amigo te pide una pieza de software y la licencia
