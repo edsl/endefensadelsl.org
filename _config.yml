@@ -3,8 +3,10 @@ pandoc:
     skip: false
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish
             --section-divs --email-obfuscation=references'
+    site_flags: '--toc --template=_layouts/toc.html'
+    output: ./tmp
     outputs:
-        - pdf: '-V fontsize=10pt,a5paper,twoside
+        pdf: '-V fontsize=10pt,a5paper,twoside
                 -V documentclass=book
                 -V geometry=hcentering
                 -V geometry=bindingoffset=1cm
@@ -12,10 +14,10 @@ pandoc:
                 --table-of-contents
                 --include-in-header=_layouts/header.tex
                 --include-before-body=_layouts/license.tex'
-        - epub: '--epub-stylesheet=css/bootstrap.css'
-        - mediawiki
-        - rst
-        - latex: '-V fontsize=10pt,a5paper,twoside
+        epub: '-V lang=es --epub-chapter-level=2'
+        mediawiki:
+        rst:
+        latex: '-V fontsize=10pt,a5paper,twoside
                   -V documentclass=book
                   -V geometry=hcentering
                   -V geometry=bindingoffset=1cm

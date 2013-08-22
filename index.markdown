@@ -15,7 +15,8 @@ title: En Defensa del Software Libre
 [{{ post.title }}]({{ post.url }})
 :   {{post.author}}
     {% for format in site.pandoc.outputs limit:2 %}
-:   [{{ format }}]({{ format }}/{{ post.url | replace:'html',format }})
+    {% capture extension %}{{ format | first }}{% endcapture %}
+:   [{{ extension }}]({{ extension }}{{ post.url | remove:'.html' }}.{{ extension }})
     {% endfor %}
 :   [otros...]({{ post.url }}#formats)
 
