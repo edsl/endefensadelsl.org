@@ -10,7 +10,7 @@ cover: images/cover_endefensadelsl_nr1.png
 > Unidos respectivamente [@cc-by-sa-ar; @cc-by-sa-us-3.0]. Traducido por
 > Nicolás Reynolds y Mauricio Pasquier Juan.
 
-_Jueves 7 de Julio de 2011 por Bradley M. Kuhn_[^2]
+_Jueves 7 de Julio de 2011 por Bradley M. Kuhn_
 
 Mucha publicidad se diseña para convencernos de comprar o usar algo que no
 necesitamos. Cuando escucho a alguien zumbando sobre alguna cosa nueva,
