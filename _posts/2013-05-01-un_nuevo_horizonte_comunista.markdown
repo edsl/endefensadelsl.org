@@ -7,9 +7,6 @@ author: Jakob Rigi
 La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
 ====================================================================================
 
-Jakob Rigi
-----------
-
 > Jakob Rigi trabaja en la Universidad de Europa Central de Budapest.
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
