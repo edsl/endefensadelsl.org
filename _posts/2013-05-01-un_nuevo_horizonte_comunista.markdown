@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
+title: "La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista"
 author: Jakob Rigi
 ---
 
