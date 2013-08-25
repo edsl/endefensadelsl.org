@@ -1,9 +1,12 @@
 ---
 layout: post
-author: Dmytri Kleiner
-title: El comunismo de pares contra el estado capitalista cliente-servidor
-cover: images/cover_endefensadelsl_nr1.png
+author: "Dmytri Kleiner"
+title: "El comunismo de pares contra el estado capitalista cliente-servidor"
+cover: "images/cover_endefensadelsl_nr1.png"
 ---
+
+El comunismo de pares contra el estado capitalista cliente-servidor
+===================================================================
 
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
@@ -1140,4 +1143,9 @@ fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
 de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
 europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
 europeo para los 27 miembros.
+
+
+
+## Bibliografía
+
 
