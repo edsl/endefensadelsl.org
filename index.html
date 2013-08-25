@@ -1,0 +1,59 @@
+---
+layout: default
+title: En Defensa del Software Libre
+---
+
+<header>
+  <h1>En Defensa del Software Libre</h1>
+
+  <blockquote><p>Los servidores ganaron libertad. Los clientes no ganaron
+  nada.  Bienvenidos a la nube. <span class="citation">Eben
+  Moglen</span></p></blockquote>
+
+</header>
+
+<section id="articulos">
+
+  <h2>Artículos publicados</h2>
+
+{% for post in site.posts %}
+  <dl>
+    <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+    <dd class="author">{{post.author}}</dd>
+
+    {% for format in site.pandoc.outputs limit:2 %}
+    {% capture extension %}{{ format | first }}{% endcapture %}
+    <dd><p><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+    {% endfor %}
+    <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+
+  </dl>
+{% endfor %}
+
+</section>
+
+<section id="contacto">
+
+  <h2>Contacto</h2>
+
+  <ul>
+
+    <li>Lista de discusión: <a
+    href="http://listas.hipatia.net/cgi-bin/mailman/listinfo/endefensadelsl">endefensadelsl@listas.hipatia.net</a></li>
+
+    <li>IRC: <a href="irc://freenode.net/#endefensadelsl">#endefensadelsl</a> en freenode</li>
+
+    <li><a href="">Puntos de distribución</a></li>
+
+  </ul>
+</section>
+
+<footer>
+  <a href="licencia.html">Licencia</a> |
+  <a href="atom.xml">Feed Completo</a> |
+  <a href="atom_epub.xml">Feed EPUB</a> |
+  <a href="atom_torrent.xml">Feed Torrent</a> |
+  <a href="{{ site.torrent.file }}">Torrent</a> |
+  <a href="git/">Código fuente</a> |
+  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+<a href="http://jekyllrb.com">pandoc</a>
+</footer>

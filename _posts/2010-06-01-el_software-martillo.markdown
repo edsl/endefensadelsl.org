@@ -1,9 +1,12 @@
 ---
 layout: post
-title: El Software-martillo
-author: Nicolás Reynolds
-cover: images/cover_endefensadelsl_nr0.png
+title: "El Software-martillo"
+author: "Nicolás Reynolds"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
+
+El Software-martillo
+====================
 
 > Este artículo se libera bajo la licencia CC-BY-SA [@cc-by-sa-ar]
 
@@ -257,3 +260,8 @@ GNU/Linux para uso del Ejército Nacional.
 
 [^7]: "Si mi vecino puede prohibir los símbolos que no le gustan, ¿por qué no
 puedo hacer lo mismo?"
+
+
+## Bibliografía
+
+

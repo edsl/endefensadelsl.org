@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Licencia de Producción de Pares: un modelo para el copyfarleft"
-author: Telekommunisten
+author: "Telekommunisten"
 ---
+
+Licencia de Producción de Pares: un modelo para el copyfarleft
+==============================================================
 
 > Este es el texto legal de la Licencia de Producción
 > de Pares. También puede leer el [resumen legible por

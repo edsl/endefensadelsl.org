@@ -1,14 +1,19 @@
 ---
 layout: post
-title: Proyecto Harmony considerado dañino
-author: Bradley M. Kuhn
-cover: images/cover_endefensadelsl_nr1.png
+title: "Proyecto Harmony considerado dañino"
+author: "Bradley M. Kuhn"
+cover: "images/cover_endefensadelsl_nr1.png"
 ---
 
-> Esta traducción y el artículo original se liberan bajo Creative
-> Commons Atribución CompartirDerivadasIgual 3.0 de Argentina y Estados
-> Unidos respectivamente [@cc-by-sa-ar; @cc-by-sa-us-3.0]. Traducido por
-> Nicolás Reynolds y Mauricio Pasquier Juan.
+Proyecto Harmony considerado dañino
+===================================
+
+> Esta traducción y el artículo original se liberan bajo
+> [Creative Commons Atribución CompartirDerivadasIgual
+> 3.0 de Argentina](http://ur1.ca/2djpm) y [Estados
+> Unidos](http://creativecommons.org/licenses/by-sa/3.0/us/legalcode)
+> respectivamente. Traducido por Nicolás Reynolds y Mauricio Pasquier
+> Juan.
 
 _Jueves 7 de Julio de 2011 por Bradley M. Kuhn_
 
