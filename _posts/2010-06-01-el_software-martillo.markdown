@@ -1,9 +1,12 @@
 ---
 layout: post
-title: El Software-martillo
-author: Nicolás Reynolds
-cover: images/cover_endefensadelsl_nr0.png
+title: "El Software-martillo"
+author: "Nicolás Reynolds"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
+
+El Software-martillo
+====================
 
 > Este artículo se libera bajo la licencia CC-BY-SA [@cc-by-sa-ar]
 
