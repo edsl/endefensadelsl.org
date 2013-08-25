@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Piratería y Software Libre
-author: Benjamin Mako Hill
-cover: images/cover_endefensadelsl_nr0.png
+title: "Piratería y Software Libre"
+author: "Benjamin Mako Hill"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
+
+Piratería y Software Libre
+==========================
 
 > Este artículo es la traducción al castellano de “Piracy and Free
 > Software”. El artículo original en inglés puede encontrarse en

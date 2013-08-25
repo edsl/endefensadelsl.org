@@ -1,8 +1,11 @@
 ---
 layout: post
-author: Aaron Swartz
-title: Manifiesto por la Guerrilla del Acceso Abierto
+author: "Aaron Swartz"
+title: "Manifiesto por la Guerrilla del Acceso Abierto"
 ---
+
+Manifiesto por la Guerrilla del Acceso Abierto
+==============================================
 
 La información es poder. Pero como con todo poder, hay quienes lo quieren
 mantener para sí mismos. La herencia científica y cultural del mundo completa,

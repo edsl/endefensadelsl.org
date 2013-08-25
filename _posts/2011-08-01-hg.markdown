@@ -1,9 +1,12 @@
 ---
 layout: post
-author: Johan Söderberg
+author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
-cover: images/cover_endefensadelsl_nr0.png
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
+
+¡Hackers GNUníos!
+=================
 
 > Este artículo es la traducción al castellano de "Hackers GNUnited!",
 > publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
