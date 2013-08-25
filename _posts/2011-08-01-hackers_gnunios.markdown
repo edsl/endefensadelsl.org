@@ -3,6 +3,7 @@ layout: post
 author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
 cover: "images/cover_endefensadelsl_nr0.png"
+old-slug: hg.html
 ---
 
 ¡Hackers GNUníos!
