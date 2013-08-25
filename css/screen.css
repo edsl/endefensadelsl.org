@@ -16,15 +16,15 @@ body {
 h1 {
     font-size: 500%;
     margin-top: 50px;
-    margin-left: 50px;
     margin-bottom: 20px;
+}
+
+section h1 {
+  font-size: 250%;
 }
 
 h2 {
     font-size: 200%;
-    font-weight: bold;
-/*    font-family: Liberation Serif Bold, LiberationSerifBold, serif;*/
-    font-family: sans-serif;
     margin: 40px 0 15px 0;
 }
 
