@@ -1,9 +1,12 @@
 ---
 layout: post
-title: El Manifiesto Telecomunista
-author: Dmitry Kleiner
-cover: images/tapas/manifiesto_telecomunista_a5.png
+title: "El Manifiesto Telecomunista"
+author: "Dmitry Kleiner"
+cover: "images/tapas/manifiesto_telecomunista_a5.png"
 ---
+
+El Manifiesto Telecomunista
+===========================
 
 > El Manifiesto Telecomunista se compone de textos extendidos y
 > re-trabajados por Dmytri Kleiner, a partir de trabajos de Joanne
@@ -2797,3 +2800,8 @@ algún objeto creado por el capitalismo o el sistema político hegemónico
 y distorsionar su significado y uso original para producir un efecto crítico.
 Una palabra parecida en español es tergiversación.
 [Ver](https://es.wikipedia.org/wiki/Detournement)
+
+
+## Bibliografía
+
+

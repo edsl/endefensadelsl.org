@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Piratería y Software Libre
-author: Benjamin Mako Hill
-cover: images/cover_endefensadelsl_nr0.png
+title: "Piratería y Software Libre"
+author: "Benjamin Mako Hill"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
+
+Piratería y Software Libre
+==========================
 
 > Este artículo es la traducción al castellano de “Piracy and Free
 > Software”. El artículo original en inglés puede encontrarse en
@@ -113,4 +116,9 @@ de software y cultura libres, podemos sugerir que la piratería no es éticament
 mala, pero que es una manera imprudente de promover el compartir. Sin ser
 hipócrita, podemos decir “No pienso que la piratería sea anti-ética. Pero
 tampoco la apoyo”.
+
+
+
+## Bibliografía
+
 
