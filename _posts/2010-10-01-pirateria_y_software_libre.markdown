@@ -117,3 +117,8 @@ mala, pero que es una manera imprudente de promover el compartir. Sin ser
 hipócrita, podemos decir “No pienso que la piratería sea anti-ética. Pero
 tampoco la apoyo”.
 
+
+
+## Bibliografía
+
+

@@ -2800,3 +2800,8 @@ algún objeto creado por el capitalismo o el sistema político hegemónico
 y distorsionar su significado y uso original para producir un efecto crítico.
 Una palabra parecida en español es tergiversación.
 [Ver](https://es.wikipedia.org/wiki/Detournement)
+
+
+## Bibliografía
+
+
