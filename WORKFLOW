@@ -42,9 +42,14 @@ Comandos:
   traducción de cada párrafo inmediatamente debajo del original (es decir,
   intercalados).
 
+* Para facilitar la revisión, generar un commit después por cada párrafo
+  traducido.
+
 Comandos:
 
     git flow feature start nombre-del-articulo
+    # Después de traducir un párrafo
+    git commit -a -m "Nombre del artículo, párrafo #"
 
 
 ## Revisión
