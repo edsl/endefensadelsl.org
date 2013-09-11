@@ -1,5 +1,5 @@
-% Necesitamos interfaces libres
-% Nicolás Reynolds
+% Necesitamos interfaces libres  
+% Nicolás Reynolds  
 % Junio, 2013
 
 Empezamos por la conclusión:  necesitamos interfaces que nos hagan libres.  Las
