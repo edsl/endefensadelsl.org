@@ -616,3 +616,8 @@ Un movimiento de protesta importante ha barrido el globo en 2011.  ¿Qué
 pasaría si estos movimientos de protesta ponen la apropiación de los
 medios de producción más importantes y su reorganización bajo el sistema
 de cooperación de pares en su agenda?
+
+
+## Bibliografía
+
+
