@@ -393,7 +393,7 @@ La formación social capitalista ha pasado por tres fases parcialmente
 solapadas: la emergente, la dominante y la declinante.  En la fase
 emergente (1850-1950) el modo de producción capitalista dominó
 mundialmente a los modos de producción feudal, doméstico y otros pre
-capitalistas, extrayendo trabajo y valor de ellos [@mandel-1972, ch. 2].
+capitalistas, extrayendo trabajo y valor de ellos [@mandel-1970, ch. 2].
 En la segunda fase (1950-1980) el modo de producción capitalista
 erosionó profundamente los modos pre capitalistas y los reemplazó
 con el modo de producción capitalista.  El capitalismo se expandió
