@@ -634,3 +634,7 @@ producción de pares funciona tan bien porque la gente se ayuda entre sí
 para alcanzar sus objetivos y satisfacer sus necesidades, lo que es una
 ventaja para todos los involucrados.
 
+
+## Bibliografía
+
+
