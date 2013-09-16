@@ -1,8 +1,12 @@
 ---
+layout: post
 title: "Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física"
 author: Christian Siefkes
-url: http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/
 ---
+
+> Este artículo fue publicado originalmente en el [Journal of Peer
+> Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
+> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds.
 
 Resumen
 -------
@@ -470,10 +474,10 @@ pague.
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es
 la producción física.  En la actualidad, existen más de 60 Fab Labs
-en todos los continentes [@mit-2011].  Hospedan maquinaria productiva
-diversa que puede ser utilizada por las personas en su vecindario para
-producir localmente.  Usualmente se trata de fresadoras y cortadoras
-láser controladas por computadora (CNCs) utilizadas para la "manufactura
+en todos los continentes.  Hospedan maquinaria productiva diversa que
+puede ser utilizada por las personas en su vecindario para producir
+localmente.  Usualmente se trata de fresadoras y cortadoras láser
+controladas por computadora (CNCs) utilizadas para la "manufactura
 sustractiva", es decir darle forma a una pieza de material (madera
 o metal) removiendo las partes innecesarias fresando o cortando.
 Muchos Labs poseen también "fabbers" (impresoras 3D) que además pueden
