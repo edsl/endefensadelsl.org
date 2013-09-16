@@ -49,7 +49,7 @@ El P2P y la fase avanzada del comunismo de Marx
 -----------------------------------------------
 
 Como la historia del modo de producción de pares contemporáneo ya ha
-sido escrita [@soderberg-2008; @raymond-2000; @weber-2004] haré una
+sido escrita [@soderberg-2008; @raymond-2001; @weber-2004] haré una
 breve pausa para definir dos momentos definitorios de esta historia,
 por un lado la invención de la licencia GPL (Licencia Pública General,
 en inglés) y el Software Libre (SL) por Richard Stallman en 1984 y por
@@ -71,7 +71,7 @@ El significado de la GPL descansa en el hecho de haber formulado por
 primera vez en la historia de la humanidad un derecho de propiedad
 que engloba a todo el mundo.  Los comunes han existido desde la
 concepción misma de la humanidad en varias formas y dentro de varias
-civilizaciones [@marx-1965; @polanyi-1992; @ostrom-1990].  Pero todas
+civilizaciones [@marx-1965; @ostrom-1990].  Pero todas
 ellas, a excepción del común del conocimiento, han estado siempre
 territorializadas y pertenecido a comunidades, tribus o estados
 particulares.  Por lo tanto y como regla general, los extraños eran
@@ -146,7 +146,7 @@ por Marx.
    poderes creativos.  Mis investigaciones etnográficas muestran que la
    creatividad y el reconocimiento de los pares se encuentran entre las
    motivaciones más fuertes de los productores P2P [@weber-2004].
-   Söderberg [-@soderberg-2004] también muestra cómo la creatividad P2P
+   Söderberg [-@soderberg-2008] también muestra cómo la creatividad P2P
    trasciende la alienación.
 
 En este punto podemos hacer las siguientes preguntas:

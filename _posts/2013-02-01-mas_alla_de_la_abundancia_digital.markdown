@@ -4,6 +4,9 @@ title: "Más allá de la abundancia digital: Bloques para la construcción de la
 author: Christian Siefkes
 ---
 
+Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
+================================================================================================
+
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds.
