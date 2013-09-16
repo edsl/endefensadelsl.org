@@ -4,3 +4,6 @@
 [submodule "_plugins/torrent"]
 	path = _plugins/torrent
 	url = git://endefensadelsl.org/jekyll-torrent.git
+[submodule "_plugins/rename-posts"]
+	path = _plugins/rename-posts
+	url = https://github.com/edsl/jekyll-rename-posts
