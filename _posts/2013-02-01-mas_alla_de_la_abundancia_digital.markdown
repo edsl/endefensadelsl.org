@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física"
 author: Christian Siefkes
 url: http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/
