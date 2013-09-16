@@ -474,10 +474,10 @@ pague.
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es
 la producción física.  En la actualidad, existen más de 60 Fab Labs
-en todos los continentes [@mit-2011].  Hospedan maquinaria productiva
-diversa que puede ser utilizada por las personas en su vecindario para
-producir localmente.  Usualmente se trata de fresadoras y cortadoras
-láser controladas por computadora (CNCs) utilizadas para la "manufactura
+en todos los continentes.  Hospedan maquinaria productiva diversa que
+puede ser utilizada por las personas en su vecindario para producir
+localmente.  Usualmente se trata de fresadoras y cortadoras láser
+controladas por computadora (CNCs) utilizadas para la "manufactura
 sustractiva", es decir darle forma a una pieza de material (madera
 o metal) removiendo las partes innecesarias fresando o cortando.
 Muchos Labs poseen también "fabbers" (impresoras 3D) que además pueden
