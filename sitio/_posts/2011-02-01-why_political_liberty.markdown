@@ -2,7 +2,7 @@
 layout: post
 title: Por qué la libertad política depende de la libertad del software más que nunca
 author: Eben Moglen
-cover: images/cover_endefensadelsl_nr1.png
+cover: sitio/images/cover_endefensadelsl_nr1.png
 ---
 
 > Un discurso de Eben Moglen en la conferencia FOSDEM 2011, Bruselas, 5
