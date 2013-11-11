@@ -22,9 +22,9 @@ end-to-end encryption and cryptographic trust mechanisms to assure privacy. We
 call such systems 'free networks' and they are characterized by the following
 five freedoms:
 
-Nuestra intención es construir sistemas de comunicación que sean del poder de
-la gente que los usa, que permitan a los participantes ser dueños de sus propios
-datos, y que usen encriptación de punta a punta y mecanismos de confianza
+Nuestra intención es construir sistemas de comunicación que son de la gente que
+los usa, que permiten a los participantes ser dueños de sus propios
+datos, y que usan encriptación de punta a punta y mecanismos de confianza
 criptográficos para garantizar la privacidad. Llamamos a tales sistemas 'redes
 libres' y están caracterizados por las siguientes cinco libertades:
 
@@ -43,7 +43,7 @@ libres' y están caracterizados por las siguientes cinco libertades:
   become owners. This mode of organization encourages network operation in the
   service of the common good.
 
-* Libertad 0) La libertad para participar en la red.
+* Libertad 0) La libertad de participar en la red.
 
   La libertad 0 trata sobre tu derecho de organizar redes cooperativas.
 
@@ -56,7 +56,7 @@ libres' y están caracterizados por las siguientes cinco libertades:
   aquellos que le dan uso. Los participantes actúan como proveedores y usuarios
   al mismo tiempo, y el crecimiento es distribuido automáticamente al tratar
   cualquier ganancia como inversión. De esta forma, aquellos que se unen a la
-  red son capaces de volverse propietarios. Este modo de organización procura
+  red son capaces de volverse propietarios. Este modo de organización promueve
   que la operación de la red sea al servicio del bien común.
 
 * Freedom 1) The freedom to determine where one's bits are stored.
@@ -69,15 +69,15 @@ libres' y están caracterizados por las siguientes cinco libertades:
   their homes. Participants ought to be free to store their own data (so that it
   is under their care) without sacrificing their ability to publish it.
 
-* Libertad 1) La libertad para determinar dónde son guardados los bits propios.
+* Libertad 1) La libertad de determinar dónde son guardados los bits propios.
 
-  La libertad 1 trata sobre tu derecho de poseer el material de almacenamiento
-  de tus datos.
+  La libertad 1 trata sobre tu derecho de poseer el almacenamiento material de
+  tus datos.
 
   Las redes convencionales promueven (si no fuerzan) que sus participantes
   almacenen sus datos en máquinas que están bajo la protección administrativa
   de un proveedor de servicio o alojamiento externos. La mayoría de la gente no
-  es capaz de servir datos desde sus casas. Los participantes deberían ser libres
+  es capaz de servir datos desde sus casas. Los participantes deben ser libres
   de almacenar sus propios datos (a fin de que estén bajo su cuidado) sin
   sacrificar su habilidad para publicarlos.
 
@@ -98,9 +98,9 @@ libres' y están caracterizados por las siguientes cinco libertades:
 
   La minería de datos y la monetización del compartir se ha vuelto una práctica
   común. Los participantes deberían ser libres de elegir a aquellos con quienes
-  les gustaría compartir una determinada información. Sólo alquien que posee
-  sus propios datos puede ejercitar completamente esta libertad. Pero éste es
-  el asunto independientemente de dónde estén guardados los bits concernientes.
+  les gustaría compartir una determinada información. Sólo alguien que posee
+  sus propios datos puede ejercitar completamente esta libertad, pero es un
+  problema sin importar dónde estén guardados los bits relevantes.
 
 * Freedom 3) The freedom to transmit bits to one's peers without the prospect
   of interference, interception or censorship.
@@ -113,7 +113,7 @@ libres' y están caracterizados por las siguientes cinco libertades:
   should remain unexamined from the time they enter the network until the time
   they reach their destination.
 
-* Libertad 3) La libertad para transmitir bits a un igual sin el suceso de
+* Libertad 3) La libertad para transmitir bits a un igual sin el prospecto de
   interferencia, interceptación o censura.
 
   La libertad 3 trata sobre el derecho de hablar libremente con tus pares.
@@ -145,11 +145,11 @@ libres' y están caracterizados por las siguientes cinco libertades:
 
   La libertad 4 trata sobre tu derecho a construir tu propia identidad
 
-  Hay una creciente presión para prohibir el anonimato, y hasta ahora las
-  comunicaciones confiables que quedan son escasas. Mientras que es esencial
+  Hay una creciente presión para prohibir el anonimato, y sin embargo las
+  comunicaciones confiables permanecen escasas. Mientras que es esencial
   para la libertad que los individuos puedan mantenerse anónimos en la esfera
   pública online, también es esencial que sean capaces de construir y mantener
-  identidades persistentes y verificables. Tales identidades podrán sustentar un
+  identidades persistentes y verificables. Tales identidades podrán mostrar un
   nombre legal, uno común, o un avatar que enmascara nuestro ser corpóreo - los
   individuos pueden tener muchas de tales identidades, y cambiar entre ellas a
   voluntad. Una clara delineación entre actores anónimos, pseudónimos y
