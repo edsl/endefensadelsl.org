@@ -1,7 +1,7 @@
 The fundamental dialectic of our struggle is this: will we be enslaved by our
 technology, or liberated by it?
 
-La dialéctica fundamental de nuestro conflicto es este: ¿seremos esclavizados
+La dialéctica fundamental de nuestro conflicto es ésta: ¿seremos esclavizados
 por nuestra tecnología, o liberados por ella?
 
 It was in cognizance of this notion, and in service to our collective freedom
@@ -10,9 +10,9 @@ to define exactly what it means to say that a network is free.  We hope that
 the existence of this definition will help illuminate the path to a more just
 world.
 
-Fue en reconocimiento de esta noción, y en servicio de nuestra libertad
-colectiva, que el Movimiento del Software Libre nació. Es en este espíritu en
-el que tratamos aquí de definir exactamente lo que significa que una red es
+Fue en la apreciación de esta noción, y en servicio de nuestra libertad
+colectiva, que el Movimiento del Software Libre nació. Es en este espíritu
+que aquí tratamos de definir exactamente lo que significa que una red es
 libre. Esperamos que la existencia de esta definición ayude a iluminar el
 camino hacia un mundo más justo.
 
@@ -22,20 +22,19 @@ end-to-end encryption and cryptographic trust mechanisms to assure privacy. We
 call such systems 'free networks' and they are characterized by the following
 five freedoms:
 
-Nuestra intención es construir sistemas de comunicaciones que son poseídos por
-la gente que los usa, que permite a los participantes poseer sus propios datos
-y que usa encriptación de punta a punta y mecanismos de confianza
+Nuestra intención es construir sistemas de comunicación que sean del poder de
+la gente que los usa, que permitan a los participantes ser dueños de sus propios
+datos, y que usen encriptación de punta a punta y mecanismos de confianza
 criptográficos para garantizar la privacidad. Llamamos a tales sistemas 'redes
-libres' y estos están caracterizados por las siguientes cinco libertades:
+libres' y están caracterizados por las siguientes cinco libertades:
 
 * Freedom 0) The freedom to participate in the network.
 
   Freedom 0 regards your right to organize cooperative networks.
 
-  Conventional
-  networks are characterized by a distinction between provider and user. This
-  mode of organization encourages network operation in the service of
-  self-interest. The provider builds and owns the infrastructure, and the user
+  Conventional networks are characterized by a distinction between provider
+  and user. This mode of organization encourages network operation in the service
+  of self-interest. The provider builds and owns the infrastructure, and the user
   pays for access.  In a free network, however, nodes connect to one another,
   rather than to a single, monolithic provider. By nature of its design, a free
   network is owned by those that make use of it. Participants act as providers
@@ -44,12 +43,12 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
   become owners. This mode of organization encourages network operation in the
   service of the common good.
 
-* Libertad 0) La libertad de participar en la red.
+* Libertad 0) La libertad para participar en la red.
 
   La libertad 0 trata sobre tu derecho de organizar redes cooperativas.
 
-  Las redes convencionales se caracterizan por una distinción entre usuario y
-  proveedor. Este modo de organización promueve la operación de la red al
+  Las redes convencionales se caracterizan por una distinción entre proveedor
+  y usuario. Este modo de organización promueve la operación de la red en
   servicio del interés propio. El proveedor construye y posee la
   infraestructura y el usuario paga por el acceso. En una red libre, sin
   embargo, los nodos se conectan entre sí, en vez de a un único proveedor
@@ -57,8 +56,8 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
   aquellos que le dan uso. Los participantes actúan como proveedores y usuarios
   al mismo tiempo, y el crecimiento es distribuido automáticamente al tratar
   cualquier ganancia como inversión. De esta forma, aquellos que se unen a la
-  red son capaces de volverse propietarios. Este modo de organización promueve
-  la operación de la red al servicio del bien común.
+  red son capaces de volverse propietarios. Este modo de organización procura
+  que la operación de la red sea al servicio del bien común.
 
 * Freedom 1) The freedom to determine where one's bits are stored.
 
@@ -70,17 +69,17 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
   their homes. Participants ought to be free to store their own data (so that it
   is under their care) without sacrificing their ability to publish it.
 
-* Libertad 1) La libertad de determinar dónde son guardados los bits propios.
+* Libertad 1) La libertad para determinar dónde son guardados los bits propios.
 
-  La libertad 1 trata sobre tu derecho de poseer el almacenamiento material de
-  tus datos.
+  La libertad 1 trata sobre tu derecho de poseer el material de almacenamiento
+  de tus datos.
 
   Las redes convencionales promueven (si no fuerzan) que sus participantes
-  almacenen sus datos en máquinas que están bajo los auspicios administrativos
-  de un alojamiento o proveedor de servicio externo. La mayoría de la gente no
-  es capaz de servir datos desde sus casas. Los participantes deben ser libre
-  de almacenar sus propios datos (así está bajo su cuidado) sin sacrificar su
-  habilidad para publicarlos.
+  almacenen sus datos en máquinas que están bajo la protección administrativa
+  de un proveedor de servicio o alojamiento externos. La mayoría de la gente no
+  es capaz de servir datos desde sus casas. Los participantes deberían ser libres
+  de almacenar sus propios datos (a fin de que estén bajo su cuidado) sin
+  sacrificar su habilidad para publicarlos.
 
 * Freedom 2) The freedom to determine the parties with whom one's bits are shared.
 
@@ -100,8 +99,8 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
   La minería de datos y la monetización del compartir se ha vuelto una práctica
   común. Los participantes deberían ser libres de elegir a aquellos con quienes
   les gustaría compartir una determinada información. Sólo alquien que posee
-  sus propios datos puede ejercitar completamente esta libertad, pero es un
-  problema sin importar dónde estén guardados los bits relevantes.
+  sus propios datos puede ejercitar completamente esta libertad. Pero éste es
+  el asunto independientemente de dónde estén guardados los bits concernientes.
 
 * Freedom 3) The freedom to transmit bits to one's peers without the prospect
   of interference, interception or censorship.
@@ -114,13 +113,13 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
   should remain unexamined from the time they enter the network until the time
   they reach their destination.
 
-* Libertad 3) La libertad para transmitir bits a un igual sin el prospecto de
-  interferencia, intercepción o censura.
+* Libertad 3) La libertad para transmitir bits a un igual sin el suceso de
+  interferencia, interceptación o censura.
 
   La libertad 3 trata sobre el derecho de hablar libremente con tus pares.
 
   Los flujos de información en las redes convencionales son rutinaria e
-  intencionalmente interceptadas, obstruídas y censuradas. Esto se hace a
+  intencionalmente interceptadas, obstruidas y censuradas. Esto se hace a
   instancias de actores corporativos y estatales alrededor del mundo. En una
   red libre, las comunicaciones privadas deberían permanecer sin examinar desde
   el momento en que entran a la red hasta el momento en que llegan a su
@@ -146,12 +145,12 @@ libres' y estos están caracterizados por las siguientes cinco libertades:
 
   La libertad 4 trata sobre tu derecho a construir tu propia identidad
 
-  Existe una presión en aumento para prohibir el anonimato, y sin embargo las
-  comunicaciones confiables permanecen escasas. Mientras que es esencial para
-  la libertad que los individuos puedan mantenerse anónimos en la esfera
+  Hay una creciente presión para prohibir el anonimato, y hasta ahora las
+  comunicaciones confiables que quedan son escasas. Mientras que es esencial
+  para la libertad que los individuos puedan mantenerse anónimos en la esfera
   pública online, también es esencial que sean capaces de construir y mantener
-  identidades persistentes y verificables. Tales identidades pueden mostrar un
-  nombre legal, uno común o un avatar que enmascara nuestro ser corpóreo - los
+  identidades persistentes y verificables. Tales identidades podrán sustentar un
+  nombre legal, uno común, o un avatar que enmascara nuestro ser corpóreo - los
   individuos pueden tener muchas de tales identidades, y cambiar entre ellas a
   voluntad. Una clara delineación entre actores anónimos, pseudónimos y
   ónimos[^NdT] nos permitiría a todos evaluar mejor la confiabilidad de otros
