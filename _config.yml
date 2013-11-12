@@ -4,7 +4,7 @@ pandoc:
     output: ./tmp
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish
             --section-divs --email-obfuscation=references'
-    site_flags: '--toc --template=src/_layouts/toc.html'
+    site_flags: '--toc --template=src/layouts/toc.html'
     outputs:
         pdf: '-V fontsize=10pt,a5paper,twoside
                 -V documentclass=book
@@ -12,8 +12,8 @@ pandoc:
                 -V geometry=bindingoffset=1cm
                 --latex-engine=xelatex
                 --table-of-contents
-                --include-in-header=src/_layouts/header.tex
-                --include-before-body=src/_layouts/license.tex'
+                --include-in-header=src/layouts/header.tex
+                --include-before-body=src/layouts/license.tex'
         epub: '-V lang=es --epub-chapter-level=2'
         mediawiki:
         rst:
@@ -23,12 +23,12 @@ pandoc:
                   -V geometry=bindingoffset=1cm
                   --latex-engine=xelatex
                   --table-of-contents
-                  --include-in-header=src/_layouts/header.tex
-                  --include-before-body=src/_layouts/license.tex'
+                  --include-in-header=src/layouts/header.tex
+                  --include-before-body=src/layouts/license.tex'
 
 destination: /srv/http/endefensadelsl.org
 source:   ./src
-layouts:  ./_layouts
+layouts:  ./layouts
 plugins:  ./_plugins
 
 permalink: ":title.html"
