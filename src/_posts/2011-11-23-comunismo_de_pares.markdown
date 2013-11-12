@@ -2,7 +2,7 @@
 layout: post
 author: Dmytri Kleiner
 title: El comunismo de pares contra el estado capitalista cliente-servidor
-cover: sitio/images/cover_endefensadelsl_nr1.png
+cover: src/images/cover_endefensadelsl_nr1.png
 ---
 
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que

@@ -2,7 +2,7 @@
 layout: post
 title: Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube
 author: Eben Moglen
-cover: sitio/images/cover_endefensadelsl_nr0.png
+cover: src/images/cover_endefensadelsl_nr0.png
 ---
 Es un placer estar aquí. Me encantaría pensar que la razón por la que estamos
 aquí en un viernes a la noche es porque mis charlas son muy buenas. En realidad

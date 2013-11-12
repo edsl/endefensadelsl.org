@@ -2,7 +2,7 @@
 layout: post
 title: Proyecto Harmony considerado dañino
 author: Bradley M. Kuhn
-cover: sitio/images/cover_endefensadelsl_nr1.png
+cover: src/images/cover_endefensadelsl_nr1.png
 ---
 
 > Esta traducción y el artículo original se liberan bajo Creative
