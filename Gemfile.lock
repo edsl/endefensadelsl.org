@@ -19,6 +19,8 @@ GEM
       maruku (~> 0.5)
       pygments.rb (~> 0.4.2)
       safe_yaml (~> 0.7.0)
+    jekyll-torrent (0.0.1)
+      jekyll
     kramdown (0.14.2)
     liquid (2.5.0)
     maruku (0.6.1)
@@ -36,3 +38,4 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-torrent
