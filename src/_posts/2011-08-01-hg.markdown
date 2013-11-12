@@ -2,7 +2,7 @@
 layout: post
 author: Johan Söderberg
 title: "¡Hackers GNUníos!"
-cover: sitio/images/cover_endefensadelsl_nr0.png
+cover: src/images/cover_endefensadelsl_nr0.png
 ---
 
 > Este artículo es la traducción al castellano de "Hackers GNUnited!",
