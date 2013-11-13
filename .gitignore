@@ -1,11 +1,5 @@
 *swp
 _site
 
-# jekyll genera todo esto acá
-pdf
-epub
-latex
-man
-mediawiki
-rst
-
+# cierto plugin genera su salida acá
+tmp/
