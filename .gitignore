@@ -1,5 +1,6 @@
 *swp
 _site
+vendor
 
 # cierto plugin genera su salida acá
 tmp/
