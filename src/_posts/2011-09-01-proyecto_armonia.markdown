@@ -3,7 +3,7 @@ layout: post
 title: "Proyecto Harmony considerado dañino"
 author: "Bradley M. Kuhn"
 cover: "src/images/cover_endefensadelsl_nr1.png"
-old-slug: harmony-harmful.html
+old-slug: harmony_harmful.html
 ---
 
 Proyecto Harmony considerado dañino
