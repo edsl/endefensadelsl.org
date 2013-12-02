@@ -90,14 +90,6 @@ desarrollar programas, casi todo está ahí.  Entonces, la Internet es muy
 buena para proveer abundancia en el sentido "lo que necesito, cuando lo
 necesito".
 
-It might seem as if the plenty originates in the digital nature of
-the Internet itself. But that would be a wrong impression. Digital
-technology is only the foundation; the producers of the plenty are the
-people who use the Internet and make it all happen. I will return to
-that issue, but prior to doing so I will look a the limitations of the
-physical world which make it appear so different from the digital plenty
-of the Net.
-
 Es como si la abundancia se originara por la naturaleza digital de la
 Internet misma.  Pero esta sería una impresión errónea.  La tecnología
 digital es solamente el basamento; los productores de la abundancia son
