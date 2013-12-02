@@ -1,5 +1,7 @@
 *swp
 _site
+vendor
+.bundle
 
 # jekyll genera todo esto acá
 pdf
