@@ -1,6 +1,7 @@
 *swp
 _site
 vendor
+.bundle
 
 # cierto plugin genera su salida acá
 tmp/
