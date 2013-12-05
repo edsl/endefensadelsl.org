@@ -23,6 +23,69 @@ El Manifiesto Telecomunista
 > <mpj@endefensadelsl.org>. Correcciones por Andrea Granate y Facundo
 > Acevedo.
 
+Licencia de Producción de Pares (Versión legible por humanos)
+-------------------------------------------------------------
+
+> Esto es un resumen legible por humanos del [texto legal (la licencia
+> completa)](http://endefensadelsl.org/ppl_es.html)
+
+Ud. es libre de
+---------------
+
+* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra
+* Hacer obras derivadas
+
+Bajo las condiciones siguientes:
+--------------------------------
+
+![](images/by.png)
+
+**Atribución** - Debe reconocer los créditos de la obra de la manera
+especificada por el autor o el licenciante (pero no de una manera que sugiera
+que tiene su apoyo o que apoyan el uso que hace de su obra).
+
+![](images/sa.png)
+
+**Compartir bajo la Misma Licencia** - Si altera o transforma esta obra, o
+genera una obra derivada, sólo puede distribuir la obra generada bajo una
+licencia idéntica a ésta.
+
+![](images/nc.png)
+
+**No Capitalista** - La explotación comercial de esta obra sólo está permitida
+a cooperativas, organizaciones y colectivos sin fines de lucro, a
+organizaciones de trabajadores autogestionados, y donde no existan relaciones
+de explotación.  Todo excedente o plusvalía obtenidos por el ejercicio de los
+derechos concedidos por esta Licencia sobre la Obra deben ser distribuidos por y
+entre los trabajadores.
+
+
+Entendiendo que
+---------------
+
+* **Renuncia** - Alguna de estas condiciones puede no aplicarse si se obtiene
+  el permiso del titular de los derechos de autor.
+
+* **Dominio Público** - Cuando la obra o alguno de sus elementos se halle en
+  el dominio público según la ley vigente aplicable, esta situación no quedará
+  afectada por la licencia.
+
+* **Otros derechos** - Los derechos siguientes no quedan afectados por
+  la licencia de ninguna manera:
+
+  * Los derechos derivados de usos legítimos u otras limitaciones reconocidas
+    por ley no se ven afectados por lo anterior;
+
+  * Los derechos morales del autor;
+
+  * Derechos que pueden ostentar otras personas sobre la propia obra o su uso,
+    como por ejemplo derechos de imagen o de privacidad.
+
+* **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
+  los términos de la licencia de esta obra.  La mejor forma de hacerlo es
+  enlazar a esta página.
+
+
 
 ## Prefacio
 
@@ -234,8 +297,6 @@ capacidades competidoras por, entre otras cosas, la comunicación y el lobby.
 Estas capacidades son, en su base, capacidades económicas. El cambio requiere
 entonces la aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
-
-![](images/gran_hermano.png)
 
 Las nuevas formas de producir y compartir, entonces, son la precondición de
 cualquier cambio en el orden social. Estos nuevos métodos de producir
@@ -469,8 +530,6 @@ subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
 en su _Sobre los principios de la economía política y los impuestos_ de
 1817 [@ricardo-1821] y esta es la base de negociación que nos encontramos todos
 aquellos que nacimos en un mundo enteramente apropiado por otros.
-
-![](images/software_libre.png)
 
 En su "Ensayo sobre los beneficios", Ricardo argumenta: "El interés del
 terrateniente siempre se opone al interés de cualquier otra clase de la
