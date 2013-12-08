@@ -24,7 +24,7 @@ El Manifiesto Telecomunista
 > Acevedo.
 
 Licencia de Producción de Pares (Versión legible por humanos)
--------------------------------------------------------------
+=============================================================
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
@@ -86,6 +86,8 @@ Entendiendo que
   enlazar a esta página.
 
 
+El Manifiesto Telecomunista
+===========================
 
 ## Prefacio
 
