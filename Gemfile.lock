@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/fauno/jekyll-pandoc-multiple-formats.git
-  revision: a238e6eaa20bb9130b00d38f2e6d60f2f7e5c8a5
+  revision: c456095858a47c8738c5617129091a235c6c8893
+  branch: develop
   specs:
     jekyll-pandoc-multiple-formats (0.0.5)
       jekyll
@@ -16,7 +17,7 @@ GEM
     fast-stemmer (1.0.2)
     ffi (1.9.3)
     highline (1.6.20)
-    jekyll (1.3.0)
+    jekyll (1.3.1)
       classifier (~> 1.3)
       colorator (~> 0.1)
       commander (~> 4.1.3)
