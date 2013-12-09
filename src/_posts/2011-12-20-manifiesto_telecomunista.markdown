@@ -73,13 +73,13 @@ Entendiendo que
 * **Otros derechos** - Los derechos siguientes no quedan afectados por
   la licencia de ninguna manera:
 
-  * Los derechos derivados de usos legítimos u otras limitaciones reconocidas
-    por ley no se ven afectados por lo anterior;
+    * Los derechos derivados de usos legítimos u otras limitaciones reconocidas
+      por ley no se ven afectados por lo anterior;
 
-  * Los derechos morales del autor;
+    * Los derechos morales del autor;
 
-  * Derechos que pueden ostentar otras personas sobre la propia obra o su uso,
-    como por ejemplo derechos de imagen o de privacidad.
+    * Derechos que pueden ostentar otras personas sobre la propia obra o su uso,
+      como por ejemplo derechos de imagen o de privacidad.
 
 * **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
   los términos de la licencia de esta obra.  La mejor forma de hacerlo es
@@ -811,7 +811,7 @@ del imaginario Circo McGurkus:
 > Mis obreros aman trabajar.\
 > Dicen, "¡Trabájanos! ¡Por favor hazlo!\
 > Trabajaremos y trabajaremos tantas sorpresas\
-> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!" [@seuss-1956]
+> ¡Que nunca verías la mitad aunque tuvieras cuarenta ojos!" [@seuss-1956]
 
 Y mientras el término "Web 2.0" puede no significar nada para Tim Berners-Lee,
 quien ve a las innovaciones recientes como nada más que un desarrollo
