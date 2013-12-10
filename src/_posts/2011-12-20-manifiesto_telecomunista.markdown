@@ -23,42 +23,41 @@ El Manifiesto Telecomunista
 > <mpj@endefensadelsl.org>. Correcciones por Andrea Granate y Facundo
 > Acevedo.
 
-Licencia de Producción de Pares (Versión legible por humanos)
-=============================================================
 
-> Esto es un resumen legible por humanos del [texto legal (la licencia
-> completa)](http://endefensadelsl.org/ppl_es.html)
+Licencia de Producción de Pares
+===============================
 
 Ud. es libre de
 ---------------
 
-* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra
+* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la
+  obra
+
 * Hacer obras derivadas
 
 Bajo las condiciones siguientes:
 --------------------------------
 
-![](images/by.png)
+ ![](images/by.png)
 
-**Atribución** - Debe reconocer los créditos de la obra de la manera
-especificada por el autor o el licenciante (pero no de una manera que sugiera
-que tiene su apoyo o que apoyan el uso que hace de su obra).
+ **Atribución** -- Debe reconocer los créditos de la obra de la manera
+ especificada por el autor o el licenciante (pero no de una manera que
+ sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
 
-![](images/sa.png)
+ ![](images/sa.png)
 
-**Compartir bajo la Misma Licencia** - Si altera o transforma esta obra, o
-genera una obra derivada, sólo puede distribuir la obra generada bajo una
-licencia idéntica a ésta.
+ **Compartir bajo la Misma Licencia** -- Si altera o transforma esta
+ obra, o genera una obra derivada, sólo puede distribuir la obra
+ generada bajo una licencia idéntica a ésta.
 
-![](images/nc.png)
+ ![](images/nc.png)
 
-**No Capitalista** - La explotación comercial de esta obra sólo está permitida
-a cooperativas, organizaciones y colectivos sin fines de lucro, a
-organizaciones de trabajadores autogestionados, y donde no existan relaciones
-de explotación.  Todo excedente o plusvalía obtenidos por el ejercicio de los
-derechos concedidos por esta Licencia sobre la Obra deben ser distribuidos por y
-entre los trabajadores.
-
+ **No Capitalista** -- La explotación comercial de esta obra sólo
+ está permitida a cooperativas, organizaciones y colectivos sin fines
+ de lucro, a organizaciones de trabajadores autogestionados, y donde
+ no existan relaciones de explotación.  Todo excedente o plusvalía
+ obtenidos por el ejercicio de los derechos concedidos por esta Licencia
+ sobre la Obra deben ser distribuidos por y entre los trabajadores.
 
 Entendiendo que
 ---------------
@@ -73,13 +72,13 @@ Entendiendo que
 * **Otros derechos** - Los derechos siguientes no quedan afectados por
   la licencia de ninguna manera:
 
-  * Los derechos derivados de usos legítimos u otras limitaciones reconocidas
-    por ley no se ven afectados por lo anterior;
+    + Los derechos derivados de usos legítimos u otras limitaciones
+      reconocidas por ley no se ven afectados por lo anterior;
 
-  * Los derechos morales del autor;
+    + Los derechos morales del autor;
 
-  * Derechos que pueden ostentar otras personas sobre la propia obra o su uso,
-    como por ejemplo derechos de imagen o de privacidad.
+    + Derechos que pueden ostentar otras personas sobre la propia obra o
+      su uso, como por ejemplo derechos de imagen o de privacidad.
 
 * **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
   los términos de la licencia de esta obra.  La mejor forma de hacerlo es
@@ -2830,38 +2829,40 @@ sino colectivos, retenemos la riqueza que creamos y por lo tanto la posibilidad
 de una sociedad nueva se pone a nuestro alcance.
 
 
-[^100]: [Manifiesto del Partido Comunista (1848)](http://www.marxists.org/espanol/m-e/1840s/48-manif.htm)
+[^100]: Manifiesto del Partido Comunista (1848).
+http://www.marxists.org/espanol/m-e/1840s/48-manif.htm
 
-[^22]: El [‘Paquete de Reformas de
-Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
-fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
-de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
-europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
-europeo para los 27 miembros.
+[^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado
+por Viviane Reding al Parlamento Europeo en Estrasburgo el
+13 de noviembre de 2007. Apunta a cambiar las Reglas de las
+Telecomunicadoras europeas de 2002. Su objetivo es unificar el
+mercado de telecomunicaciones europeo para los 27 miembros.
+http://europa.eu/rapid/press-release_IP-07-1677_es.htm
 
-[^26]: Información sobre la historia del copyright ha sido recopilada mediante
-una extensa y diversa investigación. Muchos recursos primarias pueden
-encontrarse en el archivo digital _[Primary Sources on Copyright
-(1450-1900)](http://www.copyrighthistory.com/)_ iniciado por el Consejo de
-Investigación en Artes y Humanidades del Reino Unido.
+[^26]: Información sobre la historia del copyright ha sido recopilada
+mediante una extensa y diversa investigación. Muchos recursos primarias
+pueden encontrarse en el archivo digital _Primary Sources on Copyright
+(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
+Humanidades del Reino Unido. http://www.copyrighthistory.com/
 
 [^34]: El archivo de la Internacional Situacionista y el periódico
-_Internationale Situationniste_ pueden leerse en el sitio [Situationist
-International Online](http://www.cddc.vt.edu/sionline/index.html)
+_Internationale Situationniste_ pueden leerse en el sitio Situationist
+International Online: http://www.cddc.vt.edu/sionline/index.html
 
-[^36]: [Free Software Foundation](http://fsf.org)
+[^36]: [Free Software Foundation](http://fsf.org). http://fsf.org
 
-[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
-un grupo de personas que algo falso es real. En el idioma castellano el término
-se popularizó principalmente al referirse a engaños masivos por medios
-electrónicos (especialmente Internet).  [Ver](https://es.wikipedia.org/wiki/Bulo)
+[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer
+creer a un grupo de personas que algo falso es real. En el idioma
+castellano el término se popularizó principalmente al referirse a
+engaños masivos por medios electrónicos (especialmente Internet).
+https://es.wikipedia.org/wiki/Bulo
 
 [^NdT3]: NdT: Détournement es un concepto surgido dentro del movimiento
-situacionista que habla sobre la posibilidad artística y política de tomar
-algún objeto creado por el capitalismo o el sistema político hegemónico
-y distorsionar su significado y uso original para producir un efecto crítico.
-Una palabra parecida en español es tergiversación.
-[Ver](https://es.wikipedia.org/wiki/Detournement)
+situacionista que habla sobre la posibilidad artística y política de
+tomar algún objeto creado por el capitalismo o el sistema político
+hegemónico y distorsionar su significado y uso original para producir
+un efecto crítico.  Una palabra parecida en español es tergiversación.
+https://es.wikipedia.org/wiki/Detournement
 
 
 ## Bibliografía
