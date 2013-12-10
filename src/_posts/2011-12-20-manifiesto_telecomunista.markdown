@@ -810,7 +810,7 @@ del imaginario Circo McGurkus:
 > Mis obreros aman trabajar.\
 > Dicen, "¡Trabájanos! ¡Por favor hazlo!\
 > Trabajaremos y trabajaremos tantas sorpresas\
-> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!" [@seuss-1956]
+> ¡Que nunca verías la mitad aunque tuvieras cuarenta ojos!" [@seuss-1956]
 
 Y mientras el término "Web 2.0" puede no significar nada para Tim Berners-Lee,
 quien ve a las innovaciones recientes como nada más que un desarrollo
