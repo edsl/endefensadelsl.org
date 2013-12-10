@@ -2,7 +2,7 @@
 layout: post
 title: "Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube"
 author: "Eben Moglen"
-cover: "src/images/cover_endefensadelsl_nr0.png"
+cover: "images/cover_endefensadelsl_nr0.png"
 old-slug: freedom_in_the_cloud.html
 ---
 

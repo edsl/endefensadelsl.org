@@ -2,7 +2,7 @@
 layout: post
 title: "El Software-martillo"
 author: "Nicolás Reynolds"
-cover: "src/images/cover_endefensadelsl_nr0.png"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
 
 El Software-martillo
