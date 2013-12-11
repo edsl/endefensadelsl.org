@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="portada.svg"
+   sodipodi:docname="tapa_manifiesto_telecomunista_textura_a4.svg"
    inkscape:export-filename="/srv/http/kiwwwi.com.ar/pastes/manifiesto_telecomunista.png"
    inkscape:export-xdpi="149.98096"
    inkscape:export-ydpi="149.98096"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41295994"
-     inkscape:cx="771.96261"
-     inkscape:cy="569.47617"
+     inkscape:zoom="0.58401355"
+     inkscape:cx="501.68843"
+     inkscape:cy="289.55776"
      inkscape:document-units="mm"
      inkscape:current-layer="g6662"
      showgrid="false"
@@ -38,10 +38,10 @@
      borderlayer="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1360"
-     inkscape:window-height="749"
+     inkscape:window-width="1024"
+     inkscape:window-height="714"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showborder="true">
     <sodipodi:guide
@@ -302,7 +302,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -650,199 +650,9 @@
              d="m 648.16574,97.135773 0,27.857137"
              style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           <g
-             id="text3441"
-             style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-             transform="matrix(0,-1,1,0,-55.543859,-72.761407)">
-            <path
-               id="path3650"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -864.79468,718.98309 2.36524,0 0,-5.48242 1.51074,1.51074 0.56738,0 1.51074,-1.51074 0,5.48242 2.36524,0 0,-10.30175 -1.51074,0 -2.625,2.61816 -2.64551,-2.61816 -1.53809,0 0,10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3652"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -855.06714,718.98309 2.36524,0 0,-1.98242 3.58886,0 0,1.98242 2.36524,0 0,-10.30175 -8.31934,0 0,10.30175 m 5.9541,-7.93652 0,3.58887 -3.58886,0 0,-3.58887 3.58886,0"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3654"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -837.04761,708.68134 -2.36523,0 0,1.03906 -3.58887,3.61621 0,-4.65527 -2.36523,0 0,10.30175 2.36523,0 0,-1.98242 3.58887,-3.61621 0,5.59863 2.36523,0 0,-10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3656"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -835.68042,718.99677 2.36523,0 0,-10.31543 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3658"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -829.39819,711.05341 3.5957,0 0,1.98925 2.36523,0 0,-4.35449 -8.34668,0 0.0205,10.31543 2.36524,0 0,-7.95019"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3660"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -822.06323,718.99677 2.36523,0 0,-10.31543 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3662"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -809.83374,708.68134 -8.31934,0 0,2.36523 5.95411,0 0,1.60645 -3.97168,0 0,2.35839 3.87597,0 0.0137,1.60645 -5.87207,0 0,2.36523 8.31934,0 0,-10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3664"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -808.43921,715.01141 5.9541,0 0,1.61328 -5.9541,-0.007 0,2.36523 8.31934,0 0,-6.33007 -5.9541,0 0,-1.60645 5.9541,0 -0.0137,-2.36523 -8.30567,0 0,6.33007"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3666"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -798.75952,711.04657 3.02832,0 0,7.93652 2.3584,0 0,-7.93652 2.93261,0 0,-2.36523 -8.31933,0 0,2.36523"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3668"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -789.02515,718.98309 8.31934,0 0,-10.30175 -8.31934,0 0,10.30175 m 5.95411,-7.93652 0,5.57129 -3.58204,0 -0.007,-5.57129 3.58887,0"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3670"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -776.66577,711.04657 3.02832,0 0,7.93652 2.3584,0 0,-7.93652 2.93261,0 0,-2.36523 -8.31933,0 0,2.36523"
-               inkscape:connector-curvature="0" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3672"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -766.9382,708.68134 8.31933,0 0,2.36523 -5.9541,0 0,1.60645 3.97168,0 0,2.35839 -3.87598,0 -0.0137,1.60645 5.87207,0 0,2.36523 -8.31933,0 0,-10.30175" />
-            <path
-               id="path3674"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -757.2312,718.99677 8.32617,0 0,-2.36524 -5.96094,0 0,-7.95019 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3676"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -747.52414,708.68134 8.31934,0 0,2.36523 -5.9541,0 0,1.60645 3.97168,0 0,2.35839 -3.87598,0 -0.0137,1.60645 5.87207,0 0,2.36523 -8.31934,0 0,-10.30175" />
-            <path
-               id="path3678"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -737.81714,718.98309 8.31934,0 0,-2.36523 -5.9541,0 0.0137,-5.57129 5.94043,0 0,-2.36523 -8.31934,0 0,10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3680"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -728.13062,718.98309 8.31934,0 0,-10.30175 -8.31934,0 0,10.30175 m 5.95411,-7.93652 0,5.57129 -3.58203,0 -0.007,-5.57129 3.58887,0"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3682"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -718.45093,718.98309 2.36524,0 0,-5.48242 1.51074,1.51074 0.56738,0 1.51074,-1.51074 0,5.48242 2.36524,0 0,-10.30175 -1.51074,0 -2.625,2.61816 -2.64551,-2.61816 -1.53809,0 0,10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3684"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -702.74878,716.63153 -3.58203,0 0,-7.95019 -2.38574,0 0,10.31543 6.61718,-0.007 0,1.98926 2.36524,0 -0.007,-4.34766 -0.64257,0 0,-7.95019 -2.3584,0 -0.007,7.95019"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3686"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -690.64917,708.68134 -2.36523,0 0,1.03906 -3.58887,3.61621 0,-4.65527 -2.36524,0 0,10.30175 2.36524,0 0,-1.98242 3.58887,-3.61621 0,5.59863 2.36523,0 0,-10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3688"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -689.28198,718.99677 2.36523,0 0,-10.31543 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3690"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -685.36499,715.01141 5.9541,0 0,1.61328 -5.9541,-0.007 0,2.36523 8.31934,0 0,-6.33007 -5.95411,0 0,-1.60645 5.95411,0 -0.0137,-2.36523 -8.30566,0 0,6.33007"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3692"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -675.6853,711.04657 3.02832,0 0,7.93652 2.3584,0 0,-7.93652 2.93261,0 0,-2.36523 -8.31933,0 0,2.36523"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3694"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -665.95776,718.98309 2.36523,0 0,-1.98242 3.58887,0 0,1.98242 2.36523,0 0,-10.30175 -8.31933,0 0,10.30175 m 5.9541,-7.93652 0,3.58887 -3.58887,0 0,-3.58887 3.58887,0"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3696"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -653.53003,714.90204 4.10156,0 0,-2.05078 -4.10156,0 0,2.05078"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3698"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -645.28589,718.98309 6.42578,0 1.89356,-1.89355 0,-6.51465 -1.89356,-1.89355 -6.42578,0 0,10.30175 m 5.9541,-7.93652 0,5.57129 -3.58886,0 0,-5.57129 3.58886,0"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3700"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -635.59937,718.98309 2.36524,0 0,-5.48242 1.51074,1.51074 0.56738,0 1.51075,-1.51074 0,5.48242 2.36523,0 0,-10.30175 -1.51074,0 -2.625,2.61816 -2.64551,-2.61816 -1.53809,0 0,10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3702"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -625.83081,715.01141 5.9541,0 -0.007,1.60645 -5.94727,0 0,2.36523 8.31934,0 0,-10.30175 -2.36524,0 0,3.97168 -3.58887,0 0,-3.97168 -2.36523,0 0,6.33007"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3704"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -616.13062,711.04657 3.02833,0 0,7.93652 2.35839,0 0,-7.93652 2.93262,0 0,-2.36523 -8.31934,0 0,2.36523"
-               inkscape:connector-curvature="0" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3706"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -606.40991,708.68134 8.31933,0 0,6.33007 -2.5498,0 2.5498,2.55664 0,1.41504 -2.36523,0 -3.58887,-3.61621 0,3.61621 -2.36523,0 0,-10.30175 m 2.36523,2.36523 0,1.60645 3.58887,0 0,-1.60645 -3.58887,0" />
-            <path
-               id="path3708"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -596.72339,718.99677 2.36524,0 0,-10.31543 -2.36524,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3710"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -590.13354,718.99677 2.36523,0 0,-3.59571 3.5957,3.59571 2.36524,0 0,-1.39454 -3.75977,-3.74609 3.75977,-3.75293 0,-1.42187 -2.36524,0 -3.5957,3.5957 0,-3.5957 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3712"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -580.45386,718.99677 8.32617,0 0,-2.36524 -5.96093,0 0,-7.95019 -2.36524,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3714"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -570.7468,708.68134 8.31934,0 0,2.36523 -5.95411,0 0,1.60645 3.97168,0 0,2.35839 -3.87597,0 -0.0137,1.60645 5.87207,0 0,2.36523 -8.31934,0 0,-10.30175" />
-            <path
-               id="path3716"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -561.03979,718.99677 2.36523,0 0,-10.31543 -2.36523,0 0,10.31543"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path3718"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -548.81714,708.68134 -2.36523,0 0,1.03906 -3.58887,3.61621 0,-4.65527 -2.36523,0 0,10.30175 2.36523,0 0,-1.98242 3.58887,-3.61621 0,5.59863 2.36523,0 0,-10.30175"
-               inkscape:connector-curvature="0" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3720"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -547.44992,708.68134 8.31933,0 0,2.36523 -5.9541,0 0,1.60645 3.97168,0 0,2.35839 -3.87598,0 -0.0137,1.60645 5.87207,0 0,2.36523 -8.31933,0 0,-10.30175" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path3722"
-               style="font-variant:normal;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin"
-               d="m -537.74976,708.68134 8.31934,0 0,6.33007 -2.54981,0 2.54981,2.55664 0,1.41504 -2.36524,0 -3.58887,-3.61621 0,3.61621 -2.36523,0 0,-10.30175 m 2.36523,2.36523 0,1.60645 3.58887,0 0,-1.60645 -3.58887,0" />
-          </g>
-          <g
              id="text3445"
              style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-             transform="matrix(0,-1,1,0,-53.922839,-72.761407)">
+             transform="matrix(0,-1.0304705,1.0304705,0,-75.4975,-80.929282)">
             <path
                inkscape:connector-curvature="0"
                id="path3836"
@@ -935,7 +745,7 @@
                d="m 1132.9969,791.75076 25.5831,0 0,19.46587 -7.841,0 7.841,7.86203 0,4.35144 -7.2734,0 -11.0363,-11.12035 0,11.12035 -7.2734,0 0,-31.67934 m 7.2734,7.27342 0,4.94005 11.0363,0 0,-4.94005 -11.0363,0" />
           </g>
           <g
-             transform="translate(-55.543859,-74.645257)"
+             transform="translate(-55.543859,-70.749692)"
              id="g4039"
              style="opacity:0.95">
             <g
@@ -1068,6 +878,216 @@
                    id="path6440"
                    inkscape:connector-curvature="0" />
               </g>
+            </g>
+          </g>
+          <g
+             id="g3615"
+             transform="matrix(0,-0.19999998,0.19999998,0,463.7143,910.60557)">
+            <g
+               style="opacity:0.95;display:inline;enable-background:new"
+               id="g4039-8"
+               transform="translate(-388.18432,286.69912)">
+              <g
+                 id="text2989-9"
+                 style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 transform="matrix(0.68699142,0,0,0.68699142,833.62626,204.79361)">
+                <path
+                   id="path3163-7"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 55.977631,746.17896 17.739257,0 0,-41.11817 11.330567,11.33057 4.255371,0 11.330564,-11.33057 0,41.11817 17.73926,0 0,-77.26319 -11.33057,0 -19.687496,19.63623 -19.841309,-19.63623 -11.535644,0 0,77.26319"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3165-8"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 128.93417,746.17896 17.73926,0 0,-14.86817 26.91651,0 0,14.86817 17.73925,0 0,-77.26319 -62.39502,0 0,77.26319 m 44.65577,-59.52393 0,26.9165 -26.91651,0 0,-26.9165 26.91651,0"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3167-9"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 201.68564,746.17896 17.73926,0 0,-41.98975 26.9165,27.12158 0,14.86817 17.73926,0 0,-77.26319 -17.73926,0 0,34.91455 -26.9165,-27.12158 0,-7.79297 -17.73926,0 0,77.26319"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3169-7"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 274.33456,746.28149 17.73926,0 0,-77.36572 -17.73926,0 0,77.36572"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3171-3"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 303.66074,746.17896 17.73925,0 0,-29.7876 29.7876,0 0,-17.68799 -29.7876,0 0,-12.04834 44.65577,0 0,-17.73926 -62.39502,0 0,77.26319"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3173-8"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 376.46347,746.28149 17.73926,0 0,-77.36572 -17.73926,0 0,77.36572"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3175-4"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 405.78964,746.17896 62.39502,0 0,-17.73926 -44.04053,0 0.10254,-12.04834 29.06983,0 0,-17.68799 -29.7876,0 0,-12.04834 44.65576,0 0,-17.73926 -62.39502,0 0,77.26319"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3177-6"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 478.64365,716.39136 44.65576,0 0,12.09961 -44.65576,-0.0513 0,17.73926 62.39502,0 0,-47.47559 -44.65577,0 0,-12.04834 44.65577,0 -0.10254,-17.73926 -62.29248,0 0,47.47559"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3179-3"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 551.2413,686.65503 22.7124,0 0,59.52393 17.68799,0 0,-59.52393 21.99463,0 0,-17.73926 -62.39502,0 0,17.73926"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path3181-7"
+                   style="font-size:105px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                   d="m 624.24911,746.17896 62.39502,0 0,-77.26319 -62.39502,0 0,77.26319 m 44.65577,-59.52393 0,41.78467 -26.86524,0 -0.0513,-41.78467 26.91651,0"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 transform="matrix(1.3759144,0,0,1.3759144,359.49876,83.49039)"
+                 id="g3904-1">
+                <g
+                   id="g3878-0" />
+                <g
+                   id="text4033-5"
+                   style="font-size:52.25551605px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6416-3"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 702.04222,430.97857 11.30331,0 0,29.62336 8.80281,0 0,-29.62336 10.9461,0 0,-8.82833 -31.05222,0 0,8.82833" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6418-4"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 738.35059,422.15024 31.05222,0 0,8.82833 -22.2239,0 0,5.99611 14.82444,0 0,8.80281 -14.46722,0 -0.051,5.99612 21.91771,0 0,8.82832 -31.05222,0 0,-38.45169" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6420-7"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 774.58247,460.65296 31.07774,0 0,-8.82832 -22.24942,0 0,-29.6744 -8.82832,0 0,38.50272" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6422-8"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 810.81429,422.15024 31.05223,0 0,8.82833 -22.2239,0 0,5.99611 14.82444,0 0,8.80281 -14.46723,0 -0.051,5.99612 21.91772,0 0,8.82832 -31.05223,0 0,-38.45169" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6424-6"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 847.04618,460.60193 31.05222,0 0,-8.82832 -22.2239,0 0.051,-20.79504 22.17287,0 0,-8.82833 -31.05222,0 0,38.45169" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6426-9"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 883.20148,460.60193 31.05223,0 0,-38.45169 -31.05223,0 0,38.45169 m 22.22391,-29.62336 0,20.79504 -13.37007,0 -0.0255,-20.79504 13.39558,0" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6428-2"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 919.33128,460.60193 8.82832,0 0,-20.46334 5.6389,5.6389 2.11778,0 5.6389,-5.6389 0,20.46334 8.82833,0 0,-38.45169 -5.6389,0 -9.79791,9.7724 -9.87446,-9.7724 -5.74096,0 0,38.45169" />
+                  <path
+                     sodipodi:nodetypes="ccccccccc"
+                     inkscape:connector-curvature="0"
+                     id="path6430-2"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 977.94012,451.82464 -13.37007,0 0,-29.6744 -8.90487,0 0,38.50272 30.9041,0.12585 0.19917,-38.62856 -8.80281,0 -0.0255,29.6744" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6432-9"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 1023.1024,422.15024 -8.8284,0 0,3.87834 -13.3956,13.49764 0,-17.37598 -8.82827,0 0,38.45169 8.82827,0 0,-7.39946 13.3956,-13.49764 0,20.8971 8.8284,0 0,-38.45169" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6434-3"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 1028.2054,460.65296 8.8284,0 0,-38.50272 -8.8284,0 0,38.50272" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6436-9"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 1042.8258,445.77749 22.2239,0 0,6.02163 -22.2239,-0.0255 0,8.82832 31.0522,0 0,-23.62725 -22.2239,0 0,-5.99611 22.2239,0 -0.051,-8.82833 -31.0012,0 0,23.62725" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6438-0"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 1078.9555,430.97857 11.3034,0 0,29.62336 8.8028,0 0,-29.62336 10.9461,0 0,-8.82833 -31.0523,0 0,8.82833" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path6440-7"
+                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kremlin;-inkscape-font-specification:Kremlin Bold"
+                     d="m 1115.2639,460.60193 8.8284,0 0,-7.39946 13.3955,0 0,7.39946 8.8284,0 0,-38.45169 -31.0523,0 0,38.45169 m 22.2239,-29.62336 0,13.39558 -13.3955,0 0,-13.39558 13.3955,0" />
+                </g>
+              </g>
+            </g>
+            <g
+               style="font-size:43.05195999px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+               id="text3449-9-6"
+               transform="matrix(1.6755132,0,0,1.6755132,345.95041,-375.55675)">
+              <path
+                 d="m 802.3082,823.4301 19.76017,0 5.82295,-5.82294 0,-20.03346 -5.82295,-5.82294 -19.76017,0 0,31.67934 m 18.30969,-24.40592 0,17.1325 -11.03627,0 0,-17.1325 11.03627,0"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3623-8"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 832.09561,823.4301 7.27343,0 0,-16.85921 4.64574,4.64574 1.74478,0 4.64575,-4.64574 0,16.85921 7.27342,0 0,-31.67934 -4.64574,0 -8.07224,8.05122 -8.13531,-8.05122 -4.72983,0 0,31.67934"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3625-5"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 862.13528,811.21663 18.3097,0 -0.021,4.94005 -18.28868,0 0,7.27342 25.58313,0 0,-31.67934 -7.27343,0 0,12.21347 -11.03627,0 0,-12.21347 -7.27343,0 0,19.46587"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3627-6"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 891.96474,799.02418 9.31251,0 0,24.40592 7.25241,0 0,-24.40592 9.01821,0 0,-7.27342 -25.58313,0 0,7.27342"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3629-9"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 921.85727,791.75076 25.58312,0 0,19.46587 -7.841,0 7.841,7.86203 0,4.35144 -7.27342,0 -11.03627,-11.12035 0,11.12035 -7.27343,0 0,-31.67934 m 7.27343,7.27342 0,4.94005 11.03627,0 0,-4.94005 -11.03627,0"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3631-2"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 951.64468,823.47215 7.27343,0 0,-31.72139 -7.27343,0 0,31.72139"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3633-7"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 971.90938,823.47215 7.27342,0 0,-11.05729 11.05729,11.05729 7.27343,0 0,-4.28838 -11.5618,-11.51976 11.5618,-11.54079 0,-4.37246 -7.27343,0 -11.05729,11.05729 0,-11.05729 -7.27342,0 0,31.72139"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3635-9"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1001.6758,823.47215 25.6041,0 0,-7.27343 -18.3307,0 0,-24.44796 -7.2734,0 0,31.72139"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3637-0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1031.5261,791.75076 25.5832,0 0,7.27342 -18.3097,0 0,4.94005 12.2134,0 0,7.2524 -11.9191,0 -0.042,4.94005 18.0575,0 0,7.27342 -25.5832,0 0,-31.67934"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3639-0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1061.3767,823.47215 7.2735,0 0,-31.72139 -7.2735,0 0,31.72139"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3641-7"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1073.38,791.75076 7.2734,0 0,3.19526 11.0363,11.12035 0,-14.31561 7.2734,0 0,31.67934 -7.2734,0 0,-6.09622 -11.0363,-11.12036 0,17.21658 -7.2734,0 0,-31.67934"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3643-6"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1103.1674,791.75076 25.5831,0 0,7.27342 -18.3097,0 0,4.94005 12.2135,0 0,7.2524 -11.9192,0 -0.042,4.94005 18.0574,0 0,7.27342 -25.5831,0 0,-31.67934"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3645-8"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 1132.9969,791.75076 25.5831,0 0,19.46587 -7.841,0 7.841,7.86203 0,4.35144 -7.2734,0 -11.0363,-11.12035 0,11.12035 -7.2734,0 0,-31.67934 m 7.2734,7.27342 0,4.94005 11.0363,0 0,-4.94005 -11.0363,0"
+                 style="font-variant:normal;font-stretch:normal;fill:#000000;font-family:Kremlin;-inkscape-font-specification:Kremlin"
+                 id="path3647-1"
+                 inkscape:connector-curvature="0" />
             </g>
           </g>
         </g>
