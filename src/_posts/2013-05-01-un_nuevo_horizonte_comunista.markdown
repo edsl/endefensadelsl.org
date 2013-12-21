@@ -22,7 +22,7 @@ India, Israel, Irán y Francia, entre muchos otros lugares, pueden
 contarse entre los semilleros de las protestas sociales recientes.
 
 Los movimientos de protesta han puesto las alternativas al capitalismo
-en la agenda histórica [@hardt-negri-2011].  Este artículo argumenta
+en la agenda histórica [@hardt-negri-2011a].  Este artículo argumenta
 que una sección de los trabajadores cognitivos ya ha creado un nuevo
 modo de producción llamado de pares (P2P) como una alternativa viable
 al capitalismo.  Aunque aun se encuentra en su fase emergente y se
@@ -278,7 +278,7 @@ administrado por los representantes del capital.  Mientras que
 un pequeño y selecto grupo de trabajadores pueden disfrutar una
 autonomía parcial, el total del proceso laboral es centralizado por los
 administradores que integran el trabajo de trabajadores separados en un
-proceso total de trabajo cooperativo.  Andre Gorz [-@gorz-1999, ch. 2],
+proceso total de trabajo cooperativo.  Andre Gorz [-@gorz-1999, cap. 2],
 un proponente de la hipótesis post-fordista, dice que el post-fordismo
 ha reemplazado al despotismo impersonal y mecanizado del taylorismo por
 nuevas formas de esclavizamiento personal.  Los productores individuales
@@ -393,7 +393,7 @@ La formación social capitalista ha pasado por tres fases parcialmente
 solapadas: la emergente, la dominante y la declinante.  En la fase
 emergente (1850-1950) el modo de producción capitalista dominó
 mundialmente a los modos de producción feudal, doméstico y otros pre
-capitalistas, extrayendo trabajo y valor de ellos [@mandel-1970, ch. 2].
+capitalistas, extrayendo trabajo y valor de ellos [@mandel-1970, cap. 2].
 En la segunda fase (1950-1980) el modo de producción capitalista
 erosionó profundamente los modos pre capitalistas y los reemplazó
 con el modo de producción capitalista.  El capitalismo se expandió

@@ -2,6 +2,7 @@
 _site
 vendor
 .bundle
+_config.yml
 
 # cierto plugin genera su salida acá
 tmp/
