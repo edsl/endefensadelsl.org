@@ -370,7 +370,7 @@ Hemos visto que la producción de pares tiende a tratar los recursos
 esenciales como comunes.  Extender esta lógica a la producción física
 implica que los recursos naturales también deben ser comunes, ya que son
 ciertamente esenciales.  Más de cien años atrás, Karl Marx [-@marx-1894,
-ch. 46] llegó a la misma conclusión:
+cap. 46] llegó a la misma conclusión:
 
 > Desde el punto de vista de una forma económica superior de la
 > sociedad, la propiedad privada del globo por individuos parecerá
