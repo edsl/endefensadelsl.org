@@ -16,7 +16,7 @@ toggle-dest:
 build:
 	bundle exec jekyll build
 
-test: toggle-test-dest build
+test: toggle-test-dest build toggle-dest
 
 all: toggle-dest build
 
