@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>En Defensa del Software Libre</title>
+ <link href="http://endefensadelsl.org/atom.xml" rel="self"/>
+ <link href="http://endefensadelsl.org/"/>
+ <link href="http://endefensadelsl.org/{{ site.torrent.file }}" rel="torrent"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://endefensadelsl.org/</id>
+ <author>
+   <name>En Defensa del Software Libre</name>
+   <email>endefensadelsl@listas.hipatia.net</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://endefensadelsl.org{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://endefensadelsl.org{{ post.id }}</id>
+   <link rel="enclosure" title="{{ post.title }}" 
+         type="application/epub+zip"
+         href="http://endefensadelsl.org/epub/{{ post.url | replace:'html','epub' }}"/>
+ </entry>
+ {% endfor %}
+
+</feed>

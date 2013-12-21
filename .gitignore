@@ -2,12 +2,7 @@
 _site
 vendor
 .bundle
+_config.yml
 
-# jekyll genera todo esto acá
-pdf
-epub
-latex
-man
-mediawiki
-rst
-
+# cierto plugin genera su salida acá
+tmp/

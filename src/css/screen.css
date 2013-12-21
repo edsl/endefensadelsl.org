@@ -1,0 +1,187 @@
+
+/* Reset */
+@import url('reset.css');
+/* @import url('fonts/stylesheet.css'); */
+/* @import url('droid/stylesheet.css'); */
+/* Oxymoron CSS framework*/
+@import url('oxymoron.css');
+
+body {
+/*    font-family: Liberation Serif, LiberationSerifRegular, serif; */
+    font-family: 'Droid Serif', sans-serif;
+    width: 680px;
+}
+
+
+h1 {
+    font-size: 500%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+section h1 {
+  font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+    margin: 40px 0 15px 0;
+}
+
+h4 {
+    font-size: 150%;
+    margin: 40px auto 20px auto;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit;
+}
+
+h1 a:hover:after, h2 a:hover:after, h3 a:hover:after,
+h4 a:hover:after, h5 a:hover:after, h6 a:hover:after {
+  content: "☜";
+  font-family: sans;
+}
+
+a {
+    text-decoration: none;
+    color: #4083A9
+}
+
+a.footnoteRef {
+  font-size: x-small;
+  vertical-align: top;
+}
+
+p {
+    text-indent: 2em;
+    line-height: 150%;
+    margin: 20px auto auto auto;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+/* A sangre */
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p,
+blockquote p {
+  text-indent: 0
+}
+
+em {
+    font-style: italic
+}
+
+h3 {
+    margin: 20px 0 10px 0;
+    font-size: 130%;
+}
+
+dl a {
+    color: black;
+    text-decoration: none;
+}
+
+dl a:hover {
+    color: #333
+}
+
+dd,
+dt {
+    font-style: italic;
+}
+
+dd {
+    display: inline;
+}
+
+small {
+    font-size: 80%;
+}
+
+dt {
+    font-weight: bold;
+    margin: 20px 0 0 0;
+}
+
+dt + dd {
+    margin-left: 16px;
+}
+
+dt:before {
+    content: "» ";
+}
+
+blockquote {
+    padding: 0 0 0 15px;
+    border-left: 5px solid #eee;
+}
+
+sup {
+    font-size: 80%;
+    vertical-align: super;
+    margin-right: 4px;
+}
+
+h1 sup {
+    font-size: 40%;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+}
+
+ul li {
+  padding: 0.5em 1em
+}
+
+ul li:before {
+    content: "\00BB \0020";
+}
+
+nav#formats * {
+    display: inline;
+}
+
+nav#formats li:before {
+    content:""
+}
+
+nav#formats li {
+  padding: 0;
+}
+
+dd p,
+li p {
+    margin: auto;
+}
+
+li p {
+    display: inline;
+}
+
+blockquote span.citation:before {
+    content: "— "
+}
+
+blockquote span.citation {
+    color: #999999;
+    display: block;
+    font-size: 85%;
+}
+
+dd p {
+    display: inline;
+}
+
+dd p a {
+    font-size: 80%;
+    color: #4083A9;
+    font-style: normal;
+}
+
+figure {
+  text-align: center;
+}
