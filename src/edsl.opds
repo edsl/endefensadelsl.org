@@ -1,0 +1,50 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:fh="http://purl.org/syndication/history/1.0"
+  xmlns:opds="http://opds-spec.org/2010/catalog">
+  <author>
+    <name>En Defensa del Software Libre</name>
+  </author>
+  <id>http://endefensadelsl.org/</id>
+  <link href="http://endefensadelsl.org/edsl.opds"
+    rel="self"
+    type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <title>En Defensa del Software Libre</title>
+  <subtitle>Articulos publicados</subtitle>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <dc:date>{{ site.time | date_to_xmlschema }}</dc:date>
+  <dcterms:date>{{ site.time | date_to_xmlschema }}</dcterms:date>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://endefensadelsl.org/{{ post.url }}</id>
+    <link rel="http://opds-spec.org/acquisition"
+          type="application/epub+zip"
+          href="http://endefensadelsl.org/epub{{ post.url | remove:'.html' }}.epub"/>
+    <link rel="http://opds-spec.org/image"
+          type="image/png"
+          href="{{ post.cover }}" />
+    <link rel="http://opds-spec.org/thumbnail"
+          type="image/png"
+          href="{{ post.cover }}" />
+
+    <author>
+      <name>{{ post.author }}</name>
+    </author>
+    <dc:language>es</dc:language>
+
+    <summary>{{ post.summary }}</summary>
+    <title>{{ post.title }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <dc:date>{{ post.date | date_to_xmlschema }}</dc:date>
+    <dcterms:date>{{ post.date | date_to_xmlschema }}</dcterms:date>
+    <dc:issued>{{ post.date | date: '%Y-%m-%d' }}</dc:issued>
+  </entry>
+  {% endfor %}
+
+</feed>
