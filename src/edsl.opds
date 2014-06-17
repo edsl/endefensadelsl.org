@@ -22,7 +22,7 @@ layout: nil
 
   {% for post in site.posts %}
   <entry>
-    <id>http://endefensadelsl.org/{{ post.url }}</id>
+    <id>http://endefensadelsl.org{{ post.url }}</id>
     <link rel="http://opds-spec.org/acquisition"
           type="application/epub+zip"
           href="http://endefensadelsl.org/epub{{ post.url | remove:'.html' }}.epub"/>
@@ -38,7 +38,6 @@ layout: nil
     </author>
     <dc:language>es</dc:language>
 
-    <summary>{{ post.summary }}</summary>
     <title>{{ post.title }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <dc:date>{{ post.date | date_to_xmlschema }}</dc:date>
