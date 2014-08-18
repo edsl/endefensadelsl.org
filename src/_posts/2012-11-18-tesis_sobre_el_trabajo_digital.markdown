@@ -2,6 +2,7 @@
 layout: post
 author: "Michel Bauwens"
 title: "Tesis sobre el trabajo digital"
+cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
 Tesis sobre el trabajo digital
