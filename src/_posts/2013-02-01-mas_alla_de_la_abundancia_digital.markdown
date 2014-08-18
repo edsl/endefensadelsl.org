@@ -2,6 +2,7 @@
 layout: post
 title: "Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física"
 author: Christian Siefkes
+cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
 Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
