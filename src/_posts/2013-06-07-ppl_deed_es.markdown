@@ -2,7 +2,7 @@
 title: "Licencia de Producción de Pares (Versión legible por humanos)"
 author: "En Defensa del Software Libre"
 layout: post
-cover: "images/tapas/manifiesto_telecomunista_a5.png"
+cover: "images/cover_manifiesto_telecomunista.png"
 ---
 
 Licencia de Producción de Pares (Versión legible por humanos)
