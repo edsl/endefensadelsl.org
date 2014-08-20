@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: edicion
 author: "Publicación"
 title: "En Defensa del Software Libre 1"
+cover: "images/cover_endefensadelsl_nr1.png"
 ---
 
 En Defensa del Software Libre 1

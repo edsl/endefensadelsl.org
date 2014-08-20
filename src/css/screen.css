@@ -185,3 +185,7 @@ dd p a {
 figure {
   text-align: center;
 }
+
+img.cover {
+  max-height: 200px;
+}
