@@ -29,7 +29,7 @@ Segunda edición: Abril 2011
 [El Software-martillo][3]
 :    Nicolás Reynolds
 
-Richard Stallman: Qué es el Software Libre
+[Richard Stallman: Qué es el Software Libre][5]
 :    Lucy Watts
 
 [Piratería y Software Libre][4]
@@ -40,3 +40,4 @@ Richard Stallman: Qué es el Software Libre
 [2]: hg.html
 [3]: el_software-martillo.html
 [4]: pirateria_y_software_libre.html
+[5]: que_es_el_software_libre.html
