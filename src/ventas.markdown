@@ -10,6 +10,9 @@ acercarte a estos lugares:
 
 * [Biblioteca Popular de Barracas][0]: los sábados de 16 a 20 hs.
 
+* La Barbarie, Carlos Calvo y Santiago del Estero, CABA, de lunes a
+  viernes de 9 a 23hs.
+
 Si querés ayudarnos en la distribución o editar los libros,
 [contactate][1] con nosotros.
 
