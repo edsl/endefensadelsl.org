@@ -32,6 +32,16 @@ title: En Defensa del Software Libre
 
 </section>
 
+<section id="ediciones">
+  <h2>Ediciones en papel</h2>
+
+  {% for edicion in site.ediciones %}
+  <a href="{{ edicion.url }}">
+    <img class="cover" src="{{ edicion.cover }}" />
+  </a>
+  {% endfor %}
+</section>
+
 <section id="contacto">
 
   <h2>Contacto</h2>

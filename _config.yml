@@ -39,3 +39,7 @@ lsi: false
 
 torrent:
   file: endefensadel.torrent
+
+collections:
+  ediciones:
+    output: true
