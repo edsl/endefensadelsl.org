@@ -32,6 +32,11 @@ layout: nil
     <link rel="http://opds-spec.org/thumbnail"
           type="image/png"
           href="{{ post.cover }}" />
+    {% if post.license %}
+    <link rel="license"
+          type="text/html"
+          href="{{ post.license }}"/>
+    {% endif %}
 
     <author>
       <name>{{ post.author }}</name>
