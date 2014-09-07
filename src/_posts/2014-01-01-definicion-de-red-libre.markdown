@@ -95,3 +95,4 @@ común o un avatar que enmascare el ser corpóreo - los individuos pueden
 tener muchas identidades tales, y cambiar entre ellas a voluntad. Un
 claro delineamiento entre actores anónimos, pseudónimos y _ónimos_ nos
 permitiría a todos evaluar mejor la confiabilidad de otros en la red.
+

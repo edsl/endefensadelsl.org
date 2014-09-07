@@ -2,6 +2,7 @@
 layout: post
 author: "Michel Bauwens"
 title: "Tesis sobre el trabajo digital"
+license: http://creativecommons.org/licenses/by-sa/3.0/
 cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
