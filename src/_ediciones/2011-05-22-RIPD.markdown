@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: edicion
 author: "Publicación"
 title: "Redes Inalámbricas para Países en Desarrollo"
+cover: "images/cover_ripd_3ra_edicion.png"
 ---
 
 Redes Inalámbricas para Países en Desarrollo
