@@ -43,3 +43,4 @@ torrent:
 collections:
   ediciones:
     output: true
+    permalink: ":path.html"
