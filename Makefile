@@ -7,6 +7,16 @@ out_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
 
 articulos = ../articulos
 
+# obtener los valores de _config.yml :D
+jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
+pandoc_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['pandoc']['flags']" -e "puts c['pandoc']['outputs']['pdf']")
+
+# la conversión se hace relativa al source de jekyll porque las flags de
+# _config.yml están adaptadas a eso
+ediciones/%.pdf: ediciones/%.markdown
+	cd $(jekyll_source) && \
+	pandoc $(pandoc_flags) -o ../$@ < ../$<
+
 articles:
 	@rm -fv src/_posts/*.markdown
 	cp -v $(articulos)/2*.markdown src/_posts/
