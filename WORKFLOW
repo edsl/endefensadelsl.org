@@ -93,4 +93,25 @@ Comandos:
     jekyll build
 
 
+## Edición en papel
+
+Para preparar una edición en papel, hay que concatenar los artículos y
+ponerlos dentro de `ediciones/EDICION.markdown`.
+
+Luego hay que correr `make ediciones/EDICION.pdf` para generar el pdf.
+
+A tener en cuenta:
+
+* Hay que eliminar los YAML de los articulos y generar uno para la
+  edición completa
+
+* Los links en las notas al pie se convierten en notas al pie inválidas.
+  (Esto es cierto para los artículos del sitio también...)
+
+* Los títulos de los artículos van como títulos de primer nivel
+
+* Los nombres de los autores se colocan debajo del título como títulos
+de quinto nivel.
+
+
 # vim:set ts=2 sw=2 syntax=markdown et:
