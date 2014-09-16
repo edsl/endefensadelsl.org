@@ -10,7 +10,7 @@ edsl2_articulos = 2012-11-18-tesis_sobre_el_trabajo_digital.markdown 2013-02-01-
 
 # obtener los valores de _config.yml :D
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
-pandoc_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['pandoc']['flags']" -e "puts c['pandoc']['outputs']['pdf']")
+pandoc_pdf_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['pandoc']['flags']" -e "puts c['pandoc']['outputs']['pdf']")
 
 # crear el markdown concatenado para edsl2
 EDSL2 = $(addprefix $(articulos)/,$(edsl2_articulos))
@@ -22,8 +22,7 @@ ediciones/EDSL2.markdown:
 		echo -en "\n##### " >>$@ ;\
 		grep "^author: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
 		sed '/^---$$/,/^===\+$$/d' "$$articulo" | sed 's/^#\+ Bibliografía$$//' >>$@ ;\
-	done 
-	
+	done
 	echo -e "\n\n# Bibliografía\n\n" >>$@
 
 
@@ -31,10 +30,19 @@ ediciones/EDSL2.markdown:
 # _config.yml están adaptadas a eso
 ediciones/%.pdf: ediciones/%.markdown
 	cd $(jekyll_source) && \
-	pandoc $(pandoc_flags) -o ../$@ < ../$<
+	pandoc $(pandoc_pdf_flags) -o ../$@ < ../$<
+
+# Imposición de páginas, los cuadernillos son de 20 páginas cada uno
+ediciones/%-print.pdf: ediciones/%.pdf
+	pdfjam --vanilla \
+					--outfile "$@" \
+					--paper a4paper \
+					--signature 20 \
+					--landscape \
+					"$<"
 
 articles:
-	@rm -fv src/_posts/*.markdown
+	rm -fv src/_posts/*.markdown
 	cp -v $(articulos)/2*.markdown src/_posts/
 
 toggle-test-dest:
@@ -48,12 +56,12 @@ toggle-dest:
 build: articles
 	bundle exec jekyll build
 
-test: toggle-test-dest build toggle-dest
+test: toggle-test-dest build toggle-dest ediciones/%-print.pdf
 
-all: toggle-dest build
+all: toggle-dest build ediciones/%-print.pdf
 
 clean:
-	rm -rf tmp src/tmp _site
+	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown
 
 # Magia!
 %.tif: %.svg
