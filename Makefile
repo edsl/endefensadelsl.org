@@ -17,9 +17,9 @@ EDSL2 = $(addprefix $(articulos)/,$(edsl2_articulos))
 ediciones/EDSL2.markdown:
 	echo -e "% En Defensa del Software Libre #2\n% \n% Septiembre, 2014\n\n" >$@
 	for articulo in $(EDSL2); do \
-		echo -en "# " >>$@ ;\
+		echo -en "#" >>$@ ;\
 		grep "^title: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
-		echo -en "\n##### " >>$@ ;\
+		echo -en "\n#####" >>$@ ;\
 		grep "^author: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
 		sed '/^---$$/,/^===\+$$/d' "$$articulo" | sed 's/^#\+ Bibliografía$$//' >>$@ ;\
 	done
