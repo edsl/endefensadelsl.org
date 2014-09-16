@@ -1,18 +1,17 @@
 % En Defensa del Software Libre #2
-%
-% Septiembre 2014
+% 
+% Septiembre, 2014
 
 
-Tesis sobre el trabajo digital
-==============================
+#  Tesis sobre el trabajo digital
 
-##### Michel Bauwens
+#####  Michel Bauwens
 
 > Este artículo fue publicado en el [wiki de la P2P
-> Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy)
+> Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
 > 
-> Traducido por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
-> Pasquier Juan <mauricio@pasquierjuan.com.ar>
+> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org) y Mauricio
+> Pasquier Juan (mauricio@pasquierjuan.com.ar)
 
 
 El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La
@@ -45,12 +44,12 @@ estructura artesanal del trabajo cognitivo. Los trabajadores cognitivos
 ya no se encuentran principalmente envueltos en el trabajo fabril de
 larzo plazo, sino que tienen carreras bastante flexibles, por opción o
 necesidad, que requieren saltar de trabajadores asalariados, a
-consultores independientes _freelance_, a _entrepeneurs_ y de vuelta a
-trabajadores. Bajo condiciones de flexibilidad elegida o forzada, los
-trabajadores tienen un interés objetivo en ser puestos en red, para
-ganar experiencia práctica y capital tanto social como reputacional, así
-como acceso a redes de intercambio y solidaridad. La producción de pares
-en red es el mejor camino para percibir estas ventajas.
+consultores independientes, a emprendedores y de vuelta a trabajadores.
+Bajo condiciones de flexibilidad elegida o forzada, los trabajadores
+tienen un interés objetivo en ser puestos en red, para ganar experiencia
+práctica y capital tanto social como reputacional, así como acceso a
+redes de intercambio y solidaridad. La producción de pares en red es el
+mejor camino para percibir estas ventajas.
 
 El par-a-par y el involucramiento en la producción de pares son las
 condiciones objetivas de la participación en redes y por lo tanto afecta
@@ -71,7 +70,12 @@ el acceso a la red), atrae la participación e involucramiento del
 capital a través de la actividad de los capitalistas
 redárquicos[^netarchic].
 
-[^netarchic]: _Netarchical_ en el original.
+[^netarchic]:
+  _Netarchical_ en el original.  Según la P2P Foundation, el
+  capitalismo redárquico es un nuevo segmento de la clase capitalista
+  que no depende del control de los medios de producción ni de la
+  propiedad intelectual para producir valor, sino del desarrollo y
+  control sobre plataformas de participación. _(Nota de traducción)_
 
 El capital redárquico es el sector del capital que entiende la
 naturaleza hiperproductiva de la producción de pares y por lo tanto
@@ -167,7 +171,10 @@ esas condiciones, el posible abuso de la propiedad colectiva se balancea
 por la libertad individual de derivar[^fork] los recursos productivos en
 esfuerzos alternativos.
 
-[^fork]: _Forking_ en el original. _(Nota de traducción)_
+[^fork]:
+  _Forking_ en el original. En el contexto de la programación, _forkear_
+  un proyecto es tomar la base común de código y comenzar un nuevo
+  desarrollo, con otra comunidad y objetivos. _(Nota de traducción)_
 
 La producción de pares es vital para la sostenibilidad y los métodos de
 producción amigables con la biósfera, ya que las comunidades de diseño
@@ -183,9 +190,10 @@ escala "material" global. Las filés son entidades transnacionales, que
 fomentan las comunidades, que crean una nueva capa de cooperación
 material post-capitalista.
 
-[^file]: Griego antiguo para _tribu_, para su resignificación moderna,
-ver Filé en Indianopedia: http://lasindias.net/indianopedia/Fil%C3%A9
-_(Nota de traducción)_
+[^file]:
+  Griego antiguo para _tribu_, para su resignificación moderna, ver
+  _Filé_ en Indianopedia: http://lasindias.net/indianopedia/File.
+  _(Nota de traducción)_
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
 y captura de capital (redárquico) no-recíproco. Bajo condiciones de
@@ -214,17 +222,15 @@ actualidad. La tarea de los movimientos del trabajo cognitivo y de otros
 tipos es crear una nueva hegemonía y una nueva alianza basada en los
 comunes para el cambio social, que desafíe la dominación del capital, su
 forma-mercancía y la destrucción biosférica que le es inherente.
+#  Más allá de la abundancia digital
 
-
-Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
-================================================================================================
-
-##### Christian Siefkes
+#####  Christian Siefkes
 
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
-> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds y
-> Tes <tes@riseup.net>, liberado para la [Licencia de Producción de
+> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
+> (fauno@endefensadelsl.org) y Tes (tes@riseup.net), liberado para la
+> [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 Resumen
@@ -372,7 +378,7 @@ necesitado (y por quién) y en segundo, en cuánto de un bien es producido
 natural.
 
 [^oekonux]: Disponible en el primer número del Journal of Peer Production. Ver
-            http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project
+            http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project.
             _(Nota de traducción)_
 
 Arriba he distinguido entre dos conceptos de la abundancia --el
@@ -515,17 +521,20 @@ forzado a hacerse cargo de tareas específicas.  La forma en que se
 distribuyen tareas en tales proyectos es usualmente llamada
 _estigmérgica_ [@heylighen-2007].  Los participantes dejan pistas sobre
 las tareas que comenzaron y cosas que quisieran ver, animando a otros a
-hacerse cargo.  Los reportes de _bugs_ en los proyectos de software y
-los "vínculos rojos" que apuntan a artículos faltantes en la Wikipedia
-son ejemplos de tales pistas.  Estas pistas proveen orientación a los
-novatos y a los participantes que terminaron otras tareas y están
-buscando alguna nueva.  Mientras más participantes se preocupen por una
-tarea, más visibles serán las pistas que apunten a ella, incrementando
-la posibilidad de que alguien comience a trabajar en ella.  ¿Puede la
-producción de pares lograr lo que el capitalismo no puede: producir
-abundancia en el sentido de "lo que necesites, cuando lo necesites" para
-todos, y no sólo en áreas específicas (por ejemplo, software) y no sólo
-para algunos, sino en todas las áreas y para todos?
+hacerse cargo.  Los reportes de _bugs_[^bug] en los proyectos de
+software y los "vínculos rojos" que apuntan a artículos faltantes en la
+Wikipedia son ejemplos de tales pistas.  Estas pistas proveen
+orientación a los novatos y a los participantes que terminaron otras
+tareas y están buscando alguna nueva.  Mientras más participantes se
+preocupen por una tarea, más visibles serán las pistas que apunten a
+ella, incrementando la posibilidad de que alguien comience a trabajar en
+ella.  ¿Puede la producción de pares lograr lo que el capitalismo no
+puede: producir abundancia en el sentido de "lo que necesites, cuando lo
+necesites" para todos, y no sólo en áreas específicas (por ejemplo,
+software) y no sólo para algunos, sino en todas las áreas y para todos?
+
+[^bug]: Los bugs son comportamientos imprevistos en el software,
+  generalmente producto de errores de programación.
 
 Para hacerlo posible, la producción de pares necesita crecer más allá
 del mundo inmaterial hacia el material, produciendo no sólo información
@@ -594,10 +603,13 @@ ch. 46] llegó a la misma conclusión:
 > sociedad, la propiedad privada del globo por individuos parecerá tan
 > absurda como la propiedad privada de un hombre sobre otro.  Aun una
 > sociedad completa, una nación o incluso todas las sociedades
-> existentes simultáneamente tomadas juntas pueden ser propietarias del
-> globo.  Sólo son sus poseedores, sus usufructuarios y, como las *boni
-> patres familias*, deben dejarlo a las generaciones siguientes en
-> condición mejorada.
+> existentes simultáneamente tomadas juntas pueden ser propietarias de
+> la tierra.  Sólo son sus poseedores, sus usufructuarios y deben
+> dejarla a las generaciones siguientes en mejores condiciones, como si
+> fueran *boni patres familias*[^boni_patres_familias].
+
+[^boni_patres_familias]:
+  Buenos padres de familia. _(Nota de traducción)_
 
 Tratar los recursos naturales como comunes significa que nadie puede
 reclamar derechos exclusivos sobre ellos y deben ser preservados
@@ -680,10 +692,17 @@ un común en Sudamérica [@deangelis-2010].
 Los _hackerspaces_ (ver [hackerspaces.org](http://hackerspaces.org)) son
 otro ejemplo de lugares de encuentro autoorganizados donde las personas
 los usan para desarrollar software libre, crear contenidos libres,
-aprender y compartir conocimiento o solo relajarse y divertirse.  La
-mayoría de los hackerspaces se financian con las contribuciones de sus
-miembros, aunque por lo general cualquiera es bienvenido, aun cuando no
-pague.
+aprender y compartir conocimiento o solo relajarse y
+divertirse.[^hackerspace]  La mayoría de los hackerspaces se financian
+con las contribuciones de sus miembros, aunque por lo general cualquiera
+es bienvenido, aun cuando no pague.
+
+[^hackerspace]:
+  Esta descripción se acerca más a la de _hacklab_ que a la de
+  _hackerspace_, ver "Hacklabs and hackerspaces", en
+  http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+  y "Hackeando los espacios", en
+  http://endefensadelsl.org/hackeando_los_espacios.html. _(Nota de traducción)_
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
@@ -702,7 +721,7 @@ bastante costoso de obtener, por lo que la mayoría de los Labs necesitan
 el esponsoreo de una universidad u otra organización.  Pero esta está
 cambiando gradualmente, desde que la multitud de proyectos de pares que
 desarrolla herramientas de producción como hardware abierto está
-emergiendo en los últimos años.  Existen enrutadoras CNC libres y
+emergiendo en los últimos años.  Existen fresadoras CNC libres y
 abiertas como la [Kikori](http://sindrianarts.com), cortadoras láser
 como el [Lasersaur](http://labs.nortd.com/lasersaur/), _fabbers_ como la
 [RepRap](http://reprap.org) y la [Ultimaker](http://ultimaker.com).
@@ -711,7 +730,7 @@ sus versiones comerciales y propietarias, la brecha se está cerrando.
 
 Una vez que las máquinas usadas sean ellas mismas el resultado de la
 producción de pares, serán reproducidas libremente por cualquiera que
-posea el equipamiento adecuado.  Y si los _hubs_ de producción abierta
+posea el equipamiento adecuado.  Y si los centros de producción abierta
 --"Fab Labs" más avanzados-- hospedan el equipamiento necesario para
 producir sus herramientas, la cosa se pone excitante, ya que significa
 que la red abierta de facilidades productivas pueden crecer sin requerir
@@ -726,7 +745,7 @@ ladrillo para la construcción de la producción física de pares.
 
 Nada de esto sería posible sin las personas que contribuyen su tiempo y
 esfuerzo a compartir su conocimiento, diseñar y realizar cosas útiles,
-organizar y llevar adelante hackerspaces, Fab Labs y otros _hubs_ de la
+organizar y llevar adelante hackerspaces, Fab Labs y otros centros de
 producción de pares.  La gente elige contribuir por sí misma en formas
 que se adecuan a sus preferencias y deseos.  Tales contribuciones
 voluntarias de los pares son la base de un nuevo tipo de producción de
@@ -766,10 +785,11 @@ efectivas, la gente lo "aislará", ignorándolo completamente y
 rehusándose a cooperar con él.  En casos extremos, la persona aislada es
 oficialmente echada del proyecto.
 
-[^flame]: Del argot de Internet _flame war_, dirigir un mensaje
-          deliberadamente hostil, en este caso crítico de las (malas)
-          acciones de otros.  Ver Flame en Wikipedia:
-          http://es.wikipedia.org/wiki/Flame  _(Nota de traducción)_
+[^flame]:
+  Del argot de Internet _flame war_, dirigir un mensaje deliberadamente
+  hostil, en este caso crítico de las (malas) acciones de otros.  Ver
+  _Flame_ en Wikipedia: http://es.wikipedia.org/wiki/Flame.  _(Nota de
+  traducción)_
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción de
@@ -852,16 +872,15 @@ ventaja para todos los involucrados.
 
 
 
-La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
-====================================================================================
+#  La producción de pares como alternativa al capitalismo
 
-##### Jakob Rigi
+#####  Jakob Rigi
 
 > Jakob Rigi trabaja en la Universidad de Europa Central de Budapest.
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Tes <tes@riseup.net> y liberado bajo la
+> (fauno@endefensadelsl.org) y Tes (tes@riseup.net) y liberado bajo la
 > [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
@@ -1219,7 +1238,8 @@ trabajadores cognitivos se haya rebelado contra las relaciones
 capitalistas de producción al lanzar el P2P.  Como argumenta Söderberg
 [-@soderberg-2008] esta es una forma de lucha de clases.
 
-[^ndt1-forma-comun]: En contraposición a la forma mercancía.
+[^ndt1-forma-comun]:
+  En contraposición a la forma mercancía. _(Nota de traducción)_
 
 
 La relación del modo de producción de pares con el capitalismo
@@ -1480,19 +1500,12 @@ reorganización bajo el sistema de cooperación de pares?
 
 
 
-La parodia de los Comunes
-=========================
+#  La parodia de los Comunes
 
-##### Vasilis Kostakis y Stelios Stavroulakis
+#####  Vasilis Kostakis y Stelios Stavroulakis
 
 > Publicado originalmente en [tripleC
 > 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
->
-> Esta traducción fue realizada por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
-> <mpj@endefensadelsl.org> y se publica bajo la [Licencia de Producción
-> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
-> los autores.
 >
 > Vasilis Kostakis es un economista político y el fundador del _P2P
 > Lab_.  En la actualidad es investigador miembro de la Universidad
@@ -1502,7 +1515,12 @@ La parodia de los Comunes
 > particularmente en el software libre y los estándares abiertos y
 > generalmente consciente de las problemáticas sociales y ambientales.
 > Es colaborador del _P2P Lab_.
-
+>
+> Esta traducción fue realizada por Nicolás Reynolds
+> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
+> (mauricio@pasquierjuan.com.ar) y se publica bajo la [Licencia de Producción
+> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
+> los autores.
 
 Abstract
 --------
@@ -1539,7 +1557,7 @@ desafíos institucionales y normativos".
 
 ## Introducción
 
-Se dice que un número creciente de personas son ahora capaces de
+Se dice que un número creciente de personas es ahora capaz de
 administrar sus vidas políticas, sociales y productivas a través de una
 variedad de redes interdependientes habilitadas por las Tecnologías de
 la Información y la Comunicación (TICs) [@castells-2000; @castells-2003;
@@ -1576,7 +1594,7 @@ valor de las estrategias propietarias y posibilita esfuerzos de
 producción de información a gran escala [@benkler-2006].  En este
 contexto, la producción de pares puede ser considerada una forma seminal
 de un nuevo modo de producción posibilitado por la coordinación a través
-de Internet donde las decisiones surgen del libre involucramiento y
+de Internet donde las decisiones surgen del libre compromiso y
 cooperación entre las personas.  Se unen para crear valor común sin
 recurrir a la compensación monetaria como la forma clave de motivación
 [@bauwens-2005; @orsi-2009; @kostakis-2013].
@@ -1602,7 +1620,7 @@ en la naturaleza innovativa de la arquitectura de red de par-a-par (P2P)
 que posibilitó el advenimiento de Internet.  La introducción de la
 arquitectura P2P en las relaciones sociales de producción e intercambio
 de bienes y servicios se basa en la idea de que cada comunidad de red,
-al igual que cada nodo en la red, se vuelve "servidora" para satisfacer
+al igual que cada nodo en la red, se convierte en "servidora" para satisfacer
 las necesidades de otras comunidades, así como en "cliente" para
 satisfacer las propias.  La producción de pares opera sobre fundamentos
 no competitivos, sinergéticos, llevando a una distribución óptima de los
@@ -1622,7 +1640,7 @@ productores al involucrar estructuras de propiedad, aprendizaje y toma
 de decisiones participativas [@fuchs-2013].  Mientras que la empresa ata
 por contrato sólo una fracción de las capacidades, a las que considera
 apropiadas para realizar cierto objetivo, en un proyecto de pares el
-motivo emerge cuando el conjunto completo de las capacidades accede una
+motivo emerge cuando el conjunto completo de las capacidades accede a una
 cantidad determinada de recursos.  La producción de pares alcanza la
 asignación óptima de recursos al ser un sistema más productivo para la
 información que los mercados o las burocracias estatales [@bauwens-2005;
@@ -1652,7 +1670,7 @@ Benkler [-@benkler-2006] postula sus supuestos sobre las condiciones
 para el desarrollo de la producción de pares, dando por sentada una
 economía general estable.  No toma en cuenta las amenazas que la
 producción de pares enfrentará una vez que se exponga a un ambiente
-económico hostil.  Una pregunta que emerge es por qué el marco
+económico hostil.  Una pregunta que emerge es porque el marco
 socioeconómico dominante se resistiría a la construcción de una esfera
 de los Comunes.  Después de todo, se podría argumentar que es dentro de
 esta esfera que la Internet y muchas otras tecnologías digitales se han
@@ -1701,7 +1719,7 @@ movimiento social."  El código abierto presupone que el software no
 libre es una solución inferior para un problema práctico dado, mientras
 que para los defensores del software libre el software privativo "es un
 problema social" [@stallman-2012].  "Si es el mismo software (o casi)
-¿importa qué nombre se le de?", pregunta Stallman para responder, "sí,
+¿importa qué nombre se le dé?", pregunta Stallman para responder, "sí,
 porque palabras diferentes transmiten diferentes ideas.  Aunque un
 programa libre con cualquier otro nombre te puede dar las mismas
 libertades hoy, establecer la libertad de forma duradera depende sobre
@@ -1712,7 +1730,7 @@ discusión de los Comunes dentro de un marco socioeconómico turbulento y
 contradictorio.  En otras palabras, ¿cuál es el rol de los Comunes en la
 acumulación capitalista mientras el potencial emancipatorio de las
 comunidades de pares es neutralizado sin afectar su función productiva?
-El sistema capitalista razonablemente intenta incorporar a las
+El sistema capitalista razonablemente intenta asimilar a las
 comunidades de pares basadas en los Comunes por su rentabilidad
 ventajosa (trabajo de bajo costo con productos de alta calidad).
 Argumentamos que el desarrollo de las relaciones de pares por sí solo,
@@ -1756,7 +1774,7 @@ prácticas.
 La posición de Hardin [-@hardin-1968] sobre la salvación a través de la
 privatización ha sido proclamada para los bosques.  Si los bosques son
 privatizados, el interés del administrador será proteger la madera del
-fuego y el trabajo indiscriminado de los leñadores.  Lo que tenemos aquí
+fuego y del trabajo indiscriminado de los leñadores.  Lo que tenemos aquí
 es un error de categoría.  Lo que el administrador protege es el área
 vallada antes que el bosque.  Frente a los derechos de propiedad
 "sagrados" no existe documento legal que garantice que el área se
@@ -1787,7 +1805,7 @@ de acuerdo con Hardin.  Benkler [-@benkler-2006] establece que esto no
 sucede en la producción de pares:  las comunidades basadas en los
 Comunes se las arreglan para encontrar sus propias formas.
 
-No obstante, pueden encontrarse contraejemplos a los que presenta
+No obstante, pueden encontrarse contraejemplos a los casos que presenta
 Benkler para apoyar su argumentación.  Por ejemplo, el desarrollo de
 software en los ambientes corporativos tradicionales cuyos proyectos son
 liberados bajo licencias permisivas (como la MIT o las BSD) que permiten
@@ -1895,7 +1913,7 @@ Cualquier actividad ambiciosa finalmente resulta detenida y una de las
 primeras víctimas es el trabajo voluntario que realizan los miembros de
 las comunidades de pares.  Esta no es una situación imaginaria; es la
 realidad de la Eurozona actual, donde el sector bancario tiene permitido
-concentrar una cantidad imprecedente de poder.  El vínculo, que vuelve
+concentrar una cantidad de poder sin precedentes.  El vínculo, que vuelve
 esta situación insoportable para todos, es el puño de hierro de la
 moneda común.  Aun Alemania, la más poderosa economía de la Eurozona,
 está cayendo lentamente en recesión [@indexmundi-2013; @economist-2011]
@@ -1905,8 +1923,8 @@ Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
 40 años.  Este es entonces el camino hacia un callejón sin salida.
 
-La segunda característica es la externalización, de acuerdo al cual y a
-pesar de las intenciones y planes de los miembros, el proyecto se
+La segunda característica es la externalización, de acuerdo a la cual --y a
+pesar de las intenciones y planes de los miembros-- el proyecto se
 convierte en una forma de economía de agregación o
 _crowdsourcing_[^NdT2].  En este escenario el valor de uso producido por
 los pares sirve a ciertos intereses lucrativos sin importar que los
@@ -1925,25 +1943,26 @@ trabajo productivo es externalizado hacia los usuarios "quienes trabajan
 completamente gratis y ayudan a maximizar la tasa de explotación [...]
 de forma que las ganancias puedan ser aumentadas y el nuevo capital
 mediático pueda ser acumulado.  Esta es una situación de infinita
-explotación de los usuarios".  En una vena similar, Terranova
+explotación de los usuarios".  En la misma línea, Terranova
 [-@terranova-2013, pp. 53] aborda la relevancia del concepto de los
-Comunes: "como la riqueza generada por el trabajo gratuito es social,
-este también debería ser el modo de su devolución."  Por lo tanto,
+Comunes: "dado que la riqueza generada por el trabajo gratuito es social,
+también lo debería ser el modo de su devolución."  Por lo tanto,
 concluye que "las plataformas de redes sociales deben ser
 des-privatizadas --es decir que la propiedad de los datos de los
 usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: tercerización o externalización de masas. _(Nota de
-         traducción)_
+[^NdT2]: Tercerización o externalización de masas, una forma de
+  trasladar la fuerza de trabajo hacia colectivos de voluntarios y
+  apropiarse del valor producido. _(Nota de traducción)_
 
-Entonces, el trabajo gratuito es voluntario.  En los proyectos de
+eNtonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
 final (que permanece abierto a su desarrollo ulterior) del proceso
 productivo y gana experiencia, conocimiento, relaciones y/o incluso
 dinero (aun cuando la ganancia monetaria no sea el factor determinante)
-a través de este.  En estado de privatización (de acuerdo a la
+a través de éste.  En estado de privatización (de acuerdo a la
 categorización antes mencionada de las economías de
 agregación/crowdsource) el trabajo gratuito implica explotación.  En
 adición a los monopolios de los medios sociales, el desarrollo de MacOS
@@ -1961,8 +1980,8 @@ farsa o parodia.  Tan pronto como esta destrucción gradual es percibida
 (la tragedia) todos están de acuerdo en que la administración debe
 privatizarse y si no acordaran, el Estado podría forzar el acuerdo para
 poder implementar la asignación.  El recurso común permanece como tal
-sólo de nombre (la parodia).  Decimos que, desafortunadamente, este es
-el escenario más posible.  Para ponerlo en términos de software,
+sólo por su nombre (la parodia).  Decimos que, desafortunadamente, este es
+el escenario más probable.  Para ponerlo en términos de software,
 constituye un agujero de seguridad en la ecología de la producción de
 pares y por el momento no se ha propuesto un parche (es decir, una
 solución).  La pregunta entonces, es si los pares productores se
@@ -1981,32 +2000,38 @@ contexto socioeconómico en proceso que está aflorando y discutir cómo
 afecta el funcionamiento de la economía real.
 
 Mientras que el evento disparador de su explosión fue la falla de las
-hipotecas _subprime_, muchas opiniones se han alzado sobre las causas de
-la burbuja financiera del 2008.  Alguna de naturaleza tecnoeconómica
-[@perez-2009a; @perez-2009b] y otras [@sowell-2010; @krugman-2009;
-@krugman-2012; @stiglitz-2010] que se enfocan en los síntomas antes que
-en las características contradictorias inherentes al sistema
-capitalista.  De acuerdo con Karl Marx [-@marx-1992; -@marx-1993], el
-patrón general del sistema capitalista, que vuelve inevitables las
-crisis económicas, es creado por la acción combinada de dos leyes de la
-integración capitalista.  La primera ley concierne la tendencia de la
-cuota de ganancias a decrecer mientras que la segunda describe la
-necesidad de una creciente concentración y acumulación de capital.
-Estas dos leyes se contradicen mutuamente llevando a un sistema que
-colapsa y entra en crisis: el Capital no puede ser invertido cuando la
-tasa en descenso de la cuota de ganancias es más rápida que la creciente
-tasa de acumulación de capital.  En el análisis de Marx, el capitalismo
-está inherentemente construido sobre una lógica sisífea que alcanza
-siempre un callejón sin salida, donde la política de escape a menudo
-constituye la destrucción parcial del capital total.  Por un período
-determinado, el capitalismo --un proceso de "creatividad destructiva"
-según Schumpeter [-@schumpeter-1975; -@schumpeter-1982], que comparte
-muchos puntos de vista con Marx en el análisis de la dinámica
-capitalista-- puede parecer sostenible, al introducir productos y
-servicios innovativos.  Desde una perspectiva diferente, Williamson
+hipotecas basura[^subprime], muchas opiniones se han alzado sobre las
+causas de la burbuja financiera del 2008.  Alguna de naturaleza
+tecnoeconómica [@perez-2009a; @perez-2009b] y otras [@sowell-2010;
+@krugman-2009; @krugman-2012; @stiglitz-2010] que se enfocan en los
+síntomas antes que en las características contradictorias inherentes al
+sistema capitalista.  De acuerdo con Karl Marx [-@marx-1992;
+-@marx-1993], el patrón general del sistema capitalista, que vuelve
+inevitables las crisis económicas, es creado por la acción combinada de
+dos leyes de la integración capitalista.  La primera ley concierne a la
+tendencia de la cuota de ganancias a decrecer mientras que la segunda
+describe la necesidad de una creciente concentración y acumulación de
+capital.  Estas dos leyes se contradicen mutuamente llevando a un
+sistema que colapsa y entra en crisis: el Capital no puede ser invertido
+cuando la tasa en descenso de la cuota de ganancias es más rápida que la
+creciente tasa de acumulación de capital.  En el análisis de Marx, el
+capitalismo está inherentemente construido sobre una lógica sisífea que
+alcanza siempre un callejón sin salida, donde la política de escape a
+menudo constituye la destrucción parcial del capital total.  Por un
+período determinado, el capitalismo --un proceso de "creatividad
+destructiva" según Schumpeter [-@schumpeter-1975; -@schumpeter-1982],
+que comparte muchos puntos de vista con Marx en el análisis de la
+dinámica capitalista-- puede parecer sostenible, al introducir productos
+y servicios innovadores.  Desde una perspectiva diferente, Williamson
 [-@williamson-1985; -@williamson-1995] alcanza una conclusión similar:
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
+
+[^subprime]: Un crédito _subprime_ o hipoteca basura es una modalidad
+  crediticia del mercado financiero de Estados Unidos que se
+  caracteriza por tener un nivel de riesgo de impago superior
+  a la media del resto de créditos. Ver Wikipedia:
+  https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime. _(Nota de traducción)_
 
 La transformación parcial del capital estancado en el capital de
 préstamo es utilizada como una válvula de presión para superar este
@@ -2024,7 +2049,7 @@ Pagar la deuda externa no significa necesariamente que la deuda se
 reduce, sino que por el contrario puede incrementarse si el interés es
 acumulado como capital, que por lo tanto neutraliza no sólo las
 ganancias de los productores locales, sino también cualquier ventaja
-innovativa alcanzada por su talento y esfuerzo.  Esta situación ocurre
+innovadora alcanzada por su talento y esfuerzo.  Esta situación ocurre
 cuando el acreedor y el moroso firman un acuerdo desbalanceado donde las
 tasas de interés y propagación son injustamente altas y no existe
 flexibilidad en la política monetaria.  En este caso y especialmente en
@@ -2040,7 +2065,7 @@ comunicarse y compartir) voluntariamente [@benkler-2006; @hertel-2003;
 Linux son impulsados "por motivos similares a los de la acción
 voluntaria dentro de movimientos sociales como el movimiento por los
 derechos civiles, el movimiento obrero o el movimiento pacifista."  Por
-otro lado, el par productor no tiene idea que sus aportes voluntarios
+otro lado, el par productor no tiene idea de que sus aportes voluntarios
 contribuyen a la retención del decrecimiento promedio de la cuota de
 ganancias, ofreciendo una chance al capital para desarrollar,
 apropiarse, expandirse y crecer.  Por lo tanto, decimos que aquellos que
@@ -2156,7 +2181,7 @@ capitalista no ha permitido ningún otro modo de producción.  El futuro
 de los modos de producción precapitalistas o innovadores está
 predeterminado: destrucción o integración.  Mientras que las relaciones
 P2P no sean dominantes, su dependencia de un medioambiente económico
-amistoso resulta imperativo.
+amigable resulta imperativo.
 
 Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el
 caso del archivo digital de la ERT.  La ERT[^NdT3] era la cadena de
@@ -2216,7 +2241,7 @@ probabilidad de adoptar prácticas de pares es prácticamente cero, ya que
 esta perspectiva requiere la implementación inmediata de
 infraestructuras de pares, lo que contrasta con la noción de "propiedad"
 tal como está incrustada en la filosofía del sistema político.  ¿Cómo es
-posible que un sistema política que defiende la interpretación
+posible que un sistema político que defiende la interpretación
 institucional de "propiedad" tome las riendas de la expropiación de la
 propiedad privada?  Una respuesta posible es que mientras el sistema
 político se declara adherente de la propiedad, sólo defiende una
@@ -2273,8 +2298,8 @@ financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
 esta forma la creación de ganancias está permitida, pero la maximización
 de ganancias no sería la fuerza motriz del desarrollo económico.
 
-[^ppl]: Ver la licencia de Producción de Pares:
-http://endefensadelsl.org/ppl_deed_es.html.  _(Nota de traducción)_
+[^ppl]: Ver la licencia de Producción de Pares: http://endefensadelsl.org/ppl_deed_es.html.
+        _(Nota de traducción)_
 
 [^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
          copia (copyleft), a su vez un juego de palabras sobre derecho
@@ -2302,7 +2327,7 @@ emergen como una promesa, que se convierte en tragedia y luego en
 parodia.  Tan pronto como la destrucción gradual es percibida (tragedia)
 la administración de los recursos de los Comunes es privatizada: el
 recurso común sólo es común por su nombre (parodia).  Argumentamos que
-este es un escenario probable, particularmente dañando las comunidades
+éste es un escenario probable, particularmente dañando las comunidades
 abocadas a la producción de bienes tangibles, en ausencia de hardware
 libre y especificaciones abiertas.  Ya que las fuentes de información y
 las TICs están distribuidas uniformemente, afirmamos que la mejor
@@ -2319,13 +2344,14 @@ principios.  La apertura de un camino hacia tal perspectiva depende de
 que la mayoría decida tomar el control creativo de su futuro.
 
 
-¡Los átomos también quieren ser libres!
-=======================================
 
-##### Johan Söderberg
 
-> Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
-> Boquet <picado.fino@gmail.com> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+#  ¡Los átomos también quieren ser libres!
+
+#####  Johan Söderberg
+
+> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org), Natalia
+> Boquet (picado.fino@gmail.com) y Mauricio Pasquier Juan (mauricio@pasquierjuan.com.ar).
 > Liberado bajo la [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
@@ -2334,43 +2360,46 @@ Introducción
 
 Casi tan pronto como la impresora 3D apta para el público general se
 convirtió en un producto ampliamente disponible al público, surgió el
-primer conflicto sobre la propiedad intelectual[^ndt1] de los objetos
-tridimensionales imprimibles.  En febrero del 2011,
-_Thingiverse_[^thingiverse], un repositorio de archivos de este tipo de
-objetos, propiedad de los fabricantes de impresoras 3D _Makerbog
-Industries_, recibió su primera carta de cese y desistimiento (_cease &
-desist_[^ndt2]).  El diseñador que la envió, Ulrich Schwanitz, hizo un
-reclamo de propiedad sobre un objeto que había sido subido a
-Thingiverse.  El objeto en cuestión era un modelo de un "Triángulo de
-Penrose".  Se trata de una muy conocida ilusión óptica donde los lados
-del triángulo terminan en lugares incorrectos.  El objeto no puede
-existir sino como una representación bidimensional en papel.  Schwanitz
-había diseñado un objeto tridimensional que, al ser observado desde el
-ángulo correcto, se asemejaba a un Triángulo de Penrose.  Un usuario de
-Thingiverse le había hecho ingeniería inversa a partir de una foto.
-Temiendo responsabilidad secundaria bajo la _Digital Millenium Copyright
-Act_, Makerbot Industries decidió eliminar el archivo, aunque la
-situación legal era altamente incierta.  La representación bidimensional
-original del Triángulo de Penrose se encuentra en el dominio público y
-no resulta claro si Schwanitz reclamó derechos sobre el archivo de
-diseño, es decir sobre el código de software, sobre los planos de la
-estructura del objeto o sobre la foto con la imagen del Triángulo de
-Penrose.  Después de las protestas públicas, Schwanitz renunció a los
-cargos y liberó el diseño [@rideout-2012].  Sin embargo, este primer
-encuentro ha sido seguido por reclamos corporativos más estridentes y
-poderosos.  Resulta interesante que el primer reclamo de copyright sobre
-objetos tridimensionales imprimibles haya concernido a una forma que, en
+primer conflicto sobre la propiedad
+intelectual[^ndt1-propiedad-intelectual] de los objetos tridimensionales
+imprimibles.  En febrero del 2011, _Thingiverse_[^thingiverse], un
+repositorio de archivos de este tipo de objetos, propiedad de los
+fabricantes de impresoras 3D _Makerbog Industries_, recibió su primera
+carta de cese y desistimiento (_cease & desist_[^ndt2-cease-desist]).
+El diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de
+propiedad sobre un objeto que había sido subido a Thingiverse.  El
+objeto en cuestión era un modelo de un "Triángulo de Penrose".  Se trata
+de una muy conocida ilusión óptica donde los lados del triángulo
+terminan en lugares incorrectos.  El objeto no puede existir sino como
+una representación bidimensional en papel.  Schwanitz había diseñado un
+objeto tridimensional que, al ser observado desde el ángulo correcto, se
+asemejaba a un Triángulo de Penrose.  Un usuario de Thingiverse le había
+hecho ingeniería inversa a partir de una foto.  Temiendo responsabilidad
+secundaria bajo la _Digital Millenium Copyright Act_, Makerbot
+Industries decidió eliminar el archivo, aunque la situación legal era
+altamente incierta.  La representación bidimensional original del
+Triángulo de Penrose se encuentra en el dominio público y no resulta
+claro si Schwanitz reclamó derechos sobre el archivo de diseño, es decir
+sobre el código de software, sobre los planos de la estructura del
+objeto o sobre la foto con la imagen del Triángulo de Penrose.  Después
+de las protestas públicas, Schwanitz renunció a los cargos y liberó el
+diseño [@rideout-2012].  Sin embargo, este primer encuentro ha sido
+seguido por reclamos corporativos más estridentes y poderosos.  Resulta
+interesante que el primer reclamo de copyright sobre objetos
+tridimensionales imprimibles haya concernido a una forma que, en
 términos lógicos, no puede existir en el espacio físico sino como una
 ilusión óptica.
 
 [^thingiverse]: Una traducción fiel podría ser "cosoverso". _(Nota de traducción)_
 
-[^ndt1]: El autor no cree que haya una distinción entre propiedad y
-         propiedad intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
+[^ndt1-propiedad-intelectual]:
+  El autor no cree que haya una distinción entre propiedad y propiedad
+  intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
 
-[^ndt2]: Documento legal utilizado para obligar a que se termine con
-         cierta conducta. Mayoritariamente se usa como coacción para
-         eliminar obras publicadas en Internet. _(Nota de traducción)_
+[^ndt2-cease-desist]:
+  Documento legal utilizado para obligar a que se termine con cierta
+  conducta. Mayoritariamente se usa como coacción para eliminar obras
+  publicadas en Internet. _(Nota de traducción)_
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
 comunidad que estaba construyendo impresoras tridimensionales
@@ -3121,8 +3150,11 @@ escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
         _(Nota de traducción)_
 
 
-Licencia de Producción de Pares (Versión legible por humanos)
-=============================================================
+
+
+#  Licencia de Producción de Pares (Versión legible por humanos)
+
+#####  En Defensa del Software Libre
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
@@ -3184,5 +3216,7 @@ Entendiendo que
   enlazar a esta página.
 
 
-Bibliografía
-============
+
+# Bibliografía
+
+
