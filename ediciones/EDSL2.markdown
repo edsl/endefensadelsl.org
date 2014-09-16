@@ -3,9 +3,13 @@
 % Septiembre, 2014
 
 
+
+
+
+
 # Tesis sobre el trabajo digital
 
-##### Michel Bauwens
+#### Michel Bauwens
 
 > Este artículo fue publicado en el [wiki de la P2P
 > Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
@@ -224,9 +228,13 @@ actualidad. La tarea de los movimientos del trabajo cognitivo y de otros
 tipos es crear una nueva hegemonía y una nueva alianza basada en los
 comunes para el cambio social, que desafíe la dominación del capital, su
 forma-mercancía y la destrucción biosférica que le es inherente.
+
+
+
+
 # Más allá de la abundancia digital
 
-##### Christian Siefkes
+#### Christian Siefkes
 
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
@@ -876,9 +884,13 @@ ventaja para todos los involucrados.
 
 
 
+
+
+
+
 # La producción de pares como alternativa al capitalismo
 
-##### Jakob Rigi
+#### Jakob Rigi
 
 > Jakob Rigi trabaja en la Universidad de Europa Central de Budapest.
 > Este artículo fue publicado originalmente en el [Journal of Peer
@@ -1504,9 +1516,13 @@ reorganización bajo el sistema de cooperación de pares?
 
 
 
+
+
+
+
 # La parodia de los Comunes
 
-##### Vasilis Kostakis y Stelios Stavroulakis
+#### Vasilis Kostakis y Stelios Stavroulakis
 
 > Publicado originalmente en [tripleC
 > 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
@@ -2357,9 +2373,13 @@ que la mayoría decida tomar el control creativo de su futuro.
 
 
 
+
+
+
+
 # ¡Los átomos también quieren ser libres!
 
-##### Johan Söderberg
+#### Johan Söderberg
 
 > Traducido por Nicolás Reynolds (fauno@endefensadelsl.org), Natalia
 > Boquet (picado.fino@gmail.com) y Mauricio Pasquier Juan (mauricio@pasquierjuan.com.ar).
@@ -3166,9 +3186,13 @@ escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
 
 
 
+
+
+
+
 # Licencia de Producción de Pares (Versión legible por humanos)
 
-##### En Defensa del Software Libre
+#### En Defensa del Software Libre
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
