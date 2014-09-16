@@ -3,9 +3,9 @@
 % Septiembre, 2014
 
 
-#  Tesis sobre el trabajo digital
+# Tesis sobre el trabajo digital
 
-#####  Michel Bauwens
+##### Michel Bauwens
 
 > Este artículo fue publicado en el [wiki de la P2P
 > Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
@@ -148,19 +148,21 @@ sus propios derechos en tanto creadores reales de valor y, al
 convertirse en fuerza social, podrían tomar tales plataformas como
 utilidades comunes o de propiedad pública.
 
-Los participantes de entidades con fines de beneficio[^NdT] bajo control
-de los comuneros pueden trascender significativamente las dinámicas de
-mercado puramente competitivas, mientras evitan una planificación
-central autoritaria a través de la adopción de una administración a
-libro abierto y una adaptación a la señalización públicamente
-disponible, así como a través de la negociación coordinada de la
-producción y la distribución. Esto no ignora una posible necesidad de
-planeamiento democrático a través de la participación ciudadana, siempre
-que sea necesario y deseado. Sin embargo, crea amplias áreas de
-alineamiento mutuo de las capacidades productivas.
+Los participantes de entidades con fines de
+beneficio[^ndt-fines-de-beneficio] bajo control de los comuneros pueden
+trascender significativamente las dinámicas de mercado puramente
+competitivas, mientras evitan una planificación central autoritaria a
+través de la adopción de una administración a libro abierto y una
+adaptación a la señalización públicamente disponible, así como a través
+de la negociación coordinada de la producción y la distribución. Esto no
+ignora una posible necesidad de planeamiento democrático a través de la
+participación ciudadana, siempre que sea necesario y deseado. Sin
+embargo, crea amplias áreas de alineamiento mutuo de las capacidades
+productivas.
 
-[^NdT]: Al contrario de las entidades con fines de lucro. _(Nota de
-        traducción)_
+[^ndt-fines-de-beneficio]:
+  Al contrario de las entidades con fines de lucro. _(Nota de
+  traducción)_
 
 Las ideologías y movimientos tradicionales del movimiento laboral
 industrial quedaron asociados a la propiedad colectiva. La producción de
@@ -192,7 +194,7 @@ material post-capitalista.
 
 [^file]:
   Griego antiguo para _tribu_, para su resignificación moderna, ver
-  _Filé_ en Indianopedia: http://lasindias.net/indianopedia/File.
+  _Filé_ en Indianopedia: [http://lasindias.net/indianopedia/File](http://lasindias.net/indianopedia/File).
   _(Nota de traducción)_
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
@@ -222,9 +224,9 @@ actualidad. La tarea de los movimientos del trabajo cognitivo y de otros
 tipos es crear una nueva hegemonía y una nueva alianza basada en los
 comunes para el cambio social, que desafíe la dominación del capital, su
 forma-mercancía y la destrucción biosférica que le es inherente.
-#  Más allá de la abundancia digital
+# Más allá de la abundancia digital
 
-#####  Christian Siefkes
+##### Christian Siefkes
 
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
@@ -377,9 +379,10 @@ necesitado (y por quién) y en segundo, en cuánto de un bien es producido
 (y por quién).  La escasez es por lo tanto un fenómeno social, nunca uno
 natural.
 
-[^oekonux]: Disponible en el primer número del Journal of Peer Production. Ver
-            http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project.
-            _(Nota de traducción)_
+[^oekonux]:
+  Disponible en el primer número del Journal of Peer Production. Ver
+  [http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project](http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project).
+  _(Nota de traducción)_
 
 Arriba he distinguido entre dos conceptos de la abundancia --el
 desperdicio sin límites contra "obtener lo que necesito, cuando lo
@@ -700,9 +703,9 @@ es bienvenido, aun cuando no pague.
 [^hackerspace]:
   Esta descripción se acerca más a la de _hacklab_ que a la de
   _hackerspace_, ver "Hacklabs and hackerspaces", en
-  http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+  [http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)
   y "Hackeando los espacios", en
-  http://endefensadelsl.org/hackeando_los_espacios.html. _(Nota de traducción)_
+  [http://endefensadelsl.org/hackeando_los_espacios.html](http://endefensadelsl.org/hackeando_los_espacios.html). _(Nota de traducción)_
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
@@ -788,8 +791,9 @@ oficialmente echada del proyecto.
 [^flame]:
   Del argot de Internet _flame war_, dirigir un mensaje deliberadamente
   hostil, en este caso crítico de las (malas) acciones de otros.  Ver
-  _Flame_ en Wikipedia: http://es.wikipedia.org/wiki/Flame.  _(Nota de
-  traducción)_
+  _Flame_ en Wikipedia:
+  [http://es.wikipedia.org/wiki/Flame](http://es.wikipedia.org/wiki/Flame).
+  _(Nota de traducción)_
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción de
@@ -872,9 +876,9 @@ ventaja para todos los involucrados.
 
 
 
-#  La producción de pares como alternativa al capitalismo
+# La producción de pares como alternativa al capitalismo
 
-#####  Jakob Rigi
+##### Jakob Rigi
 
 > Jakob Rigi trabaja en la Universidad de Europa Central de Budapest.
 > Este artículo fue publicado originalmente en el [Journal of Peer
@@ -1500,9 +1504,9 @@ reorganización bajo el sistema de cooperación de pares?
 
 
 
-#  La parodia de los Comunes
+# La parodia de los Comunes
 
-#####  Vasilis Kostakis y Stelios Stavroulakis
+##### Vasilis Kostakis y Stelios Stavroulakis
 
 > Publicado originalmente en [tripleC
 > 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
@@ -1816,7 +1820,7 @@ componente de libertad y su calidad se vuelve cuestionable, ya que la
 distribución de los cambios en el código depende de la posición personal
 de un emprendedor que los puede empaquetar bajo términos restrictivos.
 Es decir, el programador o el emprendedor pueden cambiar de una licencia
-permisiva a un Acuerdo de Licenciamiento para Usuario Final[^NdT1].
+permisiva a un Acuerdo de Licenciamiento para Usuario Final[^ndt-eula].
 Además, la producción cambia hacia los términos en los que el software
 no libre, propietario, es producido.  Por lo tanto la comunidad de
 software experimenta una mayor presión y los derechos del usuario final
@@ -1848,9 +1852,10 @@ significa gratis.  El software libre se define por cuatro libertades que
 el usuario tiene para usar, estudiar, compartir copias y compartir
 versiones modificadas del software.
 
-[^NdT1]: EULA en inglés, son las licencias de software privativo que
-         incluyen las condiciones bajo las cuales _no_ se puede
-         compartir y modificar el software. _(Nota de traducción)_
+[^ndt-eula]:
+  EULA en inglés, son las licencias de software privativo que incluyen
+  las condiciones bajo las cuales _no_ se puede compartir y modificar el
+  software. _(Nota de traducción)_
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -1923,39 +1928,40 @@ Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
 40 años.  Este es entonces el camino hacia un callejón sin salida.
 
-La segunda característica es la externalización, de acuerdo a la cual --y a
-pesar de las intenciones y planes de los miembros-- el proyecto se
+La segunda característica es la externalización, de acuerdo a la cual
+--y a pesar de las intenciones y planes de los miembros-- el proyecto se
 convierte en una forma de economía de agregación o
-_crowdsourcing_[^NdT2].  En este escenario el valor de uso producido por
-los pares sirve a ciertos intereses lucrativos sin importar que los
-pares productores estén al tanto.  Los dueños/administradores de la
-red/plataforma, es decir los "netarquistas" como Facebook o Google
-pueden considerarse los capitalistas de la web, que renuncian a su
-dependencia de la acumulación de información a través de la propiedad
-intelectual y se vuelven facilitadores de la participación social
-[@bauwens-2007; @bauwens-2013; @kostakis-2012].  Combinan elementos
-abiertos y cerrados en la arquitectura de sus plataformas para
-asegurarse una medida de lucro y control al expandir el alcance de la
-economía neoliberal a través del capitalismo cognitivo [@aytes-2013;
-@andrejevic-2013; @bauwens-2007; @bauwens-2013; @kostakis-2012].  Fuchs
-[-@fuchs-2013, pp. 219-220] muestra que en las plataformas privativas el
-trabajo productivo es externalizado hacia los usuarios "quienes trabajan
-completamente gratis y ayudan a maximizar la tasa de explotación [...]
-de forma que las ganancias puedan ser aumentadas y el nuevo capital
-mediático pueda ser acumulado.  Esta es una situación de infinita
-explotación de los usuarios".  En la misma línea, Terranova
-[-@terranova-2013, pp. 53] aborda la relevancia del concepto de los
-Comunes: "dado que la riqueza generada por el trabajo gratuito es social,
-también lo debería ser el modo de su devolución."  Por lo tanto,
-concluye que "las plataformas de redes sociales deben ser
+_crowdsourcing_[^ndt-crowdsourcing].  En este escenario el valor de uso
+producido por los pares sirve a ciertos intereses lucrativos sin
+importar que los pares productores estén al tanto.  Los
+dueños/administradores de la red/plataforma, es decir los "netarquistas"
+como Facebook o Google pueden considerarse los capitalistas de la web,
+que renuncian a su dependencia de la acumulación de información a través
+de la propiedad intelectual y se vuelven facilitadores de la
+participación social [@bauwens-2007; @bauwens-2013; @kostakis-2012].
+Combinan elementos abiertos y cerrados en la arquitectura de sus
+plataformas para asegurarse una medida de lucro y control al expandir el
+alcance de la economía neoliberal a través del capitalismo cognitivo
+[@aytes-2013; @andrejevic-2013; @bauwens-2007; @bauwens-2013;
+@kostakis-2012].  Fuchs [-@fuchs-2013, pp. 219-220] muestra que en las
+plataformas privativas el trabajo productivo es externalizado hacia los
+usuarios "quienes trabajan completamente gratis y ayudan a maximizar la
+tasa de explotación [...] de forma que las ganancias puedan ser
+aumentadas y el nuevo capital mediático pueda ser acumulado.  Esta es
+una situación de infinita explotación de los usuarios".  En la misma
+línea, Terranova [-@terranova-2013, pp. 53] aborda la relevancia del
+concepto de los Comunes: "dado que la riqueza generada por el trabajo
+gratuito es social, también lo debería ser el modo de su devolución."
+Por lo tanto, concluye que "las plataformas de redes sociales deben ser
 des-privatizadas --es decir que la propiedad de los datos de los
 usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: Tercerización o externalización de masas, una forma de
-  trasladar la fuerza de trabajo hacia colectivos de voluntarios y
-  apropiarse del valor producido. _(Nota de traducción)_
+[^ndt-crowdsourcing]:
+  Tercerización o externalización de masas, una forma de trasladar la
+  fuerza de trabajo hacia colectivos de voluntarios y apropiarse del
+  valor producido. _(Nota de traducción)_
 
 eNtonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
@@ -2027,11 +2033,13 @@ y servicios innovadores.  Desde una perspectiva diferente, Williamson
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
 
-[^subprime]: Un crédito _subprime_ o hipoteca basura es una modalidad
-  crediticia del mercado financiero de Estados Unidos que se
-  caracteriza por tener un nivel de riesgo de impago superior
-  a la media del resto de créditos. Ver Wikipedia:
-  https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime. _(Nota de traducción)_
+[^subprime]:
+  Un crédito _subprime_ o hipoteca basura es una modalidad crediticia
+  del mercado financiero de Estados Unidos que se caracteriza por tener
+  un nivel de riesgo de impago superior a la media del resto de
+  créditos. Ver Wikipedia:
+  [https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime](https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime).
+  _(Nota de traducción)_
 
 La transformación parcial del capital estancado en el capital de
 préstamo es utilizada como una válvula de presión para superar este
@@ -2184,7 +2192,7 @@ P2P no sean dominantes, su dependencia de un medioambiente económico
 amigable resulta imperativo.
 
 Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el
-caso del archivo digital de la ERT.  La ERT[^NdT3] era la cadena de
+caso del archivo digital de la ERT.  La ERT[^ndt-ert] era la cadena de
 radio y televisión estatal griega.  Fue un componente del sector público
 y era financiada a través de un impuesto obligatorio implementado en la
 factura de la empresa de electricidad pública (DEI) durante décadas.  En
@@ -2212,8 +2220,9 @@ parte de las políticas de la "doctrina del shock" [@klein-2008], toma
 lugar más fácilmente, contribuyendo al y catalizando el proceso de la
 acumulación de capital.
 
-[^NdT3]: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.
-         _(Nota de traducción)_
+[^ndt-ert]:
+  Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.  _(Nota de
+  traducción)_
 
 [^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
         ERT todavía es desconocido.
@@ -2298,8 +2307,10 @@ financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
 esta forma la creación de ganancias está permitida, pero la maximización
 de ganancias no sería la fuerza motriz del desarrollo económico.
 
-[^ppl]: Ver la licencia de Producción de Pares: http://endefensadelsl.org/ppl_deed_es.html.
-        _(Nota de traducción)_
+[^ppl]:
+  Ver la licencia de Producción de Pares:
+  [http://endefensadelsl.org/ppl_deed_es.html](http://endefensadelsl.org/ppl_deed_es.html).
+  _(Nota de traducción)_
 
 [^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
          copia (copyleft), a su vez un juego de palabras sobre derecho
@@ -2346,9 +2357,9 @@ que la mayoría decida tomar el control creativo de su futuro.
 
 
 
-#  ¡Los átomos también quieren ser libres!
+# ¡Los átomos también quieren ser libres!
 
-#####  Johan Söderberg
+##### Johan Söderberg
 
 > Traducido por Nicolás Reynolds (fauno@endefensadelsl.org), Natalia
 > Boquet (picado.fino@gmail.com) y Mauricio Pasquier Juan (mauricio@pasquierjuan.com.ar).
@@ -2939,9 +2950,10 @@ privilegiado cuando hizo las siguientes observaciones:
 > materiales material se convierte en el punto inicial explícito y
 > calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
-[^always-already]: Always-already en el original. Ver el artículo en
-                   Wikipedia: https://en.wikipedia.org/wiki/Always_already.
-                   _(Nota de traducción)_
+[^always-already]:
+  Always-already en el original. Ver el artículo en Wikipedia:
+  [https://en.wikipedia.org/wiki/Always_already](https://en.wikipedia.org/wiki/Always_already).
+  _(Nota de traducción)_
 
 Muchos historiadores han demostrado cómo se ha llegado a esta situación,
 comenzando por el movimiento de cercamiento en los siglos XV y XVI en
@@ -3144,17 +3156,19 @@ se despliega el conflicto sobre la propiedad aumentada, la piratería se
 generalizará en cada rincón de la sociedad.  Y en todos lados
 escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
 
-[^DRM]: Del inglés Digital Rights Management. Creemos que un nombre
-        más descriptivo es Gestión Digital de Restricciones. Ver el
-        ensayo de Richard Stallman: http://www.gnu.org/philosophy/can-you-trust.es.html.
-        _(Nota de traducción)_
+[^DRM]:
+  Del inglés Digital Rights Management. Creemos que un nombre más
+  descriptivo es Gestión Digital de Restricciones. Ver el ensayo de
+  Richard Stallman:
+  [http://www.gnu.org/philosophy/can-you-trust.es.html](http://www.gnu.org/philosophy/can-you-trust.es.html).
+  _(Nota de traducción)_
 
 
 
 
-#  Licencia de Producción de Pares (Versión legible por humanos)
+# Licencia de Producción de Pares (Versión legible por humanos)
 
-#####  En Defensa del Software Libre
+##### En Defensa del Software Libre
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
