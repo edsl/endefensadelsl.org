@@ -17,9 +17,9 @@ EDSL2 = $(addprefix $(articulos)/,$(edsl2_articulos))
 ediciones/EDSL2.markdown:
 	echo -e "% En Defensa del Software Libre #2\n% \n% Septiembre, 2014\n\n" >$@
 	for articulo in $(EDSL2); do \
-		echo -en "#" >>$@ ;\
+		echo -en "\n\n\n\n#" >>$@ ;\
 		grep "^title: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
-		echo -en "\n#####" >>$@ ;\
+		echo -en "\n####" >>$@ ;\
 		grep "^author: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
 		sed '/^---$$/,/^===\+$$/d' "$$articulo" | sed 's/^#\+ Bibliografía$$//' >>$@ ;\
 	done
@@ -28,9 +28,20 @@ ediciones/EDSL2.markdown:
 
 # la conversión se hace relativa al source de jekyll porque las flags de
 # _config.yml están adaptadas a eso
-ediciones/%.pdf: ediciones/%.markdown
+#
+# xelatex tiene que correr dos veces para que salga bien el toc
+ediciones/%.pdf: ediciones/%.latex
 	cd $(jekyll_source) && \
-	pandoc $(pandoc_pdf_flags) -o ../$@ < ../$<
+	xelatex ../$< &&\
+	xelatex ../$<
+	mv $(jekyll_source)/$*.pdf $@
+
+# esto está acá hasta que se resuelva
+# https://github.com/jgm/pandoc/issues/1632
+ediciones/%.latex: ediciones/%.markdown
+	cd $(jekyll_source) && \
+	pandoc $(pandoc_pdf_flags) -t latex < ../$< |\
+	sed "s/\(\\\chapter\*{\)\([^}]\+\)/\1\2\\\markboth{\2}{}/" >../$@
 
 # Imposición de páginas, los cuadernillos son de 20 páginas cada uno
 ediciones/%-print.pdf: ediciones/%.pdf
@@ -61,7 +72,8 @@ test: toggle-test-dest build toggle-dest ediciones/%-print.pdf
 all: toggle-dest build ediciones/%-print.pdf
 
 clean:
-	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown
+	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown ediciones/*.latex \
+	        $(jekyll_source)/*.{aux,log,toc,out,pdf}
 
 # Magia!
 %.tif: %.svg
