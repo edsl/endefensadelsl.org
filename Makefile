@@ -15,11 +15,15 @@ pandoc_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "p
 # crear el markdown concatenado para edsl2
 EDSL2 = $(addprefix $(articulos)/,$(edsl2_articulos))
 ediciones/EDSL2.markdown:
-	echo -e "% En Defensa del Software Libre #2\n% \n% Septiembre, 2014\n\n" | \
-		cat - $(EDSL2) | \
-		sed '/^---$$/,/^---$$/d' | \
-		sed 's/^#\+ Bibliografía$$//' >$@
-
+	echo -e "% En Defensa del Software Libre #2\n% \n% Septiembre, 2014\n\n" >$@
+	for articulo in $(EDSL2); do \
+		echo -en "# " >>$@ ;\
+		grep "^title: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
+		echo -en "\n##### " >>$@ ;\
+		grep "^author: " "$$articulo" | cut -d: -f2 | tr -d '"' >>$@ ;\
+		sed '/^---$$/,/^===\+$$/d' "$$articulo" | sed 's/^#\+ Bibliografía$$//' >>$@ ;\
+	done 
+	
 	echo -e "\n\n# Bibliografía\n\n" >>$@
 
 
