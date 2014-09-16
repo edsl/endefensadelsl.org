@@ -12,3 +12,9 @@ src/_posts/*.markdown
 
 # maldito mergetool
 *.orig
+
+# xelatex
+*.aux
+*.log
+*.out
+*.toc
