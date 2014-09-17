@@ -35,3 +35,9 @@
 
 % No mostrar los copetes en las imágenes
 \usepackage[labelformat=empty]{caption}
+
+% Convertir los nombres de los autores a mayusculas y alineado a la
+% derecha
+\newcommand{\tmpsubsubsection}[1]{}
+\let\tmpsubsubsection=\subsubsection
+\renewcommand{\subsubsection}[1]{\tmpsubsubsection{\hfill\MakeUppercase{#1}}}
