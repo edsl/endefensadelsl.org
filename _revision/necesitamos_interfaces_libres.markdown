@@ -1,27 +1,28 @@
-% Necesitamos interfaces libres
+% Necesitamos interfaces que nos hagan libres
 % Nicolás Reynolds
-% Junio, 2013
+% Junio, 2013 - Noviembre, 2014
 
 Empezamos por la conclusión:  necesitamos interfaces que nos hagan libres.  Las
 interfaces son la forma en que nos relacionamos con el software y por lo tanto
 codifican, sancionan o habilitan comportamientos individuales y colectivos.
-Nosotros queremos que las interfaces libres _potencien_ la organización libre.
+Nosotras queremos que las interfaces libres _potencien_ la organización libre.
 
 Las interfaces representan relaciones sociales, muchas veces estereotipadas:
 vemos a nuestros contactos convenientemente catalogados en "amigos",
-"familiares" o "compañeros de trabajo", pero no vemos "compañeros",
+"familiares" o "compañeros de trabajo", pero no vemos "compañeros", ni
 "camaradas".  Pero es lo de menos, porque representan y reproducen nuestro
 mundo social previo a su digitalización --lo que no se ve es la división entre
 administrador y administrado.  Entre agentes con control completo sobre lo que
-muestra la interfaz y aquellos que se aportan como su contenido (cognitivo?),
+muestra la interfaz y aquellos que se aportan como su contenido cognitivo,
 pero constrenidos por el juego de los elementos provistos por la interfaz,
 nunca como agentes autonómos en un espacio que se entiende colectivo.
 
-Por supuesto esta codificación de relaciones sociales no es total y siempre hay
-lugar a resistencias dadas por la interpretación y la reinterpretación.  ¿Pero
-se pueden construir otro tipo de relaciones, podemos contruirnos como sujetos
-autónomos a través y dentro de las interfaces reinterpretadas?  ¿Y qué grado de
-autonomía tenemos cuando las condiciones de uso son administradas por otros?
+Por supuesto esta codificación de relaciones sociales no es total y
+siempre hay lugar a resistencias dadas por la interpretación y la
+reinterpretación.  ¿Pero se pueden construir otro tipo de relaciones,
+podemos contruirnos como personas autónomas a través y dentro de
+interfaces reinterpretadas?  ¿Y qué grado de autonomía tenemos cuando
+las condiciones de uso son administradas por otros?
 
 El software, como las tecnologías en general, no es una herramienta neutra,
 ahistórica, con productos distintos dependiendo de la mano que la use.  Es el
