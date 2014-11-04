@@ -38,3 +38,9 @@ que hace política, pero la de otros.
 Lo que necesitamos es que las interfaces hagan nuestra política, que
 representen las relaciones sociales y los valores que queremos
 practicar.  Que sean facilitadoras y potenciadoras de nuestra libertad.
+
+Necesitamos interfaces que nos hagan libres, que rompan la relación
+administrador-administrados, que tengan _compañeras encargadas de la
+administración_, que funcionen de forma distribuida, en las computadoras
+a las que tenemos acceso y no en esas mismas computadoras ubicadas en
+las nubes de otros...
