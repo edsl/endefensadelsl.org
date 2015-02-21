@@ -11,10 +11,11 @@ edsl2_articulos = 2012-11-18-tesis_sobre_el_trabajo_digital.markdown 2013-02-01-
 # obtener los valores de _config.yml :D
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
 pandoc_pdf_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['pandoc']['flags']" -e "puts c['pandoc']['outputs']['pdf']")
+pandoc_epub_flags = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['pandoc']['flags']" -e "puts c['pandoc']['outputs']['epub']")
 
 # crear el markdown concatenado para edsl2
 EDSL2 = $(addprefix $(articulos)/,$(edsl2_articulos))
-ediciones/EDSL2.markdown:
+ediciones/endefensadelsl_nr2.markdown:
 	echo -e "% En Defensa del Software Libre #2\n% \n% Septiembre, 2014\n\n" >$@
 	for articulo in $(EDSL2); do \
 		echo -en "\n\n\n\n#" >>$@ ;\
@@ -51,6 +52,11 @@ ediciones/%-print.pdf: ediciones/%.pdf
 					--signature 20 \
 					--landscape \
 					"$<"
+
+# La tapa tiene que compartir el mismo nombre que el markdown.
+ediciones/%.epub: ediciones/%.markdown
+	cd $(jekyll_source) && \
+	pandoc $(pandoc_epub_flags) --epub-cover-image=images/cover_$*.png -o "../$@" "../$<"
 
 articles:
 	rm -fv src/_posts/*.markdown

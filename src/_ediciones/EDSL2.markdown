@@ -8,7 +8,9 @@ cover: "images/cover_endefensadelsl_nr2.png"
 En Defensa del Software Libre 2
 ===============================
 
-[Descargar][0]
+[Descargar PDF][0]
+[Descargar PDF para imprimir][7]
+[Descargar ePub][6]
 
 En Defensa del Software Libre es una revista de teoría sobre Software y
 Cultura Libres. Se edita en papel al costo de producción y se distribuye
@@ -40,6 +42,8 @@ Primera edición: Septiembre 2014
 
 
 [0]: descargas/En.Defensa.del.Software.Libre.Nro2.pdf "Descargar EDSL 2"
+[6]: descargas/En.Defensa.del.Software.Libre.Nro2.epub "Descargar EDSL 2"
+[7]: descargas/En.Defensa.del.Software.Libre.Nro2.print.pdf "Descargar EDSL 2"
 [1]: tesis_sobre_el_trabajo_digital.html "Michel Bauwens"
 [2]: mas_alla_de_la_abundancia_digital.html "Christian Siefkes"
 [3]: un_nuevo_horizonte_comunista.html "Jakob Rigi"
