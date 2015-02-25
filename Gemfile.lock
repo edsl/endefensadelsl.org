@@ -49,7 +49,7 @@ GEM
     jekyll-watch (1.1.2)
       listen (~> 2.7)
     kramdown (1.5.0)
-    libv8 (3.16.14.7)
+    libv8 (3.16.14.3)
     liquid (2.6.1)
     listen (2.8.0)
       celluloid (>= 0.15.2)
