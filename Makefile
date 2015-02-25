@@ -64,7 +64,7 @@ ediciones/%-binder.latex: ediciones/%.pdf
 	printorder=$$(seq 1 $$pages | sed -e "p" | tr "\n" "," | sed -e "s/,$$//") ;\
 	sed -e "s/@@pages@@/$$printorder/g" \
 	    -e "s,@@document@@,$<,g" \
-			ediciones/binder.latex >$@
+	    ediciones/binder.latex >$@
 
 # Esta pícara regla crea el pdf a partir del latex
 ediciones/%-binder.pdf: ediciones/%-binder.latex
