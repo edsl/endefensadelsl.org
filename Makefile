@@ -53,6 +53,23 @@ ediciones/%-print.pdf: ediciones/%.pdf
 					--landscape \
 					"$<"
 
+# Para hacer la encuadernación binder necesitamos dos páginas iguales
+# por hoja.  Todavía no encontré la forma de lograr que latex o
+# cualquier otro software hagan esto por su cuenta, así que hay que
+# pasarles la cantidad de páginas, duplicarlas e imprimir dos por hoja.
+# 
+# Esta regla crea el latex
+ediciones/%-binder.latex: ediciones/%.pdf
+	pages=$$(pdfinfo $< | grep Pages | cut -d: -f2 | tr -d " ") ;\
+	printorder=$$(seq 1 $$pages | sed -e "p" | tr "\n" "," | sed -e "s/,$$//") ;\
+	sed -e "s/@@pages@@/$$printorder/g" \
+	    -e "s,@@document@@,$<,g" \
+			ediciones/binder.latex >$@
+
+# Esta pícara regla crea el pdf a partir del latex
+ediciones/%-binder.pdf: ediciones/%-binder.latex
+	pdflatex -output-directory ediciones/ $<
+
 # La tapa tiene que compartir el mismo nombre que el markdown.
 ediciones/%.epub: ediciones/%.markdown
 	cd $(jekyll_source) && \
