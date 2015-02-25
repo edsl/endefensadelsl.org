@@ -1,0 +1,10 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{pgfpages}
+\usepackage{pdfpages}
+
+\pgfpagesuselayout{2 on 1}[a4paper,landscape]
+
+\begin{document}
+  \includepdf[pages={@@pages@@}]{@@document@@}
+\end{document}
