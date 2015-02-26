@@ -1,3 +1,4 @@
+default: all
 # `make test` genera un sitio de prueba en # http://test.endefensadelsl.org
 # `make` o `make all` genera el sitio
 #
@@ -90,9 +91,9 @@ toggle-dest:
 build: articles
 	bundle exec jekyll build
 
-test: toggle-test-dest build toggle-dest ediciones/%-print.pdf
+test: toggle-test-dest build toggle-dest
 
-all: toggle-dest build ediciones/%-print.pdf
+all: toggle-dest build
 
 clean:
 	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown ediciones/*.latex \
