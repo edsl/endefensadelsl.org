@@ -5,25 +5,33 @@ title: "En Defensa del Software Libre 2"
 cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
-En Defensa del Software Libre 2
-===============================
+En Defensa del Software Libre #2
+================================
 
-[Descargar PDF][0]
-[Descargar PDF para imprimir][7]
-[Descargar ePub][6]
-
-En Defensa del Software Libre es una revista de teoría sobre Software y
-Cultura Libres. Se edita en papel al costo de producción y se distribuye
-gratuita y libremente en formato digital.
-
-En esta edición presentamos artículos que discuten el modo de producción
-de pares, una forma de producir horizontalmente que podría reemplazar el
-capitalismo como modo de producción hegemónico.
-
-Primera edición: Septiembre 2014
+* [pdf][0]
+* [imprimir][7]
+* [epub][6]
 
 ![Cubierta de EDSL 2](images/cover_endefensadelsl_nr2.png)
 
+En Defensa del Software Libre es una revista de teoría sobre Software y
+Cultura Libres. Se edita en papel y se distribuye gratuita y libremente
+en formato digital.
+
+Esta edición está dedicada a la producción de pares, o cómo el modo de
+producción del software libre puede aplicarse a la producción de bienes
+materiales, discutiendo la separación entre bienes culturales y bienes
+materiales (o inmateriales vs. materiales, no rivales vs. rivales, etc.)
+que es hegemónica en la cultura libre.
+
+Los artículos de esta edición continuan la discusión iniciada por el
+[Manifiesto Telecomunista](ManifiestoTelecomunista.html), también
+disponible en papel.
+
+Primera edición: Febrero 2015
+
+
+## Artículos
 
 [Tesis sobre el trabajo digital][1]
 :    Michel Bauwens
@@ -49,5 +57,4 @@ Primera edición: Septiembre 2014
 [3]: un_nuevo_horizonte_comunista.html "Jakob Rigi"
 [4]: parodia_de_los_comunes.html "Vasilis Kostakis y Stelios Stavroulakis"
 [5]: los_atomos_quieren_ser_libres.html "Johan Söderberg"
-
 
