@@ -15,8 +15,8 @@ En Defensa del Software Libre #2
 ![Cubierta de EDSL 2](images/cover_endefensadelsl_nr2.png)
 
 En Defensa del Software Libre es una revista de teoría sobre Software y
-Cultura Libres. Se edita en papel al costo de producción y se distribuye
-gratuita y libremente en formato digital.
+Cultura Libres. Se edita en papel y se distribuye gratuita y libremente
+en formato digital.
 
 Esta edición está dedicada a la producción de pares, o cómo el modo de
 producción del software libre puede aplicarse a la producción de bienes
