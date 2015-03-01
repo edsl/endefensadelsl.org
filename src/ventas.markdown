@@ -20,4 +20,4 @@ Si querés ayudarnos en la distribución o editar los libros,
 
 [0]: http://www.bibliobarracas.com.ar "Biblioteca Popular de Barracas"
 [1]: index.html#contacto
-[2]: http://hacklaboeste.org "HackLab del Oeste"
+[2]: http://oeste.hackcoop.com.ar "HackLab del Oeste"
