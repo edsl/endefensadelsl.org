@@ -186,6 +186,11 @@ dd p a {
 
 figure {
   text-align: center;
+  max-width: 544px;
+}
+
+figure img {
+  max-width: 100%;
 }
 
 img.cover {
