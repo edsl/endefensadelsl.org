@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'therubyracer'
+gem 'json'
 gem 'jekyll'
 
 group :plugins do
