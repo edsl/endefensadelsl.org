@@ -32,6 +32,16 @@ title: En Defensa del Software Libre
 
 </section>
 
+<section id="ediciones">
+  <h2>Ediciones en papel</h2>
+
+  {% for edicion in site.ediciones %}
+  <a href="{{ edicion.url }}">
+    <img class="cover" src="{{ edicion.cover }}" />
+  </a>
+  {% endfor %}
+</section>
+
 <section id="contacto">
 
   <h2>Contacto</h2>
@@ -39,7 +49,7 @@ title: En Defensa del Software Libre
   <ul>
 
     <li>Lista de discusión: <a
-    href="http://listas.hipatia.net/cgi-bin/mailman/listinfo/endefensadelsl">endefensadelsl@listas.hipatia.net</a></li>
+    href="http://listas.hackcoop.com.ar/listinfo/edsl">edsl@hackcoop.com.ar</a></li>
 
     <li>IRC: <a href="irc://freenode.net/#endefensadelsl">#endefensadelsl</a> en freenode</li>
 
@@ -51,7 +61,7 @@ title: En Defensa del Software Libre
 <footer>
   <a href="licencia.html">Licencia</a> |
   <a href="atom.xml">Feed Completo</a> |
-  <a href="atom_epub.xml">Feed EPUB</a> |
+  <a href="edsl.opds">Catálogo OPDS</a> |
   <a href="atom_torrent.xml">Feed Torrent</a> |
   <a href="{{ site.torrent.file }}">Torrent</a> |
   <a href="git/">Código fuente</a> |

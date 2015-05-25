@@ -10,6 +10,7 @@ pandoc:
                 -V documentclass=book
                 -V geometry=hcentering
                 -V geometry=bindingoffset=1cm
+                -V links-as-notes=true
                 --latex-engine=xelatex
                 --table-of-contents
                 --include-in-header=layouts/header.tex
@@ -39,3 +40,8 @@ lsi: false
 
 torrent:
   file: endefensadel.torrent
+
+collections:
+  ediciones:
+    output: true
+    permalink: ":path.html"

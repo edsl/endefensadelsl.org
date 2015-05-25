@@ -1,0 +1,24 @@
+---
+layout: edicion
+author: "Publicación"
+title: "Redes Inalámbricas para Países en Desarrollo"
+cover: "images/cover_ripd_3ra_edicion.png"
+---
+
+Redes Inalámbricas para Países en Desarrollo
+============================================
+
+![BuenosAiresLibre](http://wiki.buenosaireslibre.org/LogoBAL?action=AttachFile&do=get&target=LogoBAL.png)
+
+[Sitio web][1] [Descarga][2]
+
+Edición comunitaria realizada en conjunto con la comunidad de
+[BuenosAiresLibre.org][3].
+
+El logo de BuenosAiresLibre se licencia bajo [CC-BY-SA-2.5Ar][4]
+
+
+[1]: http://wndw.net/ "Sitio web RIPD"
+[2]: http://wndw.net/pdf/wndw3-es/wndw3-es-ebook.pdf "Descargar RIPD en español"
+[3]: http://buenosaireslibre.org "BAL"
+[4]: http://creativecommons.org/licenses/by-sa/2.5/ar/ "Licencia del logo"

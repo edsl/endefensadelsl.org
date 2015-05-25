@@ -53,7 +53,9 @@ a.footnoteRef {
   vertical-align: top;
 }
 
-p {
+figure figcaption,
+p
+{
     text-indent: 2em;
     line-height: 150%;
     margin: 20px auto auto auto;
@@ -184,4 +186,8 @@ dd p a {
 
 figure {
   text-align: center;
+}
+
+img.cover {
+  max-height: 200px;
 }

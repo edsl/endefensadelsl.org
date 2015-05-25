@@ -6,3 +6,15 @@ _config.yml
 
 # cierto plugin genera su salida acá
 tmp/
+
+# los articulos vienen de articulos.git
+src/_posts/*.markdown
+
+# maldito mergetool
+*.orig
+
+# xelatex
+*.aux
+*.log
+*.out
+*.toc
