@@ -8,16 +8,17 @@ title: Puntos de distribución
 Para conseguir alguna de las publicaciones en formato papel, podés
 acercarte a estos lugares:
 
-* [Biblioteca Popular de Barracas][0]: los sábados de 16 a 20 hs.
-
 * La Barbarie, Humberto Primo y Santiago del Estero, CABA, de lunes a
   viernes de 9 a 22hs.
 
-* [HackLab del Oeste][2]
+* [Asamblea de Villa Urquiza](https://asambleavillurca.wordpress.com/),
+  Av. Triunvirato y Roosevelt, CABA.
+
+* [Rancho Electrónico](http://ranchoelectronico.org/), Fray Juan
+  Torquemada #76, Colonia Obrera, Delegación Cuauhtémoc, México,
+  Distrito Federal
 
 Si querés ayudarnos en la distribución o editar los libros,
-[contactate][1] con nosotros.
+[contactate][1] con nosotras.
 
-[0]: http://www.bibliobarracas.com.ar "Biblioteca Popular de Barracas"
 [1]: index.html#contacto
-[2]: http://hacklaboeste.org "Hacklab Oeste"
