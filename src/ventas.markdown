@@ -18,6 +18,8 @@ acercarte a estos lugares:
   Torquemada #76, Colonia Obrera, Delegación Cuauhtémoc, México,
   Distrito Federal
 
+* La Jícara, Oaxaca, México
+
 Si querés ayudarnos en la distribución o editar los libros,
 [contactate][1] con nosotras.
 
