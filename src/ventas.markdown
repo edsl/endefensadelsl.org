@@ -8,11 +8,18 @@ title: Puntos de distribución
 Para conseguir alguna de las publicaciones en formato papel, podés
 acercarte a estos lugares:
 
+## Argentina
+
 * La Barbarie, Humberto Primo y Santiago del Estero, CABA, de lunes a
   viernes de 9 a 22hs.
 
 * [Asamblea de Villa Urquiza](https://asambleavillurca.wordpress.com/),
   Av. Triunvirato y Roosevelt, CABA.
+
+* [La Libre Arte y Libros](https://lalibrearteylibros.wordpress.com/),
+  Bolívar 646, CABA.
+
+## México
 
 * [Rancho Electrónico](http://ranchoelectronico.org/), Fray Juan
   Torquemada #76, Colonia Obrera, Delegación Cuauhtémoc, México,
