@@ -23,7 +23,7 @@ title: En Defensa del Software Libre
 
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd><p><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+    <dd><p><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
     {% endfor %}
     <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
 
