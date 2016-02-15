@@ -1,16 +1,7 @@
-\usepackage{quotchap} % changes style of chapter headings
 \usepackage{setspace}
 \usepackage{fancyhdr}
 
 \newcommand{\copyleft}{\reflectbox{©}}
-
-\definecolor{grey}{cmyk}{0,0,0,0.6}
-
-\renewcommand{\chapnumfont}{
-    \fontsize{44}{46}
-    \selectfont
-    \color{grey}
-}
 
 \pagestyle{fancy}
 \setlength{\headheight}{15.2pt}
@@ -36,8 +27,24 @@
 % No mostrar los copetes en las imágenes
 \usepackage[labelformat=empty]{caption}
 
-% Convertir los nombres de los autores a mayusculas y alineado a la
-% derecha
-\newcommand{\tmpsubsubsection}[1]{}
-\let\tmpsubsubsection=\subsubsection
-\renewcommand{\subsubsection}[1]{\tmpsubsubsection{\hfill\MakeUppercase{#1}}}
+\usepackage{microtype}
+
+% Poner la autora en el título
+%
+% Para esto el título del capítulo tiene que tener el formato "Título.
+% Autora"
+%
+% https://stackoverflow.com/a/1507530
+\usepackage{substr}
+\usepackage[explicit]{titlesec}
+\titleformat{\chapter}[hang]{}{}{0cm}{%
+  \Huge \BeforeSubString{ --- }{#1}\\
+  {\Large \itshape ---\BehindSubString{ --- }{#1}---}%
+}
+
+% https://tex.stackexchange.com/a/233271
+% resuelve https://github.com/jgm/pandoc/issues/1632 y además no muestra
+% guiones vacíos como con el substring anterior
+\titleformat{name=\chapter,numberless}[hang]{}{}{0cm}{%
+  \Huge #1\markboth{#1}{#1}%
+}
