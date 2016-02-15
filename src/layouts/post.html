@@ -9,9 +9,15 @@ layout: default
       <ul>
 {% for format in site.pandoc.outputs %}
         {% capture extension %}{{ format | first }}{% endcapture %}
-        <li><a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
-        <li><a href="ventas.html">papel</a></li>
+{% if site.pandoc.imposition %}
+        <li><a href="{{ page.url | remove:'.html' }}-imposed.{{ extension }}">imposición</a></li>
+{% endif %}
+{% if site.pandoc.binder %}
+        <li><a href="{{ page.url | remove:'.html' }}-binder.{{ extension }}">binder</a></li>
+{% endif %}
+        <li><a href="distribucion.html">papel</a></li>
 {% if page.license %}
         <li><a rel="license" href="{{ page.license }}">licencia</a></li>
 {% endif %}
@@ -19,8 +25,8 @@ layout: default
     </nav>
   </header>
 
-    <h2>{{ page.author }}</h2>
-    <h1>{{ page.title }}</h1>
+    <h1 class="title">{{ page.title }}</h1>
+    <h2 class="author">{{ page.author }}</h2>
 
     {{ content }}
 

@@ -196,3 +196,8 @@ figure img {
 img.cover {
   max-height: 200px;
 }
+
+article h2.author:after,
+article h2.author:before {
+  content: "—"
+}
