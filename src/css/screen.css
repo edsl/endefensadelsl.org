@@ -1,22 +1,14 @@
 
-/* Reset */
-@import url('reset.css');
-/* @import url('fonts/stylesheet.css'); */
-/* @import url('droid/stylesheet.css'); */
-/* Oxymoron CSS framework*/
-@import url('oxymoron.css');
-
 body {
-/*    font-family: Liberation Serif, LiberationSerifRegular, serif; */
-    font-family: 'Droid Serif', sans-serif;
-    width: 680px;
+  font-family: 'Crimson Text', serif;
+  max-width: 65%;
+  font-size: 120%;
 }
 
 
 h1 {
-    font-size: 500%;
-    margin-top: 50px;
-    margin-bottom: 20px;
+  margin-top: 50px;
+  line-height: 100%;
 }
 
 section h1 {
@@ -24,28 +16,22 @@ section h1 {
 }
 
 h2 {
-    font-size: 200%;
-    margin: 40px 0 15px 0;
+  font-size: 200%;
+  margin: 40px 0 15px 0;
 }
 
 h4 {
-    font-size: 150%;
-    margin: 40px auto 20px auto;
+  font-size: 150%;
+  margin: 40px auto 20px auto;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color: inherit;
-}
-
-h1 a:hover:after, h2 a:hover:after, h3 a:hover:after,
-h4 a:hover:after, h5 a:hover:after, h6 a:hover:after {
-  content: "☜";
-  font-family: sans;
+  color: inherit;
 }
 
 a {
-    text-decoration: none;
-    color: #4083A9
+  text-decoration: none;
+  color: #4083A9
 }
 
 a.footnoteRef {
@@ -56,13 +42,13 @@ a.footnoteRef {
 figure figcaption,
 p
 {
-    text-indent: 2em;
-    line-height: 150%;
-    margin: 20px auto auto auto;
-    text-align: justify;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
+  text-indent: 2em;
+  line-height: 150%;
+  margin: 20px auto auto auto;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
 }
 
 /* A sangre */
@@ -72,67 +58,67 @@ blockquote p {
 }
 
 em {
-    font-style: italic
+  font-style: italic
 }
 
 h3 {
-    margin: 20px 0 10px 0;
-    font-size: 130%;
+  margin: 20px 0 10px 0;
+  font-size: 130%;
 }
 
 dl a {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
 dl a:hover {
-    color: #333
+  color: #333
 }
 
 dd,
 dt {
-    font-style: italic;
+  font-style: italic;
 }
 
 dd {
-    display: inline;
+  display: inline;
 }
 
 small {
-    font-size: 80%;
+  font-size: 80%;
 }
 
 dt {
-    font-weight: bold;
-    margin: 20px 0 0 0;
+  font-weight: bold;
+  margin: 20px 0 0 0;
 }
 
 dt + dd {
-    margin-left: 16px;
+  margin-left: 16px;
 }
 
 dt:before {
-    content: "» ";
+  content: "» ";
 }
 
 blockquote {
-    padding: 0 0 0 15px;
-    border-left: 5px solid #eee;
+  padding: 0 0 0 15px;
+  border-left: 5px solid #eee;
 }
 
 sup {
-    font-size: 80%;
-    vertical-align: super;
-    margin-right: 4px;
+  font-size: 80%;
+  vertical-align: super;
+  margin-right: 4px;
 }
 
 h1 sup {
-    font-size: 40%;
+  font-size: 40%;
 }
 
 ol {
-    list-style-type: decimal;
-    padding-left: 1.5em;
+  list-style-type: decimal;
+  padding-left: 1.5em;
 }
 
 ul li {
@@ -140,15 +126,15 @@ ul li {
 }
 
 ul li:before {
-    content: "\00BB \0020";
+  content: "\00BB \0020";
 }
 
 nav#formats * {
-    display: inline;
+  display: inline;
 }
 
 nav#formats li:before {
-    content:""
+  content:""
 }
 
 nav#formats li {
@@ -157,31 +143,31 @@ nav#formats li {
 
 dd p,
 li p {
-    margin: auto;
+  margin: auto;
 }
 
 li p {
-    display: inline;
+  display: inline;
 }
 
 blockquote span.citation:before {
-    content: "— "
+  content: "— "
 }
 
 blockquote span.citation {
-    color: #999999;
-    display: block;
-    font-size: 85%;
+  color: #999999;
+  display: block;
+  font-size: 85%;
 }
 
 dd p {
-    display: inline;
+  display: inline;
 }
 
 dd p a {
-    font-size: 80%;
-    color: #4083A9;
-    font-style: normal;
+  font-size: 80%;
+  color: #4083A9;
+  font-style: normal;
 }
 
 figure {
