@@ -181,3 +181,8 @@ figure img {
 img.cover {
   max-height: 200px;
 }
+
+.revisions {
+  font-family: monospace;
+  font-size: 0.7rem;
+}
