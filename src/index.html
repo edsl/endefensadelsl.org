@@ -16,19 +16,26 @@ title: En Defensa del Software Libre
 
   <h2>Artículos publicados</h2>
 
-{% for post in site.posts %}
-  <dl>
-    <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
-    <dd class="author">{{post.author}}</dd>
+  {% for post in site.posts %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
 
-    {% for format in site.pandoc.outputs limit:2 %}
-    {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd><p><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
-    {% endfor %}
-    <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+    {% if this_year != next_year %}
+      <h3>{{ this_year }}</h3>
+    {% endif %}
 
-  </dl>
-{% endfor %}
+    <dl>
+      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+      <dd class="author">{{post.author}}</dd>
+
+      {% for format in site.pandoc.outputs limit:2 %}
+      {% capture extension %}{{ format | first }}{% endcapture %}
+      <dd><p><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+      {% endfor %}
+      <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+
+    </dl>
+  {% endfor %}
 
 </section>
 
@@ -36,9 +43,9 @@ title: En Defensa del Software Libre
   <h2>Ediciones en papel</h2>
 
   {% for edicion in site.ediciones %}
-  <a href="{{ edicion.url }}">
-    <img class="cover" src="{{ edicion.cover }}" />
-  </a>
+    <a href="{{ edicion.url }}">
+      <img class="cover" src="{{ edicion.cover }}" />
+    </a>
   {% endfor %}
 </section>
 
@@ -48,10 +55,16 @@ title: En Defensa del Software Libre
 
   <ul>
 
-    <li>Lista de discusión: <a
-    href="https://listas.endefensadelsl.org/listinfo/edsl">edsl&commat;listas.endefensadelsl.org</a></li>
+    <li>
+      Lista de discusión:
+      <a href="https://listas.endefensadelsl.org/listinfo/edsl">edsl&commat;listas.endefensadelsl.org</a>
+    </li>
 
-    <li>IRC: <a href="https://webchat.freenode.net/?channels=endefensadelsl">#endefensadelsl</a> en freenode</li>
+    <li>
+      IRC:
+      <a href="https://webchat.freenode.net/?channels=endefensadelsl">#endefensadelsl</a>
+      en freenode
+    </li>
 
     <li><a href="distribucion.html">Puntos de distribución</a></li>
 
