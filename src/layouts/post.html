@@ -7,26 +7,36 @@ layout: default
     <h4><a href="/" alt='Inicio'>En Defensa del Software Libre</a></h4>
     <nav id="formats">
       <ul>
-{% for format in site.pandoc.outputs %}
-        {% capture extension %}{{ format | first }}{% endcapture %}
-        <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
-{% endfor %}
-{% if site.pandoc.imposition %}
-        <li><a href="{{ page.url | remove:'.html' }}-imposed.{{ extension }}">imposición</a></li>
-{% endif %}
-{% if site.pandoc.binder %}
-        <li><a href="{{ page.url | remove:'.html' }}-binder.{{ extension }}">binder</a></li>
-{% endif %}
+        {% for format in site.pandoc.outputs %}
+          {% capture extension %}{{ format | first }}{% endcapture %}
+          <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        {% endfor %}
+
+        {% if site.pandoc.imposition %}
+          <li><a href="{{ page.url | remove:'.html' }}-imposed.{{ extension }}">imposición</a></li>
+        {% endif %}
+
+        {% if site.pandoc.binder %}
+          <li><a href="{{ page.url | remove:'.html' }}-binder.{{ extension }}">binder</a></li>
+        {% endif %}
+
         <li><a href="distribucion.html">papel</a></li>
-{% if page.license %}
-        <li><a rel="license" href="{{ page.license }}">licencia</a></li>
-{% endif %}
+
+        {% if page.license %}
+          <li><a rel="license" href="{{ page.license }}">licencia</a></li>
+        {% endif %}
       </ul>
     </nav>
   </header>
 
     <h1 class="title">{{ page.title }}</h1>
     <h2 class="author">{{ page.author }}</h2>
+
+    {% if page.category %}
+      <h3 class="categories">
+        Este artículo aparece en {{ page.category | join:' / ' }}
+      </h3>
+    {% endif %}
 
     {{ content }}
 

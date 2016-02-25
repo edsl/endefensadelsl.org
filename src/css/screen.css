@@ -107,7 +107,6 @@ blockquote {
 }
 
 sup {
-  font-size: 80%;
   vertical-align: super;
   margin-right: 4px;
 }
@@ -138,7 +137,7 @@ nav#formats li:before {
 }
 
 nav#formats li {
-  padding: 0;
+  padding: 0.25rem;
 }
 
 dd p,
@@ -181,9 +180,4 @@ figure img {
 
 img.cover {
   max-height: 200px;
-}
-
-article h2.author:after,
-article h2.author:before {
-  content: "—"
 }
