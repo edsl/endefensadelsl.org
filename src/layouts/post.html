@@ -5,6 +5,7 @@ layout: default
 <article>
   <header>
     <h4><a href="/" alt='Inicio'>En Defensa del Software Libre</a></h4>
+
     <nav id="formats">
       <ul>
         {% for format in site.pandoc.outputs %}
@@ -38,7 +39,32 @@ layout: default
       </h3>
     {% endif %}
 
+    <p>
+      Publicado el <span class="published-date">{{ page.date | date: "%d/%m/%Y" }}</span>.
+
+    {% if page.date != page.last_modified_at %}
+      <span class="last-review-date">Última modificación {{ page.last_modified_at | date: "%d/%m/%Y" }}</span>
+    {% endif %}
+    </p>
+
     {{ content }}
+
+    {% if page.revisions.size > 0 %}
+    <section>
+      <h2>Revisiones</h2>
+      <table class="revisions">
+        <tbody>
+          {% for rev in page.revisions %}
+            <tr>
+              <td>{{ rev.date | date_to_string }}</td>
+              <td>{{ rev.author }}</td>
+              <td>{{ rev.message }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+    {% endif %}
 
   <footer id="related">
 
