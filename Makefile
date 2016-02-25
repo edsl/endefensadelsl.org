@@ -6,6 +6,8 @@ default: all
 src_tapas = $(wildcard src/images/tapas/*.svg)
 out_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
 
+articulos = ../articulos
+
 
 # obtener los valores de _config.yml :D
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
