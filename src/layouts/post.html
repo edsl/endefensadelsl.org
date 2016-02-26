@@ -23,6 +23,10 @@ layout: default
 
         <li><a href="distribucion.html">papel</a></li>
 
+        {% if page.revisions.size > 0 %}
+          <li><a href="#revisiones">revisiones</a></li>
+        {% endif %}
+
         {% if page.license %}
           <li><a rel="license" href="{{ page.license }}">licencia</a></li>
         {% endif %}
@@ -50,19 +54,21 @@ layout: default
     {{ content }}
 
     {% if page.revisions.size > 0 %}
-    <section>
+    <section id="#revisiones">
       <h2>Revisiones</h2>
-      <table class="revisions">
-        <tbody>
-          {% for rev in page.revisions %}
-            <tr>
-              <td>{{ rev.date | date_to_string }}</td>
-              <td>{{ rev.author }}</td>
-              <td>{{ rev.message }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
+      {% for rev in page.revisions %}
+        <div class="media">
+          <div class="media-figure">
+            <img src="{{ rev.author | to_gravatar:50}}" />
+          </div>
+          <div class="media-body">
+            <p>{{ rev.message }}
+
+            <small>&mdash; {{ rev.author | split:'@' | first }},
+            {{ rev.date | date_to_string }}</small></p>
+          </div>
+        </div>
+      {% endfor %}
     </section>
     {% endif %}
 
@@ -71,11 +77,10 @@ layout: default
       <h2>Otras lecturas</h2>
       <ul class="posts">
 
-{% for post in site.related_posts limit:3 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+      {% for post in site.related_posts limit:3 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
 
       </ul>
   </footer>
-
 </article>

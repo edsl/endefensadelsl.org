@@ -42,7 +42,7 @@ module Jekyll
         return nil unless is_git_repo?
 
         logs = Dir.chdir(site_source) do
-          Executor.sh('git', 'log', '--follow', '--pretty=%ci|%an|%s', page_path)
+          Executor.sh('git', 'log', '--follow', '--pretty=%ai|%ae|%s', page_path)
         end
 
         logs.lines.map do |line|

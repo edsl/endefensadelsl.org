@@ -186,3 +186,17 @@ img.cover {
   font-family: monospace;
   font-size: 0.7rem;
 }
+
+tbody tr:nth-child(odd) {
+   background-color: #f1f1f1;
+}
+
+#refs p {
+  text-indent: 0;
+}
+
+.media-body p {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+}
