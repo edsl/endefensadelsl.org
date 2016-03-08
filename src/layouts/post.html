@@ -39,11 +39,14 @@ layout: default
 
     {% if page.category %}
       <h3 class="categories">
-        Este artículo aparece en
+        Publicado en
 
         {% for category in page.category %}
           <a href="{{ category | slugify }}.html"
-             title="{{ category }}">{{ category }}</a>
+              title="{{ category }}">{{ category }}</a>
+          {% if category != page.category.last %}
+            /
+          {% endif %}
         {% endfor %}
 
       </h3>
