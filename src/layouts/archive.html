@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h4><a href="/" alt='Inicio'>En Defensa del Software Libre</a></h4>
+
+    <nav id="formats">
+      <ul>
+        {% for format in site.pandoc.outputs %}
+          {% capture extension %}{{ format | first }}{% endcapture %}
+          <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        {% endfor %}
+
+        {% if site.pandoc.imposition %}
+          <li><a href="{{ page.url | remove:'.html' }}-imposed.pdf">imposición</a></li>
+        {% endif %}
+
+        {% if site.pandoc.binder %}
+          <li><a href="{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
+        {% endif %}
+
+        <li><a href="distribucion.html">papel</a></li>
+      </ul>
+    </nav>
+
+    <h1 class="title">{{ page.title }}</h1>
+  </header>
+
+  <h2>Artículos publicados</h2>
+
+  {% for post in page.posts %}
+    <dl>
+      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+      <dd class="author">{{post.author}}</dd>
+    </dl>
+  {% endfor %}
+
+</article>
+
