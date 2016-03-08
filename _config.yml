@@ -1,7 +1,8 @@
+articles_source: ../articulos
 markdown: pandoc
 pandoc:
   skip: false
-  bundle_permalink: ':output_ext/:slug.:output_ext'
+  bundle_permalink: ':slug.:output_ext'
   papersize: 'a5paper'
   sheetsize: 'a4paper'
   imposition: true
@@ -11,6 +12,16 @@ pandoc:
           --section-divs --email-obfuscation=references'
   site_flags: '--toc --template=layouts/toc.html'
   outputs:
+    pdf: '-V fontsize=10pt,twoside
+          -V documentclass=book
+          -V geometry=hcentering
+          -V geometry=bindingoffset=1cm
+          -V links-as-notes=true
+          -V subparagraph
+          --latex-engine=xelatex
+          --table-of-contents
+          --include-in-header=layouts/header.tex
+          --include-before-body=layouts/license.tex'
     epub: '-V lang=es --epub-chapter-level=2'
     mediawiki:
     rst:
@@ -24,16 +35,6 @@ pandoc:
             --table-of-contents
             --include-in-header=layouts/header.tex
             --include-before-body=layouts/license.tex'
-    pdf: '-V fontsize=10pt,twoside
-          -V documentclass=book
-          -V geometry=hcentering
-          -V geometry=bindingoffset=1cm
-          -V links-as-notes=true
-          -V subparagraph
-          --latex-engine=xelatex
-          --table-of-contents
-          --include-in-header=layouts/header.tex
-          --include-before-body=layouts/license.tex'
 
 destination: /srv/http/endefensadelsl.org
 source:   ./src
@@ -53,3 +54,9 @@ collections:
   ediciones:
     output: true
     permalink: ":path.html"
+
+jekyll-archives:
+  enabled:
+    - categories
+  permalinks:
+    category: :name.html

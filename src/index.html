@@ -39,15 +39,17 @@ title: En Defensa del Software Libre
 
 </section>
 
-<section id="ediciones">
-  <h2>Ediciones en papel</h2>
+{% if site.archives %}
+  <section id="ediciones">
+    <h2>Ediciones en papel</h2>
 
-  {% for edicion in site.ediciones %}
-    <a href="{{ edicion.url }}">
-      <img class="cover" src="{{ edicion.cover }}" />
-    </a>
-  {% endfor %}
-</section>
+    {% for edicion in site.archives %}
+      <a href="{{ edicion.url }}">
+        <img class="cover" src="{{ edicion.posts.first.cover }}" />
+      </a>
+    {% endfor %}
+  </section>
+{% endif %}
 
 <section id="contacto">
 
