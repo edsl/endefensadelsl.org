@@ -45,7 +45,7 @@ title: En Defensa del Software Libre
 
     {% for edicion in site.archives %}
       <a href="{{ edicion.url }}">
-        <img class="cover" src="{{ edicion.posts.first.cover }}" />
+        <img class="cover" src="{{ site.pandoc.covers_dir }}{{ edicion.url | remove: '.html' }}.png" />
       </a>
     {% endfor %}
   </section>
