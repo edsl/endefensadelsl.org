@@ -17,6 +17,9 @@ title: En Defensa del Software Libre
   <h2>Artículos publicados</h2>
 
   {% for post in site.posts %}
+    {% if post.tags contains 'prologo' %}
+      {% continue %}
+    {% endif %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
 

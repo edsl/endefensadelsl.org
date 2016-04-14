@@ -28,11 +28,18 @@ layout: default
     <h1 class="title">{{ page.title }}</h1>
   </header>
 
-  <img src="{{ page.posts.first.cover }}" />
+  <img class="cover" src="{{ site.pandoc.covers_dir }}{{ page.url | remove: '.html' }}.png" />
 
-  <h2>Índice general</h2>
+  {% for prologo in page.posts %}
+    {% if prologo.tags contains 'prologo' %}
+      {{ prologo.content | markdownify }}
+    {% endif %}
+  {% endfor %}
 
   {% for post in page.posts %}
+    {% if post.tags contains 'prologo' %}
+      {% continue %}
+    {% endif %}
     <dl>
       <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
       <dd class="author">{{post.author}}</dd>
