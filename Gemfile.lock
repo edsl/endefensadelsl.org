@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/edsl/jekyll-pandoc-multiple-formats.git
-  revision: ddd282b75c696897ff7a1ff015bb0a008b0f8d85
+  revision: 409231e0f9d936ff59259f962ec5e187b8ac41ff
   branch: develop
   specs:
     jekyll-pandoc-multiple-formats (0.1.0)
@@ -43,7 +43,7 @@ GEM
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
-    mercenary (0.3.5)
+    mercenary (0.3.6)
     method_source (0.8.2)
     pdf_info (0.5.2)
     pry (0.10.3)
@@ -57,7 +57,7 @@ GEM
     rouge (1.10.1)
     rtex (2.1.1)
     safe_yaml (1.0.4)
-    sass (3.4.21)
+    sass (3.4.22)
     slop (3.6.0)
     therubyracer (0.12.2)
       libv8 (~> 3.16.14.0)
