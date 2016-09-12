@@ -10,8 +10,8 @@ layout: null
   <author>
     <name>En Defensa del Software Libre</name>
   </author>
-  <id>http://endefensadelsl.org/</id>
-  <link href="http://endefensadelsl.org/edsl.opds"
+  <id>{{ site.canonical }}/</id>
+  <link href="{{ site.canonical }}/edsl.opds"
     rel="self"
     type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <title>En Defensa del Software Libre</title>
@@ -22,16 +22,18 @@ layout: null
 
   {% for post in site.posts %}
   <entry>
-    <id>http://endefensadelsl.org{{ post.url }}</id>
+    <id>{{ site.canonical }}{{ post.url }}</id>
     <link rel="http://opds-spec.org/acquisition"
           type="application/epub+zip"
-          href="http://endefensadelsl.org/epub{{ post.url | remove:'.html' }}.epub"/>
+          href="{{ site.canonical }}{{ post.url | remove:'.html' }}.epub"/>
+    {% if post.cover %}
     <link rel="http://opds-spec.org/image"
           type="image/png"
-          href="{{ post.cover }}" />
-    <link rel="http://opds-spec.org/thumbnail"
+          href="{{ site.canonical }}/{{ post.cover }}" />
+    <link rel="http://opds-spec.org/image/thumbnail"
           type="image/png"
-          href="{{ post.cover }}" />
+          href="{{ site.canonical }}/{{ post.cover }}" />
+    {% endif %}
     {% if post.license %}
     <link rel="license"
           type="text/html"
@@ -50,5 +52,4 @@ layout: null
     <dc:issued>{{ post.date | date: '%Y-%m-%d' }}</dc:issued>
   </entry>
   {% endfor %}
-
 </feed>
