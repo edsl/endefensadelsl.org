@@ -1,3 +1,4 @@
+canonical: https://endefensadelsl.org
 articles_source: ../articulos
 markdown: pandoc
 pandoc:
