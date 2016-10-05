@@ -3,7 +3,7 @@ default: all
 # `make` o `make all` genera el sitio
 #
 # Toma todas los svg de las tapas y los convierte a tif
-src_tapas = $(wildcard src/images/tapas/*.svg)
+src_tapas = $(wildcard src/images/tapas/*.svg src/images/covers/*.svg)
 out_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
 
 articulos = ../articulos
@@ -11,6 +11,7 @@ articulos = ../articulos
 
 # obtener los valores de _config.yml :D
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
+destination = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
 
 articles:
 	rm -fv src/_posts/*.markdown
@@ -29,7 +30,10 @@ build: articles
 
 test: toggle-test-dest build toggle-dest
 
-all: toggle-dest build tapas
+publish:
+	rsync -av --delete-after $(destination)/ cap@endefensadelsl.org:$(destination)/
+
+all: toggle-dest build tapas publish
 
 clean:
 	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown ediciones/*.latex \
