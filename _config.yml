@@ -17,7 +17,8 @@ pandoc:
     pdf: '-V fontsize=10pt,twoside
           -V documentclass=book
           -V geometry=hcentering
-          -V geometry=bindingoffset=1cm
+          -V geometry=bindingoffset=0.5cm
+          -V geometry=bmargin=2.5cm
           -V links-as-notes=true
           -V subparagraph
           --latex-engine=xelatex
