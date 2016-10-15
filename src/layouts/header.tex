@@ -38,6 +38,7 @@
 \usepackage{substr}
 \usepackage[explicit]{titlesec}
 \titleformat{\chapter}[hang]{}{}{0cm}{%
+  \raggedleft
   \Huge \BeforeSubString{ --- }{#1}\\
   \IfSubStringInString{ --- }{#1}{%
   {\Large \itshape ---\BehindSubString{ --- }{#1}---}%
