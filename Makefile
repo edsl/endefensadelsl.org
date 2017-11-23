@@ -13,6 +13,8 @@ articulos = ../articulos
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
 destination = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
 
+skip ?= false
+
 articles:
 	rm -fv src/_posts/*.markdown
 	cp -v $(articulos)/2*.markdown src/_posts/
@@ -26,7 +28,8 @@ toggle-dest:
 		  -i _config.yml
 
 build: articles
-	bundle exec jekyll build
+	sed -re "s/^(\s+skip:).*/\1 $(skip)/" -i _config.yml
+	bundle exec jekyll build --trace
 
 test: toggle-test-dest build toggle-dest
 
