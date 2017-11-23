@@ -10,7 +10,7 @@ pandoc:
   binder: true
   covers_dir: 'images/covers'
 
-  flags: '--csl=../apa.csl --bibliography=../ref.bib --smart -V lang=es
+  flags: '--from=markdown+smart --csl=../apa.csl --bibliography=../ref.bib -V lang=es
           --section-divs --email-obfuscation=references'
   site_flags: '--toc --template=layouts/toc.html'
   outputs:
@@ -21,7 +21,8 @@ pandoc:
           -V geometry=bmargin=2.5cm
           -V links-as-notes=true
           -V subparagraph
-          --latex-engine=xelatex
+          -V graphics
+          --pdf-engine=xelatex
           --table-of-contents
           --include-in-header=layouts/header.tex
           --include-before-body=layouts/license.tex'
@@ -34,7 +35,8 @@ pandoc:
             -V geometry=bindingoffset=1cm
             -V links-as-notes=true
             -V subparagraph
-            --latex-engine=xelatex
+            -V graphics
+            --pdf-engine=xelatex
             --table-of-contents
             --include-in-header=layouts/header.tex
             --include-before-body=layouts/license.tex'
