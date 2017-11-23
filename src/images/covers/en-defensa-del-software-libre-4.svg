@@ -14,11 +14,11 @@
    height="210mm"
    viewBox="0 0 148 210"
    version="1.1"
-   id="svg1367"
+   id="svg4525"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="en-defensa-del-software-libre-0-1_a5.svg">
+   sodipodi:docname="en-defensa-del-software-libre-4_a5.svg">
   <defs
-     id="defs1361" />
+     id="defs4519" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="562.78489"
-     inkscape:cy="307.29153"
+     inkscape:cx="769.6063"
+     inkscape:cy="210.09318"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:window-y="42"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata1364">
+     id="metadata4522">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -55,8 +55,8 @@
      id="layer1"
      transform="translate(0,-87)">
     <g
-       id="g2313"
-       transform="translate(-152.0238,21.166656)">
+       id="g5428"
+       transform="translate(-149)">
       <rect
          inkscape:export-ydpi="109"
          inkscape:export-xdpi="109"
@@ -64,143 +64,157 @@
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55835396"
          width="148"
          height="210"
-         x="152.0238"
-         y="65.833336"
-         id="rect2342" />
+         x="149"
+         y="87"
+         id="rect12789-3" />
       <rect
-         y="65.833336"
-         x="152.02382"
-         height="210"
+         inkscape:export-ydpi="109"
+         inkscape:export-xdpi="109"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         style="opacity:0.7;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.55835396"
          width="148"
-         id="rect2346"
-         style="display:inline;opacity:0.7;fill:#008000;fill-opacity:1;stroke-width:0.27358335" />
-      <g
-         transform="translate(5.4938929,66.046248)"
-         id="g2358"
-         style="display:inline">
-        <rect
-           style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07756979"
-           id="rect2348"
-           width="29.983"
-           height="9.4549999"
-           x="176.02991"
-           y="66.10788" />
-        <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.04385833"
-           id="rect2350"
-           width="9.6359997"
-           height="9.4049997"
-           x="176.02975"
-           y="53.637764" />
-        <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07322323"
-           id="rect2352"
-           width="26.716999"
-           height="9.4549999"
-           x="176.02975"
-           y="41.117691" />
-        <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.03353192"
-           id="rect2354"
-           width="7.434"
-           height="7.1259999"
-           x="176.02991"
-           y="29.787088" />
-        <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.0556878"
-           id="rect2356"
-           width="15.37"
-           height="9.5059996"
-           x="176.03011"
-           y="78.577469" />
-      </g>
+         height="210"
+         x="149"
+         y="87"
+         id="rect12789" />
       <rect
-         y="208.37277"
-         x="243.87325"
-         height="37.397999"
+         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.32178706"
+         id="rect8315-8"
          width="14.748"
-         id="rect2360"
-         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.32178706" />
-      <rect
-         y="208.43533"
-         x="260.9454"
          height="37.397999"
-         width="9.0783577"
-         id="rect2362"
-         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.2524676" />
+         x="252.25201"
+         y="229.60199"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109.47"
+         inkscape:export-ydpi="109.47" />
       <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:50.33422089px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25835538"
+         x="250.82355"
+         y="267.0199"
+         id="text8077-3-7-7-0-9"
          mask="none"
-         id="text2366"
-         y="245.79076"
-         x="241.9156"
-         style="font-style:normal;font-weight:normal;font-size:50.33422089px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2583555"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:1.2583555"
-           y="245.79076"
-           x="241.9156"
-           id="tspan2364"
-           sodipodi:role="line">01</tspan></text>
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109.47"
+         inkscape:export-ydpi="109.47"><tspan
+           sodipodi:role="line"
+           id="tspan8075-0-1-4-6-2"
+           x="250.82355"
+           y="267.0199"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:1.25835538">4</tspan></text>
       <g
-         mask="none"
-         style="display:inline;opacity:1"
-         transform="matrix(0.99999146,0,0,0.99999146,-198.59713,168.06508)"
-         id="g2388">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.89655"
-           y="-26.339485"
-           id="text2370"><tspan
-             sodipodi:role="line"
-             id="tspan2368"
-             x="379.89655"
-             y="-26.339485"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">s0ftware</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.61807"
-           y="-13.819084"
-           id="text2374"><tspan
-             sodipodi:role="line"
-             id="tspan2372"
-             x="379.61807"
-             y="-13.819084"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">libre</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.66873"
-           y="-38.859921"
-           id="text2378"><tspan
-             sodipodi:role="line"
-             id="tspan2376"
-             x="379.66873"
-             y="-38.859921"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">de1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.71933"
-           y="-64.989288"
-           id="text2382"><tspan
-             sodipodi:role="line"
-             id="tspan2380"
-             x="379.71933"
-             y="-64.989288"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">en</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.66873"
-           y="-51.329678"
-           id="text2386"><tspan
-             sodipodi:role="line"
-             id="tspan2384"
-             x="379.66873"
-             y="-51.329678"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">defensa</tspan></text>
+         style="display:inline"
+         id="g2853-1"
+         transform="translate(2.4701,87.2129)"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109">
+        <rect
+           y="66.10788"
+           x="176.02991"
+           height="9.4549999"
+           width="29.983"
+           id="rect8261-7"
+           style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07756979" />
+        <rect
+           y="53.637764"
+           x="176.02975"
+           height="9.4049997"
+           width="9.6359997"
+           id="rect8261-2-0"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.04385833" />
+        <rect
+           y="41.117691"
+           x="176.02975"
+           height="9.4549999"
+           width="26.716999"
+           id="rect8261-2-2-60"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07322323" />
+        <rect
+           y="29.787088"
+           x="176.02991"
+           height="7.1259999"
+           width="7.434"
+           id="rect8261-2-1-85"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.03353192" />
+        <rect
+           y="78.577469"
+           x="176.03011"
+           height="9.5059996"
+           width="15.37"
+           id="rect8261-2-21-3"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.0556878" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         x="178.2724"
+         y="162.89252"
+         id="text8077-56-9"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109"><tspan
+           sodipodi:role="line"
+           id="tspan8075-2-4"
+           x="178.2724"
+           y="162.89252"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014">software</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         x="177.99396"
+         y="175.41278"
+         id="text8077-5-9-1"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109"><tspan
+           sodipodi:role="line"
+           id="tspan8075-4-1-5"
+           x="177.99396"
+           y="175.41278"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014">libre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         x="178.04456"
+         y="150.37219"
+         id="text8077-3-2-4"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109"><tspan
+           sodipodi:role="line"
+           id="tspan8075-0-7-1"
+           x="178.04456"
+           y="150.37219"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014">del</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         x="178.09515"
+         y="124.24304"
+         id="text8077-3-7-0-5"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109"><tspan
+           sodipodi:role="line"
+           id="tspan8075-0-1-9-5"
+           x="178.09515"
+           y="124.24304"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014">en</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         x="178.04456"
+         y="137.90253"
+         id="text8077-3-7-8-3-4"
+         inkscape:export-filename="/home/fauno/edsl4.png"
+         inkscape:export-xdpi="109"
+         inkscape:export-ydpi="109"><tspan
+           sodipodi:role="line"
+           id="tspan8075-0-1-8-6-9"
+           x="178.04456"
+           y="137.90253"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014">defens4</tspan></text>
       <image
          style="opacity:0.1"
          width="148"
@@ -1812,9 +1826,9 @@ tshjyHw+pglOpeCYCJHauJfWSRMP2TJujDI4HWWkb/rFw+D5R0Bfwq+iGu6KOp075LKYz3EUBWcF
 NaeZCG56WhfDND8NItNqJ5xY0yTYZVwN5DznIjirZh+ynwopG2YAIusm7zBYZ0M5Z42KC6gvlZbv
 x+f/AWH9BEDE15ySAAAAAElFTkSuQmCC
 "
-         id="image2286"
-         x="152.02382"
-         y="65.833344" />
+         id="image5403"
+         x="149"
+         y="87" />
     </g>
   </g>
 </svg>

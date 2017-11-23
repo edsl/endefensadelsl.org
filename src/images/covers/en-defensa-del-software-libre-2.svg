@@ -14,11 +14,11 @@
    height="210mm"
    viewBox="0 0 148 210"
    version="1.1"
-   id="svg1367"
+   id="svg2424"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="en-defensa-del-software-libre-0-1_a5.svg">
+   sodipodi:docname="en-defensa-del-software-libre-2_a5.svg">
   <defs
-     id="defs1361" />
+     id="defs2418" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="562.78489"
-     inkscape:cy="307.29153"
+     inkscape:cx="811.09684"
+     inkscape:cy="429.22072"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:window-y="42"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata1364">
+     id="metadata2421">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -55,8 +55,8 @@
      id="layer1"
      transform="translate(0,-87)">
     <g
-       id="g2313"
-       transform="translate(-152.0238,21.166656)">
+       id="g3391"
+       transform="translate(-149)">
       <rect
          inkscape:export-ydpi="109"
          inkscape:export-xdpi="109"
@@ -64,143 +64,130 @@
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55835396"
          width="148"
          height="210"
-         x="152.0238"
-         y="65.833336"
-         id="rect2342" />
+         x="149"
+         y="87"
+         id="rect2754" />
       <rect
-         y="65.833336"
-         x="152.02382"
-         height="210"
+         style="display:inline;opacity:0.7;fill:#ffcc00;fill-opacity:1;stroke-width:0.27358335"
+         id="rect2758"
          width="148"
-         id="rect2346"
-         style="display:inline;opacity:0.7;fill:#008000;fill-opacity:1;stroke-width:0.27358335" />
+         height="210.00002"
+         x="149"
+         y="87" />
       <g
-         transform="translate(5.4938929,66.046248)"
-         id="g2358"
-         style="display:inline">
+         style="display:inline"
+         id="g2770"
+         transform="translate(2.4700923,87.212912)">
         <rect
-           style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07756979"
-           id="rect2348"
+           y="66.10788"
+           x="176.02991"
+           height="9.4549999"
            width="29.983"
-           height="9.4549999"
-           x="176.02991"
-           y="66.10788" />
+           id="rect2760"
+           style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07756979" />
         <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.04385833"
-           id="rect2350"
-           width="9.6359997"
+           y="53.637764"
+           x="176.02975"
            height="9.4049997"
-           x="176.02975"
-           y="53.637764" />
+           width="9.6359997"
+           id="rect2762"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.04385833" />
         <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07322323"
-           id="rect2352"
-           width="26.716999"
+           y="41.117691"
+           x="176.02975"
            height="9.4549999"
-           x="176.02975"
-           y="41.117691" />
+           width="26.716999"
+           id="rect2764"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.07322323" />
         <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.03353192"
-           id="rect2354"
-           width="7.434"
-           height="7.1259999"
+           y="29.787088"
            x="176.02991"
-           y="29.787088" />
+           height="7.1259999"
+           width="7.434"
+           id="rect2766"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.03353192" />
         <rect
-           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.0556878"
-           id="rect2356"
-           width="15.37"
-           height="9.5059996"
+           y="78.577469"
            x="176.03011"
-           y="78.577469" />
+           height="9.5059996"
+           width="15.37"
+           id="rect2768"
+           style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.0556878" />
       </g>
       <rect
-         y="208.37277"
-         x="243.87325"
-         height="37.397999"
+         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.32178706"
+         id="rect2772"
          width="14.748"
-         id="rect2360"
-         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.32178706" />
-      <rect
-         y="208.43533"
-         x="260.9454"
          height="37.397999"
-         width="9.0783577"
-         id="rect2362"
-         style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.2524676" />
+         x="252.252"
+         y="229.60201" />
       <text
-         mask="none"
-         id="text2366"
-         y="245.79076"
-         x="241.9156"
-         style="font-style:normal;font-weight:normal;font-size:50.33422089px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2583555"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:50.33422089px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25835538"
+         x="250.82353"
+         y="267.01999"
+         id="text2776"
+         mask="none"><tspan
+           sodipodi:role="line"
+           id="tspan2774"
+           x="250.82353"
+           y="267.01999"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:1.25835538">2</tspan></text>
+      <text
+         id="text2780"
+         y="162.89249"
+         x="178.27237"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:1.2583555"
-           y="245.79076"
-           x="241.9156"
-           id="tspan2364"
-           sodipodi:role="line">01</tspan></text>
-      <g
-         mask="none"
-         style="display:inline;opacity:1"
-         transform="matrix(0.99999146,0,0,0.99999146,-198.59713,168.06508)"
-         id="g2388">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.89655"
-           y="-26.339485"
-           id="text2370"><tspan
-             sodipodi:role="line"
-             id="tspan2368"
-             x="379.89655"
-             y="-26.339485"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">s0ftware</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.61807"
-           y="-13.819084"
-           id="text2374"><tspan
-             sodipodi:role="line"
-             id="tspan2372"
-             x="379.61807"
-             y="-13.819084"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">libre</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.66873"
-           y="-38.859921"
-           id="text2378"><tspan
-             sodipodi:role="line"
-             id="tspan2376"
-             x="379.66873"
-             y="-38.859921"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">de1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.71933"
-           y="-64.989288"
-           id="text2382"><tspan
-             sodipodi:role="line"
-             id="tspan2380"
-             x="379.71933"
-             y="-64.989288"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">en</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.65771389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644285"
-           x="379.66873"
-           y="-51.329678"
-           id="text2386"><tspan
-             sodipodi:role="line"
-             id="tspan2384"
-             x="379.66873"
-             y="-51.329678"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644285">defensa</tspan></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014"
+           y="162.89249"
+           x="178.27237"
+           id="tspan2778"
+           sodipodi:role="line">software</tspan></text>
+      <text
+         id="text2784"
+         y="175.41281"
+         x="177.9939"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014"
+           y="175.41281"
+           x="177.9939"
+           id="tspan2782"
+           sodipodi:role="line">libre</tspan></text>
+      <text
+         id="text2788"
+         y="150.37219"
+         x="178.04456"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014"
+           y="150.37219"
+           x="178.04456"
+           id="tspan2786"
+           sodipodi:role="line">del</tspan></text>
+      <text
+         id="text2792"
+         y="124.243"
+         x="178.09515"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014"
+           y="124.243"
+           x="178.09515"
+           id="tspan2790"
+           sodipodi:role="line">en</tspan></text>
+      <text
+         id="text2796"
+         y="137.90253"
+         x="178.04456"
+         style="font-style:normal;font-weight:normal;font-size:12.65760612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31644014"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';stroke-width:0.31644014"
+           y="137.90253"
+           x="178.04456"
+           id="tspan2794"
+           sodipodi:role="line">defen2a</tspan></text>
       <image
          style="opacity:0.1"
          width="148"
@@ -1812,9 +1799,9 @@ tshjyHw+pglOpeCYCJHauJfWSRMP2TJujDI4HWWkb/rFw+D5R0Bfwq+iGu6KOp075LKYz3EUBWcF
 NaeZCG56WhfDND8NItNqJ5xY0yTYZVwN5DznIjirZh+ynwopG2YAIusm7zBYZ0M5Z42KC6gvlZbv
 x+f/AWH9BEDE15ySAAAAAElFTkSuQmCC
 "
-         id="image2286"
-         x="152.02382"
-         y="65.833344" />
+         id="image3366"
+         x="149"
+         y="87" />
     </g>
   </g>
 </svg>
