@@ -15,6 +15,13 @@ GIT
       pdf_info (~> 0.5.0)
       rtex (~> 2.1.0)
 
+GIT
+  remote: git://github.com/edsl/jekyll-rename-posts.git
+  revision: c1313640375351830c167464cda4a5a412798d7e
+  branch: master
+  specs:
+    jekyll-rename-posts (0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -80,6 +87,7 @@ DEPENDENCIES
   jekyll
   jekyll-archives!
   jekyll-pandoc-multiple-formats!
+  jekyll-rename-posts!
   jekyll-torrent
   json
   pry
