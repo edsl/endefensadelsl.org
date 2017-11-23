@@ -12,19 +12,18 @@ module Jekyll
     class Generator < Jekyll::Generator
       def generate(site)
         return if ARGV.include?("--no-revision")
-        %w(posts pages).each do |type|
-          site.send(type).each do |item|
-            source = site.source
-            path = item.relative_path
 
-            if type == 'posts' && site.config['articles_source']
-              source = site.config['articles_source']
-              path   = File.basename(item.relative_path)
-            end
+        site.posts.docs.each do |item|
+          source = site.source
+          path = item.relative_path
 
-            item.data['revisions'] = GitLogger.new(source, path, site.config['revision']).revisions
-            item.data['last_modified_at'] = item.data['revisions'][0]['date']
+          if site.config['articles_source']
+            source = site.config['articles_source']
+            path   = File.basename(item.relative_path)
           end
+
+          item.data['revisions'] = GitLogger.new(source, path, site.config['revision']).revisions
+          item.data['last_modified_at'] = item.data['revisions'][0]['date']
         end
       end
     end # Revision
