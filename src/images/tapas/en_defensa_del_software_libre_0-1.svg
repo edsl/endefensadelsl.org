@@ -16,7 +16,7 @@
    viewBox="0 0 1052.3622 744.09451"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="en_defensa_del_software_libre_0-1.svg"
    inkscape:export-filename="/home/eme/Documentos/edsl/edsl_03.png"
    inkscape:export-xdpi="150"
@@ -1848,17 +1848,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.53033009"
-     inkscape:cx="464.35645"
-     inkscape:cy="445.88195"
+     inkscape:cx="415.29674"
+     inkscape:cy="326.71324"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9804"
+     inkscape:current-layer="g10159"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="746"
+     inkscape:window-width="1280"
+     inkscape:window-height="758"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="42"
      inkscape:window-maximized="0"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
@@ -1877,19 +1877,22 @@
        position="524.40946,372.04726"
        id="guide4162"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="542.12599,0"
        id="guide4164"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="506.69292,0"
        orientation="1,0"
        id="guide10237"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1899,7 +1902,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1912,7 +1915,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3336"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3338"><rect
            id="rect3340"
            width="556.03906"
@@ -1920,37 +1923,30 @@
            x="438.83475"
            y="111.73633"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium'" /></flowRegion><flowPara
-         id="flowPara3342" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3359"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion3361"><rect
-           id="rect3363"
-           width="0.96367401"
-           height="44.329006"
-           x="311.26669"
-           y="352.36099" /></flowRegion><flowPara
-         id="flowPara3365" /></flowRoot>    <flowRoot
+         id="flowPara3342"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3367"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3369"><rect
            id="rect3371"
            width="27.946547"
            height="124.31395"
            x="538.21191"
            y="160.58987" /></flowRegion><flowPara
-         id="flowPara3373" /></flowRoot>    <flowRoot
+         id="flowPara3373"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3381"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3383"><rect
            id="rect3385"
            width="33.246754"
            height="67.457184"
            x="622.53339"
            y="222.74684" /></flowRegion><flowPara
-         id="flowPara3387" /></flowRoot>    <rect
+         id="flowPara3387"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <rect
        style="opacity:0;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="rect4503"
        width="158.04254"
@@ -1970,28 +1966,19 @@
        d="m 1236.8095,768.53534 a 112.99241,103.98358 0 0 1 -98.807,103.16088 l -14.1854,-103.16088 z" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot5814"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion5816"><rect
-           id="rect5818"
-           width="362.34143"
-           height="142.62375"
-           x="57.820442"
-           y="329.71466" /></flowRegion><flowPara
-         id="flowPara5820" /></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot5830"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5832"><rect
            id="rect5834"
            width="114.47863"
            height="49.062271"
            x="-4.0885224"
            y="-154.01764" /></flowRegion><flowPara
-         id="flowPara5836" /></flowRoot>    <flowRoot
+         id="flowPara5836"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5854"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(0,308.26772)"><flowRegion
          id="flowRegion5856"><rect
            id="rect5858"
@@ -1999,17 +1986,8 @@
            height="46.33659"
            x="171.71796"
            y="774.07697" /></flowRegion><flowPara
-         id="flowPara5860">licencia de produccion de pares</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5862"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion5864"><rect
-           id="rect5866"
-           width="207.15181"
-           height="55.876476"
-           x="113.11579"
-           y="763.17426" /></flowRegion><flowPara
-         id="flowPara5868" /></flowRoot>    <g
+         id="flowPara5860"
+         style="font-size:40px;line-height:1.25">licencia de produccion de pares</flowPara></flowRoot>    <g
        id="g12514"
        transform="matrix(-1.25,0,0,-1.25,-1161.0825,707.65747)" />
     <g
@@ -2020,343 +1998,338 @@
         <g
            id="g9804"
            transform="matrix(0.95115234,0,0,0.95115234,-1.353307,102.79555)">
-          <rect
-             y="1322.1023"
-             x="-27.704641"
-             height="782.30841"
-             width="1106.4076"
-             id="rect5772"
-             style="fill:#37c837;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-          <text
-             transform="matrix(0,-1,1,0,0,0)"
-             sodipodi:linespacing="125%"
-             id="text5822"
-             y="529.84241"
-             x="-2059.3889"
-             style="font-style:normal;font-weight:normal;font-size:11.02957344px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               y="529.84241"
-               x="-2059.3889"
-               id="tspan5824"
-               sodipodi:role="line"><tspan
-                 id="tspan5826"
-                 style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide Thin'"><tspan
-   id="tspan5828"
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium'"> EDSL</tspan> - Revista de Teoría sobre Software y Cultura Libre</tspan></tspan></text>
-          <g
-             transform="matrix(0.35937501,0,0,0.35937501,143.1726,1679.009)"
-             id="g4442">
-            <g
-               id="g4418"
-               transform="translate(-25.893976,85.858975)">
-              <circle
-                 clip-path="none"
-                 r="174.44363"
-                 cy="650.32416"
-                 cx="256.21408"
-                 id="path4410"
-                 style="fill-opacity:1;stroke:none" />
-              <circle
-                 clip-path="none"
-                 r="139.69119"
-                 cy="651.00574"
-                 cx="258.25836"
-                 id="path4412"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-            </g>
-            <g
-               id="g4438">
-              <path
-                 sodipodi:nodetypes="ccccccccccc"
-                 inkscape:connector-curvature="0"
-                 id="path4424"
-                 d="m 140.37261,821.4935 8.05658,-178.44952 26.01444,-0.083 5.45136,124.335 46.33659,-39.8388 0,39.6806 42.24807,-38.3178 -0.48184,38.4075 46.81843,-41.1332 -1.36284,94.03612 z"
-                 style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-              <path
-                 sodipodi:nodetypes="ccsscsczc"
-                 inkscape:connector-curvature="0"
-                 id="path4426"
-                 d="m 182.18647,649.08938 c 14.16278,35.1041 6.73844,61.74664 2.64302,73.1187 29.38515,-12.65713 52.35876,-4.068 68.00446,-0.32 7.82285,1.874 21.21047,2.51083 34.32866,1.92925 13.1182,-0.58158 17.8962,-6.11579 32.71213,-5.38115 -2.53021,-16.2502 -4.1854,-28.5421 -4.30771,-39.2806 -0.11401,-10.0103 7.58533,-20.1424 4.98913,-35.6757 -24.01226,8.5718 -45.57973,16.0814 -69.86272,9.8079 -24.28299,-6.2735 -42.81345,-7.8315 -68.50697,-4.1984 z"
-                 style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-            </g>
-          </g>
-          <flowRoot
-             transform="translate(-5.7567936,1218.5681)"
-             style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             id="flowRoot5870"
-             xml:space="preserve"><flowRegion
-               id="flowRegion5872"><rect
-                 style="font-size:12.5px"
-                 y="806.78516"
-                 x="137.64693"
-                 height="38.159538"
-                 width="211.24031"
-                 id="rect5874" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium'"
-               id="flowPara5876">Licencia de Producción de Pares</flowPara></flowRoot>          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:19.91046715px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-             x="-1411.6927"
-             y="531.77368"
-             id="text3821-3"
-             sodipodi:linespacing="125%"
-             transform="matrix(0,-1,1,0,0,0)"><tspan
-               sodipodi:role="line"
-               id="tspan3823-9"
-               x="-1411.6927"
-               y="531.77368"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.59433365px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">0+1</tspan></text>
           <g
              id="g10159"
              transform="matrix(1.1295256,0,0,1.1295256,-142.56327,-297.22604)">
             <g
-               id="g4125"
-               style="display:inline"
-               transform="matrix(0.9030562,0,0,0.9030562,118.41049,1159.6257)">
-              <rect
-                 y="378.59512"
-                 x="577.74994"
-                 height="56.069374"
-                 width="98.192215"
-                 id="rect4157"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <rect
-                 y="451.68378"
-                 x="575.74994"
-                 height="70.687508"
-                 width="304.73468"
-                 id="rect4159"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <rect
-                 y="537.23785"
-                 x="577.74994"
-                 height="74.544678"
-                 width="118.96778"
-                 id="rect4161"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <rect
-                 y="626.37433"
-                 x="577.74994"
-                 height="73.11483"
-                 width="331.21527"
-                 id="rect4163"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <rect
-                 style="fill:#ffffff;fill-opacity:1;stroke:none"
-                 id="rect4165"
-                 width="158.99257"
-                 height="77.660286"
-                 x="577.74994"
-                 y="709.53558" />
-            </g>
-            <g
-               id="g10051">
+               id="g759">
+              <flowRoot
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 id="flowRoot3359"
+                 xml:space="preserve"
+                 transform="matrix(0.93079461,0,0,0.93079461,127.47482,1127.7924)"><flowRegion
+                   id="flowRegion3361"><rect
+                     y="352.36099"
+                     x="311.26669"
+                     height="44.329006"
+                     width="0.96367401"
+                     id="rect3363" /></flowRegion><flowPara
+                   style="font-size:40px;line-height:1.25"
+                   id="flowPara3365"> </flowPara></flowRoot>              <flowRoot
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 id="flowRoot5814"
+                 xml:space="preserve"
+                 transform="matrix(0.93079461,0,0,0.93079461,127.47482,1127.7924)"><flowRegion
+                   id="flowRegion5816"><rect
+                     y="329.71466"
+                     x="57.820442"
+                     height="142.62375"
+                     width="362.34143"
+                     id="rect5818" /></flowRegion><flowPara
+                   style="font-size:40px;line-height:1.25"
+                   id="flowPara5820"> </flowPara></flowRoot>              <flowRoot
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 id="flowRoot5862"
+                 xml:space="preserve"
+                 transform="matrix(0.93079461,0,0,0.93079461,127.47482,1127.7924)"><flowRegion
+                   id="flowRegion5864"><rect
+                     y="763.17426"
+                     x="113.11579"
+                     height="55.876476"
+                     width="207.15181"
+                     id="rect5866" /></flowRegion><flowPara
+                   style="font-size:40px;line-height:1.25"
+                   id="flowPara5868"> </flowPara></flowRoot>              <rect
+                 style="display:inline;fill:#37c837;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="rect5772"
+                 width="1106.4076"
+                 height="782.30841"
+                 x="-27.704641"
+                 y="1322.1023"
+                 transform="matrix(0.88532745,0,0,0.88532745,126.21517,263.14232)" />
+              <text
+                 xml:space="preserve"
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 x="-2059.3889"
+                 y="529.84241"
+                 id="text5822"
+                 transform="matrix(0,-0.88532745,0.88532745,0,126.21517,263.14232)"><tspan
+                   style="font-size:11.02957344px;line-height:1.25"
+                   sodipodi:role="line"
+                   id="tspan5824"
+                   x="-2059.3889"
+                   y="529.84241"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide Thin'"
+                     id="tspan5826"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium'"
+   id="tspan5828"> EDSL</tspan> - Revista de Teoría sobre Software y Cultura Libre</tspan></tspan></text>
+              <g
+                 id="g4442"
+                 transform="matrix(0.31816455,0,0,0.31816455,252.96981,1749.6151)"
+                 style="display:inline">
+                <g
+                   transform="translate(-25.893976,85.858975)"
+                   id="g4418">
+                  <circle
+                     style="fill-opacity:1;stroke:none"
+                     id="path4410"
+                     cx="256.21408"
+                     cy="650.32416"
+                     r="174.44363"
+                     clip-path="none" />
+                  <circle
+                     style="fill:#ffffff;fill-opacity:1;stroke:none"
+                     id="path4412"
+                     cx="258.25836"
+                     cy="651.00574"
+                     r="139.69119"
+                     clip-path="none" />
+                </g>
+                <g
+                   id="g4438">
+                  <path
+                     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     d="m 140.37261,821.4935 8.05658,-178.44952 26.01444,-0.083 5.45136,124.335 46.33659,-39.8388 0,39.6806 42.24807,-38.3178 -0.48184,38.4075 46.81843,-41.1332 -1.36284,94.03612 z"
+                     id="path4424"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="ccccccccccc" />
+                  <path
+                     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     d="m 182.18647,649.08938 c 14.16278,35.1041 6.73844,61.74664 2.64302,73.1187 29.38515,-12.65713 52.35876,-4.068 68.00446,-0.32 7.82285,1.874 21.21047,2.51083 34.32866,1.92925 13.1182,-0.58158 17.8962,-6.11579 32.71213,-5.38115 -2.53021,-16.2502 -4.1854,-28.5421 -4.30771,-39.2806 -0.11401,-10.0103 7.58533,-20.1424 4.98913,-35.6757 -24.01226,8.5718 -45.57973,16.0814 -69.86272,9.8079 -24.28299,-6.2735 -42.81345,-7.8315 -68.50697,-4.1984 z"
+                     id="path4426"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="ccsscsczc" />
+                </g>
+              </g>
               <flowRoot
                  xml:space="preserve"
-                 id="flowRoot5774"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.1222496px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-                   id="flowRegion5776"><rect
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start"
-                     id="rect5778"
-                     width="532.03418"
-                     height="1183.7024"
-                     x="580.56744"
-                     y="1445.6964" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5780">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
-                   id="flowPara5782"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
-                   id="flowPara5784"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
-                   id="flowPara5786"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
+                 id="flowRoot5870"
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 transform="matrix(0.88532745,0,0,0.88532745,121.11853,1341.9741)"><flowRegion
+                   id="flowRegion5872"><rect
+                     id="rect5874"
+                     width="211.24031"
+                     height="38.159538"
+                     x="137.64693"
+                     y="806.78516"
+                     style="font-size:12.5px" /></flowRegion><flowPara
+                   id="flowPara5876"
+                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal,  Medium'">Licencia de Producción de Pares</flowPara></flowRoot>              <text
+                 transform="matrix(0,-0.88532745,0.88532745,0,126.21517,263.14232)"
+                 id="text3821-3"
+                 y="531.77368"
+                 x="-1411.6927"
+                 style="display:inline;font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.59433365px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   y="531.77368"
+                   x="-1411.6927"
+                   id="tspan3823-9"
+                   sodipodi:role="line">0+1</tspan></text>
+              <g
+                 id="g627">
+                <g
+                   id="g10051">
+                  <flowRoot
+                     xml:space="preserve"
+                     id="flowRoot5774"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+                       id="flowRegion5776"><rect
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start"
+                         id="rect5778"
+                         width="532.03418"
+                         height="1183.7024"
+                         x="580.56744"
+                         y="1445.6964" /></flowRegion><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5780">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
+                       id="flowPara5782"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
+                       id="flowPara5784"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
+                       id="flowPara5786"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5312">1</flowSpan>    ▲</flowPara><flowPara
-                   id="flowPara5788"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">               ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
-                   id="flowPara5790"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
+                       id="flowPara5788"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">               ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
+                       id="flowPara5790"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5310">1</flowSpan></flowPara><flowPara
-                   id="flowPara5792"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
-                   id="flowPara5794"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
+                       id="flowPara5792"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲</flowPara><flowPara
+                       id="flowPara5794"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5308">0</flowSpan>    ▲</flowPara><flowPara
-                   id="flowPara5796"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲         ▲    ▲    ▲    <flowSpan
+                       id="flowPara5796"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲         ▲    ▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5304">0</flowSpan>    ▼    ▲</flowPara><flowPara
-                   id="flowPara5798"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲         ▲    ▲    ▲    <flowSpan
+                       id="flowPara5798"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲         ▲    ▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5306">1</flowSpan>    ▲    ▲</flowPara><flowPara
-                   id="flowPara5800"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▼    ▼    ▼ </flowPara><flowPara
-                   id="flowPara5802"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"> ▲    ▲    ▲    ▼    ▼    ▲    ▼    ▲    ▼    ▼  </flowPara><flowPara
-                   id="flowPara5806"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▼    ▼    ▼    ▼         ▲    ▼ </flowPara><flowPara
-                   id="flowPara5812"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    <flowSpan
+                       id="flowPara5800"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▲    ▲    ▲    ▲    ▼    ▼    ▼ </flowPara><flowPara
+                       id="flowPara5802"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"> ▲    ▲    ▲    ▼    ▼    ▲    ▼    ▲    ▼    ▼  </flowPara><flowPara
+                       id="flowPara5806"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    ▲    ▼    ▼    ▼    ▼         ▲    ▼ </flowPara><flowPara
+                       id="flowPara5812"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5330">0</flowSpan>    ▲    ▼         ▼    ▼    ▼    ▼ </flowPara><flowPara
-                   id="flowPara5821"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    <flowSpan
+                       id="flowPara5821"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5322">1</flowSpan>    ▲    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5320">1</flowSpan>    ▲    ▲    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   id="flowPara5829"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>              <flowRoot
-                 transform="matrix(0.9030562,0,0,0.9030562,-823.47966,1466.3632)"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-                 id="flowRoot5831"
-                 xml:space="preserve"><flowRegion
-                   id="flowRegion5833"><rect
-                     y="4.3217554"
-                     x="1464.7727"
-                     height="1098.6417"
-                     width="769.13934"
-                     id="rect5835"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start" /></flowRegion><flowPara
-                   id="flowPara5837"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5839">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5841">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5843">▼                                  ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5845">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5847">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5849">▼    ▼    ▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5851">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5853">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5855">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5859">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5863">▼    ▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5867">▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5871">▼    ▼    <flowSpan
+                       id="flowPara5829"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.44889927px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"> </flowPara></flowRoot>                  <flowRoot
+                     transform="matrix(0.9030562,0,0,0.9030562,-823.47966,1466.3632)"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+                     id="flowRoot5831"
+                     xml:space="preserve"><flowRegion
+                       id="flowRegion5833"><rect
+                         y="4.3217554"
+                         x="1464.7727"
+                         height="1098.6417"
+                         width="769.13934"
+                         id="rect5835"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start" /></flowRegion><flowPara
+                       id="flowPara5837"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5839">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5841">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5843">▼                                  ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5845">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5847">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5849">▼    ▼    ▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5851">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5853">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5855">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼ </flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5859">▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5863">▼    ▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5867">▼    ▼    ▼    ▼    ▼         ▼    ▼    ▼    ▼    ▼</flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5871">▼    ▼    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5318">0</flowSpan>    ▼    ▼    ▼    <flowSpan
    style="fill:#00ffff"
    id="flowSpan5316">1    0</flowSpan>    ▼    ▼    ▼</flowPara><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5877" /><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
-                   id="flowPara5879" /></flowRoot>            </g>
-            <g
-               style="display:inline"
-               id="g4167"
-               transform="matrix(0.9030562,0,0,0.9030562,102.37913,802.98576)">
-              <rect
-                 style="fill:#ffffff;fill-opacity:1;stroke:none"
-                 id="rect4046"
-                 width="98.192215"
-                 height="74.741211"
-                 x="595.42761"
-                 y="752.9599" />
-              <rect
-                 style="fill:#ffffff;fill-opacity:1;stroke:none"
-                 id="rect4048"
-                 width="304.73468"
-                 height="79.57354"
-                 x="595.42761"
-                 y="832.87238" />
-              <rect
-                 style="fill:#ffffff;fill-opacity:1;stroke:none"
-                 id="rect4050"
-                 width="118.96778"
-                 height="71.978462"
-                 x="595.42761"
-                 y="924.69519" />
-              <rect
-                 style="fill:#ffffff;fill-opacity:1;stroke:none"
-                 id="rect4052"
-                 width="331.3653"
-                 height="82.000862"
-                 x="595.42761"
-                 y="1006.0818" />
-              <rect
-                 y="1094.4266"
-                 x="595.42761"
-                 height="77.660286"
-                 width="158.99257"
-                 id="rect4054"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-            </g>
-            <flowRoot
-               transform="matrix(1.0197805,0,0,1.0197805,145.28942,1074.6386)"
-               style="font-style:normal;font-weight:normal;font-size:90px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#37c837;fill-opacity:1;stroke:none"
-               id="flowRoot5885"
-               xml:space="preserve"><flowRegion
-                 id="flowRegion5887"><rect
-                   style="font-size:90px;fill:#37c837;fill-opacity:1"
-                   y="392.16797"
-                   x="487.08423"
-                   height="783.03296"
-                   width="509.40106"
-                   id="rect5889" /></flowRegion><flowPara
-                 id="flowPara5891"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';text-align:start;text-anchor:start;fill:#37c837;fill-opacity:1">En</flowPara><flowPara
-                 id="flowPara5893"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';text-align:start;text-anchor:start;fill:#37c837;fill-opacity:1">defensa </flowPara><flowPara
-                 id="flowPara5895"
-                 style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';fill:#37c837;fill-opacity:1">del </flowPara><flowPara
-                 id="flowPara5897"
-                 style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide Thin';fill:#37c837;fill-opacity:1">software</flowPara><flowPara
-                 id="flowPara5899"
-                 style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide';fill:#37c837;fill-opacity:1">libre</flowPara></flowRoot>            <g
-               id="g6719"
-               transform="matrix(0.9030562,0,0,0.9030562,-148.89415,191.7905)">
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;font-size:163.3105011px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none"
-                 x="1256.1826"
-                 y="2059.1133"
-                 id="text3821"
-                 sodipodi:linespacing="125%"><tspan
-                   sodipodi:role="line"
-                   id="tspan3823"
-                   x="1256.1826"
-                   y="2059.1133"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">1</tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;font-size:163.3105011px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ffff;fill-opacity:1;stroke:none"
-                 x="1180.6279"
-                 y="2041.0641"
-                 id="text3821-1"
-                 sodipodi:linespacing="125%"><tspan
-                   sodipodi:role="line"
-                   id="tspan3823-7"
-                   x="1180.6279"
-                   y="2041.0641"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">+</tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;font-size:163.3105011px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ffff;fill-opacity:1;stroke:none"
-                 x="1095.5746"
-                 y="2058.3286"
-                 id="text3821-5"
-                 sodipodi:linespacing="125%"><tspan
-                   sodipodi:role="line"
-                   id="tspan3823-1"
-                   x="1095.5746"
-                   y="2058.3286"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">0</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5877"> </flowPara><flowPara
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:300%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000"
+                       id="flowPara5879" /></flowRoot>                </g>
+                <rect
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13448906"
+                   id="rect4157"
+                   width="106.30515"
+                   height="66.657524"
+                   x="640.09027"
+                   y="1475.1627" />
+                <rect
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03228641"
+                   id="rect4159"
+                   width="299.27377"
+                   height="76.70015"
+                   x="640.09027"
+                   y="1549.2004" />
+                <rect
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.94560158"
+                   id="rect4161"
+                   width="116.83585"
+                   height="67.871307"
+                   x="640.09027"
+                   y="1630.7101" />
+                <rect
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.94560158"
+                   id="rect4163"
+                   width="325.27982"
+                   height="66.569466"
+                   x="640.09027"
+                   y="1715.3573" />
+                <rect
+                   y="1787.5835"
+                   x="640.09027"
+                   height="76.466995"
+                   width="164.37051"
+                   id="rect4165"
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00893021" />
+                <flowRoot
+                   transform="matrix(1.0197805,0,0,1.0197805,145.28942,1074.6386)"
+                   style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#37c837;fill-opacity:1;stroke:none"
+                   id="flowRoot5885"
+                   xml:space="preserve"><flowRegion
+                     id="flowRegion5887"><rect
+                       style="font-size:90px;fill:#37c837;fill-opacity:1"
+                       y="392.16797"
+                       x="487.08423"
+                       height="783.03296"
+                       width="509.40106"
+                       id="rect5889" /></flowRegion><flowPara
+                     id="flowPara5891"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';text-align:start;text-anchor:start;fill:#37c837;fill-opacity:1">En</flowPara><flowPara
+                     id="flowPara5893"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';text-align:start;text-anchor:start;fill:#37c837;fill-opacity:1">defensa </flowPara><flowPara
+                     id="flowPara5895"
+                     style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Normal';-inkscape-font-specification:'Encode Sans Normal';fill:#37c837;fill-opacity:1">del </flowPara><flowPara
+                     id="flowPara5897"
+                     style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide Thin';fill:#37c837;fill-opacity:1">software</flowPara><flowPara
+                     id="flowPara5899"
+                     style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70.84318542px;line-height:110.00000238%;font-family:'Encode Sans Wide';-inkscape-font-specification:'Encode Sans Wide';fill:#37c837;fill-opacity:1">libre</flowPara></flowRoot>                <g
+                   id="g6719"
+                   transform="matrix(0.9030562,0,0,0.9030562,-148.89415,191.7905)">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none"
+                     x="1256.1826"
+                     y="2059.1133"
+                     id="text3821"><tspan
+                       sodipodi:role="line"
+                       id="tspan3823"
+                       x="1256.1826"
+                       y="2059.1133"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">1</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ffff;fill-opacity:1;stroke:none"
+                     x="1180.6279"
+                     y="2041.0641"
+                     id="text3821-1"><tspan
+                       sodipodi:role="line"
+                       id="tspan3823-7"
+                       x="1180.6279"
+                       y="2041.0641"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">+</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ffff;fill-opacity:1;stroke:none"
+                     x="1095.5746"
+                     y="2058.3286"
+                     id="text3821-5"><tspan
+                       sodipodi:role="line"
+                       id="tspan3823-1"
+                       x="1095.5746"
+                       y="2058.3286"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.71748352px;line-height:125%;font-family:'Lohit Tamil';-inkscape-font-specification:'Lohit Tamil';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1">0</tspan></text>
+                </g>
+              </g>
             </g>
           </g>
         </g>
