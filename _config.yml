@@ -1,8 +1,10 @@
 canonical: https://endefensadelsl.org
+source_code: https://github.com/edsl/endefensadelsl.org
+license: https://endefensadelsl.org/ppl_deed_es.html
 articles_source: ../articulos
 markdown: pandoc
 pandoc:
-  skip: false
+  skip: true
   bundle_permalink: ':slug.:output_ext'
   papersize: 'a5paper'
   sheetsize: 'a4paper'
