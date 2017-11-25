@@ -2,6 +2,7 @@ canonical: https://endefensadelsl.org
 source_code: https://github.com/edsl/endefensadelsl.org
 license: https://endefensadelsl.org/ppl_deed_es.html
 articles_source: ../articulos
+commit_url: https://github.com/edsl/articulos/commit
 markdown: pandoc
 pandoc:
   skip: true

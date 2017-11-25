@@ -21,8 +21,6 @@ layout: default
           <li><a href="{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
         {% endif %}
 
-        <li><a href="distribucion.html">papel</a></li>
-
         {% if page.revisions.size > 0 %}
           <li><a href="#revisiones">revisiones</a></li>
         {% endif %}
@@ -68,12 +66,13 @@ layout: default
       {% for rev in page.revisions %}
         <div class="media">
           <div class="media-figure">
-            <img src="{{ rev.author | to_gravatar:50}}" />
+            <img src="{{ rev.author | to_gravatar: 50 }}" />
           </div>
           <div class="media-body">
-            <p>{{ rev.message }}
+            <p><a href="{{ site.commit_url }}/{{ rev.commit }}"
+              target="_blank">{{ rev.message }}</a>
 
-            <small>&mdash; {{ rev.author | split:'@' | first }},
+            <br/><small>&mdash; {{ rev.author | split: '@' | first }},
             {{ rev.date | date_to_string }}</small></p>
           </div>
         </div>

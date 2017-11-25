@@ -41,12 +41,16 @@ module Jekyll
         return nil unless is_git_repo?
 
         logs = Dir.chdir(site_source) do
-          Executor.sh('git', 'log', '--follow', '--pretty=%ai|%ae|%s', page_path)
+          Executor.sh('git', 'log', '--follow', '--pretty=%ai|%ae|%s|%H', page_path)
         end
 
         logs.lines.map do |line|
           parts = line.split('|')
-          {"date" => parts[0], "author" => parts[1], "message" => parts[2..-1].join('|')}
+          { "date"    => parts[0],
+            "author"  => parts[1],
+            "message" => parts[2],
+            "commit"  => parts[3]
+          }
         end
       end
 
