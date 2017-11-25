@@ -34,7 +34,10 @@ build: articles
 test: toggle-test-dest build toggle-dest
 
 publish:
-	rsync -av --delete-after $(destination)/ cap@endefensadelsl.org:$(destination)/
+	rsync -av --delete-after $(destination)/ app@endefensadelsl.org:$(destination)/
+
+bring:
+	rsync -av --delete-after app@endefensadelsl.org:$(destination)/ $(destination)/ 
 
 all: toggle-dest build tapas publish
 
