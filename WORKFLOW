@@ -25,7 +25,7 @@ Ver el archivo *gitflow*.
 ## Propuesta de texto
 
 * Podés hacernos un issue en el
-  [repositorio](https://github.com/edsl/articulos) de los artículos.
+  [repositorio](https://0xacab.org/edsl/articulos) de los artículos.
 
 
 ## Publicación

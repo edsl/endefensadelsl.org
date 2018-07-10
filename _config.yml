@@ -1,11 +1,11 @@
 canonical: https://endefensadelsl.org
-source_code: https://github.com/edsl/endefensadelsl.org
+source_code: https://0xacab.org/edsl/endefensadelsl.org
 license: https://endefensadelsl.org/ppl_deed_es.html
 articles_source: ../articulos
-commit_url: https://github.com/edsl/articulos/commit
+commit_url: https://0xacab.org/edsl/articulos/commit
 markdown: pandoc
 pandoc:
-  skip: true
+  skip: false
   bundle_permalink: ':slug.:output_ext'
   papersize: 'a5paper'
   sheetsize: 'a4paper'
@@ -29,20 +29,20 @@ pandoc:
           --table-of-contents
           --include-in-header=layouts/header.tex
           --include-before-body=layouts/license.tex'
-    epub: '-V lang=es --epub-chapter-level=2'
-    mediawiki:
-    rst:
-    latex: '-V fontsize=10pt,twoside
-            -V documentclass=book
-            -V geometry=hcentering
-            -V geometry=bindingoffset=1cm
-            -V links-as-notes=true
-            -V subparagraph
-            -V graphics
-            --pdf-engine=xelatex
-            --table-of-contents
-            --include-in-header=layouts/header.tex
-            --include-before-body=layouts/license.tex'
+#   epub: '-V lang=es --epub-chapter-level=2'
+#   mediawiki:
+#   rst:
+#   latex: '-V fontsize=10pt,twoside
+#           -V documentclass=book
+#           -V geometry=hcentering
+#           -V geometry=bindingoffset=1cm
+#           -V links-as-notes=true
+#           -V subparagraph
+#           -V graphics
+#           --pdf-engine=xelatex
+#           --table-of-contents
+#           --include-in-header=layouts/header.tex
+#           --include-before-body=layouts/license.tex'
 
 destination: /srv/http/endefensadelsl.org
 source:   ./src

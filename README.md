@@ -10,7 +10,7 @@ Torrent y Papel.
 ## Quiero contribuir
 
 Leer el archivo WORKFLOW, aunque estamos migrando los articulos a un
-[repositorio propio](https://github.com/edsl/articulos).
+[repositorio propio](https://0xacab.org/edsl/articulos).
 
 
 ## Pandoc?
@@ -26,4 +26,4 @@ Usamos las extensiones de Pandoc para Markdown, por ejemplo
 
 * Encontrar una webfont que se vea mejor
 
-* [Ver issues](https://github.com/edsl/endefensadelsl.org/issues)
+* [Ver issues](https://0xacab.org/edsl/endefensadelsl.org/issues)

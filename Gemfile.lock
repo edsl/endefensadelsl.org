@@ -6,17 +6,17 @@ GIT
       jekyll (>= 2.4)
 
 GIT
-  remote: git://github.com/edsl/jekyll-pandoc-multiple-formats.git
-  revision: 7b6e7fbd2ce9b7f3e06608e463a300c43ff7e493
+  remote: https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
+  revision: e7437f7d055a724156d82c5ed5f65807344daf54
   branch: develop
   specs:
     jekyll-pandoc-multiple-formats (0.2.9.2)
-      jekyll (~> 3.6.0)
+      jekyll (~> 3.7.0)
       pdf_info (~> 0.5.0)
       rtex (~> 2.1.0)
 
 GIT
-  remote: git://github.com/edsl/jekyll-rename-posts.git
+  remote: https://0xacab.org/edsl/jekyll-rename-posts
   revision: c1313640375351830c167464cda4a5a412798d7e
   branch: master
   specs:
@@ -29,49 +29,61 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     coderay (1.1.2)
     colorator (1.1.0)
-    ffi (1.9.18)
+    concurrent-ruby (1.0.5)
+    em-websocket (0.5.1)
+      eventmachine (>= 0.12.9)
+      http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
-    jekyll (3.6.2)
+    http_parser.rb (0.6.0)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
+    jekyll (3.7.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
+      em-websocket (~> 0.5)
+      i18n (~> 0.7)
       jekyll-sass-converter (~> 1.0)
-      jekyll-watch (~> 1.1)
+      jekyll-watch (~> 2.0)
       kramdown (~> 1.14)
       liquid (~> 4.0)
       mercenary (~> 0.3.3)
       pathutil (~> 0.9)
-      rouge (>= 1.7, < 3)
+      rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-sass-converter (1.5.0)
+    jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-torrent (0.0.2)
       jekyll
-    jekyll-watch (1.5.0)
-      listen (~> 3.0, < 3.1)
+    jekyll-watch (2.0.0)
+      listen (~> 3.0)
     json (2.1.0)
-    kramdown (1.15.0)
+    kramdown (1.17.0)
     libv8 (3.16.14.19)
     liquid (4.0.0)
-    listen (3.0.8)
+    listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+      ruby_dep (~> 1.2)
     mercenary (0.3.6)
     method_source (0.9.0)
-    pathutil (0.16.0)
+    pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     pdf_info (0.5.3)
     pry (0.11.3)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    public_suffix (3.0.1)
-    rb-fsevent (0.10.2)
+    public_suffix (3.0.2)
+    rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     ref (2.0.0)
-    rouge (2.2.1)
+    rouge (3.1.1)
     rtex (2.1.1)
+    ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.5.3)
+    sass (3.5.6)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -94,4 +106,4 @@ DEPENDENCIES
   therubyracer
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
