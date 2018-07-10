@@ -5,7 +5,10 @@ articles_source: ../articulos
 commit_url: https://0xacab.org/edsl/articulos/commit
 markdown: pandoc
 pandoc:
-  skip: false
+  skip:
+    posts: false
+    categories: false
+    full: true
   bundle_permalink: ':slug.:output_ext'
   papersize: 'a5paper'
   sheetsize: 'a4paper'

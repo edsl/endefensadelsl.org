@@ -13,11 +13,10 @@ articulos = ../articulos
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
 destination = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
 
-skip ?= false
+delete ?= --delete-after
 
 articles:
-	rm -fv src/_posts/*.markdown
-	cp -v $(articulos)/2*.markdown src/_posts/
+	rsync -av --delete-after --exclude="*" --include="2*.markdown" $(articulos)/ src/_posts/
 
 toggle-test-dest:
 	sed "s,^destination:.*,destination: /srv/http/test.endefensadelsl.org," \
@@ -28,16 +27,15 @@ toggle-dest:
 		  -i _config.yml
 
 build: articles
-	sed -re "s/^(\s+skip:).*/\1 $(skip)/" -i _config.yml
-	bundle exec jekyll build --trace
+	bundle exec jekyll build --trace --verbose
 
 test: toggle-test-dest build toggle-dest
 
 publish:
-	rsync -av --delete-after $(destination)/ app@endefensadelsl.org:$(destination)/
+	rsync -av $(delete) $(destination)/ app@endefensadelsl.org:$(destination)/
 
 bring:
-	rsync -av --delete-after app@endefensadelsl.org:$(destination)/ $(destination)/ 
+	rsync -av $(delete) app@endefensadelsl.org:$(destination)/ $(destination)/ 
 
 all: toggle-dest build tapas publish
 
