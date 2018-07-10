@@ -7,10 +7,10 @@ GIT
 
 GIT
   remote: https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
-  revision: e7437f7d055a724156d82c5ed5f65807344daf54
-  branch: develop
+  revision: 26d869d5e356019e31468a0e270534fb080907ae
+  branch: master
   specs:
-    jekyll-pandoc-multiple-formats (0.2.9.2)
+    jekyll-pandoc-multiple-formats (0.4.0)
       jekyll (~> 3.7.0)
       pdf_info (~> 0.5.0)
       rtex (~> 2.1.0)
