@@ -3,7 +3,7 @@ default: all
 # `make` o `make all` genera el sitio
 #
 # Toma todas los svg de las tapas y los convierte a tif
-src_tapas = $(wildcard src/images/tapas/*.svg src/images/covers/*.svg)
+src_tapas = $(wildcard images/tapas/*.svg images/covers/*.svg)
 out_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
 
 articulos = ../articulos
@@ -13,10 +13,18 @@ articulos = ../articulos
 jekyll_source = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['source']")
 destination = $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
 
+ifeq ($(jekyll_source),)
+jekyll_source := .
+endif
+
+ifeq ($(destination),)
+destination := ./_site
+endif
+
 delete ?= --delete-after
 
 articles:
-	rsync -av --delete-after --exclude="*" --include="2*.markdown" $(articulos)/ src/_posts/
+	rsync -av --delete-after --include="2*.markdown" --exclude="*" $(articulos)/ _posts/
 
 toggle-test-dest:
 	sed "s,^destination:.*,destination: /srv/http/test.endefensadelsl.org," \
@@ -26,21 +34,21 @@ toggle-dest:
 	sed "s,^destination:.*,destination: /srv/http/endefensadelsl.org," \
 		  -i _config.yml
 
-build: articles
+build:
 	bundle exec jekyll build --trace --verbose
 
 test: toggle-test-dest build toggle-dest
 
 publish:
-	rsync -av $(delete) $(destination)/ app@endefensadelsl.org:$(destination)/
+	rsync -av $(delete) $(destination)/ app@endefensadelsl.org:/srv/http/endefensadelsl.org/
 
 bring:
 	rsync -av $(delete) app@endefensadelsl.org:$(destination)/ $(destination)/ 
 
-all: toggle-dest build tapas publish
+all: articles build
 
 clean:
-	rm -rfv tmp src/tmp _site ediciones/*.pdf ediciones/*.markdown ediciones/*.latex \
+	rm -rfv tmp _site ediciones/*.pdf ediciones/*.markdown ediciones/*.latex \
 	  $(jekyll_source)/*.{aux,log,toc,out,pdf}
 
 # Magia!

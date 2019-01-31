@@ -1,0 +1,85 @@
+---
+layout: default
+title: En Defensa del Software Libre
+---
+
+<header>
+  <h1>En Defensa del Software Libre</h1>
+
+  <blockquote><p>Los servidores ganaron libertad. Los clientes no ganaron
+  nada.  Bienvenidos a la nube. <span class="citation">Eben
+  Moglen</span></p></blockquote>
+
+</header>
+
+<section id="articulos">
+
+  <h2>Artículos publicados</h2>
+
+  {% for post in site.posts %}
+    {% if post.tags contains 'prologo' %}
+      {% continue %}
+    {% endif %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+
+    {% if this_year != next_year %}
+      <h3>{{ this_year }}</h3>
+    {% endif %}
+
+    <dl>
+      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+      <dd class="author">{{post.author}}</dd>
+
+      {% for format in site.pandoc.outputs limit:2 %}
+      {% capture extension %}{{ format | first }}{% endcapture %}
+      <dd><p><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+      {% endfor %}
+      <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+
+    </dl>
+  {% endfor %}
+
+</section>
+
+{% if site.archives %}
+  <section id="ediciones">
+    <h2>Ediciones en papel</h2>
+
+    {% for edicion in site.archives %}
+      <a href="{{ edicion.url }}">
+        <img class="cover" src="{{ site.pandoc.covers_dir }}{{ edicion.url | remove: '.html' }}.png" />
+      </a>
+    {% endfor %}
+  </section>
+{% endif %}
+
+<section id="contacto">
+
+  <h2>Contacto</h2>
+
+  <ul>
+
+    <li>
+      Lista de discusión:
+      <a href="https://listas.endefensadelsl.org/listinfo/edsl">edsl&commat;listas.endefensadelsl.org</a>
+    </li>
+
+    <li>
+      IRC:
+      <a href="https://webchat.freenode.net/?channels=endefensadelsl">#endefensadelsl</a>
+      en freenode
+    </li>
+
+  </ul>
+</section>
+
+<footer>
+  <a rel="license" href="{{ site.license }}">Licencia</a> |
+  <a href="/atom.xml">Feed Completo</a> |
+  <a href="/edsl.opds">Catálogo OPDS</a> |
+  <a href="/atom_torrent.xml">Feed Torrent</a> |
+  <a href="{{ site.torrent.file }}">Torrent</a> |
+  <a href="{{ site.source_code }}/">Código fuente</a> |
+  <a href="http://jekyllrb.com">jekyll</a>+<a href="http://johnmacfarlane.net/pandoc/">pandoc</a>
+</footer>

@@ -15,10 +15,9 @@ pandoc:
   imposition: true
   binder: true
   covers_dir: 'images/covers'
-
-  flags: '--from=markdown+smart --csl=../apa.csl --bibliography=../ref.bib -V lang=es
+  flags: '--from=markdown+smart --csl=apa.csl --bibliography=ref.bib -V lang=es
           --section-divs --email-obfuscation=references'
-  site_flags: '--toc --template=layouts/toc.html'
+  site_flags: '--toc --template=_layouts/toc.html'
   outputs:
     pdf: '-V fontsize=10pt,twoside
           -V documentclass=book
@@ -30,29 +29,25 @@ pandoc:
           -V graphics
           --pdf-engine=xelatex
           --table-of-contents
-          --include-in-header=layouts/header.tex
-          --include-before-body=layouts/license.tex'
-#   epub: '-V lang=es --epub-chapter-level=2'
-#   mediawiki:
-#   rst:
-#   latex: '-V fontsize=10pt,twoside
-#           -V documentclass=book
-#           -V geometry=hcentering
-#           -V geometry=bindingoffset=1cm
-#           -V links-as-notes=true
-#           -V subparagraph
-#           -V graphics
-#           --pdf-engine=xelatex
-#           --table-of-contents
-#           --include-in-header=layouts/header.tex
-#           --include-before-body=layouts/license.tex'
+          --include-in-header=_layouts/header.tex
+          --include-before-body=_layouts/license.tex'
+    epub: '-V lang=es --epub-chapter-level=2'
+    mediawiki:
+    rst:
+    latex: '-V fontsize=10pt,twoside
+          -V documentclass=book
+          -V geometry=hcentering
+          -V geometry=bindingoffset=0.5cm
+          -V geometry=bmargin=2.5cm
+          -V links-as-notes=true
+          -V subparagraph
+          -V graphics
+          --pdf-engine=xelatex
+          --table-of-contents
+          --include-in-header=_layouts/header.tex
+          --include-before-body=_layouts/license.tex'
 
-destination: /srv/http/endefensadelsl.org
-source:   ./src
-layouts_dir:  ./layouts
-plugins_dir:  ./_plugins
-
-exclude: [ tmp, layouts ]
+exclude: [ tmp ]
 
 permalink: ":title.html"
 

@@ -8,7 +8,7 @@ _config.yml
 tmp/
 
 # los articulos vienen de articulos.git
-src/_posts/*.markdown
+_posts/*.markdown
 
 # maldito mergetool
 *.orig
