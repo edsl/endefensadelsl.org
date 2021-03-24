@@ -1,11 +1,4 @@
 GIT
-  remote: git://github.com/edsl/jekyll-archives.git
-  revision: bc295622b7126f60ec9b5f667dc43ce7dcc34abb
-  specs:
-    jekyll-archives (2.1.0)
-      jekyll (>= 2.4)
-
-GIT
   remote: https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
   revision: 8403a7452aa74e503331640da963a9bfba720446
   branch: master
@@ -21,6 +14,13 @@ GIT
   branch: master
   specs:
     jekyll-rename-posts (0.1)
+
+GIT
+  remote: https://github.com/edsl/jekyll-archives.git
+  revision: bc295622b7126f60ec9b5f667dc43ce7dcc34abb
+  specs:
+    jekyll-archives (2.1.0)
+      jekyll (>= 2.4)
 
 GEM
   remote: https://rubygems.org/
@@ -105,8 +105,5 @@ DEPENDENCIES
   pry
   therubyracer
 
-RUBY VERSION
-   ruby 2.5.2p104
-
 BUNDLED WITH
-   1.17.1
+   2.1.4

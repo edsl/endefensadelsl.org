@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.5.2'
-
 gem 'therubyracer'
 gem 'json'
 gem 'jekyll'
