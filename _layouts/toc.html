@@ -1,8 +1,10 @@
 <!-- Template para pandoc -->
 $if(toc)$
-<nav id="$idprefix$TOC">
-<h2>Índice general</h2>
-$toc$
-</nav>
+<details class="mt-3 mb-3">
+  <summary>Índice general</summary>
+  <nav id="$idprefix$TOC">
+    $toc$
+  </nav>
+</details>
 $endif$
 $body$
