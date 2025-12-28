@@ -1,8 +1,9 @@
 
 body {
   font-family: 'Crimson Text', serif;
-  max-width: 65%;
   font-size: 120%;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .mt-3 { margin-top: 1rem; }
