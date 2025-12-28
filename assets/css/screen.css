@@ -42,8 +42,8 @@ a.footnoteRef {
   vertical-align: top;
 }
 
-figure figcaption,
-p
+.content figure figcaption,
+.content p
 {
   text-indent: 2em;
   line-height: 150%;
@@ -55,8 +55,13 @@ p
 }
 
 /* A sangre */
-h1+p, h2+p, h3+p, h4+p, h5+p, h6+p,
-blockquote p {
+.content h1+p,
+.content h2+p,
+.content h3+p,
+.content h4+p,
+.content h5+p,
+.content h6+p,
+.content blockquote p {
   text-indent: 0
 }
 
