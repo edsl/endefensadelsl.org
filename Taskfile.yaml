@@ -1,0 +1,175 @@
+version: "3"
+vars:
+  CURRENT_BRANCH:
+    sh: "git rev-parse --abbrev-ref HEAD"
+  SITE:
+    sh: "pwd | xargs basename | sed -re s/-jekyll-theme//"
+  DOMAIN:
+    sh: "pwd | xargs basename | sed -re s/-jekyll-theme/.sutty.local/"
+dotenv:
+  - ".env.development"
+  - ".env"
+tasks:
+  default:
+    deps:
+      - "build"
+  gems:
+    desc: "Install gems"
+    cmds:
+      - "{{.HAINISH}} bundle install"
+    sources:
+      - "Gemfile"
+    generates:
+      - "Gemfile.lock"
+    status:
+      - "test -d vendor/ruby"
+  prettier:
+    internal: true
+    deps:
+      - "node-modules"
+    cmds:
+      - "./_bin/modified_files | tr \"\\n\" \"\\0\" | xargs -r0 {{.HAINISH}} node_modules/.bin/prettier {{.CLI_ARGS}}"
+  lint:
+    desc: "Check file format (linting)"
+    cmds:
+      - task: "prettier"
+        vars:
+          CLI_ARGS: "-c {{.CLI_ARGS}}"
+  format:
+    desc: "Apply formatting"
+    cmds:
+      - task: "prettier"
+        vars:
+          CLI_ARGS: "-w {{.CLI_ARGS}}"
+  rubocop:
+    desc: "Chequea el código Ruby"
+    deps:
+      - "gems"
+    cmds:
+      - "./_bin/modified_files | grep \"\\.rb$\" | tr \"\\n\" \"\\0\" | xargs -r0 {{.HAINISH}} bundle exec rubocop {{.CLI_ARGS}}"
+  url:
+    silent: true
+    cmds:
+      - "echo https://{{.DOMAIN}}:4000/"
+  pack:
+    desc: "Compila JavaScript"
+    deps:
+      - "node-modules"
+    cmds:
+      - "git rm -f assets/js/pack.* || true"
+      - '{{.HAINISH}} ./node_modules/.bin/esbuild _packs/entry.js --analyze --bundle --minify --sourcemap --outdir=assets/js/ --entry-names="pack.[hash]" --metafile=_data/manifest.json'
+      - "git add _data/manifest.json assets/js/pack.*"
+      - 'git commit -m "[skip ci] JS"'
+      - task: "notify"
+    sources:
+      - "_packs/**/*.js"
+    generates:
+      - "_data/manifest.json"
+  watch:
+    desc: "Desarrollar JavaScript"
+    deps:
+      - "node-modules"
+    cmds:
+      - "{{.HAINISH}} ./node_modules/.bin/esbuild _packs/entry.js --analyze --bundle --outfile=pack.js --serve=65001"
+  build:
+    desc: "Genera el sitio en entorno de desarrollo"
+    deps:
+      - "url"
+      - "node-modules"
+      - "gems"
+      - "serve"
+    cmds:
+      - task: "bundle"
+        vars:
+          CLI_ARGS: "exec jekyll build --trace --profile"
+      - task: "notify"
+  bundle:
+    desc: "Bundle. Call with: go-task bundle -- arguments"
+    interactive: true
+    deps:
+      - "gems"
+    cmds:
+      - "{{.HAINISH}} bundle {{.CLI_ARGS}}"
+      - defer:
+          task: "notify"
+  node-modules:
+    desc: "Install Node modules"
+    cmds:
+      - "{{.HAINISH}} pnpm install"
+    sources:
+      - "package.json"
+      - "pnpm-lock.yaml"
+    status:
+      - "test -d node_modules"
+  pnpm:
+    desc: "PNPM. Call with: go-task pnpm -- arguments"
+    deps:
+      - "node-modules"
+    cmds:
+      - "{{.HAINISH}} pnpm {{.CLI_ARGS}}"
+      - defer:
+          task: "notify"
+  hosts:
+    desc: "Agrega el dominio local a /etc/hosts"
+    interactive: true
+    cmds:
+      - "echo -e \"127.0.0.1 {{.DOMAIN}}\n::1 {{.DOMAIN}}\" | sudo tee -a /etc/hosts"
+    status:
+      - 'grep -q " {{.DOMAIN}}$" /etc/hosts'
+  serve:
+    desc: "Inicia el servidor web de desarrollo"
+    deps:
+      - "hosts"
+    cmds:
+      - "{{.HAINISH}} nginx"
+    status:
+      - "pgrep -F ../hain/run/nginx/nginx.pid"
+  notify:
+    internal: true
+    silent: true
+    cmds:
+      - "echo -e -n \"\a\""
+  google-font:
+    desc: "Descarga una tipografía desde Google Fonts"
+    cmds:
+      - "./_bin/download_google_font {{.CLI_ARGS}}"
+  fa-add:
+    desc: "Agregar ícono en la lista: $ task fa-add -- $name (ej. funkwhale, sin fa-)"
+    deps:
+      - "node-modules"
+    cmds:
+      - "haini.sh _bin/add_fa.sh {{.CLI_ARGS}}"
+  fa:
+    desc: "Fork Awesome"
+    deps:
+      - "node-modules"
+    cmds:
+      - "haini.sh _bin/subset_fork_awesome.sh"
+    sources:
+      - "fa.txt"
+      - "node_modules/fork-awesome/fonts/forkawesome-webfont.woff2"
+    generates:
+      - "assets/fonts/forkawesome-webfont.woff2"
+  bundler-audit:
+    internal: true
+    cmds:
+      - "{{.HAINISH}} gem install bundler-audit"
+    status:
+      - "test -f ../hain/usr/bin/bundler-audit"
+  gem-audit:
+    desc: "Audit Gem dependencies"
+    deps:
+      - "gems"
+      - "bundler-audit"
+    cmds:
+      - task: "bundle"
+        vars:
+          CLI_ARGS: "audit --update"
+  node-audit:
+    desc: "Audit Node dependencies"
+    deps:
+      - "node-modules"
+    cmds:
+      - task: "pnpm"
+        vars:
+          CLI_ARGS: "audit"
