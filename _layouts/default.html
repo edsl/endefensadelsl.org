@@ -2,6 +2,7 @@
 <html lang="es" prefix="og: http://ogp.me">
   <head>
   <meta charset="utf-8" />
+  <base href="{% base %}">
     <title>{{ page.title }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -20,16 +21,15 @@
     <meta property="og:image" content="{{ site.canonical }}/images/edsl.png"/>
     {% endif %}
 
-    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
 
-    <link rel="stylesheet" href="/css/fonts/crimson.css" type='text/css' />
-    <link rel="stylesheet" href="/css/reset.css">
-    <link rel="stylesheet" href="/css/furtive.min.css">
-    <link rel="stylesheet" href="/css/oxymoron.css">
-    <link rel="stylesheet" href="/css/screen.css">
+    <link rel="stylesheet" href="assets/css/fonts/crimson.css" type='text/css' />
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/oxymoron.css">
+    <link rel="stylesheet" href="assets/css/screen.css">
 
-    <link rel="alternate" type="application/atom+xml" title="En Defensa del Software Libre" href="/atom.xml">
-    <link rel="related" href="/edsl.opds" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Catálogo OPDS" />
+    <link rel="alternate" type="application/atom+xml" title="En Defensa del Software Libre" href="atom.xml">
+    <link rel="related" href="edsl.opds" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Catálogo OPDS" />
 	</head>
   <body>
     <div class="measure">
