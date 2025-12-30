@@ -4,26 +4,17 @@ layout: default
 
 <article>
   <header>
-    <h4><a href="/" alt='Inicio'>En Defensa del Software Libre</a></h4>
+    {% include go_home.html %}
 
     <nav id="formats">
       <ul>
-        {% for format in site.pandoc.outputs %}
-          {% capture extension %}{{ format | first }}{% endcapture %}
-          <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        {% for format in page.formats %}
+          <li><a href="{{ format.url }}" {% if format.binary %}download{% endif %}>{{ format.format }}</a></li>
         {% endfor %}
 
-        {% if site.pandoc.imposition %}
-          <li><a href="{{ page.url | remove:'.html' }}-imposed.pdf">imposición</a></li>
-        {% endif %}
-
-        {% if site.pandoc.binder %}
-          <li><a href="{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
-        {% endif %}
-
-        {% if page.revisions.size > 0 %}
+        {% unless page.revisions == empty %}
           <li><a href="#revisiones">revisiones</a></li>
-        {% endif %}
+        {% endunless %}
 
         {% if page.license %}
           <li><a rel="license" href="{{ page.license }}">licencia</a></li>
@@ -31,9 +22,6 @@ layout: default
       </ul>
     </nav>
   </header>
-
-    <h1 class="title">{{ page.title }}</h1>
-    <h2 class="author">{{ page.author }}</h2>
 
     {% if page.category %}
       <h3 class="categories">
@@ -58,7 +46,9 @@ layout: default
     {% endif %}
     </p>
 
-    {{ content }}
+    <div class="content">
+      {{ content }}
+    </div>
 
     {% if page.revisions.size > 0 %}
     <section id="revisiones">
