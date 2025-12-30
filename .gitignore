@@ -1,23 +1,17 @@
-*swp
-_site
-vendor
-.bundle
-_config.yml
-
-# cierto plugin genera su salida acá
+_site/
+node_modules/
 tmp/
-
-# los articulos vienen de articulos.git
-_posts/*.markdown
-
-# maldito mergetool
+vendor/
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.task/
 *.orig
-
-# xelatex
 *.aux
 *.log
 *.out
 *.toc
-# tapas
 *.tif
 *.pdf
+*swp
+*~
