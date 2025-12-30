@@ -3,41 +3,32 @@ layout: default
 title: En Defensa del Software Libre
 ---
 
+{%- assign posts_by_year = site.posts | where: 'layout', 'post' | group_by_exp: 'item', 'item.date | date: "%Y"' -%}
+
 <header>
-  <h1>En Defensa del Software Libre</h1>
-
-  <blockquote><p>Los servidores ganaron libertad. Los clientes no ganaron
-  nada.  Bienvenidos a la nube. <span class="citation">Eben
-  Moglen</span></p></blockquote>
-
+  <h1 class="display-5">En Defensa del Software Libre</h1>
 </header>
 
 <section id="articulos">
-
   <h2>Artículos publicados</h2>
 
-  {% for post in site.posts %}
-    {% if post.tags contains 'prologo' %}
-      {% continue %}
-    {% endif %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+  {% for year in posts_by_year %}
+    {% assign posts = year.items %}
 
-    {% if this_year != next_year %}
-      <h3>{{ this_year }}</h3>
-    {% endif %}
+    <h3>{{ year.name }}</h3>
 
+    {% for post in posts %}
     <dl>
-      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+      <dt><a href="{{ post.url | component_escape }}">{{ post.title }}</a></dt>
       <dd class="author">{{post.author}}</dd>
 
-      {% for format in site.pandoc.outputs limit:2 %}
-      {% capture extension %}{{ format | first }}{% endcapture %}
-      <dd><p><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+      {% for format in post.formats limit: 2 %}
+      <dd><p><a href="{{ format.url }}">{{ format.format }}</a></p></dd>
       {% endfor %}
       <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
 
     </dl>
+    {% endfor %}
   {% endfor %}
 
 </section>
@@ -54,31 +45,11 @@ title: En Defensa del Software Libre
   </section>
 {% endif %}
 
-<section id="contacto">
-
-  <h2>Contacto</h2>
-
-  <ul>
-
-    <li>
-      Lista de discusión:
-      <a href="https://listas.endefensadelsl.org/listinfo/edsl">edsl&commat;listas.endefensadelsl.org</a>
-    </li>
-
-    <li>
-      IRC:
-      <a href="https://webchat.freenode.net/?channels=endefensadelsl">#endefensadelsl</a>
-      en freenode
-    </li>
-
-  </ul>
-</section>
-
 <footer>
   <a rel="license" href="{{ site.license }}">Licencia</a> |
-  <a href="/atom.xml">Feed Completo</a> |
-  <a href="/edsl.opds">Catálogo OPDS</a> |
-  <a href="/atom_torrent.xml">Feed Torrent</a> |
+  <a href="atom.xml">Feed Completo</a> |
+  <a href="edsl.opds">Catálogo OPDS</a> |
+  <a href="atom_torrent.xml">Feed Torrent</a> |
   <a href="{{ site.torrent.file }}">Torrent</a> |
   <a href="{{ site.source_code }}/">Código fuente</a> |
   <a href="http://jekyllrb.com">jekyll</a>+<a href="http://johnmacfarlane.net/pandoc/">pandoc</a>
