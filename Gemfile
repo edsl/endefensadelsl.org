@@ -1,13 +1,11 @@
-source 'https://rubygems.org'
+source 'https://gems.sutty.nl'
 
-gem 'therubyracer'
-gem 'json'
 gem 'jekyll'
-gem 'pry'
+gem 'sass-embedded', '1.83.0'
+gem 'jekyll-printing-press', '~> 1.0.0rc3'
+gem 'jekyll-relative-urls'
+gem 'sutty-liquid'
 
-group :plugins do
-  gem 'jekyll-torrent'
-  gem 'jekyll-pandoc-multiple-formats', git: 'https://0xacab.org/edsl/jekyll-pandoc-multiple-formats', branch: 'master'
-  gem 'jekyll-archives', github: 'edsl/jekyll-archives'
-  gem 'jekyll-rename-posts', git: 'https://0xacab.org/edsl/jekyll-rename-posts', branch: 'master'
+group :development do
+  gem 'pry'
 end

@@ -1,68 +1,52 @@
-canonical: https://endefensadelsl.org
-source_code: https://0xacab.org/edsl/endefensadelsl.org
-license: https://endefensadelsl.org/ppl_deed_es.html
-articles_source: ../articulos
-commit_url: https://0xacab.org/edsl/articulos/commit
-markdown: pandoc
-pandoc:
-  skip:
-    posts: false
-    categories: false
-    full: true
-  bundle_permalink: ':slug.:output_ext'
-  papersize: 'a5paper'
-  sheetsize: 'a4paper'
-  imposition: true
-  binder: true
-  covers_dir: 'images/covers'
-  flags: '--from=markdown+smart --csl=apa.csl --bibliography=ref.bib -V lang=es
-          --section-divs --email-obfuscation=references'
-  site_flags: '--toc --template=_layouts/toc.html'
-  outputs:
-    pdf: '-V fontsize=10pt,twoside
-          -V documentclass=book
-          -V geometry=hcentering
-          -V geometry=bindingoffset=0.5cm
-          -V geometry=bmargin=2.5cm
-          -V links-as-notes=true
-          -V subparagraph
-          -V graphics
-          --pdf-engine=xelatex
-          --table-of-contents
-          --include-in-header=_layouts/header.tex
-          --include-before-body=_layouts/license.tex'
-    epub: '-V lang=es --epub-chapter-level=2'
-    mediawiki:
-    rst:
-    latex: '-V fontsize=10pt,twoside
-          -V documentclass=book
-          -V geometry=hcentering
-          -V geometry=bindingoffset=0.5cm
-          -V geometry=bmargin=2.5cm
-          -V links-as-notes=true
-          -V subparagraph
-          -V graphics
-          --pdf-engine=xelatex
-          --table-of-contents
-          --include-in-header=_layouts/header.tex
-          --include-before-body=_layouts/license.tex'
-
-exclude: [ tmp ]
-
+plugins:
+- jekyll-relative-urls
+- jekyll-printing-press
+- sutty-liquid
+markdown: Pandoc
 permalink: ":title.html"
-
-lsi: false
-
-torrent:
-  file: endefensadel.torrent
-
-collections:
-  ediciones:
-    output: true
-    permalink: ":path.html"
-
-jekyll-archives:
-  enabled:
-    - categories
-  permalinks:
-    category: :name.html
+url: "https://endefensadelsl.org"
+title: En Defensa del Software Libre
+pandoc:
+  documents:
+  - posts
+  - categories
+# printing:
+#   sheetsize: a4paper
+#   signature: false
+#   formats:
+#   - imposition
+#   - binder
+  options:
+    common:
+      citeproc: true
+      from: markdown+smart
+      csl: apa.csl
+      bibliography: ref.bib
+      section-divs: true
+      email-obfuscation: references
+      variable:
+        lang: es
+    html5:
+      toc: true
+      template: _layouts/toc.html
+    mediawiki: true
+    rst: true
+    pdf: &pdf
+      pdf-engine: tectonic
+      standalone: true
+      table-of-contents: true
+      variable:
+        papersize: a5
+        fontsize: 10pt
+        documentclass: book
+        geometry:
+        - hcentering
+        - bindingoffset=1cm
+        - bmargin=2.5cm
+        links-as-notes: true
+      include-in-header: _layouts/header.tex
+      include-before-body: _layouts/license.tex
+    epub:
+      split-level: 2
+    latex:
+      <<: *pdf
