@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <article>
   <header>
     {% include go_home.html %}
@@ -9,7 +8,16 @@ layout: default
     <nav id="formats">
       <ul>
         {% for format in page.formats %}
-          <li><a href="{{ format.url }}" {% if format.binary %}download{% endif %}>{{ format.format }}</a></li>
+          <li>
+            <a
+              href="{{ format.url }}"
+              {% if format.binary %}
+                download
+              {% endif %}
+            >
+              {{- format.format -}}
+            </a>
+          </li>
         {% endfor %}
 
         {% unless page.revisions == empty %}
@@ -23,62 +31,70 @@ layout: default
     </nav>
   </header>
 
-    {% if page.category %}
-      <h3 class="categories">
-        Publicado en
+  {% if page.category %}
+    <h3 class="categories">
+      Publicado en
 
-        {% for category in page.category %}
-          <a href="{{ category | slugify }}.html"
-              title="{{ category }}">{{ category }}</a>
-          {% if category != page.category.last %}
-            /
-          {% endif %}
-        {% endfor %}
+      {% for category in page.category %}
+        <a
+          href="{{ category | slugify }}.html"
+          title="{{ category }}"
+        >
+          {{- category -}}
+        </a>
+        {% if category != page.category.last %}
+          /
+        {% endif %}
+      {% endfor %}
+    </h3>
+  {% endif %}
 
-      </h3>
-    {% endif %}
-
-    <p>
-      Publicado el <span class="published-date">{{ page.date | date: "%d/%m/%Y" }}</span>.
+  <p>
+    Publicado el <span class="published-date">{{ page.date | date: '%d/%m/%Y' }}</span>.
 
     {% if page.date != page.last_modified_at %}
-      <span class="last-review-date">Última modificación {{ page.last_modified_at | date: "%d/%m/%Y" }}</span>
+      <span class="last-review-date">Última modificación {{ page.last_modified_at | date: '%d/%m/%Y' }}</span>
     {% endif %}
-    </p>
+  </p>
 
-    <div class="content">
-      {{ content }}
-    </div>
+  <div class="content">
+    {{ content }}
+  </div>
 
-    {% if page.revisions.size > 0 %}
+  {% if page.revisions.size > 0 %}
     <section id="revisiones">
       <h2>Revisiones</h2>
       {% for rev in page.revisions %}
         <div class="media">
           <div class="media-figure">
-            <img src="{{ rev.author | to_gravatar: 50 }}" />
+            <img src="{{ rev.author | to_gravatar: 50 }}">
           </div>
           <div class="media-body">
-            <p><a href="{{ site.commit_url }}/{{ rev.commit }}"
-              target="_blank">{{ rev.message }}</a>
+            <p>
+              <a
+                href="{{ site.commit_url }}/{{ rev.commit }}"
+                target="_blank"
+              >
+                {{- rev.message -}}
+              </a>
 
-            <br/><small>&mdash; {{ rev.author | split: '@' | first }},
-            {{ rev.date | date_to_string }}</small></p>
+              <br>
+              <small>&mdash; {{ rev.author | split: '@' | first }}, {{ rev.date | date_to_string }}</small>
+            </p>
           </div>
         </div>
       {% endfor %}
     </section>
-    {% endif %}
+  {% endif %}
 
   <footer id="related">
-
-      <h2>Otras lecturas</h2>
-      <ul class="posts">
-
-      {% for post in site.related_posts limit:3 %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <h2>Otras lecturas</h2>
+    <ul class="posts">
+      {% for post in site.related_posts limit: 3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
       {% endfor %}
-
-      </ul>
+    </ul>
   </footer>
 </article>
