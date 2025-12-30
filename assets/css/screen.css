@@ -203,3 +203,7 @@ tbody tr:nth-child(odd) {
 .csl-entry {
   margin-top: 1rem;
 }
+
+.display-5 {
+  font-size: 5rem;
+}
