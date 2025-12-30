@@ -419,7 +419,7 @@ blockquote small {
   color: #999999;
 }
 blockquote small:before {
-  content: '\2014 \00A0';
+  content: "\2014 \00A0";
 }
 blockquote.pull-right {
   float: right;
@@ -433,10 +433,10 @@ blockquote.pull-right small {
   text-align: right;
 }
 blockquote.pull-right small:before {
-  content: '';
+  content: "";
 }
 blockquote.pull-right small:after {
-  content: '\00A0 \2014';
+  content: "\00A0 \2014";
 }
 q:before,
 q:after,
