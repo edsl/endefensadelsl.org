@@ -52,7 +52,7 @@ layout: default
   <p>
     Publicado el <span class="published-date">{{ page.date | date: '%d/%m/%Y' }}</span>.
 
-    {% if page.last_modified_at && page.date != page.last_modified_at %}
+    {% if page.last_modified_at and page.date != page.last_modified_at %}
       <span class="last-review-date">Última modificación {{ page.last_modified_at | date: '%d/%m/%Y' }}</span>
     {% endif %}
   </p>
@@ -61,31 +61,32 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.revisions.size > 0 %}
+  {% unless page.revisions == nil and page.revisions == empty %}
     <section id="revisiones">
       <h2>Revisiones</h2>
       {% for rev in page.revisions %}
         <div class="media">
           <div class="media-figure">
-            <img src="{{ rev.author | to_gravatar: 50 }}">
+            <img src="{{ rev.author.email | gravatar: 50 }}">
           </div>
           <div class="media-body">
             <p>
               <a
-                href="{{ site.commit_url }}/{{ rev.commit }}"
+                href="{{ site.commit_url | replace: ':oid', rev.commit | component_escape }}"
                 target="_blank"
+                rel="noopener"
               >
                 {{- rev.message -}}
               </a>
 
               <br>
-              <small>&mdash; {{ rev.author | split: '@' | first }}, {{ rev.date | date_to_string }}</small>
+              <small>&mdash; {{ rev.author.name | default: rev.author.email | split: '@' | first }}, {{ rev.author.time | date_to_string }}</small>
             </p>
           </div>
         </div>
       {% endfor %}
     </section>
-  {% endif %}
+  {% endunless %}
 
   <footer id="related">
     <h2>Otras lecturas</h2>

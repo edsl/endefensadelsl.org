@@ -1,14 +1,17 @@
+# frozen_string_literal: true
+
 require 'digest/md5'
+
 module Jekyll
   module ToGravatarFilter
-    def to_gravatar(input, size=100)
-      "//www.gravatar.com/avatar/#{hash(input)}?s=#{size}"
+    def gravatar(input, size=100)
+      "https://www.gravatar.com/avatar/#{hash(input)}?s=#{size}"
     end
 
-    private :hash
+    private
+
     def hash(email)
-      gravatar_email = email ? email.downcase.strip : ''
-      Digest::MD5.hexdigest(gravatar_email)
+      Digest::MD5.hexdigest(email.to_s.downcase.strip)
     end
   end
 end

@@ -6,6 +6,7 @@ sass:
   quiet_deps: true
   silence_deprecations:
     - import
+commit_url: "https://0xacab.org/edsl/articulos/-/commit/:oid"
 plugins:
 - jekyll-relative-urls
 - jekyll-printing-press
