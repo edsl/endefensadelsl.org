@@ -52,7 +52,7 @@ layout: default
   <p>
     Publicado el <span class="published-date">{{ page.date | date: '%d/%m/%Y' }}</span>.
 
-    {% if page.date != page.last_modified_at %}
+    {% if page.last_modified_at && page.date != page.last_modified_at %}
       <span class="last-review-date">Última modificación {{ page.last_modified_at | date: '%d/%m/%Y' }}</span>
     {% endif %}
   </p>

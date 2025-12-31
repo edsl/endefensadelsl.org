@@ -1,3 +1,11 @@
+---
+sass:
+  load_paths:
+    - node_modules
+  style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
 plugins:
 - jekyll-relative-urls
 - jekyll-printing-press
