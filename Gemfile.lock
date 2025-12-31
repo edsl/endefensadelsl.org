@@ -78,6 +78,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.1)
     rouge (3.30.0)
+    rugged (1.7.2-x86_64-linux-musl)
     safe_yaml (1.0.6)
     sassc (2.4.0-x86_64-linux-musl)
       ffi (~> 1.9)
@@ -98,6 +99,7 @@ DEPENDENCIES
   jekyll-printing-press (~> 1.0.0rc3)
   jekyll-relative-urls
   pry
+  rugged
   sutty-liquid
 
 BUNDLED WITH
