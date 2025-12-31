@@ -59,3 +59,4 @@ pandoc:
       split-level: 2
     latex:
       <<: *pdf
+excerpt_separator: ""
